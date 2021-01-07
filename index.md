@@ -18,11 +18,13 @@ Open for general trades
 
 ### No. of items listed:
 Videos - 889
+
 Audios - 191
+
 Concerts - 24
 
 ### Trading
-I'm open for general trades. Contact me through kyratrades@gmail.com. If you already have other means of reaching me (Reddit, Discord etc.) you're welcome to use them too!
+I'm open for general trades. Contact me through <a href="mailto:kyratrades@gmail.com">kyratrades@gmail.com</a>. If you already have other means of reaching me (Reddit, Discord etc.) you're welcome to use them too!
 
 Feel free to send a trade request for anything you want, I'll almost certainly find something from your list! However, I may decline a trade if you don't have your formats listed. Moreover, please keep in mind I only trade for files in their original formats.
 
