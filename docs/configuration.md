@@ -31,7 +31,8 @@ permalink: /concerts
 
 **NOTES:** The Actors Fund\'s one-night-only Broadway concert of Bombshell, the fictional musical about Marilyn Monroe that was central to the NBC series \"Smash\" \*\*Audience shot, not professionally shot release.
 
-### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
+#### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
+{: .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
