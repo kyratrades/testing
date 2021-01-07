@@ -18,6 +18,7 @@ permalink: /concerts
 {:toc}
 </details>
 ---
+
 ## Bombshell (2)
 
 #### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
