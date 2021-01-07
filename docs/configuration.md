@@ -2,7 +2,7 @@
 layout: default
 title: Concerts
 nav_order: 2
-permalink: /
+permalink: /concerts
 ---
 
 # Concerts
