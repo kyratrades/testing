@@ -204,7 +204,11 @@ CAST
 NOTES
 : The first half is only the orchestra. Megan joins in the second half as the special guest.
 
-#### Valley Performing Arts Center (CSUN) - September 24, 2015 \| Token Goat
+#### Valley Performing Arts Center (CSUN) - September 24, 2015 
+{: .d-inline-block }
+
+Token Goat
+{: .label .label-blue }
 
 FORMAT
 : MP3 \| 33 tracks
@@ -212,7 +216,11 @@ FORMAT
 NOTES
 : Includes songs from Smash, Little Shop Of Horrors, Wicked, solo album, etc. Matt Cusson features on \"Let\'s Call The Whole Thing Off\" and \"That\'s Life\". Brian Gallagher features on \"Suddenly Seymour\". The encore number is \"For Good\" with Burbank High School\'s show choir In Sync.
 
-#### Megan Hilty & Brian Stokes Mitchell - Segerstrom Concert Hall - April 21, 2017 \| Token Goat
+#### Megan Hilty & Brian Stokes Mitchell - Segerstrom Concert Hall - April 21, 2017 
+{: .d-inline-block }
+
+Token Goat
+{: .label .label-blue }
 
 FORMAT
 : MP3 \| 22 tracks
@@ -266,7 +274,7 @@ CAST
 NOTES
 : Appearances by Matthew Morrison, Kristy Cates, Kristoffer Cusick, and Megan Hilty. Kristy and Megan sing \"For Good\".
 
-## Others (6)
+## Others (10)
 
 #### Lea Salonga in Concert - Great Performances - November 27, 2020
 
@@ -312,7 +320,11 @@ CAST
 NOTES
 : An unbelievable concert. The energy in the room was phenomenal. The people seated around the master tend to clap loudly, but it\'s hard to fault them for being excited.
 
-#### The New York Pops: Make it BIG! 31st Birthday Gala - Carnegie Hall - April 28, 2014 \| irnbruise
+#### The New York Pops: Make it BIG! 31st Birthday Gala - Carnegie Hall - April 28, 2014 
+{: .d-inline-block }
+
+irnbruise
+{: .label .label-blue }
 
 FORMAT
 : MP3 \| 38 tracks
