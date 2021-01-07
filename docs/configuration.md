@@ -25,179 +25,234 @@ Note: Shows in concerts are listed under their respective titles. This page is r
 ---
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+# Concerts
 
+*Note: Shows in concerts are listed under their respective titles.*
 
-## Site logo
+*This page is reserved for other special events. Includes both Videos and Audios.*
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+## Bombshell: In Concert (2)
 
-## Search
+#### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+**FORMAT:** VOB+smalls
 
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
+**COMMENTS:** This is the version recorded by the audience, NOT the pro-shot..
 
-## Aux links
+**CAST:** Brian d\'Arcy James, Christian Borle, Debra Messing, Donna McKechnie, Jeremy Jordan, Katharine McPhee, Leslie Odom Jr, Megan Hilty, Ripley Sobo, Will Chase
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+**NOTES:** The Actors Fund\'s one-night-only Broadway concert of Bombshell, the fictional musical about Marilyn Monroe that was central to the NBC series \"Smash\" \*\*Audience shot, not professionally shot release.
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-```
+#### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015 \| Pro-Shot
 
-## Heading anchor links
+**FORMAT:** MKV \| 720p
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false
-heading_anchors: true
-```
+**COMMENTS:** Includes two versions (with and without the 2020 cast reunion) + tracked audio (.m4a) ripped from the show, tracked by me.
 
-## Footer content
+**CAST:** Brian d\'Arcy James, Christian Borle, Debra Messing, Donna McKechnie, Jeremy Jordan, Katharine McPhee, Leslie Odom Jr, Megan Hilty, Ripley Sobo, Will Chase
 
-```yaml
-# Footer content
-# appears at the bottom of every page's main content
-# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
-markup / liquid-based content.
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+**NOTES:** The stars of the NBC musical drama series will reunite virtually for a special one-night-only streaming event: Bombshell in Concert. The event, announced by The Actors Fund in association with PEOPLE, features the never-seen sold-out live performance of Bombshell in Concert that electrified Broadway at the Minskoff Theater in New York City in 2015. The evening will be introduced by two-time Academy Award winner Renée Zellweger and, during intermission, Julie Klausner of "Difficult People" will host a live, virtual reunion with the show's original cast members including: Christian Borle, Jaime Cepero, Will Chase, Brian d'Arcy James, Jack Davenport, Ann Harada, Megan Hilty, Jeremy Jordan, Katharine McPhee, Andy Mientus, Debra Messing, Leslie Odom Jr., Krysta Rodriguez and Wesley Taylor.
 
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+## Live From Lincoln Center (3)
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
-gh_edit_branch: "master" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-```
+#### Sutton Foster in Concert- S43 E1 - April 20, 2018 \| Pro-Shot
 
-_note: `footer_content` is deprecated, but still supported. For a better experience we have moved this into an include called `_includes/footer_custom.html` which will allow for robust markup / liquid-based content._
+**FORMAT:** MKV (HD)
 
-- the "page last modified" data will only display if a page has a key called `last_modified_date`, formatted in some readable date format
-- `last_edit_time_format` uses Ruby's DateTime formatter; see examples and more information [at this link.](https://apidock.com/ruby/DateTime/strftime)
-- `gh_edit_repository` is the URL of the project's GitHub repository
-- `gh_edit_branch` is the branch that the docs site is served from; defaults to `master`
-- `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
-- `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
+**CAST:** Sutton Foster, Jonathan Groff (Guest)
 
-## Color scheme
+**NOTES:** Two-time Tony Award-winner Sutton Foster performs in The Appel Room with guest Jonathan Groff.
 
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+#### Megan Hilty in Concert - S44 E4 - May 24, 2019 \| Pro-Shot
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+**FORMAT:** MP4 (HD)
 
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
+**COMMENTS:** Includes tracked audio (.m4a) ripped from the show, tracked by me.
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
+**CAST:** Megan Hilty, Eden Espinosa (Guest), Shoshana Bean (Guest)
 
-## Google Analytics
+**NOTES:** Join the Tony-nominated star of Wicked, 9 to 5: The Musical, Noises Off, and NBC's Smash for a new concert special featuring a versatile set of musical theater favorite and classic standards.
 
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-```
+#### New York Philharmonic: Celebrating Sondheim - S44 E6 -- December 31, 2019 \| Pro-Shot
 
-## Document collections
+**FORMAT:** MP4 (HD)
 
-By default, the navigation and search include normal [pages](https://jekyllrb.com/docs/pages/).
-Instead, you can also use [Jekyll collections](https://jekyllrb.com/docs/collections/) which group documents semantically together.
+**COMMENTS:** Includes the extra "Alexander and Paul Gemignani Talk Sondheim".
 
-For example, put all your documentation files in the `_docs` folder and create the `docs` collection:
-```yaml
-# Define Jekyll collections
-collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
+**CAST:** Bernadette Peters, Katrina Lenk (Guest)
 
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    docs:
-      # Give the collection a name
-      name: Documentation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-```
+**NOTES:** The New York Philharmonic celebrates the dazzling orchestral world of Stephen Sondheim in a program hosted by Bernadette Peters, with special guest vocalist Katrina Lenk (Tony Award™ winner for "The Band's Visit"). Conducted by Alexander Gemignani, the concert will feature some of Sondheim's most beloved works, including suites from \"Sunday in the Park,\" \"Into the Woods,\" \"Sweeney Todd\" and more.
 
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-```yaml
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
+## The Meg an\' Sho Show (2)
 
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
-```
+#### Mark\'s Restaurant - March 31, 2008 \| juniper47
 
+**FORMAT:** MP3 \| 17 tracks
+
+**CAST:** Megan Hilty, Shoshana Bean
+
+#### Cinco de Mayo - May 5, 2008 \| photoshop_diva
+
+**FORMAT:** MP3 \| 35 tracks
+
+**CAST:** Megan Hilty, Shoshana Bean, Eden Espinosa (Guest), Adam Lambert (Guest)
+
+**NOTES:** VIP After Party with Eden Espinosa and Adam Lambert.
+
+## Wicked Divas (2)
+
+#### Wicked Divas - Cincinnati - November 13, 2009
+
+**FORMAT:** MP3 \| 14 tracks
+
+**COMMENTS:** Missing "I Will Always Love You"
+
+**CAST:** Julia Murney, Megan Hilty, Cincinnati Pops Orchestra
+
+#### Wicked Divas - Columbus - June 26, 2010 \| juniper47
+
+**FORMAT:** MP3 \| 28 tracks
+
+**CAST:** Julia Murney, Stephanie J. Block, Columbus Symphony Orchestra
+
+**NOTES:** Recorded at an outdoor venue and there was some noise from wind and so on. A thunderstorm caused a mass exodus of people running for cover during \"Defying Gravity\" and was the reason the concert ended early.
+
+## Megan Hilty (6)
+
+#### Sings The Blondes - Cabaret at the Rrazz Room - January 24, 2011
+
+**FORMAT:** MP3 \| 24 tracks
+
+**NOTES:** Bryan Perri features on a medley of Dolly Parton songs.
+
+#### Sings Sinatra and More - Kennedy Center - November 23, 2012
+
+**FORMAT:** MP3 \| 26 tracks
+
+**NOTES:** Featuring Aaron Lazar, the NSO Pops; Songs include Sinatra hits like \"The Lady Is a Tramp,\" \"Moon River,\" and \"I\'ve Got You Under My Skin\", as well as Broadway classics such as \"Diamonds Are a Girl\'s Best Friend,\" \"Almost like Being In Love,\" \"Two Sleepy People,\" and \"Someone to Watch Over Me\" and others.
+
+#### The American Songbook - Lincoln Center - February 6, 2015
+
+**FORMAT:** MP3 \| 27 tracks
+
+**NOTES:** Includes PDF of the booklet
+
+#### Indianapolis - March 8, 2015 \| tatersbwaytrades
+
+**FORMAT:** MP3 \| 30 tracks
+
+**CAST:** Megan Hilty, the Indianapolis Orchestra
+
+**NOTES:** The first half is only the orchestra. Megan joins in the second half as the special guest.
+
+#### Valley Performing Arts Center (CSUN) - September 24, 2015 \| Token Goat
+
+**FORMAT:** MP3 \| 33 tracks
+
+**NOTES:** Includes songs from Smash, Little Shop Of Horrors, Wicked, solo album, etc. Matt Cusson features on \"Let\'s Call The Whole Thing Off\" and \"That\'s Life\". Brian Gallagher features on \"Suddenly Seymour\". The encore number is \"For Good\" with Burbank High School\'s show choir In Sync.
+
+#### Megan Hilty & Brian Stokes Mitchell - Segerstrom Concert Hall - April 21, 2017 \| Token Goat
+
+**FORMAT:** MP3 \| 22 tracks
+
+## Stephanie J. Block (1)
+
+#### Birdland Jazz (New York) - July 8, 2013 \| juniper47
+
+**FORMAT:** MP3 \| 22 tracks
+
+## Broadway Miscast (2)
+
+#### Broadway Miscast - MCC Theatre - March 4, 2013
+
+**FORMAT:** MP3 \| 24 tracks
+
+**CAST:** Jeremy Jordan, Jonathan Groff, Cheyenne Jackson, Victor Garber, Christian Borle, Jane Krakowski, LaChanze, Megan Hilty, Marin Mazzie, Jesse L. Martin, Nicole Parker, Jason Danieley, Patrick Wilson
+
+**NOTES:** An amazing tribute to Marc Shaiman and Scott Wittman. Audio is on the quiet side and there\'s some creaking from the seat.
+
+#### Broadway Miscast - MCC Theatre - April 3, 2017 \| wickedlittletown
+
+**FORMAT:** MP3 \| 23 tracks
+
+**CAST:** Stephanie J. Block, Norbert Leo Butz, Brandon Victor Dixon, Mandy Gonzalez, Ben Platt, Kelli O\'Hara, Brian d\'Arcy James, Jennifer Holiday, Carmen Cusack, Jenn Colella, Jordan Fisher
+
+## Seth\'s Broadway Chatterbox (1)
+
+#### Seth\'s Broadway Chatterbox - Don\'t Tell Mama (NYC) - May 12, 2005
+
+**FORMAT:** VOB+smalls
+
+**CAST:** Seth Rudetsky (Host), Megan Hilty (Guest)
+
+**NOTES:** Appearances by Matthew Morrison, Kristy Cates, Kristoffer Cusick, and Megan Hilty. Kristy and Megan sing \"For Good\".
+
+## Others (6)
+
+#### Lea Salonga in Concert - Great Performances - November 27, 2020
+
+**FORMAT:** MP4 (HD)
+
+**CAST:** Lea Salonga
+
+**NOTES:** Captured in peak performance with the Sydney Symphony Orchestra, Tony Award-winner Lea Salonga performs the beloved songs she made famous throughout her Broadway career, as well as her signature songs from the animated movie blockbusters "Aladdin" and "Mulan" from the Sydney Opera House.
+
+#### The 94th Annual Macy\'s Thanksgiving Day Parade - NBC - November 26, 2020
+
+**FORMAT:** MKV (HD)
+
+**CAST:** Dolly Parton, Darlene Love, Patti LaBelle, Pentatonix, Bebe Rexha, Brett Young
+
+**NOTES:** TODAY hosts Savannah Guthrie, Hoda Kotb, and Al Roker will host the event this year. The Broadway performances this year will come from the casts of Ain\'t Too Proud - The Life and Times of The Temptations, Hamilton, Jagged Little Pill, and Mean Girls. Plus, the Radio City Music Hall Rockettes will bring their Christmas magic to the festivities.
+
+#### The Nightmare Before Christmas - Benefit Concert - October 31, 2020
+
+**FORMAT:** MP4 (HD) **\|** 1.42 GB
+
+**CAST:** Rafael Casal, Adrienne Warren, James Monroe Igle, Danny Burstein, Nik Walker, Lesli Margherita, Rob McClure, Kathryn Allison, Jenni Barber, Erin Clemons, Fergie L. Philippe, Jawan Jackson, Brian Gonzales
+
+**NOTES:** \[IMDb\] A concert presentation of the Tim Burton/Danny Elfman classic animated film, as interpreted by some of Broadway\'s ghoulishly talented artists. The proceeds collected will benefit The Actors Fund and Lymphoma Research Foundation.
+
+#### Barack On Broadway - Broadway - June 4, 2012
+
+**FORMAT:** MP3 \| 15 tracks
+
+**CAST:** Patti LuPone, Neil Patrick Harris, Megan Hilty, Cheyenne Jackson, Angela Lansbury, Mandy Patinkin, Nina Arianda, Bobby Cannavale, Stockard Channing, James Earl Jones, Hettienne Park, Patrick Wilson, Jeffrey Wright, Chuck Cooper, Norbert Leo Butz, Audra McDonald, Tony Kushner, Kerry Butler; with remarks by Bill Clinton and Barack Obama
+
+**NOTES:** An unbelievable concert. The energy in the room was phenomenal. The people seated around the master tend to clap loudly, but it\'s hard to fault them for being excited.
+
+#### The New York Pops: Make it BIG! 31st Birthday Gala - Carnegie Hall - April 28, 2014 \| irnbruise
+
+**FORMAT:** MP3 \| 38 tracks
+
+**CAST:** Steven Reineke (Conductor/Host), Martin Short, John Pizzarelli, Andrea Martin, Christian Borle, Sophie von Haselberg, Matthew Morrison, Patti LuPone, Will Chase, Jane Krakowski, Marissa Jaret Winokur, Nikki Blonsky, Ricki Lake, Jenifer Lewis, Aaron Tveit, Megan Hilty, Katharine McPhee, Capathia Jenkins, Brooks Ashmanskas, Clarke Thorell, Kerry Butler, Corey Reynolds, Laura Bell Bundy, Linda Hart
+
+#### Eden Espinosa - The Cutting Room - ​March 4, 2013
+
+**FORMAT:** MP3 \| 31 tracks
+
+**NOTES:** Album release concert. Includes an opening set by Carrie Manolakos. Carey Malloy features on \"As Long As You\'re Mine\", Cathleen Wright features on \"Take Me Or Leave Me\", and Megan Hilty features on \"For Good\".
+
+#### \#SOBLESSED: Live! (Annoying Actor Friend) - 54 Below - September 20, 2014 \| juniper47
+
+**FORMAT:** MP3 \| 28 tracks
+
+**CAST:** Corey Cott, Paige Faure, Jessica Grové, Andy Jones, Nikka Graff Lanzarone, Lesli Margherita, Ellyn Marie Marsh, Kyle Dean Massey, Julia Murney, Nic Rouleau, Keala Settle, Tom Souhrada, Stephen Wallem
+
+#### Defying Gravity: The Music of Stephen Schwartz in Concert - Las Vegas - January 31, 2009 \| juniper47
+
+**FORMAT:** MP3 \| 29 tracks
+
+**CAST:** Julia Murney, David Burnham, Farah Alvin
+
+#### Disney On Broadway 25th Anniversary Concert - New Amsterdam Theatre (New York) - November 4, 2019 \| juniper47
+
+**FORMAT:** MP3 \| 25 tracks
+
+**CAST:** Lindiwe Dlamini, Bongi Duma, Tsidi Manye, Sbusiso Ngema, Whoopi Goldberg, Horace \"Junior\" Wedderburn, Rolando Morales-Matos, Michael James Scott, Lauryn Ciardullo, April Holloway, Nina LaFarga, Katie Terza, Kara Lindsay, Josh Strickland, Mandy Gonzalez, Kerry Butler, Merle Dandridge, Sherie Rene Scott, Adam Pascal, Andrew Barth Feldman, Adam Jacobs, Ashley Brown, Jelani Alladin, Bradley Gibson, Alton Fitzgerald White, Ramona Keller, Tamika Lawrence, Kissy Simmons, Rema Webb, Syndee Winters, Ashley Park, Gavin Creel, Sierra Boggess, Christian Borle, Norm Lewis, Susan Egan, Krysta Rodriguez, James Monroe Iglehart, Broadway Inspirational Voices
+
+#### The American Songbook: Best of Broadway - Boston Symphony Hall - June 17, 2011
+
+**FORMAT:** MP3 \| 32 tracks
+
+**CAST:** The Boston Pops, Stephanie J. Block, Julia Murney
