@@ -50,7 +50,7 @@ Standard ratios:
 ```
 
 ### Files
-I try my best to check each of my recordings individually (still catching up!) and will list any problems in the comments. Please don’t hesitate to tell me of any problems you've encountered with my files or links, or if I have something not in their original formats but haven’t listed so accordingly.
+I try my best to check each of my items individually (still catching up!) and will list any problems in the comments. Please don’t hesitate to tell me of any problems you've encountered with my files or links, or if I have something not in their original formats but haven’t listed so accordingly.
 
 ### Wants
 I'm always looking for any recordings of Megan Hilty, Stephanie J. Block, and Rachel York.
