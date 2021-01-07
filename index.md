@@ -2,95 +2,63 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Open for general trades"
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Status
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Open for general trades
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
-
 ---
 
-## Getting started
+## Info
 
-### Dependencies
-
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
-
-### Quick start: Use as a GitHub Pages remote theme
-
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+### No. of items listed:
 ```yaml
-remote_theme: pmarsceill/just-the-docs
+Videos: 889
+Audios: 191
+Concerts: 24
 ```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 
-### Local installation: Use the gem-based theme
+### Trading
+Online trading only. Contact me through <a href="mailto:kyratrades@gmail.com">kyratrades@gmail.com</a> with a list of the item(s) you're interested in. Make the list by copying the whole title on my site.
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
+For example:
 ```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
+Videos:
+1. Wicked - Broadway - May 28, 2006
+2. Anything Goes - Third National Tour - March 23, 2013
+
+Audios:
+1. ...
+2. ...
+3. ...
 ```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
+
+If you already have other means of reaching me (Reddit, Discord etc.) you're welcome to use them too! Feel free to send a trade request for anything you want, I'll almost certainly find something from your list. However, I may decline a trade if you don't have your formats listed. I only trade for files in their original formats.
+
+You must include a link to and/or an attachment of your list. Whoever initiates a trade will send their links first.
+
+Standard ratios:
 ```yaml
-theme: "just-the-docs"
+1 audio - 1 audio
+1 video - 1 video
+2 audios - 1 video
 ```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+### Files
+I try my best to check each of my recordings individually (still catching up!) and will list any problems in the comments. Please don’t hesitate to tell me of any problems you've encountered with my files or links, or if I have something not in their original formats but haven’t listed so accordingly.
 
-### Configure Just the Docs
+### Wants
+I'm always looking for any recordings of Megan Hilty, Stephanie J. Block, and Rachel York.
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+### Links
+All the file sizes listed are calculated according to 1GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to the online storage provider of your choosing.
 
----
-
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+If any of my links are down just send me a message about it and I will re-upload the files as soon as possible, usually within 12 hours.
+ 
+### Gifting policy
+I got my start from a fair number of generous traders, so I’m always happy to help new traders out :) I’m also willing to gift any commercially released pro-shots (in particular National Theatre Live) upon request, just say so in your message
