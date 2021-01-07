@@ -26,9 +26,6 @@ permalink: /concerts
 FORMAT
 : VOB+smalls
 
-COMMENTS
-: This is the version recorded by the audience, NOT the pro-shot..
-
 CAST
 : Brian d\'Arcy James, Christian Borle, Debra Messing, Donna McKechnie, Jeremy Jordan, Katharine McPhee, Leslie Odom Jr, Megan Hilty, Ripley Sobo, Will Chase
 
