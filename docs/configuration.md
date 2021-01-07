@@ -47,7 +47,11 @@ Pro-Shot
 
 ## Live From Lincoln Center (3)
 
-#### Sutton Foster in Concert- S43 E1 - April 20, 2018 \| Pro-Shot
+#### Sutton Foster in Concert- S43 E1 - April 20, 2018
+{: .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
 
 **FORMAT:** MKV (HD)
 
@@ -55,7 +59,11 @@ Pro-Shot
 
 **NOTES:** Two-time Tony Award-winner Sutton Foster performs in The Appel Room with guest Jonathan Groff.
 
-#### Megan Hilty in Concert - S44 E4 - May 24, 2019 \| Pro-Shot
+#### Megan Hilty in Concert - S44 E4 - May 24, 2019
+{: .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
 
 **FORMAT:** MP4 (HD)
 
@@ -65,7 +73,11 @@ Pro-Shot
 
 **NOTES:** Join the Tony-nominated star of Wicked, 9 to 5: The Musical, Noises Off, and NBC's Smash for a new concert special featuring a versatile set of musical theater favorite and classic standards.
 
-#### New York Philharmonic: Celebrating Sondheim - S44 E6 -- December 31, 2019 \| Pro-Shot
+#### New York Philharmonic: Celebrating Sondheim - S44 E6 -- December 31, 2019
+{: .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
 
 **FORMAT:** MP4 (HD)
 
@@ -77,13 +89,21 @@ Pro-Shot
 
 ## The Meg an\' Sho Show (2)
 
-#### Mark\'s Restaurant - March 31, 2008 \| juniper47
+#### Mark\'s Restaurant - March 31, 2008
+{: .d-inline-block }
+
+juniper47
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 17 tracks
 
 **CAST:** Megan Hilty, Shoshana Bean
 
-#### Cinco de Mayo - May 5, 2008 \| photoshop_diva
+#### Cinco de Mayo - May 5, 2008
+{: .d-inline-block }
+
+photoshop_diva
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 35 tracks
 
@@ -101,7 +121,11 @@ Pro-Shot
 
 **CAST:** Julia Murney, Megan Hilty, Cincinnati Pops Orchestra
 
-#### Wicked Divas - Columbus - June 26, 2010 \| juniper47
+#### Wicked Divas - Columbus - June 26, 2010
+{: .d-inline-block }
+
+juniper47
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 28 tracks
 
@@ -129,7 +153,11 @@ Pro-Shot
 
 **NOTES:** Includes PDF of the booklet
 
-#### Indianapolis - March 8, 2015 \| tatersbwaytrades
+#### Indianapolis - March 8, 2015
+{: .d-inline-block }
+
+tatersbwaytrades
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 30 tracks
 
@@ -137,19 +165,31 @@ Pro-Shot
 
 **NOTES:** The first half is only the orchestra. Megan joins in the second half as the special guest.
 
-#### Valley Performing Arts Center (CSUN) - September 24, 2015 \| Token Goat
+#### Valley Performing Arts Center (CSUN) - September 24, 2015
+{: .d-inline-block }
+
+Token Goat
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 33 tracks
 
 **NOTES:** Includes songs from Smash, Little Shop Of Horrors, Wicked, solo album, etc. Matt Cusson features on \"Let\'s Call The Whole Thing Off\" and \"That\'s Life\". Brian Gallagher features on \"Suddenly Seymour\". The encore number is \"For Good\" with Burbank High School\'s show choir In Sync.
 
-#### Megan Hilty & Brian Stokes Mitchell - Segerstrom Concert Hall - April 21, 2017 \| Token Goat
+#### Megan Hilty & Brian Stokes Mitchell - Segerstrom Concert Hall - April 21, 2017
+{: .d-inline-block }
+
+Token Goat
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 22 tracks
 
 ## Stephanie J. Block (1)
 
-#### Birdland Jazz (New York) - July 8, 2013 \| juniper47
+#### Birdland Jazz (New York) - July 8, 2013
+{: .d-inline-block }
+
+juniper47
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 22 tracks
 
@@ -163,7 +203,11 @@ Pro-Shot
 
 **NOTES:** An amazing tribute to Marc Shaiman and Scott Wittman. Audio is on the quiet side and there\'s some creaking from the seat.
 
-#### Broadway Miscast - MCC Theatre - April 3, 2017 \| wickedlittletown
+#### Broadway Miscast - MCC Theatre - April 3, 2017
+{: .d-inline-block }
+
+wickedlittletown
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 23 tracks
 
@@ -213,7 +257,11 @@ Pro-Shot
 
 **NOTES:** An unbelievable concert. The energy in the room was phenomenal. The people seated around the master tend to clap loudly, but it\'s hard to fault them for being excited.
 
-#### The New York Pops: Make it BIG! 31st Birthday Gala - Carnegie Hall - April 28, 2014 \| irnbruise
+#### The New York Pops: Make it BIG! 31st Birthday Gala - Carnegie Hall - April 28, 2014
+{: .d-inline-block }
+
+irnbruise
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 38 tracks
 
@@ -225,19 +273,31 @@ Pro-Shot
 
 **NOTES:** Album release concert. Includes an opening set by Carrie Manolakos. Carey Malloy features on \"As Long As You\'re Mine\", Cathleen Wright features on \"Take Me Or Leave Me\", and Megan Hilty features on \"For Good\".
 
-#### \#SOBLESSED: Live! (Annoying Actor Friend) - 54 Below - September 20, 2014 \| juniper47
+#### \#SOBLESSED: Live! (Annoying Actor Friend) - 54 Below - September 20, 2014
+{: .d-inline-block }
+
+juniper47
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 28 tracks
 
 **CAST:** Corey Cott, Paige Faure, Jessica Grové, Andy Jones, Nikka Graff Lanzarone, Lesli Margherita, Ellyn Marie Marsh, Kyle Dean Massey, Julia Murney, Nic Rouleau, Keala Settle, Tom Souhrada, Stephen Wallem
 
-#### Defying Gravity: The Music of Stephen Schwartz in Concert - Las Vegas - January 31, 2009 \| juniper47
+#### Defying Gravity: The Music of Stephen Schwartz in Concert - Las Vegas - January 31, 2009
+{: .d-inline-block }
+
+juniper47
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 29 tracks
 
 **CAST:** Julia Murney, David Burnham, Farah Alvin
 
-#### Disney On Broadway 25th Anniversary Concert - New Amsterdam Theatre (New York) - November 4, 2019 \| juniper47
+#### Disney On Broadway 25th Anniversary Concert - New Amsterdam Theatre (New York) - November 4, 2019
+{: .d-inline-block }
+
+juniper47
+{: .label .label-blue }
 
 **FORMAT:** MP3 \| 25 tracks
 
