@@ -17,11 +17,11 @@ Open for general trades
 ## Info
 
 ### No. of items listed:
+```yaml
 Videos - 889
-
 Audios - 191
-
 Concerts - 24
+```
 
 ### Trading
 I'm open for general trades. Contact me through <a href="mailto:kyratrades@gmail.com">kyratrades@gmail.com</a>. If you already have other means of reaching me (Reddit, Discord etc.) you're welcome to use them too!
