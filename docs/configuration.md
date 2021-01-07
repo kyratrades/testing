@@ -6,9 +6,9 @@ nav_order: 2
 
 # Concerts
 {: .no_toc }
-*Note: Shows in concerts are listed under their respective titles.*
+<small>*Note: Shows in concerts are listed under their respective titles.*
 
-*This page is reserved for other special events. Includes both Videos and Audios.*
+*This page is reserved for other special events. Includes both Videos and Audios.*</small>
 
 ## Table of contents
 {: .no_toc }
