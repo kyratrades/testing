@@ -23,13 +23,17 @@ permalink: /concerts
 
 #### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
 
-**FORMAT:** VOB+smalls
+**FORMAT**
+: VOB+smalls
 
-**COMMENTS:** This is the version recorded by the audience, NOT the pro-shot..
+**COMMENTS**
+: This is the version recorded by the audience, NOT the pro-shot..
 
-**CAST:** Brian d\'Arcy James, Christian Borle, Debra Messing, Donna McKechnie, Jeremy Jordan, Katharine McPhee, Leslie Odom Jr, Megan Hilty, Ripley Sobo, Will Chase
+**CAST**
+: Brian d\'Arcy James, Christian Borle, Debra Messing, Donna McKechnie, Jeremy Jordan, Katharine McPhee, Leslie Odom Jr, Megan Hilty, Ripley Sobo, Will Chase
 
-**NOTES:** The Actors Fund\'s one-night-only Broadway concert of Bombshell, the fictional musical about Marilyn Monroe that was central to the NBC series \"Smash\" \*\*Audience shot, not professionally shot release.
+**NOTES**
+: The Actors Fund\'s one-night-only Broadway concert of Bombshell, the fictional musical about Marilyn Monroe that was central to the NBC series \"Smash\" \*\*Audience shot, not professionally shot release.
 
 #### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
 {: .d-inline-block }
