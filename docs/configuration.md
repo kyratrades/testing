@@ -19,9 +19,6 @@ nav_order: 2
 ---
 
 
-
-## Bombshell: In Concert (2)
-
 #### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
 
 **FORMAT:** VOB+smalls
@@ -245,3 +242,6 @@ nav_order: 2
 **FORMAT:** MP3 \| 32 tracks
 
 **CAST:** The Boston Pops, Stephanie J. Block, Julia Murney
+
+### End of all recordings
+{: .no_toc }
