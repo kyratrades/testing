@@ -6,7 +6,7 @@ description: "Open for general trades"
 permalink: /
 ---
 
-# Status
+## Status
 {: .fs-9 }
 
 Open for general trades
@@ -14,7 +14,7 @@ Open for general trades
 
 ---
 
-# Info
+## Info
 
 ### No. of items listed:
 ```yaml
