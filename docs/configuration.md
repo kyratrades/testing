@@ -2,6 +2,7 @@
 layout: default
 title: Concerts
 nav_order: 2
+permalink: /
 ---
 
 # Concerts
@@ -18,6 +19,7 @@ nav_order: 2
 </details>
 ---
 
+## Bombshell (2)
 
 #### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
 
@@ -213,7 +215,7 @@ nav_order: 2
 
 **CAST:** Steven Reineke (Conductor/Host), Martin Short, John Pizzarelli, Andrea Martin, Christian Borle, Sophie von Haselberg, Matthew Morrison, Patti LuPone, Will Chase, Jane Krakowski, Marissa Jaret Winokur, Nikki Blonsky, Ricki Lake, Jenifer Lewis, Aaron Tveit, Megan Hilty, Katharine McPhee, Capathia Jenkins, Brooks Ashmanskas, Clarke Thorell, Kerry Butler, Corey Reynolds, Laura Bell Bundy, Linda Hart
 
-#### Eden Espinosa - The Cutting Room - ​March 4, 2013
+#### Eden Espinosa - The Cutting Room - March 4, 2013
 
 **FORMAT:** MP3 \| 31 tracks
 
@@ -244,4 +246,5 @@ nav_order: 2
 **CAST:** The Boston Pops, Stephanie J. Block, Julia Murney
 
 ### End of all recordings
+
 {: .no_toc }
