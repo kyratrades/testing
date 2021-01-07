@@ -14,7 +14,7 @@ Open for general trades
 
 ---
 
-## Info
+# Info
 
 ### No. of items listed:
 ```yaml
