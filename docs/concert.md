@@ -6,16 +6,16 @@ nav_order: 2
 
 # Concerts
 {: .no_toc }
-<small>*Note: Shows in concerts are listed under their respective titles.*
+<small>*Note: Shows in concerts are listed under their respective titles.*</small>
 
-*This page is reserved for other special events. Includes both Videos and Audios.*</small>
+<small>*This page is reserved for other special events. Includes both Videos and Audios.*</small>
 
 ## Table of contents
 {: .no_toc }
 
 <details close markdown="block">
   <summary>
-    Table of contents
+    Expand
   </summary>
   {: .text-delta }
 - TOC
