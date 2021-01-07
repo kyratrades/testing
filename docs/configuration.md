@@ -4,17 +4,17 @@ title: Concerts
 nav_order: 2
 ---
 
-# Configuration
+# Concerts
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Note: Shows in concerts are listed under their respective titles. This page is reserved for other special events. Includes both Videos and Audios.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc }
 
-<details open markdown="block">
+<details close markdown="block">
   <summary>
     Table of contents
   </summary>
