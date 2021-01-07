@@ -6,10 +6,9 @@ nav_order: 2
 
 # Concerts
 {: .no_toc }
+*Note: Shows in concerts are listed under their respective titles.*
 
-
-Note: Shows in concerts are listed under their respective titles. This page is reserved for other special events. Includes both Videos and Audios.
-{: .fs-6 .fw-300 }
+*This page is reserved for other special events. Includes both Videos and Audios.*
 
 ## Table of contents
 {: .no_toc }
@@ -19,17 +18,12 @@ Note: Shows in concerts are listed under their respective titles. This page is r
     Table of contents
   </summary>
   {: .text-delta }
-1. TOC
+- TOC
 {:toc}
 </details>
 ---
 
 
-# Concerts
-
-*Note: Shows in concerts are listed under their respective titles.*
-
-*This page is reserved for other special events. Includes both Videos and Audios.*
 
 ## Bombshell: In Concert (2)
 
