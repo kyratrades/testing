@@ -7,7 +7,6 @@ permalink: /
 ---
 
 # Status
-{: .fs-9 }
 
 Open for general trades
 {: .fs-6 .fw-300 }
@@ -31,11 +30,11 @@ For example:
 Videos:
 1. Wicked - Broadway - May 28, 2006
 2. Anything Goes - Third National Tour - March 23, 2013
+3. ...
 
 Audios:
 1. ...
 2. ...
-3. ...
 ```
 
 If you already have other means of reaching me (Reddit, Discord etc.) you're welcome to use them too! Feel free to send a trade request for anything you want, I'll almost certainly find something from your list. However, I may decline a trade if you don't have your formats listed. I only trade for files in their original formats.
