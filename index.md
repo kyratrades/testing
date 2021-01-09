@@ -12,15 +12,14 @@ permalink: /
 {: .fs-6 .fw-300 }
 
 ---
-
 # Info
 
 ### No. of items listed:
-```yaml
+<center>```yaml
 Videos: 889
 Audios: 191
 Concerts: 24
-```
+```</center>
 
 ### Trading
 Online trading only. Contact me through <a href="mailto:kyratrades@gmail.com?subject=Trade%20request">kyratrades@gmail.com</a> with a list of the item(s) you're interested in. Make the list by copying the whole title on my site.
@@ -41,7 +40,7 @@ If you already have other means of reaching me (Reddit, Discord etc.) you're wel
 
 You must include a link to and/or an attachment of your list. Whoever initiates a trade will send their links first.
 
-Standard ratios:
+### Standard ratios
 ```yaml
 1 audio - 1 audio
 1 video - 1 video
