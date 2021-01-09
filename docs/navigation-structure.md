@@ -31,9 +31,6 @@ SunsetBlvd79
 FORMAT
 : VOB+smalls
 
-COMMENTS
-: Non-original smalls; Would trade for original files
-
 CAST
 : Graham Phillips (Evan Goldman), Allie Trimm (Patrice), Aaron Simon Gross (Archie), Eric M Nelsen (Brett), Delaney Moro (Kendra), Elizabeth Gillies (Lucy), Al Calderon (Eddie), Malik Hammond (Malcolm), Caitlin Gann (Molly), Ariana Grande (Charlotte), Brynn Williams (Cassie), Joey LaVarco (Simon), Eamon Foley (Richie)
 
