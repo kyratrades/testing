@@ -9,7 +9,8 @@ permalink: /
 # Status
 
 Open for general trades
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-300 
+text-align: center }
 
 ---
 
