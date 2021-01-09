@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Utilities
+title: Performers
 nav_order: 6
 has_children: true
 permalink: docs/utilities
