@@ -3,7 +3,7 @@ layout: default
 title: Performers
 nav_order: 6
 has_children: true
-permalink: docs/utilities
+permalink: /performers
 ---
 
 # Utilities
