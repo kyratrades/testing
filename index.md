@@ -24,7 +24,7 @@ Concerts: 24
 ```
 
 ### Trading
-Online trading only. Contact me through <a href="mailto:kyratrades@gmail.com">kyratrades@gmail.com</a> with a list of the item(s) you're interested in. Make the list by copying the whole title on my site.
+Online trading only. Contact me through <a href="mailto:kyratrades@gmail.com?subject=Trade%20request">kyratrades@gmail.com</a> with a list of the item(s) you're interested in. Make the list by copying the whole title on my site.
 
 For example:
 ```yaml
