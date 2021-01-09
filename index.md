@@ -15,11 +15,11 @@ permalink: /
 # Info
 
 ### No. of items listed:
-<center>```yaml
+<center>
 Videos: 889
 Audios: 191
 Concerts: 24
-```</center>
+</center>
 
 ### Trading
 Online trading only. Contact me through <a href="mailto:kyratrades@gmail.com?subject=Trade%20request">kyratrades@gmail.com</a> with a list of the item(s) you're interested in. Make the list by copying the whole title on my site.
@@ -41,11 +41,11 @@ If you already have other means of reaching me (Reddit, Discord etc.) you're wel
 You must include a link to and/or an attachment of your list. Whoever initiates a trade will send their links first.
 
 ### Standard ratios
-```yaml
+<center>
 1 audio - 1 audio
 1 video - 1 video
 2 audios - 1 video
-```
+</center>
 
 ### Files
 I try my best to check each of my items individually (still catching up!) and will list any problems in the comments. Please don’t hesitate to tell me of any problems you've encountered with my files or links, or if I have something not in their original formats but haven’t listed so accordingly.
