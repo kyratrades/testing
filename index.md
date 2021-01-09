@@ -17,7 +17,9 @@ permalink: /
 ### No. of items listed:
 <center>
 Videos: 889
+
 Audios: 191
+
 Concerts: 24
 </center>
 
@@ -43,7 +45,9 @@ You must include a link to and/or an attachment of your list. Whoever initiates 
 ### Standard ratios
 <center>
 1 audio - 1 audio
+
 1 video - 1 video
+
 2 audios - 1 video
 </center>
 
