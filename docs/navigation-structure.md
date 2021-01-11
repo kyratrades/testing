@@ -20,11 +20,7 @@ permalink: /videos
 
 # \#
 
-## 13
-{: .d-inline-block }
-
-1
-{: .label .label-purple }
+## 13 (1)
 
 #### 13 - Broadway - September 16, 2008 (Preview)
 {: .no_toc .d-inline-block }
@@ -41,11 +37,7 @@ CAST
 NOTES
 : First Preview. Wonderful, fun and cute show. The young actors are very talented and great performers. High energy from the audience as it was the first performance. Beautiful capture and a solid show with terrific music by Jason Robert Brown. A+
 
-## 1776
-{: .d-inline-block }
-
-1
-{: .label .label-purple }
+## 1776 (1)
 
 #### 1776 - Encores! - March 31, 2016
 {: .no_toc }
@@ -59,11 +51,7 @@ CAST
 NOTES
 : Great HD capture from the balcony. It is shot from far back and high up, but very nice.
 
-## 1984
-{: .d-inline-block }
-
-1
-{: .label .label-purple }
+## 1984 (1)
 
 #### 1984 - Broadway - July 1, 2017
 {: .no_toc .d-inline-block }
@@ -80,11 +68,7 @@ CAST
 NOTES
 : Excellent HD capture of George Orwell\'s iconic novel. This controversial and graphic Big Brother play had multiple people leaving their seats. A
 
-## The 25th Annual Putnam County Spelling Bee
-{: .d-inline-block }
-
-2
-{: .label .label-purple }
+## The 25th Annual Putnam County Spelling Bee (2)
 
 #### The 25th Annual Putnam County Spelling Bee - Off-Broadway - February 15, 2005
 {: .no_toc }
@@ -118,11 +102,7 @@ CAST
 NOTES
 : Beautiful dvd with amazing closeups. Best spelling dvd out there! A+ Significant angle. Playbill shots at the beginning, opening has some cuts. Regular heads, takes about 10 minutes for the taper to settle in. Sometimes labeled July 27 or July 28.
 
-## 42nd Street
-{: .d-inline-block }
-
-11
-{: .label .label-purple }
+## 42nd Street (11)
 
 #### 42nd Street - Broadway - 1981
 {: .no_toc }
@@ -192,7 +172,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p **\|** 227.4 MB \| 21m 32s
+: MP4 \| 720p \| 227.4 MB \| 21m 32s
 
 COMMENTS
 : Will trade this as the equivalent of one audio
