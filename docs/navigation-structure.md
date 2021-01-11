@@ -426,7 +426,7 @@ CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Gaelen Gilliland (u/s Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Dan Cooney (Dick), Van Hughes (Josh), Jeremy Davis (Bob Enright), Jessica Lea Patty (u/s Maria), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Charlie Pollock (Dwight), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
 
 NOTES
-: **[Ann Harada\'s last]{.ul}** performance. Super funny **[blooper]{.ul}** when Gaelen\'s scarf got tangled in the wire of her mic, and Allison Janney struggled to untie it while trying to ad-lib her way out of it, and when she finally unties it, Allison dramatically collapses on a desk in exasperation.
+: **[Ann Harada\'s last]** performance. Super funny **[blooper]** when Gaelen\'s scarf got tangled in the wire of her mic, and Allison Janney struggled to untie it while trying to ad-lib her way out of it, and when she finally unties it, Allison dramatically collapses on a desk in exasperation.
 
 #### 9 to 5 - Broadway - September 6, 2009 (Closing Night)
 {: .no_toc .d-inline-block }
