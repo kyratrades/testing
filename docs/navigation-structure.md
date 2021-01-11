@@ -172,7 +172,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p **\|** 227.4 MB \| 21m 32s
+: MP4 \| 720p \| 227.4 MB \| 21m 32s
 
 COMMENTS
 : Will trade this as the equivalent of one audio
