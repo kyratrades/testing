@@ -123,7 +123,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls | MP4 \| 476p
+: `1` VOB+smalls `2` MP4 \| 476p
 
 COMMENTS
 : I have two different versions, and will trade them out as one video but you must do so as well.
