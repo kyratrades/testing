@@ -275,7 +275,7 @@ NOTES
 
 ## 9 to 5: The Musical (13)
 
-### Pre-Broadway // Los Angeles (4)
+### Pre-Broadway / Los Angeles (4)
 
 #### 9 to 5 - Pre-Broadway (Los Angeles) - September 13, 2008 (Preview)
 {: .no_toc .d-inline-block }
