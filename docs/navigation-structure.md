@@ -275,7 +275,7 @@ NOTES
 
 ## 9 to 5: The Musical (13)
 
-#### 9 to 5: The Musical - Pre-Broadway/Los Angeles - September 13, 2008 (Preview)
+#### 9 to 5 - Pre-Broadway (Los Angeles) - September 13, 2008 (Preview)
 {: .no_toc .d-inline-block }
 
 juniper47
@@ -287,7 +287,8 @@ FORMAT
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Iona Alphonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
 
-#### 9 to 5: The Musical - Pre-Broadway/Los Angeles - September 23, 2008
+#### 9 to 5 - Pre-Broadway (Los Angeles) - September 23, 2008
+{: .no_toc }
 
 FORMAT
 : VOB+smalls
@@ -298,7 +299,7 @@ CAST
 NOTES
 : Shot from mezzanine with no head obstructions so a very clear shot. A little a bit shaky for the first number but steady after. Opening night was on the 20th, so this is a very early performance.
 
-#### 9 to 5: The Musical - Pre-Broadway/Los Angeles - October 19, 2008 (Closing Night)
+#### 9 to 5 - Pre-Broadway (Los Angeles) - October 19, 2008 (Closing Night)
 {: .no_toc .d-inline-block }
 
 juniper47
@@ -313,7 +314,7 @@ CAST
 NOTES
 : Often confused for SunsetBlvd79\'s video from the same performance.
 
-#### 9 to 5: The Musical - Pre-Broadway/Los Angeles - October 19, 2008 (Closing Night)
+#### 9 to 5 - Pre-Broadway (Los Angeles) - October 19, 2008 (Closing Night)
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
@@ -331,7 +332,11 @@ CAST
 NOTES
 : Final Pre-Broadway Performance! Amazing show and so much fun. This is one of my new favorite shows and one of the funniest musicals I\'ve been to. The three ladies are insanely talented and command, own and steal the show. Stephanie\'s big number, \"Get Out and Stay Out\" will stun you. No obstructions and beautifully captured! A
 
-#### 9 to 5: The Musical - Broadway - 2009 (Highlights) \| Press Reel
+#### 9 to 5 - Broadway - 2009 (Highlights)
+{: .no_toc .d-inline-block }
+
+Press Reel
+{: .label .label-green }
 
 FORMAT
 : VOB+smalls
@@ -342,7 +347,7 @@ CAST
 NOTES
 : Press reels 2009 Includes (6 pro-shot clips + 2 extras): 1. Here For You 2. I Just Might 3. Backwoods Barbie 4. Rooster To Hen 5. Heart to Hart 6. Shine Like the Sun 7. Stagedoor (Last Preview) 8. Talkback with Dolly Parton and Patricia Resnick
 
-#### 9 to 5: The Musical - Broadway - April 11, 2009 (Preview)
+#### 9 to 5 - Broadway - April 11, 2009 (Preview)
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
@@ -360,7 +365,8 @@ CAST
 NOTES
 : Beautiful capture of this amazing show. Terrific show with so much talent and wonderful fun songs. Stephanie contiunes to knock it out of the park, Megan is pure perfection and Allison comedic time is hilarious. There are no obstructions in this wonderful capture. A+
 
-#### 9 to 5: The Musical - Broadway - April 11, 2009 (Preview) \| Burntplain
+#### 9 to 5 - Broadway - April 11, 2009 (Preview) \| Burntplain
+{: .no_toc }
 
 FORMAT
 : VOB+smalls
@@ -371,7 +377,8 @@ CAST
 NOTES
 : Often confused for SunsetBlvd79\'s video from the same performance.
 
-#### 9 to 5: The Musical - Broadway - April 30, 2009 (Opening Night) (Highlights)
+#### 9 to 5 - Broadway - April 30, 2009 (Opening Night) (Highlights)
+{: .no_toc }
 
 FORMAT
 : VOB+smalls
@@ -379,9 +386,10 @@ FORMAT
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
 
-**NOTES: [Act One only]{.ul}** of the Broadway opening night; shot in 16:9 widescreen. Coverups during \"9 to 5\", the second half of \"I Just Might\" and the scene right before \"Backwoods Barbie\" and about a minute at the end of the dream sequences; camera also wanders sometimes and heads in the wide shots when taper zoomed out to get the whole picture; DVD includes \"Get Out and Stay Out\" from the April 17th performance with Gaelen Gilliland as Judy.Well-shot from the orchestra. There is sometimes the top of a head at the bottom of the screen, but it never blocks Gaelen.
+**NOTES: [Act One only]** of the Broadway opening night; shot in 16:9 widescreen. Coverups during \"9 to 5\", the second half of \"I Just Might\" and the scene right before \"Backwoods Barbie\" and about a minute at the end of the dream sequences; camera also wanders sometimes and heads in the wide shots when taper zoomed out to get the whole picture; DVD includes \"Get Out and Stay Out\" from the April 17th performance with Gaelen Gilliland as Judy.Well-shot from the orchestra. There is sometimes the top of a head at the bottom of the screen, but it never blocks Gaelen.
 
-#### 9 to 5: The Musical - Broadway - June 14, 2009
+#### 9 to 5 - Broadway - June 14, 2009
+{: .no_toc }
 
 FORMAT
 : VOB+smalls
@@ -392,7 +400,7 @@ CAST
 NOTES
 : One head in the way at times and the first couple of minutes of each act are blacked out; second half of \"I Just Might\" is very shaky and slightly blacked out; good sound throughout; nice clear video.
 
-#### 9 to 5: The Musical - Broadway - June 21, 2009
+#### 9 to 5 - Broadway - June 21, 2009
 {: .no_toc .d-inline-block }
 
 juniper47
@@ -410,7 +418,7 @@ CAST
 NOTES
 : **[Ann Harada\'s last]{.ul}** performance. Super funny **[blooper]{.ul}** when Gaelen\'s scarf got tangled in the wire of her mic, and Allison Janney struggled to untie it while trying to ad-lib her way out of it, and when she finally unties it, Allison dramatically collapses on a desk in exasperation.
 
-#### 9 to 5: The Musical - Broadway - September 6, 2009 (Closing Night)
+#### 9 to 5 - Broadway - September 6, 2009 (Closing Night)
 {: .no_toc .d-inline-block }
 
 juniper47
@@ -425,7 +433,7 @@ CAST
 NOTES
 : Final performance! Filmed in 16:9 widescreen. Few obstructions. Only in the wide shots when there are two heads on either side of the frame, but filmer does his/her best to shoot around them. External audio fed into video from MD recorder, so audio is very clear. A mix of close-ups and wider shots when multiple people were on stage to see their interactions. This was a gut-wrenchingly sad performance. Most of the cast members were in tears at some point or another during the show. In particular, Stephanie was sobbing through \"I Just Might\" and Allison started sobbing at the end of \"One of the Boys\". A few minor ad-libs and mishaps. One being when Allison pulled out a tape measure during the urinals bit of \"One of the Boys\". The cast was sad but they were clearly trying to have the times of their lives and go out with a bang. And they fed off the audience energy which was insane and very supportive.
 
-#### 9 to 5: The Musical - US National Tour - November 6, 2010
+#### 9 to 5 - US National Tour - November 6, 2010
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
@@ -443,7 +451,7 @@ CAST
 NOTES
 : Beautiful capture of the tour cast. The cast remains fantastic and top notch. Mamie is truely a force to be reckoned with. These ladies remain one of the best replacement cast, that I have ever saw. A
 
-#### 9 to 5: The Musical - North Shore Music Theatre - September, 2012
+#### 9 to 5 - North Shore Music Theatre - September, 2012
 {: .no_toc .d-inline-block }
 
 Pro-Shot
