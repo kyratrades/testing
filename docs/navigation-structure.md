@@ -23,6 +23,8 @@ permalink: /videos
 ## 13 (1)
 
 #### 13 - Broadway - September 16, 2008 (Preview)
+{: .no_toc }
+
 {: .d-inline-block }
 
 SunsetBlvd79
@@ -40,6 +42,7 @@ NOTES
 ## 1776 (1)
 
 #### 1776 - Encores! - March 31, 2016
+{: .no_toc }
 
 FORMAT
 : VOB+smalls
@@ -53,6 +56,8 @@ NOTES
 ## 1984 (1)
 
 #### 1984 - Broadway - July 1, 2017
+{: .no_toc }
+
 {: .d-inline-block }
 
 SunsetBlvd79
@@ -101,9 +106,10 @@ NOTES
 ## 42nd Street (11)
 
 #### 42nd Street - Broadway - 1981
+{: .no_toc }
 
 FORMAT
-: MP4 \| 480p **\|** 3.18 GB
+: MP4 \| 480p \| 3.18 GB
 
 CAST
 : Wanda Richert-Preston (Peggy Sawyer), Jerry Orbach (Julian Marsh), Millicent Martin (Dorothy Brock), Lee Roy Reams (Billy Lawlor), Joseph Bova (Bert Barry), Peggy Cass (Maggie Jones), Danny Carroll (Andy Lee)
@@ -202,7 +208,7 @@ NOTES
 #### 42nd Street - Asian Tour (Shanghai) - September, 2007 \| House-Cam
 
 FORMAT
-: MP4 \| 720p **\|** 3.31 GB
+: MP4 \| 720p | 3.31 GB
 
 CAST
 : Kristen Martin (Peggy), Paul Gregory Nelson (Julian), Natalie Buster (Dorothy), Charles MacEachern (Billy), Veronica DiPerna (Annie), Chris Clay (Andy), Ira Denmark (Bert), Karen McDonald (Maggie), Rockford Sansom (Pat), Julie Rees (Phyllis), Lani Corson (Lorraine), Rob Ouellette (Oscar)
