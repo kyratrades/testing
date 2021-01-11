@@ -25,7 +25,8 @@ permalink: /videos
 #### 13 - Broadway - September 16, 2008 (Preview)
 {: .no_toc .d-inline-block }
 
-SunsetBlvd79 {: .label .label-blue }
+SunsetBlvd79
+{: .label .label-blue }
 
 FORMAT
 : VOB+smalls
@@ -84,8 +85,10 @@ NOTES
 #### The 25th Annual Putnam County Spelling Bee - Chicago - June 28, 2006
 {: .no_toc }
 
-SunsetBlvd79 {: .label .label-blue }
-Issues {: .label .label-red }
+SunsetBlvd79
+{: .label .label-blue }
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB+smalls
