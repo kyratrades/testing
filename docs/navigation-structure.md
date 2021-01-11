@@ -83,7 +83,7 @@ NOTES
 : There's a fair number of digital glitches and it takes a few minutes for the camera to get aimed, but overall a great video with clear sound. Includes NY1 review and interview segment. Best of the three videos.
 
 #### The 25th Annual Putnam County Spelling Bee - Chicago - June 28, 2006
-{: .no_toc }
+{: .no_toc .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
