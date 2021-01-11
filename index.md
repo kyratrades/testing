@@ -43,13 +43,12 @@ If you already have other means of reaching me (Reddit, Discord etc.) you're wel
 You must include a link to and/or an attachment of your list. Whoever initiates a trade will send their links first.
 
 ### Standard ratios
-<center>
-1 audio - 1 audio
 
-1 video - 1 video
+<center>1 audio - 1 audio</center>
 
-2 audios - 1 video
-</center>
+<center>1 video - 1 video</center>
+
+<center>2 audios - 1 video</center>
 
 ### Files
 I try my best to check each of my items individually (still catching up!) and will list any problems in the comments. Please don’t hesitate to tell me of any problems you've encountered with my files or links, or if I have something not in their original formats but haven’t listed so accordingly.
