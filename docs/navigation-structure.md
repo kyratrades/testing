@@ -20,7 +20,8 @@ permalink: /videos
 
 # \#
 
-## 13 `1`
+## 13
+{: .d-inline-block }
 
 1
 {: .label .label-purple }
