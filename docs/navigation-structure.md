@@ -86,7 +86,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
-{: .label .label-blue  .d-inline-block }
+{: .label .label-blue }
 
 Issues
 {: .label .label-red }
