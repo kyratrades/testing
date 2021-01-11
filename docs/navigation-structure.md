@@ -20,7 +20,11 @@ permalink: /videos
 
 # \#
 
-## 13 (2)
+## 13
+{ .d-inline-block }
+
+1
+{: .label .label-purple }
 
 #### 13 - Broadway - September 16, 2008 (Preview)
 {: .no_toc .d-inline-block }
@@ -51,7 +55,11 @@ CAST
 NOTES
 : Great HD capture from the balcony. It is shot from far back and high up, but very nice.
 
-## 1984 (1)
+## 1984
+{ .d-inline-block }
+
+1
+{: .label .label-purple }
 
 #### 1984 - Broadway - July 1, 2017
 {: .no_toc .d-inline-block }
@@ -68,7 +76,11 @@ CAST
 NOTES
 : Excellent HD capture of George Orwell\'s iconic novel. This controversial and graphic Big Brother play had multiple people leaving their seats. A
 
-## The 25th Annual Putnam County Spelling Bee (2)
+## The 25th Annual Putnam County Spelling Bee
+{ .d-inline-block }
+
+2
+{: .label .label-purple }
 
 #### The 25th Annual Putnam County Spelling Bee - Off-Broadway - February 15, 2005
 {: .no_toc }
@@ -102,7 +114,11 @@ CAST
 NOTES
 : Beautiful dvd with amazing closeups. Best spelling dvd out there! A+ Significant angle. Playbill shots at the beginning, opening has some cuts. Regular heads, takes about 10 minutes for the taper to settle in. Sometimes labeled July 27 or July 28.
 
-## 42nd Street (11)
+## 42nd Street
+{ .d-inline-block }
+
+11
+{: .label .label-purple }
 
 #### 42nd Street - Broadway - 1981
 {: .no_toc }
