@@ -92,8 +92,8 @@ FORMAT
 : VOB+smalls
 
 COMMENTS
-: Non-original smalls; Would trade for original files
 { .d-inline-block }
+: Non-original smalls; Would trade for original files
 
 Issues
 {: .label .label-red }
