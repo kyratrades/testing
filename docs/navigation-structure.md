@@ -22,7 +22,7 @@ permalink: /videos
 
 ## 13 (1)
 
-#### 13 - Broadway - September 16, 2008 (Preview) 
+#### 13 - Broadway - September 16, 2008 (Preview)
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
@@ -86,7 +86,10 @@ NOTES
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
-{: .label .label-blue }
+{: .label .label-blue  .d-inline-block }
+
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB+smalls
@@ -121,7 +124,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls // MP4 (SD)
+: VOB+smalls | MP4 \| 476p
 
 COMMENTS
 : I have two different versions, and will trade them out as one video but you must do so as well.
@@ -132,8 +135,11 @@ CAST
 NOTES
 : Performed in English with hardcoded Japanese subtitles. Often labelled as the original broadway production, but this is the Japanese touring production with an American cast. There are 2 versions of this going around. One suffers from very dark video but has pretty good sound, and the other has great video but very tinny and compressed audio. (And has 15 seconds missing from Clare Leach\'s intro). Check with traders.
 
-#### 42nd Street - First UK Tour - 1991 \| House-Cam
-{: .no_toc }
+#### 42nd Street - First UK Tour - 1991
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
 
 FORMAT
 : VOB+smalls
@@ -159,8 +165,11 @@ CAST
 NOTES
 : Dance captain\'s reel. An hour of semi pro-shot footage of dance numbers only. Includes: audition, shadow waltz, go into your dance, your getting to be a habit with me, getting out of town, dames/keep young and beautiful, regency club scene, eyes for you, we\'re in the money, lullaby of broadway, short montage between Julian and Peggy, plenty of money and you, shuffle off to buffalo, 42nd street, curtain call and finale ultimo. Static audio in background. The video has also gone through a lot of gen loss.
 
-#### 42nd Street - Stuttgart - 2004 (Highlights) \| House-Cam
-{: .no_toc }
+#### 42nd Street - Stuttgart - 2004 (Highlights)
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
 
 FORMAT
 : MP4 \| 720p **\|** 227.4 MB \| 21m 32s
@@ -204,11 +213,14 @@ CAST
 NOTES
 : A regional theatre production.
 
-#### 42nd Street - Asian Tour (Shanghai) - September, 2007 \| House-Cam
-{: .no_toc }
+#### 42nd Street - Asian Tour (Shanghai) - September, 2007
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
 
 FORMAT
-: MP4 \| 720p | 3.31 GB
+: MP4 \| 720p \| 3.31 GB
 
 CAST
 : Kristen Martin (Peggy), Paul Gregory Nelson (Julian), Natalie Buster (Dorothy), Charles MacEachern (Billy), Veronica DiPerna (Annie), Chris Clay (Andy), Ira Denmark (Bert), Karen McDonald (Maggie), Rockford Sansom (Pat), Julie Rees (Phyllis), Lani Corson (Lorraine), Rob Ouellette (Oscar)
@@ -238,7 +250,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p **\|** 2.12 GB
+: MP4 \| 720p \| 2.12 GB
 
 CAST
 : Kimberly Immanuel (Peggy Sawyer), Gene Weygandt (Julian Marsh), Suzzanne Douglas (Dorothy Brock), Phillip Attmore (Billy Lawlor), Justin Brill (Bert Barry), Donica Lynn (Maggie Jones), Sierra Schnack (Annie), Annie Jo Ermel (Phyllis Dale), Mandy Modic (Lorraine Flemming), Brandon Springman (Pat Denning), Erica Evans (Andy Lee)
@@ -253,7 +265,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 1080p **\|** 8.95 GB \| Amazon WEB-DL
+: MKV \| 1080p \| 8.95 GB \| Amazon WEB-DL
 
 CAST
 : Clare Halse (Peggy Sawyer), Tom Lister (Julian Marsh), Bonnie Langford (Dorothy Brock), Philip Bertioli (Billy Lawlor), Christopher Howell (Bert Barry), Jasna Ivir (Maggie Jones), Bruce Montague (Abner Dillon), Emma Caffrey (Annie), Clare Rickard (Phyllis Dale), Ella Martine (Lorraine Flemming), Matthew Goodgame (Pat Denning), Graeme Henderson (Andy Lee), Paul Knight (Oscar)
