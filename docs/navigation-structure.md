@@ -319,6 +319,8 @@ NOTES
 
 SunsetBlvd79
 {: .label .label-blue }
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB+smalls
@@ -352,6 +354,8 @@ NOTES
 
 SunsetBlvd79
 {: .label .label-blue }
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB+smalls
@@ -365,8 +369,11 @@ CAST
 NOTES
 : Beautiful capture of this amazing show. Terrific show with so much talent and wonderful fun songs. Stephanie contiunes to knock it out of the park, Megan is pure perfection and Allison comedic time is hilarious. There are no obstructions in this wonderful capture. A+
 
-#### 9 to 5 - Broadway - April 11, 2009 (Preview) \| Burntplain
-{: .no_toc }
+#### 9 to 5 - Broadway - April 11, 2009 (Preview)
+{: .no_toc .d-inline-block }
+
+Burntplain
+{: .label .label-blue }
 
 FORMAT
 : VOB+smalls
@@ -386,7 +393,8 @@ FORMAT
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
 
-**NOTES: [Act One only]** of the Broadway opening night; shot in 16:9 widescreen. Coverups during \"9 to 5\", the second half of \"I Just Might\" and the scene right before \"Backwoods Barbie\" and about a minute at the end of the dream sequences; camera also wanders sometimes and heads in the wide shots when taper zoomed out to get the whole picture; DVD includes \"Get Out and Stay Out\" from the April 17th performance with Gaelen Gilliland as Judy.Well-shot from the orchestra. There is sometimes the top of a head at the bottom of the screen, but it never blocks Gaelen.
+NOTES
+: **[Act One only]** of the Broadway opening night; shot in 16:9 widescreen. Coverups during \"9 to 5\", the second half of \"I Just Might\" and the scene right before \"Backwoods Barbie\" and about a minute at the end of the dream sequences; camera also wanders sometimes and heads in the wide shots when taper zoomed out to get the whole picture; DVD includes \"Get Out and Stay Out\" from the April 17th performance with Gaelen Gilliland as Judy.Well-shot from the orchestra. There is sometimes the top of a head at the bottom of the screen, but it never blocks Gaelen.
 
 #### 9 to 5 - Broadway - June 14, 2009
 {: .no_toc }
@@ -405,6 +413,8 @@ NOTES
 
 juniper47
 {: .label .label-blue }
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB+smalls
@@ -441,9 +451,6 @@ SunsetBlvd79
 
 FORMAT
 : VOB+smalls
-
-COMMENTS
-: Non-original smalls; Would trade for original files
 
 CAST
 : Dee Hoty (Violet Newstead), Diana DeGarmo (Doralee Rhodes), Mamie Parris (Judy Bernly), Kristine Zbornik (Roz Keith), Joseph Mahowald (Franklin Hart, Jr.), Greg Goodbrod (Joe), Jesse JP Johnson (Josh), Jane Blass (Margaret)
