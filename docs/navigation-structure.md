@@ -23,9 +23,7 @@ permalink: /videos
 ## 13 (1)
 
 #### 13 - Broadway - September 16, 2008 (Preview)
-{: .no_toc }
-
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -56,9 +54,7 @@ NOTES
 ## 1984 (1)
 
 #### 1984 - Broadway - July 1, 2017
-{: .no_toc }
-
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -75,6 +71,7 @@ NOTES
 ## The 25th Annual Putnam County Spelling Bee (2)
 
 #### The 25th Annual Putnam County Spelling Bee - Off-Broadway - February 15, 2005
+{: .no_toc }
 
 FORMAT
 : VOB+smalls
@@ -86,7 +83,7 @@ NOTES
 : There's a fair number of digital glitches and it takes a few minutes for the camera to get aimed, but overall a great video with clear sound. Includes NY1 review and interview segment. Best of the three videos.
 
 #### The 25th Annual Putnam County Spelling Bee - Chicago - June 28, 2006
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
@@ -118,7 +115,7 @@ NOTES
 : Often misidentified as 1980, Millicent Martin did not take over as Dorothy Brock until 10/28/1981.
 
 #### 42nd Street - Tokyo, Japan - August, 1986
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -136,6 +133,7 @@ NOTES
 : Performed in English with hardcoded Japanese subtitles. Often labelled as the original broadway production, but this is the Japanese touring production with an American cast. There are 2 versions of this going around. One suffers from very dark video but has pretty good sound, and the other has great video but very tinny and compressed audio. (And has 15 seconds missing from Clare Leach\'s intro). Check with traders.
 
 #### 42nd Street - First UK Tour - 1991 \| House-Cam
+{: .no_toc }
 
 FORMAT
 : VOB+smalls
@@ -147,7 +145,7 @@ NOTES
 : Note from Blvd-on-Sunset: This video has been widely mislabelled as \"2006 UK Tour\" for years and some traders are unaware of this. A show programme from the 1991 UK Tour confirms this. Recorded through the House camera with some static at bottom of screen, and some generational loss. B+
 
 #### 42nd Street - Broadway Revival - 2001 (Highlights)
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -162,6 +160,7 @@ NOTES
 : Dance captain\'s reel. An hour of semi pro-shot footage of dance numbers only. Includes: audition, shadow waltz, go into your dance, your getting to be a habit with me, getting out of town, dames/keep young and beautiful, regency club scene, eyes for you, we\'re in the money, lullaby of broadway, short montage between Julian and Peggy, plenty of money and you, shuffle off to buffalo, 42nd street, curtain call and finale ultimo. Static audio in background. The video has also gone through a lot of gen loss.
 
 #### 42nd Street - Stuttgart - 2004 (Highlights) \| House-Cam
+{: .no_toc }
 
 FORMAT
 : MP4 \| 720p **\|** 227.4 MB \| 21m 32s
@@ -176,7 +175,7 @@ NOTES
 : The Stuttgart production is a replica of the 2001 Broadway revival performed in German. Pro-shot footage from house-cam mixed with soundboard. Includes 21mins of Audition, With Plenty of Money And You, 42nd Street, Curtain Call and Finale. Note that the audio becomes slightly quiet after 3 minutes in, but watchable.
 
 #### 42nd Street - Second National Tour - December 3, 2004
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -191,7 +190,7 @@ NOTES
 : Pro-Shot with VHS information on the bottom of the screen.
 
 #### 42nd Street - Mexico - September 6, 2005
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -206,6 +205,7 @@ NOTES
 : A regional theatre production.
 
 #### 42nd Street - Asian Tour (Shanghai) - September, 2007 \| House-Cam
+{: .no_toc }
 
 FORMAT
 : MP4 \| 720p | 3.31 GB
@@ -217,7 +217,7 @@ NOTES
 : You can\'t make out the actor\'s faces. The sound is very clear and fed from the soundboard, but the tap sounds get watered out. It seems this particular performance is cursed with little mishaps here and there. Billy drops his walking stick a few seconds after his appearance when the mirror sequence finishes. A chorus member also slips during we\'re in the money. The ensemble who form into a circle for the mirror sequence form the circle on the right side of the stage (a foot way from the middle) but they move back into the middle a seconds later. The spotlighting on the actors is also very crude, sometimes they lag behind the actor\'s movements and don\'t follow them accurately.
 
 #### 42nd Street - Second Non-Equity US National Tour - June 7, 2016 
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
@@ -232,7 +232,7 @@ NOTES
 : A fantastic capture of the current tour. The ensemble is the standout here; the dance numbers are absolutely incredible. There is no obstruction, just one quick dropout in act one, and only some slight washout in a few of the wider shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call, finale, and playbill scans.
 
 #### 42nd Street - Drury Lane Theatre (Illinois, USA) - 2017
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
@@ -247,7 +247,7 @@ NOTES
 : Not to be confused with the West End revival, this is a re-imagined production by the Dury Lane Theatre in Chicago with hoofer and rhythm style tap, as well as jazz funk orchestrations.
 
 #### 42nd Street - Second West End Revival - November, 2018
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
