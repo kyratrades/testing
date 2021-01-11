@@ -275,6 +275,8 @@ NOTES
 
 ## 9 to 5: The Musical (13)
 
+### Pre-Broadway // Los Angeles (4)
+
 #### 9 to 5 - Pre-Broadway (Los Angeles) - September 13, 2008 (Preview)
 {: .no_toc .d-inline-block }
 
@@ -333,6 +335,8 @@ CAST
 
 NOTES
 : Final Pre-Broadway Performance! Amazing show and so much fun. This is one of my new favorite shows and one of the funniest musicals I\'ve been to. The three ladies are insanely talented and command, own and steal the show. Stephanie\'s big number, \"Get Out and Stay Out\" will stun you. No obstructions and beautifully captured! A
+
+### Broadway (7)
 
 #### 9 to 5 - Broadway - 2009 (Highlights)
 {: .no_toc .d-inline-block }
@@ -442,6 +446,8 @@ CAST
 
 NOTES
 : Final performance! Filmed in 16:9 widescreen. Few obstructions. Only in the wide shots when there are two heads on either side of the frame, but filmer does his/her best to shoot around them. External audio fed into video from MD recorder, so audio is very clear. A mix of close-ups and wider shots when multiple people were on stage to see their interactions. This was a gut-wrenchingly sad performance. Most of the cast members were in tears at some point or another during the show. In particular, Stephanie was sobbing through \"I Just Might\" and Allison started sobbing at the end of \"One of the Boys\". A few minor ad-libs and mishaps. One being when Allison pulled out a tape measure during the urinals bit of \"One of the Boys\". The cast was sad but they were clearly trying to have the times of their lives and go out with a bang. And they fed off the audience energy which was insane and very supportive.
+
+### MISC (2)
 
 #### 9 to 5 - US National Tour - November 6, 2010
 {: .no_toc .d-inline-block }
