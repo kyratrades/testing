@@ -87,14 +87,16 @@ NOTES
 
 SunsetBlvd79
 {: .label .label-blue }
-Issues
-{: .label .label-red }
 
 FORMAT
 : VOB+smalls
 
 COMMENTS
 : Non-original smalls; Would trade for original files
+{ .d-inline-block }
+
+Issues
+{: .label .label-red }
 
 CAST
 : Cristen Paige (Olive Ostrovsky), Eric Roediger (William Barfee), Brad Weinstock (Chip Tolentino), Christine Werny (Logainne Schwartzandgrubenierre), Derrick Trumbly (Leaf Coneybear), Jen Sese (Marcy Park), Lucia Spina (Rona Lisa Peretti), Julius Thomas III (u/s Mitch Mahoney), Bill Larkin (Douglas Panch)
