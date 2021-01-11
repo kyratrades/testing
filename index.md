@@ -15,13 +15,13 @@ permalink: /
 # Info
 
 ### No. of items listed:
-<center>
-Videos: 889
 
-Audios: 191
+<center>Videos: 889</center>
 
-Concerts: 24
-</center>
+<center>Audios: 191</center>
+
+<center>Concerts: 24</center>
+
 
 ### Trading
 Online trading only. Contact me through <a href="mailto:kyratrades@gmail.com?subject=Trade%20request">kyratrades@gmail.com</a> with a list of the item(s) you're interested in. Make the list by copying the whole title on my site.
