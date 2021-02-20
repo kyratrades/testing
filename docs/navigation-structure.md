@@ -20,7 +20,7 @@ permalink: /videos
 
 # \#
 
-## 13 (1)
+## 13
 
 #### 13 - Broadway - September 16, 2008 (Preview)
 {: .no_toc .d-inline-block }
@@ -37,7 +37,7 @@ CAST
 NOTES
 : First Preview. Wonderful, fun and cute show. The young actors are very talented and great performers. High energy from the audience as it was the first performance. Beautiful capture and a solid show with terrific music by Jason Robert Brown. A+
 
-## 1776 (1)
+## 1776
 
 #### 1776 - Encores! - March 31, 2016
 {: .no_toc }
@@ -51,7 +51,7 @@ CAST
 NOTES
 : Great HD capture from the balcony. It is shot from far back and high up, but very nice.
 
-## 1984 (1)
+## 1984
 
 #### 1984 - Broadway - July 1, 2017
 {: .no_toc .d-inline-block }
@@ -68,7 +68,7 @@ CAST
 NOTES
 : Excellent HD capture of George Orwell\'s iconic novel. This controversial and graphic Big Brother play had multiple people leaving their seats. A
 
-## The 25th Annual Putnam County Spelling Bee (2)
+## The 25th Annual Putnam County Spelling Bee
 
 #### The 25th Annual Putnam County Spelling Bee - Off-Broadway - February 15, 2005
 {: .no_toc }
@@ -102,7 +102,7 @@ CAST
 NOTES
 : Beautiful dvd with amazing closeups. Best spelling dvd out there! A+ Significant angle. Playbill shots at the beginning, opening has some cuts. Regular heads, takes about 10 minutes for the taper to settle in. Sometimes labeled July 27 or July 28.
 
-## 42nd Street (11)
+## 42nd Street
 
 #### 42nd Street - Broadway - 1981
 {: .no_toc }
@@ -273,9 +273,9 @@ CAST
 NOTES
 : The West End revival of \"42nd Street\" starring Bonnie Langford as Dorothy Brock who previously played as \"Peggy\" in the UK Tour. Released to cinemas, there are stills some encore screenings going on. This can also be streamed on BroadwayHD. Quality and file format varies across traders. There are currently two file versions being traded. One is a 4GB MP4/MKV and a 8GB MKV. Some may also trade a 2GB MP4/MKV file.
 
-## 9 to 5: The Musical (13)
+## 9 to 5: The Musical
 
-### Pre-Broadway / Los Angeles (4)
+### Pre-Broadway / Los Angeles
 
 #### 9 to 5 - Pre-Broadway (Los Angeles) - September 13, 2008 (Preview)
 {: .no_toc .d-inline-block }
@@ -336,7 +336,7 @@ CAST
 NOTES
 : Final Pre-Broadway Performance! Amazing show and so much fun. This is one of my new favorite shows and one of the funniest musicals I\'ve been to. The three ladies are insanely talented and command, own and steal the show. Stephanie\'s big number, \"Get Out and Stay Out\" will stun you. No obstructions and beautifully captured! A
 
-### Broadway (7)
+### Broadway
 
 #### 9 to 5 - Broadway - 2009 (Highlights)
 {: .no_toc .d-inline-block }
@@ -442,7 +442,7 @@ CAST
 NOTES
 : Final performance! Filmed in 16:9 widescreen. Few obstructions. Only in the wide shots when there are two heads on either side of the frame, but filmer does his/her best to shoot around them. External audio fed into video from MD recorder, so audio is very clear. A mix of close-ups and wider shots when multiple people were on stage to see their interactions. This was a gut-wrenchingly sad performance. Most of the cast members were in tears at some point or another during the show. In particular, Stephanie was sobbing through \"I Just Might\" and Allison started sobbing at the end of \"One of the Boys\". A few minor ad-libs and mishaps. One being when Allison pulled out a tape measure during the urinals bit of \"One of the Boys\". The cast was sad but they were clearly trying to have the times of their lives and go out with a bang. And they fed off the audience energy which was insane and very supportive.
 
-### MISC (2)
+### MISC
 
 #### 9 to 5 - US National Tour - November 6, 2010
 {: .no_toc .d-inline-block }
