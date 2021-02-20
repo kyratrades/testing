@@ -1254,6 +1254,7 @@ NOTES
 : Stephanie makes a remarkable Reno with such a voice and quite different from Sutton. Everything is nicely captured here and includes the new replacements Erin and Jessica. The last four minutes, which is the end of the wedding are audio only. A
 
 #### Anything Goes - Mexico City, Mexico (2012) - July 4, 2010
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -1265,6 +1266,7 @@ NOTES
 : Amateur production. Seems to be very inspired by the 2011 Broadway Revival.
 
 #### Anything Goes - Third National Tour - November 30, 2012
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -1309,6 +1311,7 @@ CAST
 : Rachel York (Reno Sweeney), Josh Franklin (Billy Crocker), Alex Finke (Hope Harcourt), Fred Applegate (Moonface Martin), Edward Staudenmayer (Lord Evelyn Oakleigh), Sandra Shipley (Mrs. Evangeline Harcourt), Dennis Kelly (Elisha J. Whitney), Joyce Chittick (Erma), Vincent Rodriguez III (Luke), Marcus Shane (John), Chuck Wagner (Captain), Jeff Brooks (Purser)
 
 #### Anything Goes - Ogunquit Playhouse/Gateway Playhouse - May 18, 2016 (Highlights)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MP4 \| 720p \| 59.5 MB \| 3m 25s
@@ -1323,6 +1326,7 @@ NOTES
 : The cast perform \"Anything Goes\". The actual date is May 17th 2016.
 
 #### Anything Goes - Ogunquit Playhouse/Gateway Playhouse - July, 2016 (Highlights)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MP4 \| 1080p \| 35.3 MB \| 1m 52s
