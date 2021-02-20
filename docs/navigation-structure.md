@@ -944,6 +944,7 @@ CAST
 ## Annie 2: Miss Hannigan\'s Revenge
 
 #### Annie 2: Miss Hannigan\'s Revenge - Kennedy Center (Washington DC) - December 23, 1989
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls (NO DVD menu)
