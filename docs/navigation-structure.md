@@ -175,7 +175,7 @@ CAST
 NOTES
 : Filmed in 16:9 widescreen. Minor and only occasional obstruction from the woman sitting in front of me who kept leaning forward whenever she laughed at something. Virtually no blackouts (only during transitions) . External audio fed into video from two sources, so audio is clear. Good mix of close-ups and wider shots when multiple people were on stage to see their interactions.
 
-Gaelen makes a great Judy -- very different from SJB, but extremely solid and made the role her own. Allison and Megan were on top of their game as well. A FANTASTIC FLUB occurred when Gaelen's scarf got tangled on her microphone wire and it took Allison a very long time to untie it, and by that time, she'd ad-libbed her way out of it and then collapsed in a heap of laughter. It was definitely one of those moments you're glad to have captured on video!
+: Gaelen makes a great Judy -- very different from SJB, but extremely solid and made the role her own. Allison and Megan were on top of their game as well. A FANTASTIC FLUB occurred when Gaelen's scarf got tangled on her microphone wire and it took Allison a very long time to untie it, and by that time, she'd ad-libbed her way out of it and then collapsed in a heap of laughter. It was definitely one of those moments you're glad to have captured on video!
 
 #### 9 to 5 - Broadway - September 6, 2009 (Closing Night)
 {: .no_toc .d-inline-block }
