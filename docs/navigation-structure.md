@@ -969,7 +969,7 @@ NOTES
 : Pro Shot for TV, Filmed in Black and White
 
 #### Annie Get Your Gun - US Tour - 1993 
-{: .d-inline-block }
+{: .no_toc .d-inline-block }
 
 House-Cam
 {: .label .label-green }
@@ -989,6 +989,7 @@ NOTES
 : Uses original book and music, before revival made it more politically correct. Filmed on a tripod, full stage shot. Sound directly from sound board
 
 #### Annie Get Your Gun - Lincoln Center - March 8, 1998 (Highlights)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -997,6 +998,7 @@ CAST
 : Patti LuPone (Annie Oakley), Peter Gallagher (Frank Butler), Jack Dabdoub (Buffalo Bill (Col. William F. Cody)), Mary Testa (Dolly Tate), Michael McGrath (Charlie Davenport), George Lee Andrews (Pawnee Bill), Eli Wallach (Chief Sitting Bull), Cameron Bowen (Little Jake), Cassidy Ladden (Jessie Oakley), Kimberly Hannon (Nellie Oakley)
 
 #### Annie Get Your Gun - Broadway - 1999
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
