@@ -22,6 +22,64 @@ Shows are organised alphabetically and all videos are in chronological order und
 
 # \#
 
+## & Juliet
+
+#### & Juliet - West End - November, 2019 
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 7.72 GB
+
+CAST
+: Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), David Bedella (Lance), Jocasta Almgill (Lady Capulet/Nell), Ivan de Freitas (Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Nathan Lorainey-Dineen (Gregory), Sophie Usher (s/w Gwynne), Alex Tranter (Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Danielle Fiamanya (Lucy)
+
+NOTES
+: First video released of the show in London and Grace's amazing Juliet debut! Sophie swings on in her track. Video wanders a little bit in the first 5 mins but then great. Not obstructed by any heads. Includes HQ bows.
+
+#### & Juliet - West End - December, 2019 
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 3.63 GB
+
+CAST
+: Miriam-Teak Lee (Juliet), Cassidy Janson (Anne Hathaway), Ivan de Freitas (u/s William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), David Bedella (Lance), Jocasta Almgill (Lady Capulet/Nell), Christopher Parkinson (u/s Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Nathan Lorainey-Dineen (Gregory), Alex Tranter (Henry), Rhian Duncan (Imogen), Grace Mouat (Judith), Kieran Lai (Kempe), Danielle Fiamanya (Lucy), Dillon Scott-Lewis (Richard), Kerri Norville (Susanna)
+
+NOTES
+: Video occasionally has minor obstructions at the bottom of the screen but no action is missed. Doesn\'t include the 'can't stop this feeling' finale.
+
+#### & Juliet - West End - February, 2020
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MTS \| 14.77 GB
+
+CAST
+: Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), Ivan de Freitas (u/s Lance), Jocasta Almgill (Lady Capulet/Nell), Christopher Parkinson (s/w Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Sophie Usher (s/w Gwynne), Alex Tranter (Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Danielle Fiamanya (Lucy), Dillon Scott-Lewis (Richard), Kerri Norville (Susanna), Josh Baker (s/w Thomas)
+
+#### & Juliet - West End - March, 2020 
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 5.12 GB
+
+CAST
+: Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Alex Tranter (u/s Romeo), Dillon Scott-Lewis (u/s Francois), Nathan Lorainey-Dineen (u/s May), Melanie La Barrie (Nurse \"Angelique\"), David Bedella (Lance), Jocasta Almgill (Lady Capulet/Nell), Ivan de Freitas (Lord Capulet/Sly), Antoine Murray-Straughan (Augustine), Billy Nevers (s/w Cuthbert), Sophie Usher (s/w Gwynne), Josh Baker (s/w Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Kerri Norville (Susanna)
+
+NOTES
+: Lots of wide shots with some nice close-ups too. A good video for seeing the set and choreography. Grace has really grown into the role since her debut!
 
 ## 9 to 5: The Musical
 
@@ -568,3 +626,194 @@ FORMAT
 CAST
 : Derrick Baskin (Otis Williams), James Harkness (Paul Williams), Jawan M Jackson (Melvin Franklin), Jeremy Pope (Eddie Kendricks), Ephraim Sykes (David Ruffin), Saint Aubyn (Dennis Edwards), Shawn Bowers (Lamont), Jahi Kearse (Berry Gordy), E Clayton Cornelious (Shelly Berger), Rashidra Scott (Josephine), Christian Thompson (Smokey Robinson), Jarvis B Manning (Al Bryant), Candice Marie Woods (Diana Ross), Taylor Symone Jackson (Johnnie Mae/Mary Wilson)
 
+## Aladdin
+
+#### Aladdin - Pre-Broadway / Toronto - November 3, 2013 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Adam Jacobs (Aladdin), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), James Monroe Iglehart (Genie), Clifton Davis (Sultan), Brian Gonzales (Babkak), Brandon O\'Neill (Kassim), Don Darryl Rivera (Iago), Jonathan Schwartz (Omar)
+
+NOTES
+: Beautiful HD capture with no obstructions! Disney\'s newest theatrical production with a wonderful cast and lots of big production numbers. Sure to be some changes before it hits Broadway! A+
+
+#### Aladdin - Broadway - August 22, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Adam Jacobs (Aladdin), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), James Monroe Iglehart (Genie), Clifton Davis (Sultan), Brian Gonzales (Babkak), Brandon O\'Neill (Kassim), Don Darryl Rivera (Iago), Andrew Cao (u/s Omar)
+
+NOTES
+: Act one has three major blackouts: the scene between Arabian Nights and One Jump Ahead, the scene between One Jump Ahead and Proud of Your Boy, and the last 22 minutes of the act, which is all of Friend Like Me and Act One Finale. There is also a head that blocks center stage and the action is often lost behind it. Act two is much better with no blackouts and only some heads on the bottom that are worked around well. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There's a lot of chatter and rustling from the audience, but the sound is otherwise excellent. Includes playbill scans.
+
+#### Aladdin - Broadway - November 5, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Adam Jacobs (Aladdin), Courtney Reed (Jasmine), Merwin Foard (s/b Jafar), Michael James Scott (s/b Genie)
+
+NOTES
+: Beautiful HD capture of latest Disney Broadway offering. Great to see the changes from the Toronto tryout. Michael and Merwin do terrific jobs as Genie and Jafar. A
+
+#### Aladdin - Broadway - March, 2020 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 5.58 GB
+
+CAST
+: Rodney Ingram (t/r Aladdin), Lauryn Ciardullo (u/s Jasmine), Jonathan Freeman (Jafar), Michael James Scott (Genie), JC Montgomery (Sultan), Brian Gonzales (Babkak), Mike Longo (Kassim), Don Darryl Rivera (Iago), Brad Weinstock (Omar), Jaz Sealey (Prince Abdullah), Alicia Charles (Attendant), Olivia Donalson (Fortune Teller), Jamie Kasey Patterson (Henchman), Charles South (Shop Owner), Mark DiConzo (Razoul), Amber Owens, April Holloway, Bobby Pestka, Jacob Gutierrez, Michael Graceffa, Netanel Bellaishe, Paige Williams, Paul HeeSang Miller, Pierre Marais, Samantha Farrow, Stanley Martin, Tia Altinay, Tyler Roberts
+
+## Alice at the Palace
+
+#### Alice at the Palace - Broadway - July, 1981
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Meryl Streep (Alice), Debbie Allen (Red Queen)
+
+NOTES
+: Filmed without an audience on a sound stage, songs synced to pre-recorded tracks. Released commercially through Broadway Theatre Archive.
+
+## Alice By Heart
+
+#### Alice By Heart - Off-Broadway - March, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 6.64 GB \| With English subtitles
+
+CAST
+: Molly Gordon (Alice Spencer/Alice), Colton Ryan (Alfred Hallam/White Rabbit/March Hare), Wesley Taylor (Harold Pudding/Mad Hatter/Pigeon/Knave of Spades/Mock Mock Turtle), Noah Galvin (Dodgy/Duchess/Dodo/Mock Mock Mock Mock Turtle), Catherine Ricafort (Clarissa/Canary/Queen of Diamonds/Mock Mock Mock Turtle), Kim Blanck (Tabatha/Cheshire Cat/Caterpillar 2), Grace McLean (Red Cross Nurse/Queen of Hearts/Magpie), Heath Saunders (Angus/Caterpillar/Knave of Hearts), Andrew Kober (Dr Butridge/King of Hearts/Duck/Jabberwocky/Mock Turtle), Mia DiLena, Zachary Downer
+
+NOTES
+: Really beautiful shot in an intimate space. Lots of zooms, but a good amount of wider shots too with a very limited (almost nonexistent) amount of heads. The lighting in this theater really liked my camera and I know the show almost "by heart" so I think I followed the action as well as possible. My battery died during the last song, but it starts at the very beginning with only one drop out during dialogue.
+
+## Allegiance
+
+#### Allegiance - Broadway - 2015
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lea Salonga (Kei Kimura), George Takei (Sam Kimura/Ojii-chan), Telly Leung (Sammy Kimura), Katie Rose Clarke (Hannah Campbell), Michael K Lee (Frankie Suzuki), Christòpheren Nomura (Tatsuo Kimura), Greg Watanabe (Mike Masaoka), Darren Lee (Dr. Tanaka/Ben Masaoka), Rumi Oyama (Mrs. Tanaka), Shea Renne (Betsy Tanaka), Scott Watanabe (Mr. Maruyama), Janelle Toyomi Dote (Mrs. Maruyama/Executor), Aaron J Albano (Tom Maruyama), Momoko Sugai (Peggy Maruyama), Marcus Choi (Johnny Goto), Elena Wang (Nan Goto), Dan Horn (Private Evans/Recruiting Officer/Big Band Singer), Scott Wise (Director Dillon/Farmer/Photographer), Kevin Munhall (Private Knight/Federal Agent/Tule Lake Guard)
+
+NOTES
+: The Collector\'s Edition DVD from the Box Set
+
+#### Allegiance - Broadway - October 16, 2015 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lea Salonga (Kei Kimura), George Takei (Sam Kimura/Ojii-chan), Telly Leung (Sammy Kimura), Katie Rose Clarke (Hannah Campbell), Michael K Lee (Frankie Suzuki), Christòpheren Nomura (Tatsuo Kimura), Greg Watanabe (Mike Masaoka)
+
+NOTES
+: Preview. Excellent HD capture of this new musical set in a Japanese internment camp, during World War II. Great performances from the entire cast, George gave a really moving performance! A
+
+## Amadeus
+
+#### Amadeus - National Theatre - February 2, 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV \| 1080p \| 8.29 GB
+
+IMDB
+: <https://www.imdb.com/title/tt6846134/>
+
+CAST
+: Adam Gillen (Wolfgang Amadeus Mozart), Luciene Msamat (Antonio Salieri), Karla Crome (Constanze Weber), Fleur deBray (Katherina Cavalieri), Wendy Dawn Thompson (Teresa Salieri), Tom Edden (Joseph II, Emperor of Austria), Geoffrey Beevers (Baron van Swieten), Andrew MacBean (Guiseppe Bonno), Alexandra Mathie (Count Johann Kilian Von Strack), Hugh Sacks (Count Orsini-Rosenberg), Everal Walsh (Major Domo)
+
+## Amélie
+
+#### Amélie - Berkeley Repertory Theatre - September 5, 2015 (Preview) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Samantha Barks (Amélie Poulain), Savvy Crawford (Young Amélie), Adam Chanler-Berat (Nino Quincampoix), Tony Sheldon (Raymond Dufayel / Collignon), John Hickok (Raphaël Poulain / Bretodeau), Alison Cimmet (Amandine Poulain / Philomene), Maria-Christina Oliveras (Suzanne), Carla Duren (Gina), Alyse Alan Louis (Georgette / Sylvie / Collignon\'s Mother), Randy Blair (Hipolito / Suicidal Tourist / Elton John), Perry Sherman (Lucien / Mysterious Man), Perry Sherman (Adrien Wells/Wallace), Paul Whitty (Fluffy / Collignon\'s Father), Paul Whitty (Joseph), David Andino (Blind Beggar), David Andino (Garden Gnome)
+
+NOTES
+: An adorable and charming new show premiering at Berkeley Repertory. Samantha, Adam, and Savvy are fantastic in their roles, the music is gorgeous, and the sets are beautiful and clever. A very nice capture with just one quick dropout and one small head that can occasionally be seen at the bottom of the screen but never blocks the action. It's filmed in 16:9, with a mix of wides, mediums and close-ups. The sound is excellent. The show runs 1 hour and 40 minutes with no intermission. Includes curtain call and playbill scans. A
+
+#### Amélie - Pre-Broadway/Los Angeles - December 4, 2016 (Preview) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Suspected non-original smalls; Please tell me if you can help me with it!
+
+CAST
+: Phillipa Soo (Amélie Poulain), Savvy Crawford (Young Amélie), Adam Chanler-Berat (Nino Quincampoix), Tony Sheldon (Raymond Dufayel / Collignon), Manoel Felciano (Raphaël Poulain / Bretodeau), Alison Cimmet (Amandine Poulain / Philomene), Harriett D Foy (Suzanne), Maria-Christina Oliveras (Gina), Alyse Alan Louis (Georgette / Sylvie / Collignon\'s Mother), Randy Blair (Hipolito / Suicidal Tourist / Elton John), Heath Calvert (Lucien / Mysterious Man), Heath Calvert (Adrien Wells/Wallace), Paul Whitty (Fluffy / Collignon\'s Father), Paul Whitty (Joseph), David Andino (Blind Beggar), David Andino (Garden Gnome)
+
+NOTES
+: This show is magical, Phillipa is captivating, and the entire ensemble is perfectly quirky. There have been a few changes since Berkeley that tighten up the show a bit and make it ready for Broadway. A near perfect capture with no washout, no obstruction, and just one very quick dropout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+#### Amélie - Broadway - May 12, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Phillipa Soo (Amélie Poulain), Savvy Crawford (Young Amélie), Adam Chanler-Berat (Nino Quincampoix), Tony Sheldon (Raymond Dufayel / Collignon), Manoel Felciano (Raphaël Poulain / Bretodeau), Alison Cimmet (Amandine Poulain / Philomene), Harriett D Foy (Suzanne), Maria-Christina Oliveras (Gina), Alyse Alan Louis (Georgette / Sylvie / Collignon\'s Mother), Randy Blair (Hipolito / Suicidal Tourist / Elton John), Heath Calvert (Lucien / Mysterious Man), Heath Calvert (Adrien Wells/Wallace), Paul Whitty (Fluffy / Collignon\'s Father), Paul Whitty (Joseph), David Andino (Blind Beggar), David Andino (Garden Gnome)
+
+NOTES
+: Great HD capture a week before the closing performance. First 10 or so minutes are full stage shot, then zooming begins. Still a great cast with some great songs and moments in the show. A-
