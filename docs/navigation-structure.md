@@ -817,3 +817,136 @@ CAST
 
 NOTES
 : Great HD capture a week before the closing performance. First 10 or so minutes are full stage shot, then zooming begins. Still a great cast with some great songs and moments in the show. A-
+
+## An American in Paris
+
+#### An American in Paris - First National Tour - March 23, 2017 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Garen Scribner (Jerry Mulligan), Sara Esty (Lise Dassin), Etai Benson (Adam Hochberg), Emily Ferranti (Milo Davenport), Nick Spangler (Henri Baurel), Gayton Scott (Madame Baurel)
+
+NOTES
+: A wonderful capture of the tour cast with no obstructions or washout and just a few quick dropouts. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. The best American in Paris video out there.
+
+## Anastasia
+
+#### Anastasia - Pre-Broadway / Hartford - June 15, 2016 (Matinee) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Christy Altomare (Anya), Derek Klena (Dmitry), Manoel Felciano (Gleb Vaganov), John Bolton (Vlad Popov), Caroline O'Connor (Countess Lily Malevsky-Malevitch), Mary Beth Peil (Dowager Empress Maria Feodorovna), Nicole Scimeca (Little Anastasia / Prince Alexei Romanov), Molly Rushing (Young Anastasia / Paulina)
+
+#### Anastasia - Broadway - June 28, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Christy Altomare (Anya), Derek Klena (Dmitry), Ramin Karimloo (Gleb Vaganov), John Bolton (Vlad Popov), Caroline O'Connor (Countess Lily Malevsky-Malevitch), Mary Beth Peil (Dowager Empress Maria Feodorovna), Nicole Scimeca (Little Anastasia / Prince Alexei Romanov), Lauren Blackman (Tsarina Alexandra), Constantine Germanacos (Tsar Nicholas II / Count Ipolitov), Allison Walsh (Olga Romanov), Shina Ann Morris (Tatiana Romanov / Dunya), Sissy Bell (Maria Romanov / Marfa), Molly Rushing (Young Anastasia / Paulina), Ken Krugman (Count Leopold), Allison Walsh (Odette in Swan Lake), Kyle Brown (Prince Siegfried in Swan Lake), Wes Hart (Russian Doorman)
+
+NOTES
+: Great HD capture of the Broadway transfer. There are a few short scenes/moments far stage right blocked by a head, but nothing major. Beautiful production, performances and cast to match! A-
+
+## Annie
+
+#### Annie - 30th Anniversary Tour - October 1, 2006
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Marissa O\'Donnell (Annie), Alene Robertson (Miss Hannigan), David Chernault (u/s Oliver \"Daddy\" Warbucks), Elizabeth Broadhurst (Grace Farrell), Scott Willis (Rooster Hannigan), Ashley Pucket Gonzales (Lily St. Regis), Monica L Patton (Star to Be)
+
+NOTES
+: Shot 14 Rows back from the stage, amazing closups, heads in some frames at times, but not much. Wonderful production Annie and the Star to Be were sensational. Best Annie out there. A-
+
+#### Annie - North Shore Music Theatre, Beverly MA - 2012
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lauren Weintraub (Annie), Jacquelyn Piro Donovan (Miss Hannigan), Raymond Jaramillo McLeod (Oliver \"Daddy\" Warbucks), Jessica Tyler Wright (Grace Farrell)
+
+NOTES
+: Pro-shot. Presented \"in-the-round\" by the North Shore Music Theatre. Filmed using one camera on a tripod with audio patched in from the sound board. The disc also includes a three minute highlights montage used for promotional purposes.
+
+#### Annie - Second Broadway Revival - October 3, 2012 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lilla Crawford (Annie), Katie Finneran (Miss Hannigan), Anthony Warlow (Oliver \"Daddy\" Warbucks), Brynn O\'Malley (Grace Farrell), Clarke Thorell (Rooster Hannigan)
+
+NOTES
+: Excellent HD capture of this sparkly first performance Broadway Revival. Lilla is great in the role of Annie and really delivers. Katie as you would guess, makes a terrific Hannigan and so funny in the role! A great top notch revival! A
+
+#### Annie - Second Broadway Revival - July 14, 2013
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lilla Crawford (Annie), Jane Lynch (Miss Hannigan), Anthony Warlow (Oliver \"Daddy\" Warbucks), Brynn O\'Malley (Grace Farrell), Clarke Thorell (Rooster Hannigan), J Elaine Marcos (Lily St. Regis)
+
+NOTES
+: Excellent HD capture of Jane in the role of Ms. Hannigan. Act one is beautifully captured, but missing the last two minutes. Act two is a blackout for the first 5 minutes and a mostly midstage for the rest of act two. A-
+
+#### Annie - Fifteenth UK Tour - November, 2019
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MTS
+
+CAST
+: Ava Smith (Annie), Lesley Joseph (Miss Hannigan), Alex Bourne (Oliver \"Daddy\" Warbucks), Carolyn Maitland (Grace Farrell), Richard Meek (Rooster Hannigan), Jenny Gayner (Lily St. Regis), Florrie May Wilkinson (Molly), Aliya Bashir (Pepper), Marlie Olivia Love (Duffy), Isobelle Chalmers (July), Emily-May Stephenson (Kate)
+
+## Annie 2: Miss Hannigan\'s Revenge
+
+#### Annie 2: Miss Hannigan\'s Revenge - Kennedy Center (Washington DC) - December 23, 1989
+
+FORMAT
+: VOB+smalls (NO DVD menu)
+
+CAST
+: Danielle Findley (Annie), Dorothy Loudon (Miss Hannigan), Harve Presnell (Oliver \'Daddy\' Warbucks), Lauren Mitchell (Grace Farrell), Marian Seldes (Marietta Christmas), Terrence P Currier (Drake), Ronny Graham (Lionel McCoy), TJ Meyers (Babe Ruth), Raymond Thorne (F.D.R.), Scott Robertson (Charlie Spinoli)
+
+NOTES
+: This first attempt at a sequel to Annie, Annie 2: Miss Hannigan\'s Revenge, opened at the John F. Kennedy Center for the Performing Arts in Washington, D.C. in December 1989 to universally disastrous reviews. Extensive reworking of the script and score proved futile, and the project ended before officially reaching Broadway; newly surfaced video was filmed from the balcony. Shot between heads, and the balcony railing is visible, but not too bad-you still get a good feel for the show. Recorded at the second night performance. Some generational loss. B
