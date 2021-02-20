@@ -8,6 +8,8 @@ permalink: /videos
 # Videos
 {: .no_toc }
 
+Shows are organised alphabetically and all videos are in chronological order under each show. If a show is sub-divided by tour, the tours will be organised in chronological order as well.
+
 <details close markdown="block">
   <summary>
     Table of contents
