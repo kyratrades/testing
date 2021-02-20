@@ -560,6 +560,9 @@ NOTES
 FORMAT
 : VOB+smalls
 
+COMMENTS
+: A great capture! Follows the action quite well despite a few quick dropouts. Rachel is amazing as Morticia.
+
 CAST
 : Bronson Pinchot (Gomez Addams), Rachel York (Morticia Addams), Micaela Martinez (Wednesday Addams), Anthony Grupposo (Fester Addams), Dante Marenco (Pugsley Addams), Candi Milo (Grandma Addams), Dustin Ceithamer (Lurch), Tracy Rowe Mutz (Alice Beineke), Robert Yacko (Mal Beineke), Dino Nicandros (Lucas Beineke)
 
@@ -1056,3 +1059,279 @@ CAST
 
 NOTES
 : Very nice capture of the two-night only concert. Recorded from the back of the Balcony, but everything is nicely captured!
+
+## Anyone Can Whistle
+
+#### Anyone Can Whistle - Carnegie Hall Concert - April 8, 1995
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Madeline Kahn (Cora Hoover Hooper), Bernadette Peters (Fay Apple), Scott Bakula (J. Bowden Hapgood), Walter Bobbie (Comptroller Schub), Nick Wyman (Dr. Detmold), Chip Zien (Treasurer Cooley), Ken Page (Chief Magruder)
+
+#### Anyone Can Whistle - Ravina Festival - August, 2005
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patti LuPone (Cora Hoover Hooper), Audra McDonald (Fay Apple), Michael Cerveris (J. Bowden Hapgood), Ray Wills (Comptroller Schub), Peter Mohawk (Dr. Detmold), Jerry Galante (Treasurer Cooley), David Mendes (Chief Magruder), Christine Sherrill (June), Jason Bayle (John)
+
+#### Anyone Can Whistle - Encores! - April 10, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Donna Murphy (Cora Hoover Hooper), Sutton Foster (Fay Apple), Raúl Esparza (J. Bowden Hapgood), Edward Hibbert (Comptroller Schub), Patrick Wetzel (Dr. Detmold), Jeff Blumenkrantz (Treasurer Cooley), John Ellison Conlee (Chief Magruder), Max Kumangai (Martin), Tally Sessions (George), Holly Ann Butler (Osgood), Sara Jean Ford (June), Michael Marcotte (John), Linda Griffin (Mrs. Schroeder), Dana Steingold (Baby Joan), Anthony Wayne, Clyde Alves, Eric Sciotto, Grasan Kingsberry
+
+NOTES
+: Includes the talkback with Stephen Sondheim, Casey Nicholaw and others.
+
+## Anything Goes
+
+#### Anything Goes - Television Special - February 28, 1954
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: NO watermark, would trade for the other version!
+
+CAST
+: Ethel Merman (Reno Sweeney), Frank Sinatra (Harry Dane), Bert Lahr (Moonface Martin), Arthur Gould-Porter (Lord Evelyn Oakleigh), Sheree North (Bonnie), Lou Krugman (Purser)
+
+NOTES
+: NBC Pro-Shot. Part of the \"Colgate Comedy Hour\". A beautiful remastered version of this exists, however there is a timer and watermark.
+
+#### Anything Goes - First Broadway Revival - 1988
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patti LuPone (Reno Sweeney), Howard McGillin (Billy Crocker), Kathleen Mahoney-Bennett (Hope Harcourt), Bill McCutcheon (Moonface Martin), Anthony Heald (Lord Evelyn Oakleigh), Rex Everhart (Elisha J. Whitney), Linda Hart (Erma)
+
+NOTES
+: Starts from \"I Get a kick out of you\". Grainy footage, some blur. Patti LuPone\'s voice is absolutely sublime.
+
+#### Anything Goes - First Broadway Revival - 1988 (2) (Highlights)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patti LuPone (Reno Sweeney)
+
+NOTES
+: Usually labelled as the \"Almost\" Lost Footage of the Lincoln Center Revival from 1988. 20 minutes of footage shot on a single camera from a tripod, on stage right, of the following numbers: \"You\'re the Top,\" \"Easy to Love,\" \"I Want to Row on the Crew\" and \"There\'ll Always be a Lady Fair,\" with dialogue scenes between each song. This is not the poor video quality bootleg that is commonly shared, but is well filmed, with lots of close ups, but some generational loss. It could either have been press reel footage or an archival recording. It usually circulates along with An Evening with Patti LuPone, a PBS television special from 1997 at the Callum Theatre in the Palm Desert Resort hotel in Palm Springs, CA. This lasts around 90 minutes.
+
+#### Anything Goes - Pittsburgh - November 18, 1988
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lenora Nemetz (Reno Sweeney), Ray Benson (Billy Crocker)
+
+NOTES
+: Produced by the Pittsburgh Playhouse. The production was modeled after the 1987 Patti LuPone revival, using similar sets and staging. Filmed almost entirely in wider full stage shots. Some slight generational loss, and spotlight washout. B+
+
+#### Anything Goes - West End - November 30, 1989
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Elaine Paige (Reno Sweeney), Howard McGillin (Billy Crocker), Ashleigh Sendin (Hope Harcourt), Bernard Cribbins (Moonface Martin), Martin Turner (Lord Evelyn Oakleigh), Ursula Smith (Mrs. Evangeline Harcourt), Harry Towb (Elisha J. Whitney), Kathryn Evans (Erma)
+
+NOTES
+: What you'd expect for a video this old. Not a great shoot - lots of heads - and more "follow the glowing blob" than any sort of detail. Audio is nice and clean. Cuts off at just under two hours.
+
+#### Anything Goes - Berlin - 1993
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Helen Schneider, Ralf Wolter, Hartwig Rudolz, Cusch Jung, Michelle Becker, Alfred Müller, Monica Solem
+
+NOTES
+: The footage is all over the place, the show IS NOT IN ORDER. Includes extra footage from dressing rooms, backstage and the wings. This footage seems to have been a shot by one of the cast or crew.
+
+#### Anything Goes - Paper Mill Playhouse - 2000
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Chita Rivera (Reno Sweeney), George Dvorsky (Billy Crocker), Stacey Logan (Hope Harcourt), Bruce Adler (Moonface Martin), Patrick Quinn (Lord Evelyn Oakleigh)
+
+NOTES
+: Previously labelled as \"Housecam\", this is a pro-shot video. Mixed with soundboard.
+
+#### Anything Goes - First West End Revival (Drury Lane) - July 17, 2004
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Non-original smalls; Would trade for original files
+
+CAST
+: Sally Ann Triplett (Reno Sweeney), John Barrowman (Billy Crocker), Mary Stockley (Hope Harcourt), Martin Marquez (Moonface Martin), Simon Day (Lord Evelyn Oakleigh), Susan Tracy (Mrs. Evangeline Harcourt)
+
+NOTES
+: Starts from Reno\'s entrance on the ship though this scene is mostly blocked until a few seconds later. Filmed from center balcony so there\'s some good wideshots.
+
+#### Anything Goes - Second Broadway Revival - April 3, 2011 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sutton Foster (Reno Sweeney), Colin Donnell (Billy Crocker), Laura Osnes (Hope Harcourt), Joel Grey (Moonface Martin), Adam Godley (Lord Evelyn Oakleigh), Jessica Walter (Mrs. Evangeline Harcourt), John McMartin (Elisha J. Whitney), Jessica Stone (Erma)
+
+NOTES
+: Sensational revival and stunning production. Sutton of course is talented beyond words and it truely shows. Such a fun revival and everything is beautifully captured here. A
+
+#### Anything Goes - Second Broadway Revival - November 15, 2011
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: AMAZINGLY shot (turn on mono for Act 1) + Act 2 worked for me in VLC
+
+CAST
+: Stephanie J Block (Reno Sweeney), Colin Donnell (Billy Crocker), Erin Mackey (Hope Harcourt), Joel Grey (Moonface Martin), Adam Godley (Lord Evelyn Oakleigh), Kelly Bishop (Mrs. Evangeline Harcourt)
+
+NOTES
+: Great audio and video, but the mic seems to get covered midway through the second act until the end of the recording, muting the audio quite severely.
+
+#### Anything Goes - Second Broadway Revival - November 19, 2011
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Reno Sweeney), Colin Donnell (Billy Crocker), Erin Mackey (Hope Harcourt), Joel Grey (Moonface Martin), Adam Godley (Lord Evelyn Oakleigh), Kelly Bishop (Mrs. Evangeline Harcourt), John McMartin (Elisha J. Whitney), Jessica Stone (Erma)
+
+NOTES
+: Stephanie makes a remarkable Reno with such a voice and quite different from Sutton. Everything is nicely captured here and includes the new replacements Erin and Jessica. The last four minutes, which is the end of the wedding are audio only. A
+
+#### Anything Goes - Mexico City, Mexico (2012) - July 4, 2010
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Diego Tubilla, Fernando Hijar, Daniel Rodriguez, Patricia de la Garza, Manuel Sentíes, Fernando Mitre, Mario Cassán, Jonathan Ugalde, Diego Tenorio
+
+NOTES
+: Amateur production. Seems to be very inspired by the 2011 Broadway Revival.
+
+#### Anything Goes - Third National Tour - November 30, 2012
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: NO DVD menu; Quite shaky but good sound
+
+CAST
+: Rachel York (Reno Sweeney), Erich Bergen (Billy Crocker), Alex Finke (Hope Harcourt), Fred Applegate (Moonface Martin), Edward Staudenmayer (Lord Evelyn Oakleigh), Sandra Shipley (Mrs. Evangeline Harcourt), Dennis Kelly (Elisha J. Whitney), Joyce Chittick (Erma)
+
+NOTES
+: One head on the right side of the screen, but it never blocks the action; no blackouts and very little washout throughout the show. Filmed in 16:9 with a mix of wides, mediums, and close-ups. Great sound; video includes curtain call and BC/EFA speech.
+
+#### Anything Goes - Third National Tour - March 23, 2013
+{: .no_toc .d-inline-block }
+
+Lanelle
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: VERY well shot (best capture of Rachel as Reno)
+
+CAST
+: Rachel York (Reno Sweeney), Josh Franklin (Billy Crocker), Alex Finke (Hope Harcourt), Fred Applegate (Moonface Martin)
+
+#### Anything Goes - Third National Tour - September 29, 2013 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Average picture quality, but very steady shot
+
+CAST
+: Rachel York (Reno Sweeney), Josh Franklin (Billy Crocker), Alex Finke (Hope Harcourt), Fred Applegate (Moonface Martin), Edward Staudenmayer (Lord Evelyn Oakleigh), Sandra Shipley (Mrs. Evangeline Harcourt), Dennis Kelly (Elisha J. Whitney), Joyce Chittick (Erma), Vincent Rodriguez III (Luke), Marcus Shane (John), Chuck Wagner (Captain), Jeff Brooks (Purser)
+
+#### Anything Goes - Ogunquit Playhouse/Gateway Playhouse - May 18, 2016 (Highlights)
+
+FORMAT
+: MP4 \| 720p \| 59.5 MB \| 3m 25s
+
+COMMENTS
+: Will trade this as the equivalent of one audio
+
+CAST
+: Andrea McArdle (Reno Sweeney), Josh Canfield (Billy Crocker), Ray DeMattis (Moonface Martin), Ian Knauer (Lord Evelyn Oakleigh), Sally Struthers (Mrs. Evangeline Harcourt), Mychal Phillips (Erma)
+
+NOTES
+: The cast perform \"Anything Goes\". The actual date is May 17th 2016.
+
+#### Anything Goes - Ogunquit Playhouse/Gateway Playhouse - July, 2016 (Highlights)
+
+FORMAT
+: MP4 \| 1080p \| 35.3 MB \| 1m 52s
+
+COMMENTS
+: Will trade this as the equivalent of one audio
+
+CAST
+: Andrea McArdle (Reno Sweeney), Josh Canfield (Billy Crocker), Ray DeMattis (Moonface Martin), Ian Knauer (Lord Evelyn Oakleigh), Sally Struthers (Mrs. Evangeline Harcourt), Mychal Phillips (Erma)
+
+NOTES
+: The first half of Delovely filmed from the right side wings. The quality is pretty good.
