@@ -173,7 +173,9 @@ CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Gaelen Gilliland (u/s Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Dan Cooney (Dick), Van Hughes (Josh), Jeremy Davis (Bob Enright), Jessica Lea Patty (u/s Maria), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Charlie Pollock (Dwight), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
 
 NOTES
-: **Ann Harada\'s last** performance. Super funny **blooper** when Gaelen\'s scarf got tangled in the wire of her mic, and Allison Janney struggled to untie it while trying to ad-lib her way out of it, and when she finally unties it, Allison dramatically collapses on a desk in exasperation.
+: Filmed in 16:9 widescreen. Minor and only occasional obstruction from the woman sitting in front of me who kept leaning forward whenever she laughed at something. Virtually no blackouts (only during transitions) . External audio fed into video from two sources, so audio is clear. Good mix of close-ups and wider shots when multiple people were on stage to see their interactions.
+
+Gaelen makes a great Judy -- very different from SJB, but extremely solid and made the role her own. Allison and Megan were on top of their game as well. A FANTASTIC FLUB occurred when Gaelen's scarf got tangled on her microphone wire and it took Allison a very long time to untie it, and by that time, she'd ad-libbed her way out of it and then collapsed in a heap of laughter. It was definitely one of those moments you're glad to have captured on video!
 
 #### 9 to 5 - Broadway - September 6, 2009 (Closing Night)
 {: .no_toc .d-inline-block }
@@ -565,3 +567,4 @@ FORMAT
 
 CAST
 : Derrick Baskin (Otis Williams), James Harkness (Paul Williams), Jawan M Jackson (Melvin Franklin), Jeremy Pope (Eddie Kendricks), Ephraim Sykes (David Ruffin), Saint Aubyn (Dennis Edwards), Shawn Bowers (Lamont), Jahi Kearse (Berry Gordy), E Clayton Cornelious (Shelly Berger), Rashidra Scott (Josephine), Christian Thompson (Smokey Robinson), Jarvis B Manning (Al Bryant), Candice Marie Woods (Diana Ross), Taylor Symone Jackson (Johnnie Mae/Mary Wilson)
+
