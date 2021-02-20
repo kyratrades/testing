@@ -361,14 +361,17 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
 : VOB+smalls
 
+COMMENTS
+: Non-original smalls; Would trade for original files
+
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
-
-NOTES
-: Beautiful capture of this amazing show. Terrific show with so much talent and wonderful fun songs. Stephanie contiunes to knock it out of the park, Megan is pure perfection and Allison comedic time is hilarious. There are no obstructions in this wonderful capture. A+
 
 #### 9 to 5 - Broadway - April 11, 2009 (Preview)
 {: .no_toc .d-inline-block }
@@ -414,14 +417,9 @@ NOTES
 
 juniper47
 {: .label .label-blue }
-Issues
-{: .label .label-red }
 
 FORMAT
 : VOB+smalls
-
-COMMENTS
-: Non-original smalls; Would trade for original files
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Gaelen Gilliland (u/s Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Dan Cooney (Dick), Van Hughes (Josh), Jeremy Davis (Bob Enright), Jessica Lea Patty (u/s Maria), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Charlie Pollock (Dwight), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
