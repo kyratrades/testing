@@ -475,5 +475,93 @@ CAST
 NOTES
 : Excellent HD capture of George Orwell\'s iconic novel. This controversial and graphic Big Brother play had multiple people leaving their seats. A
 
+# A
 
+## The Addams Family
 
+#### The Addams Family - Pre-Broadway / Chicago - December 27, 2009
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Nathan Lane (Gomez Addams), Bebe Neuwirth (Morticia Addams), Krysta Rodriguez (Wednesday Addams), Kevin Chamberlin (Fester Addams), Adam Riegler (Pugsley Addams), Jackie Hoffman (Grandma Addams), Zachary James (Lurch), Carolee Carmello (Alice Beineke), Terrence Mann (Mal Beineke)
+
+NOTES
+: Beautiful capture of the show that is sure to change before Broadway. The talent is wonderful from every aspect and there are a lot great moments in the show. A
+
+#### The Addams Family - Fullerton, CA - October 24, 2015
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bronson Pinchot (Gomez Addams), Rachel York (Morticia Addams), Micaela Martinez (Wednesday Addams), Anthony Grupposo (Fester Addams), Dante Marenco (Pugsley Addams), Candi Milo (Grandma Addams), Dustin Ceithamer (Lurch), Tracy Rowe Mutz (Alice Beineke), Robert Yacko (Mal Beineke), Dino Nicandros (Lucas Beineke)
+
+## Aida
+
+#### Aida - Broadway - March 29, 2000 (Matinee)
+{: .no_toc .d-inline-block }
+
+Major
+{: .label .label-blue }
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Non-original smalls; Would trade for original files
+
+CAST
+: Heather Headley (Aida), Adam Pascal (Radames), Sherie Rene Scott (Amneris), John Hickok (Zoser), Schele Williams (Nehebka), Damian Perkins (Mereb)
+
+NOTES
+: Amazing quality for the early 2000s. Digital if I\'m not mistaken. Audio holds up well.
+
+#### Aida - Broadway - May 13, 2001
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Maya Days (Aida), Will Chase (Radames), Taylor Dayne (Amneris), Tyrees Allen (Amonasro), John Hickok (Zoser)
+
+NOTES
+: Often trades as May 19, 2001. But watch out, completely different cast. Date is most likely wrong, as Heather Headley was still playing Aida at this point. Idina Menzel only played Amneris Sep 13, 2001 - Jan 27, 2002.
+
+#### Aida - Broadway - May 19, 2001
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Non-original smalls; Would trade for original files
+
+CAST
+: Heather Headley (Aida), Will Chase (u/s Radames), Taylor Dayne (Amneris), John Hickok (Zoser)
+
+NOTES
+: Only recording of Taylor Dayne as Amneris. Filmed around a head, bottom center.
+
+## Ain\'t Too Proud
+
+#### Ain\'t Too Proud - Pre-Broadway Tour - August 24, 2018 (Opening Night)
+{: .no_toc .d-inline-block }
+
+thehouseonsunset
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Derrick Baskin (Otis Williams), James Harkness (Paul Williams), Jawan M Jackson (Melvin Franklin), Jeremy Pope (Eddie Kendricks), Ephraim Sykes (David Ruffin), Saint Aubyn (Dennis Edwards), Shawn Bowers (Lamont), Jahi Kearse (Berry Gordy), E Clayton Cornelious (Shelly Berger), Rashidra Scott (Josephine), Christian Thompson (Smokey Robinson), Jarvis B Manning (Al Bryant), Candice Marie Woods (Diana Ross), Taylor Symone Jackson (Johnnie Mae/Mary Wilson)
