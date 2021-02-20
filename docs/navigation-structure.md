@@ -950,3 +950,107 @@ CAST
 
 NOTES
 : This first attempt at a sequel to Annie, Annie 2: Miss Hannigan\'s Revenge, opened at the John F. Kennedy Center for the Performing Arts in Washington, D.C. in December 1989 to universally disastrous reviews. Extensive reworking of the script and score proved futile, and the project ended before officially reaching Broadway; newly surfaced video was filmed from the balcony. Shot between heads, and the balcony railing is visible, but not too bad-you still get a good feel for the show. Recorded at the second night performance. Some generational loss. B
+
+## Annie Get Your Gun
+
+#### Annie Get Your Gun - NBC - November 27, 1957
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV \| 1080p \| 4.40 GB \| Blu-ray rip
+
+CAST
+: Mary Martin (Annie Oakley)
+
+NOTES
+: Pro Shot for TV, Filmed in Black and White
+
+#### Annie Get Your Gun - US Tour - 1993 
+{: .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: \*\*LAST VOB MISSING\*\*, definitely would trade for a new copy
+
+CAST
+: Cathy Rigby (Annie Oakley), Brent Barrett (Frank Butler)
+
+NOTES
+: Uses original book and music, before revival made it more politically correct. Filmed on a tripod, full stage shot. Sound directly from sound board
+
+#### Annie Get Your Gun - Lincoln Center - March 8, 1998 (Highlights)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patti LuPone (Annie Oakley), Peter Gallagher (Frank Butler), Jack Dabdoub (Buffalo Bill (Col. William F. Cody)), Mary Testa (Dolly Tate), Michael McGrath (Charlie Davenport), George Lee Andrews (Pawnee Bill), Eli Wallach (Chief Sitting Bull), Cameron Bowen (Little Jake), Cassidy Ladden (Jessie Oakley), Kimberly Hannon (Nellie Oakley)
+
+#### Annie Get Your Gun - Broadway - 1999
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bernadette Peters (Annie Oakley), Tom Wopat (Frank Butler), Valerie Wright (Dolly Tate), Peter Marx (Charlie Davenport)
+
+#### Annie Get Your Gun - Broadway - May 15, 2001
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Reba McEntire (Annie Oakley), Brent Barrett (Frank Butler)
+
+#### Annie Get Your Gun - Ravinia Festival, Highland Park, IL - August 15, 2010
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patti LuPone (Annie Oakley), Patrick Cassidy (Frank Butler), George Hearn (Buffalo Bill (Col. William F. Cody)), Suzanne Sole (Dolly Tate), Michael Weber (Charlie Davenport), Joseph Anthony Foronda (Chief Sitting Bull)
+
+NOTES
+: A great capture of Patti in the role of Annie Oakley at the famous outdoor venue in Highland Park, IL. A few spots are slightly shakey due to the size of venue and zoom. A-
+
+#### Annie Get Your Gun - UK Tour - 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls (NO DVD menu)
+
+CAST
+: Emma Williams (Annie Oakley), Jason Donovan (Frank Butler), Norman Pace (Buffalo Bill (Col. William F. Cody))
+
+NOTES
+: Full stage, almost like a house cam. No zooms. Audio is a bit muffled.
+
+#### Annie Get Your Gun - Encores! - October 27, 2015 (Opening Night) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Megan Hilty (Annie Oakley), Andy Karl (Frank Butler), Ron Raines (Buffalo Bill (Col. William F. Cody)), Judy Kaye (Dolly Tate), Brad Oscar (Charlie Davenport), Chuck Cooper (Pawnee Bill), Marshall Factora (Chief Sitting Bull), Sam Chuck (Little Jake)
+
+NOTES
+: Very nice capture of the two-night only concert. Recorded from the back of the Balcony, but everything is nicely captured!
