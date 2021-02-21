@@ -984,7 +984,7 @@ FORMAT
 : VOB+smalls
 
 COMMENTS
-: \*\*LAST VOB MISSING\*\*, definitely would trade for a new copy
+: **\*\*LAST VOB MISSING\*\*** Definitely would trade for a new copy
 
 CAST
 : Cathy Rigby (Annie Oakley), Brent Barrett (Frank Butler)
