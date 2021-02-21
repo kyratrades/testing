@@ -1318,7 +1318,7 @@ FORMAT
 : MP4 \| 720p \| 59.5 MB \| 3m 25s
 
 COMMENTS
-: Will trade this as the equivalent of one audio
+: Will trade this out as the equivalent of one audio
 
 CAST
 : Andrea McArdle (Reno Sweeney), Josh Canfield (Billy Crocker), Ray DeMattis (Moonface Martin), Ian Knauer (Lord Evelyn Oakleigh), Sally Struthers (Mrs. Evangeline Harcourt), Mychal Phillips (Erma)
@@ -1333,10 +1333,125 @@ FORMAT
 : MP4 \| 1080p \| 35.3 MB \| 1m 52s
 
 COMMENTS
-: Will trade this as the equivalent of one audio
+: Will trade this out as the equivalent of one audio
 
 CAST
 : Andrea McArdle (Reno Sweeney), Josh Canfield (Billy Crocker), Ray DeMattis (Moonface Martin), Ian Knauer (Lord Evelyn Oakleigh), Sally Struthers (Mrs. Evangeline Harcourt), Mychal Phillips (Erma)
 
 NOTES
 : The first half of Delovely filmed from the right side wings. The quality is pretty good.
+
+## Aspects of Love
+
+#### Aspects of Love - Broadway - March 1, 1991
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sarah Brightman (Rose Vibert), Kevin Cullum (Alex Dillingham), Barry Ingham (George Dillingham)
+
+## Assassins
+
+#### Assassins - Off-Broadway - December 21, 1990
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: William Parry (The Proprietor), Patrick Cassidy (Balladeer/Lee Harvey Oswald), Victor Garber (John Wilkes Booth), Debra Monk (Sara Jane Moore), Annie Golden (Lynette \"Squeaky\" Fromme), Greg Germann (John Hinckley, Jr.), Lee Wilkof (Samuel Byck), Terrence Mann (Leon Czolgosz), Jonathan Hadary (Charles Guiteau)
+
+NOTES
+: Lap shot with no zooms from the front of the theatre. Right top and bottom corners are blacked out by a head, blocks about a third of the screen.
+
+#### Assassins - Pegasus Players, Chicago IL - December 21, 1993
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Will Chase (The Balladeer), Scott Lowell (John Wilkes Booth), Meredith Brickett (Sara Jane Moore), Lori Scarlett (Lynette \"Squeaky\" Fromme), Christopher Eudy (John Hinckley, Jr.), Jeff Still (Samuel Byck), Stef Tovar (Leon Czolgosz), Chris McNamara (Charles Guiteau), Anthony Cesarelli
+
+#### Assassins - Broadway - April, 2004 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Partially corrupted, but much higher quality than the commonly circulated copy
+
+CAST
+: Marc Kudisch (The Proprietor), Neil Patrick Harris (Balladeer/Lee Harvey Oswald), Michael Cerveris (John Wilkes Booth), Becky Ann Baker (Sara Jane Moore), Mary Catherine Garrison (Lynette \"Squeaky\" Fromme), Alexander Gemignani (John Hinckley, Jr.), Mario Cantone (Samuel Byck), Jeffrey Kuhn (Giuseppe Zangara), Anne L Nathan (Emma Goldman), James Barbour (Leon Czolgosz), Denis O\'Hare (Charles Guiteau)
+
+NOTES
+: There are 2 full length videos from this production that circulate with various dates and copies. This one is most commonly listed as April 4th or 10th, but has also been listed as April 20th, 24th, and has even been mixed up with the May 29th video. Check your copy against the screenshots to see which one you have.
+
+#### Assassins - Broadway - May 29, 2004
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Marc Kudisch (The Proprietor), Neil Patrick Harris (Balladeer/Lee Harvey Oswald), Michael Cerveris (John Wilkes Booth), Eamon Foley (Billy), James Clow (President Gerald Ford/James Blaine), Becky Ann Baker (Sara Jane Moore), Mary Catherine Garrison (Lynette \"Squeaky\" Fromme), Alexander Gemignani (John Hinckley, Jr.), Mario Cantone (Samuel Byck), Jeffrey Kuhn (Giuseppe Zangara), James Barbour (Leon Czolgosz), Merwin Foard (President James Garfield), Denis O\'Hare (Charles Guiteau)
+
+NOTES
+: There are two full length videos of this production which circulate under various dates. This one is most commonly listed as May 29th, but has also been circulated as April 20th, or confused with the other April video and listed as the 4th or 10th. Check your screencaps to confirm which performance you have.
+
+#### Assassins - Encores! - July 14, 2017 
+{: .no_toc .d-inline-block }
+
+ NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ethan Lipton (The Proprietor), Clifton Duncan (The Balladeer), Cory Michael Smith (Lee Harvey Oswald), Steven Pasquale (John Wilkes Booth), Victoria Clark (Sara Jane Moore), Erin Mackey (Lynette \"Squeaky\" Fromme), Steven Boyer (John Hinckley, Jr.), Danny Wolohan (Samuel Byck), Alex Brightman (Giuseppe Zangara), Shuler Hensley (Leon Czolgosz), John Ellison Conlee (Charles Guiteau), Andrew Durand, Damian Baldet, Eddie Cooper, Eryn Lecroy, Hudson Loverro, Pearl Sun
+
+NOTES
+: There is about a 90 second drop out towards the end in a book scene but screen caps have been overlaid over the audio so it\'s not just a black screen.
+
+# B
+
+## Back to the Future: The Musical
+
+#### Back to the Future: The Musical - Manchester Opera House - February, 2020 (Preview) 
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 3.71 GB
+
+CAST
+: Olly Dobson (Marty McFly), Roger Bart (Dr. Emmett Brown), Hugh Coles (George McFly), Rosanna Hyland (Lorraine Baines-McFly), Cedric Neal (Goldie Wilson / Marvin Berry), Aidan Cutler (Biff Tannen), Courtney-Mae Briggs (Jennifer Parker), Mark Oxtoby (Gerald Strickland), Will Haswell (Dave McFly), Emma Lloyd (Linda McFly)
+
+NOTES
+: Preview performance of BTTF\'s pre-West End run. Obstructed by one head. Obstructed by a few heads. Missing the last 15 minutes.
+
+## The Band Wagon
+
+#### The Band Wagon - Encores! - November 13, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: **\*\*DO NOT REQUEST\*\*** Missing VTS_01_3.VOB, looking for original files
+
+CAST
+: Brian Stokes Mitchell (Tony Hunter), Tracey Ullman (Lily Martin), Michael McKean (Lester Martin), Tony Sheldon (Jeffrey Cordoba), Laura Osnes (Gabrielle Gerard), Michael Berresse (Paul Byrd), Don Stephenson (Hal Meadows)
+
+NOTES
+: Very good video with clear sound and some spotlight washout but excellent close-ups and well filmed full stage shots for the dancing scenes.
