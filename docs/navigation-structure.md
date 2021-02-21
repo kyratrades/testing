@@ -1444,14 +1444,8 @@ NOTES
 #### The Band Wagon - Encores! - November 13, 2014
 {: .no_toc .d-inline-block }
 
-Issues
-{: .label .label-red }
-
 FORMAT
 : VOB+smalls
-
-COMMENTS
-: **\*\*DO NOT REQUEST\*\*** Missing VTS_01_3.VOB, looking for original files
 
 CAST
 : Brian Stokes Mitchell (Tony Hunter), Tracey Ullman (Lily Martin), Michael McKean (Lester Martin), Tony Sheldon (Jeffrey Cordoba), Laura Osnes (Gabrielle Gerard), Michael Berresse (Paul Byrd), Don Stephenson (Hal Meadows)
