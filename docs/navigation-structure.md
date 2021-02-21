@@ -580,7 +580,7 @@ FORMAT
 : VOB+smalls
 
 COMMENTS
-: Non-original smalls; Would trade for original files
+: DVD recorder copy; Would trade for original files
 
 CAST
 : Heather Headley (Aida), Adam Pascal (Radames), Sherie Rene Scott (Amneris), John Hickok (Zoser), Schele Williams (Nehebka), Damian Perkins (Mereb)
