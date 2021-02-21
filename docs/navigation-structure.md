@@ -1458,3 +1458,115 @@ CAST
 
 NOTES
 : Very good video with clear sound and some spotlight washout but excellent close-ups and well filmed full stage shots for the dancing scenes.
+
+## Bandstand
+
+#### Bandstand - Broadway - March 31, 2017 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Corey Cott (Donny Novitski), Laura Osnes (Julia Trojan), James Nathan Hopkins (Jimmy Campbell), Joe Carroll (Johnny Simpson), Geoff Packard (Wayne Wright), Brandon J Ellis (Davy Zlatic), Joey Pero (Nick Radel), Beth Leavel (Mrs. June Adams), Mary Callanan (Jean Ann Ryan/Production Assistant), Kevyn Morrow (Al/James Haupt), Carleigh Bettiol (Jo), Drew McVety (Oliver), Ryan Kasprzak (Mr. Jackson), Jonathan Shew (Andre Bauch), Ryan VanDenBoom (Roger Cohen), Morgan Marcell (Entertainment Director), Max Clayton (Tom), Andrea Dotto (Betsy)
+
+NOTES
+: Excellent HD capture of the Broadway transfer. Solid performances from Laura and Corey in this Swing musical. Two of the powerful musical numbers make you want to stand up and cheer, some did! A
+
+## Bare: The Musical
+
+#### Bare: The Musical - Off-Broadway - December 2, 2012 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jason Hite (Jason McConnell), Taylor Trensch (Peter Simonds), Elizabeth Judd (Ivy Robinson), Barrett Wilbert Weed (Nadia McConnell), Gerard Canonico (Matt Lloyd), Missi Pyle (Sister Joan), Jerold E Solomon (Father Mike), Alice Lee (Diane Lee), Alex Wyse (Alan), Justin Gregory Lopez (Beto)
+
+NOTES
+: A great revisal of this coming of age story set in a co-ed Catholic boarding school. Great HD capture from the front row and a very moving story and cast! A- Not the Pop Opera version. Commonly mislabeled as Dec 20, 2012.
+
+## Bat Boy: The Musical
+
+#### Bat Boy: The Musical - Old Bethpage, New York - May, 2003
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Doug Storm (Bat Boy), Ashia DeLaBastide (Meredith Parker), JR Lotito (Dr Parker), Amanda Taraska (Shelley), Tony Frangipane (Sheriff), Mike Kaczurak (Bud), Mark Weekes (Reverend Hightower), Ron Menin (Rick), Susannah Hoffman (Ruthie)
+
+## Be More Chill
+
+#### Be More Chill - Broadway - March, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Will Roland (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Gerard Canonico (Rich Goranski), Jason SweetTooth Williams (Mr. Heere/Mr. Reyes/Scary Stockboy)
+
+NOTES
+: Great clear video with excellent picture and good sound.
+
+#### Be More Chill - Broadway - August 11, 2019 (Closing Night)
+{: .no_toc .d-inline-block }
+
+notjustthespongenextdoor
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 17.38 GB
+
+CAST
+: Will Roland (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Gerard Canonico (Rich Goranski), Jason SweetTooth Williams (Mr. Heere/Mr. Reyes/Scary Stockboy)
+
+NOTES
+: Closing Night on Broadway! Fantastic HD stageshot from the rear right balcony without zooms. The action is caught really well and there is no washout. The cast were on top of their game for the final performance and includes the speeches after the show.
+
+#### Be More Chill - Off-West End - February, 2020 (2)
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 6.82 GB (Compressed release)
+
+CAST
+: Scott Folan (Jeremy Heere), Blake Patrick Anderson (Michael Mell), Miracle Chance (Christine Canigula), Stewart Clarke (The SQUIP), Eloise Davies (Brooke Lohst), Millie O'Connell (Chloe Valentine), Renée Lamb (Jenna Rolan), Miles Paloma (Jake Dillinger), James Hameed (Rich Goranski), Christopher Fry (Mr. Heere/Mr. Reyes/Scary Stockboy)
+
+NOTES
+: Notes: Act 1 was filmed completely blind so some heads get cut off at times. 19.46GB uncompressed or 6.82GB compressed, in 2 mp4 files/2:04:27
+
+## Beaches
+
+#### Beaches - Chicago - June 25, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Andrew Varela (Arthur), Brooklyn Shuck (Little Bertie/Nina), Holly Stauder (Janice), Jim DeSelm (Michael Barron), Kelly Anne Clark (Rose White), Michael Accardo (Nathan), Nancy Voights (Leona Bloom), Olivia Renteria (Teen Bertie), Presley Ryan (Little Cee Cee), Samantha Pauly (Teen Cee Cee), Shoshana Bean (Cee Cee Bloom), Travis Taylor (John Perry), Whitney Bashor (Bertie White)
+
+NOTES
+: Beautiful HD capture of a PreBroadway premier. This was the second preview and the show ran long. The following week a lot of cuts were made. Shoshana did an amazing job, she is such a musical theatre gem and has unparalleled talent! A+
