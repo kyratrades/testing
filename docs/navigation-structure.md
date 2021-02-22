@@ -1627,7 +1627,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 | 720p | 2.07 GB
+: MP4 \| 720p \| 2.07 GB
 
 CAST
 : Jake Davies (Jamie), Danny-Boy Hatchard (Ste), Suranne Jones (Sandra), Oliver Farnworth (Tony), Zaraah Abrahams (Leah)
