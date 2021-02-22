@@ -1135,7 +1135,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls (Footage starts at 1:28:24)
 
 CAST
 : Patti LuPone (Reno Sweeney)
