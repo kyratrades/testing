@@ -496,7 +496,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 1080p \| 8.95 GB \| Amazon WEB-DL
+: MKV \| 1080p \| 8.95 GB `Amazon WEB-DL`
 
 CAST
 : Clare Halse (Peggy Sawyer), Tom Lister (Julian Marsh), Bonnie Langford (Dorothy Brock), Philip Bertioli (Billy Lawlor), Christopher Howell (Bert Barry), Jasna Ivir (Maggie Jones), Bruce Montague (Abner Dillon), Emma Caffrey (Annie), Clare Rickard (Phyllis Dale), Ella Martine (Lorraine Flemming), Matthew Goodgame (Pat Denning), Graeme Henderson (Andy Lee), Paul Knight (Oscar)
@@ -714,7 +714,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 6.64 GB \| With English subtitles
+: MP4 \| 1080p \| 6.64 GB `With English subtitles`
 
 CAST
 : Molly Gordon (Alice Spencer/Alice), Colton Ryan (Alfred Hallam/White Rabbit/March Hare), Wesley Taylor (Harold Pudding/Mad Hatter/Pigeon/Knave of Spades/Mock Mock Turtle), Noah Galvin (Dodgy/Duchess/Dodo/Mock Mock Mock Mock Turtle), Catherine Ricafort (Clarissa/Canary/Queen of Diamonds/Mock Mock Mock Turtle), Kim Blanck (Tabatha/Cheshire Cat/Caterpillar 2), Grace McLean (Red Cross Nurse/Queen of Hearts/Magpie), Heath Saunders (Angus/Caterpillar/Knave of Hearts), Andrew Kober (Dr Butridge/King of Hearts/Duck/Jabberwocky/Mock Turtle), Mia DiLena, Zachary Downer
@@ -947,7 +947,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls (NO DVD menu)
+: VOB+smalls `NO DVD menu`
 
 CAST
 : Danielle Findley (Annie), Dorothy Loudon (Miss Hannigan), Harve Presnell (Oliver \'Daddy\' Warbucks), Lauren Mitchell (Grace Farrell), Marian Seldes (Marietta Christmas), Terrence P Currier (Drake), Ronny Graham (Lionel McCoy), TJ Meyers (Babe Ruth), Raymond Thorne (F.D.R.), Scott Robertson (Charlie Spinoli)
@@ -964,7 +964,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 1080p \| 4.40 GB \| Blu-ray rip
+: MKV \| 1080p \| 4.40 GB `Blu-ray rip`
 
 CAST
 : Mary Martin (Annie Oakley)
@@ -1038,7 +1038,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls (NO DVD menu)
+: VOB+smalls `NO DVD menu`
 
 CAST
 : Emma Williams (Annie Oakley), Jason Donovan (Frank Butler), Norman Pace (Buffalo Bill (Col. William F. Cody))
@@ -1135,7 +1135,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls (Footage starts at 1:28:24)
+: VOB+smalls `Footage starts at 1:28:24`
 
 CAST
 : Patti LuPone (Reno Sweeney)
@@ -1540,7 +1540,7 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 6.82 GB (Compressed release)
+: MP4 \| 1080p \| 6.82 GB `Compressed release`
 
 CAST
 : Scott Folan (Jeremy Heere), Blake Patrick Anderson (Michael Mell), Miracle Chance (Christine Canigula), Stewart Clarke (The SQUIP), Eloise Davies (Brooke Lohst), Millie O'Connell (Chloe Valentine), Renée Lamb (Jenna Rolan), Miles Paloma (Jake Dillinger), James Hameed (Rich Goranski), Christopher Fry (Mr. Heere/Mr. Reyes/Scary Stockboy)
