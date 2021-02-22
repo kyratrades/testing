@@ -716,6 +716,9 @@ StarCuffedJeans
 FORMAT
 : MP4 \| 1080p \| 6.64 GB `With English subtitles`
 
+COMMENTS
+: I will also include the 720p edit with a complete ending (audio) and soft subtitles upon request
+
 CAST
 : Molly Gordon (Alice Spencer/Alice), Colton Ryan (Alfred Hallam/White Rabbit/March Hare), Wesley Taylor (Harold Pudding/Mad Hatter/Pigeon/Knave of Spades/Mock Mock Turtle), Noah Galvin (Dodgy/Duchess/Dodo/Mock Mock Mock Mock Turtle), Catherine Ricafort (Clarissa/Canary/Queen of Diamonds/Mock Mock Mock Turtle), Kim Blanck (Tabatha/Cheshire Cat/Caterpillar 2), Grace McLean (Red Cross Nurse/Queen of Hearts/Magpie), Heath Saunders (Angus/Caterpillar/Knave of Hearts), Andrew Kober (Dr Butridge/King of Hearts/Duck/Jabberwocky/Mock Turtle), Mia DiLena, Zachary Downer
 
