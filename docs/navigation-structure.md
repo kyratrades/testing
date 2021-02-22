@@ -1567,3 +1567,70 @@ CAST
 
 NOTES
 : Beautiful HD capture of a PreBroadway premier. This was the second preview and the show ran long. The following week a lot of cuts were made. Shoshana did an amazing job, she is such a musical theatre gem and has unparalleled talent! A+
+
+## Beautiful: The Carole King Musical
+
+#### Beautiful: The Carole King Musical - First National Tour - October 16, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVD`
+
+CAST
+: Julia Knitel (Carole King), Liam Tobin (Gerry Goffin), Erika Olson (Cynthia Weil), Ben Fankhauser (Barry Mann), Curt Bouril (Don Kirshner), Suzanne Grodner (Genie Klein)
+
+NOTES
+: Great clear capture with no blackouts and no washout. The overture is missing; the capture starts immediately before So Far Away. Some small heads can occasionally be seen, but they don\'t block the action. It\'s filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call, encore, and playbill scans. 2 DVDs A
+
+#### Beautiful: The Carole King Musical - Broadway - June 24, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+COMMENTS
+: Do tell me if you have a higher quality copy!
+
+CAST
+: Melissa Benoist (Carole King), Evan Todd (Gerry Goffin), Jessica Keenan Wynn (Cynthia Weil), Ben Jacoby (Barry Mann), Paul Anthony Stewart (Don Kirshner), Nancy Opel (Genie Klein), Kevin Duda (Neil Sedaka/Righteous Brother/Lou Adler)
+
+NOTES
+: A beautiful HD capture of Melissa Benoist\'s run in the show. She develiers a wonderful and beautiful performance as Carole and also has great vocals! The whole cast is spectacular and the show is still running strong for being on broadway for five years! Nice capture with filmed with a mix of wides, mediums and close-ups! Includes curtain call and encore. File quality/format varies across traders.
+
+#### Beautiful: The Carole King Musical - Broadway - October, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 5.63 GB
+
+CAST
+: Sarah Bockel (Carole King), Cory Jeacoma (Gerry Goffin), Jessica Keenan Wynn (Cynthia Weil), Ben Jacoby (Barry Mann), Paul Anthony Stewart (Don Kirshner), Liz Larsen (Genie Klein), Ashley De La Rosa (Janelle Woods/Shirelle), Elena Ricardo (Betty)
+
+NOTES
+: Beautiful HD capture of the show, filmed from the orchestra before closing. The video starts when Carole mentions being from Brooklyn. Act Two starts part of the way through "Chains." Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
+
+## Beautiful Thing
+
+#### Beautiful Thing - London - May 22-23, 2013
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 | 720p | 2.07 GB
+
+CAST
+: Jake Davies (Jamie), Danny-Boy Hatchard (Ste), Suranne Jones (Sandra), Oliver Farnworth (Tony), Zaraah Abrahams (Leah)
+
+NOTES
+: Beautiful Thing is a glorious urban love story between two young men set on an inner city housing estate. It tells the story of teenager Jamie\'s relationship with classmate and neighbour Ste. Together the two boys find comedy, warmth and the music of Mama Cass through their loud-mouthed next door neighbour Leah. The play exquisitely depicts what it is to be sixteen, in the first flush of love, and full of optimism. Filmed at Arts Theatre, London.
