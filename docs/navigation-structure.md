@@ -2148,6 +2148,7 @@ NOTES
 ## Bye Bye Birdie
 
 #### Bye Bye Birdie - Third National Tour - 1992
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
