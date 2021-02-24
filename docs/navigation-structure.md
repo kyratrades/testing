@@ -3921,3 +3921,193 @@ CAST
 
 NOTES
 : \"Nicely filmed. There\'s a couple of quick dropouts and not many washouts, but no obstructions or blocking. A-\"
+
+# D
+
+## Damn Yankees (1)
+
+#### Damn Yankees - Broadway Revival - 1994
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Victor Garber (Mr. Applegate), Bebe Neuwirth (Lola), Dick Latessa (Van Buren)
+
+NOTES
+: Some generational loss, but a great bootleg version of show! Also features various TV clips.
+
+## Dear Evan Hansen (3)
+
+#### Dear Evan Hansen - Broadway - December, 2016 (Highlights) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ben Platt (Evan Hansen), Rachel Bay Jones (Heidi Hansen), Laura Dreyfuss (Zoe Murphy), Jennifer Laura Thompson (Cynthia Murphy), Michael Park (Larry Murphy), Mike Faist (Connor Murphy), Will Roland (Jared Kleinman), Kristolyn Lloyd (Alana Beck)
+
+NOTES
+: Act One only! A nice capture with no washout and just one quick dropout during the scene after Waving Through a Window. There is one head that blocks part of the front of the stage, but it's worked around generally doesn't do more than block the actors' legs. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent.
+
+#### Dear Evan Hansen - Broadway - January, 2020 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 6.38 GB
+
+CAST
+: Jordan Fisher (Evan Hansen), Jessica Phillips (Heidi Hansen), Gabrielle Carrubba (Zoe Murphy), Christiane Noll (Cynthia Murphy), Ivan Hernandez (Larry Murphy), Dan Macke (t/r Connor Murphy), Jared Goldsmith (Jared Kleinman), Phoebe Koyabe (Alana Beck)
+
+NOTES
+: The video starts just after Anybody Have a Map.
+
+#### Dear Evan Hansen - Broadway - November, 2016 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ben Platt (Evan Hansen), Rachel Bay Jones (Heidi Hansen), Laura Dreyfuss (Zoe Murphy), Jennifer Laura Thompson (Cynthia Murphy), Michael Park (Larry Murphy), Mike Faist (Connor Murphy), Will Roland (Jared Kleinman), Kristolyn Lloyd (Alana Beck)
+
+NOTES
+: Excellent HD capture of the Broadway transfer. In the long journey to Broadway, the show still lives up to all it\'s hype and greatness. The cast gives amazing performances and leaves it all on the stage. A
+
+#### Dear Evan Hansen - First National Tour - October 26, 2019 (Matinee) (myroadofgoodintentions
+
+FORMAT
+: MP4 (HD) \| 16.79 GB
+
+CAST
+: Sam Primack (alt Evan Hansen), Jessica Sherman (Heidi Hansen), Stephanie La Rochelle (Zoe Murphy), Claire Rankin (Cynthia Murphy), John Hemphill (Larry Murphy), Noah Kieserman (Connor Murphy), Alessandro Costantini (Jared Kleinman), Ciara Alyse Harris (Alana Beck)
+
+NOTES
+: High quality boot shot with an HD camera. Some shakiness and jumping around and quick zooms in and out to find the action as master was less familiar with this show. Really great captures of faces and mix of wide shots and zooms.
+
+## A Delicate Balance (1)
+
+#### A Delicate Balance - 2nd Broadway Revival - January 2, 2015 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Glenn Close (Agnes), John Lithgow (Tobias), Lindsay Duncan (Claire), Martha Plimpton (Julia), Bob Balaban (Harry), Clare Higgins (Edna)
+
+NOTES
+: A great capture of the play's Broadway run. The whole cast gives stellar performances. There are a couple quick dropouts in act two and a couple places where it wanders for a few seconds, but is shot well overall. There are also some heads that can occasionally be seen at the bottom of the screen, but they never block the action. The show is three acts on three discs. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes playbill scans
+
+## Dessa Rose (1)
+
+#### Dessa Rose - Off-Broadway - May 20, 2005
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Kenita R Miller (u/s Dessa Rose), Rachel York (Ruth), Michael Hayden (Adam Nehemiah), Eric Jordan Young (Kaine), James Stovall (Harker), Norm Lewis (Nathan), David Hess (Sheriff Hughes), Rebecca Eichenberger (Ruth\'s Mother), Tina Fabrique (Rose/House Slave/Ada)
+
+NOTES
+: First 10 minutes a little shaky but otherwise a very good video.
+
+## Disaster! (1)
+
+#### Disaster! - Broadway - February 20, 2016 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Roger Bart (Tony), Kerry Butler (Marianne), Kevin Chamberlin (Maury), Adam Pascal (Chad), Faith Prince (Shirley), Rachel York (Jackie), Seth Rudetsky (Professor Ted Scheider), Jennifer Simard (Sister Mary Downy), Max Crumm (Scott), Lacretta Nicole (Levora), Baylee Litrell (Ben Weatherstaff)
+
+NOTES
+: Excellent HD capture of the new campy musical filled with 70s hits! The cast does a wonderful job with camp and really commits, which makes it a very fun show! A
+
+## Disenchanted! (1)
+
+#### Disenchanted! - Off-Broadway - December 28, 2014 (Matinee)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alison Burns (Belle/The Little Mermaid/Rapunzel), Becky Gulsvig (Cinderella), Jen Bechter (Sleeping Beauty), Lulu Picart (Hua Mulan/Pocahontas/Princess Badroulbadour), Michelle Knight (Snow White), Soara-Joye Ross (The Princess Who Kissed the Frog)
+
+NOTES
+: Good video overall with no washout and only minor obstruction. Four of the first five minutes are blacked out and there is a three minute blackout for the audience participation during Not V\'one Red Cent, a six minute blackout during Perfect, and the last two minutes of the final song are blacked out. One head that blocks a small part of the front/center part of the stage, but it only blocks the actors feet/legs.
+
+## Dogfight (1)
+
+#### Dogfight - Off-Broadway - August 15, 2012
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lindsay Mendez (Rose Fenny), Derek Klena (Eddie Birdlace), Josh Segarra (Boland), Nick Blaemire (Bernstein), Adam Halpin (Stevens), Annaleigh Ashford (Marcy), F Michael Haynie (Fector), Steven Booth (Gibbs), Becca Ayers (Mama), Dierdre Friel (Ruth Two Bears), James Moye (Lounge Singer)
+
+NOTES
+: A Beautiful coming of age story with great performances from the cast. Annaleigh is wonderful here as usual. Great HD capture in a very small theater, in wider shots heads can be in the frame toward the bottom, but mostly shot over them. A-
+
+## Doubt (1)
+
+#### Doubt - Off-Broadway - November 20, 2004
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Cherry Jones (Sister Aloysius), Heather Goldenhersh (Sister James), Adriane Lenox (Mrs. Muller), Brian F O\'Byrne (Father Flynn)
+
+## Dracula, the Musical (Wildhorn) (1)
+
+#### Dracula, the Musical (Wildhorn) - Broadway - September 3, 2004
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Tom Hewitt (Dracula), Stephen Henderson (Abraham van Helsing), Melissa Errico (Mina Harker), Kelli O'Hara (Lucy Westenra), Darren Ritchie (Jonathan Harker), Don Stephenson (Renfield)
+
+NOTES
+: Good video for it\'s age of this short lived musical.
+
+## The Drowsy Chaperone (1)
+
+#### The Drowsy Chaperone - National Tour - October 8, 2008
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jonathan Crombie (Man in Chair), Jen Taylor Farrell (u/s Janet van de Graaf), Alicia Irving (The Drowsy Chaperone), Mark Ledbetter (Robert Martin), Noble Shropshire (Underling), Richard Vida (George), Peter Riopelle (Gangster \#1), Paul Riopelle (Gangster \#2), Cliff Bemis (Mr. Feldzieg), Linda Griffin (Kitty), Georgia Engel (Mrs. Tottendale), Dale Hensley (Aldolpho), NaTasha Yvette Williams (Trix)
+
+NOTES
+: Filmed in widescreen with no obstructions and almost no blackouts, great picture that follows the action very well.
