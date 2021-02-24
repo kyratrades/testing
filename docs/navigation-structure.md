@@ -2394,6 +2394,7 @@ NOTES
 : 18 minutes of black and white sound archival footage shot with three cameras. It was recorded after a performance, with only a piano for musical accompaniment, to preserve the original choreographies.
 
 #### Carousel - Second Broadway Revival - March 9, 1994 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -2420,6 +2421,7 @@ NOTES
 : Pro-shot, filmed for archival purposes using multiple cameras. Unfortunately suffers from some generational loss but a great DVD of a beautiful production. Great performances.
 
 #### Carousel - Carnegie Hall - June 6, 2002
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -2822,6 +2824,7 @@ NOTES
 ## Chess
 
 #### Chess - Actors\' Fund Benefit Concert - September 21, 2003 (Rehearsal)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2857,6 +2860,7 @@ CAST
 : Josh Groban (Anatoly Sergievsky), Idina Menzel (Florence Vassy), Adam Pascal (Freddie Trumper), Kerry Ellis (Svetlana Sergievskaya), Marti Pellow (Arbiter), David Bedella (Molokov), Clarke Peters (Walter de Courcey)
 
 #### Chess - Kennedy Center/Washington D.C. - February 15 And 18, 2018 (Highlights)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2872,6 +2876,7 @@ NOTES
 ### National Tour(s)
 
 #### Chicago - First National Tour - 1978
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3037,6 +3042,7 @@ NOTES
 ### West End Revival
 
 #### Chicago - West End Revival - 1999
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3045,6 +3051,7 @@ CAST
 : Chita Rivera (Roxie Hart), Valarie Pettiford (Velma Kelly), Michael Siberry (Billy Flynn), Norman Pace (Amos Hart), Sue Kelvin (Matron \"Mama\" Morton), Charles Shirvell (Mary Sunshine), Robbie O\'Reilly (Hunyak), Cat Lawrence (Liz), Rachel Stanley (Annie), Suzy Bloom (June), Jacqui Jameson (Mona), Jo Ellery (Go-To-Hell-Kitty)
 
 #### Chicago - West End Revival - August 14, 2003
+{: .no_toc .d-inline-block }
 
 FORMAT
 : `1` VOB+smalls `4.03 GB`
@@ -3057,6 +3064,7 @@ NOTES
 : Filmed between heads, but the quality is amazing for its time.
 
 #### Chicago - West End Revival - February 9, 2012
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu`
@@ -3080,7 +3088,6 @@ CAST
 
 NOTES
 : The 2-Disc version is commonly mislabeled as Fall, 1999, but is actually the 1999 one according to a few Dutch traders.
-
 
 #### Chicago - The Netherlands - Fall, 1999
 {: .no_toc .d-inline-block }
@@ -3245,6 +3252,7 @@ CAST
 : Alton Geno (Zach), Benjamin Linn (Larry), Jeff Lukas (Don), Ariel Assaf (Maggie), Matias J Grau III (Mike), Tracey Hensarling (Connie), Gary Rucker (Greg), Elizabeth Argus (Cassie)
 
 #### A Chorus Line - Broadway Revival - September 30, 2006 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3256,6 +3264,7 @@ NOTES
 : Commonly mislabelled as Opening Night (October 5, 2006), however menu says it is September 30, 2006. Video includes the playbill and some bonus news features of the Pre-Opening, Opening Night and the Review.
 
 #### A Chorus Line - Broadway Revival - August 17, 2008 (Closing Night)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `No DVD menu`
@@ -3267,6 +3276,7 @@ NOTES
 : Final performance: filmed from front row of mezzanine video starts near the end of the audition and shot goes down for applause breaks; captures everything clearly after Mike\'s \"I Can Do That\" but pretty full throughout
 
 #### A Chorus Line - National Tour - March 27, 2009
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
