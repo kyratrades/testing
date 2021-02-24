@@ -2656,12 +2656,16 @@ CAST
 : Angelika Milster (Grizabella), Ute Lemper (Bombalurina), Monica Solem (Jellylorum), Valda Aviks (Jennyanydots), Valentin Baraian (Mr. Mistoffelees), Steve Barton (Munkustrap), Gordon Bovinet (Old Deuteronomy)
 
 #### Cats - West End - April 25, 1992
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB+smalls
 
 COMMENTS
-: Missing VTS_01_5.VOB, but the London show is in full
+: Missing VTS_01_5.VOB, but the show is in full. The DVD menu says "London 01. 23. 93" but the content of the video matches the description of April 25, 1992 on various sites... not entirely sure about this one.
 
 CAST
 : Ria Jones (Grizabella), Guy-Paul Roult de St Germain (Mr. Mistoffelees), Vincent Leigh (Munkustrap), Geoffrey Garrat (Skimbleshanks)
