@@ -1912,6 +1912,7 @@ NOTES
 ## Bombay Dreams
 
 #### Bombay Dreams - Apollo Victoria, London - September 15, 2002
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -1925,6 +1926,7 @@ NOTES
 ## Bonnie and Clyde
 
 #### Bonnie and Clyde - La Jolla Playhouse - November 14, 2009 (Matinee) (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
