@@ -3791,22 +3791,7 @@ CAST
 NOTES
 : Wideshot MP4 Gifted Upon Request
 
-## The Count of Monte Cristo (Wildhorn) (3)
-
-#### The Count of Monte Cristo (Wildhorn) - Leipzig, Germany - February 4, 2012 (Opening Night)
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Marc Clear (Edmond Dantès/The Count of Monte Cristo), Marysol Ximénez-Carrillo (Mercédès), Andreas Rainer (Fernand Mondego), Milko Milev (Gérard de Villefort), Kostadin Arguirov (Danglars), Cusch Jung (Abbé Faria), Sabine Töpfer (Luisa Vampa), Heiner Kock (Albert Mondego), Mirjam Neururer (Valentine de Villefort), Peter-Paul Stampehl (Jacopo), Roland Otto (Morrel), Mathias Paarsch (Louis Dantès), Carolin Schumann (Isabella), Therese Wittmar (Gabriella), Miranda Caasmann (Sophia), Sebastian Fuchsberger
-
-NOTES
-: Full stage Proshot
+## The Count of Monte Cristo (Wildhorn)
 
 #### The Count of Monte Cristo (Wildhorn) - St. Gallen - November 4, 2009
 {: .no_toc .d-inline-block }
@@ -3815,10 +3800,22 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Thomas Borchert (Edmond Dantès/The Count of Monte Cristo), Sophie Berner (Mercédès), Carsten Lepper (Fernand Mondego), Christoph Goetten (Gérard de Villefort), Karim Khawatmi (Danglars), Dean Welterlen (Abbé Faria), Ava Brennan (Luisa Vampa), Barbara Obermeier (Valentine de Villefort), Kurt Schrepfer (Jacopo), André Bauer (Morrel), Ines Hengl-Pirker, Jochen Schmidtke, Patrick A Stamme
+
+#### The Count of Monte Cristo (Wildhorn) - Leipzig, Germany - February 4, 2012 (Opening Night)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Marc Clear (Edmond Dantès/The Count of Monte Cristo), Marysol Ximénez-Carrillo (Mercédès), Andreas Rainer (Fernand Mondego), Milko Milev (Gérard de Villefort), Kostadin Arguirov (Danglars), Cusch Jung (Abbé Faria), Sabine Töpfer (Luisa Vampa), Heiner Kock (Albert Mondego), Mirjam Neururer (Valentine de Villefort), Peter-Paul Stampehl (Jacopo), Roland Otto (Morrel), Mathias Paarsch (Louis Dantès), Carolin Schumann (Isabella), Therese Wittmar (Gabriella), Miranda Caasmann (Sophia), Sebastian Fuchsberger
 
 #### The Count of Monte Cristo (Wildhorn) - Tecklenburg - August 9, 2013
 {: .no_toc .d-inline-block }
@@ -3827,20 +3824,18 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Marc Clear (Edmond Dantès/The Count of Monte Cristo), Anna Thorén (Mercédès), Carsten Lepper (Fernand Mondego), Reinhard Brussmann (Gérard de Villefort), Frank Winkels (Danglars), Reinhard Brussmann (Abbé Faria), Femke Soetenga (Luisa Vampa), Thomas Hohler (Albert Mondego), Karoline Goebel (Valentine de Villefort), Hakan T Aslan (Jacopo), Alexander Bellinkx (Morrel)
 
-NOTES
-: ProShot
-
-## Cruel Intentions (1)
+## Cruel Intentions
 
 #### Cruel Intentions - Los Angeles - July 31, 2015
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Katie Stevens (Kathryn Merteuil), Constantine Rousouli (Sebastian Valmont), Molly McCook (Annette Hargrove), Shelley Regner (Cecile Caldwell), Tyler Sheef (Blaine Tuttle), Spencer Strong Smith (Greg Mcconnell), Alexander Pimentel (Ronald Clifford), Pamela Holt (Mrs. Bunny Caldwell)
@@ -3848,12 +3843,16 @@ CAST
 NOTES
 : Notes: Well filmed from the audience with clear picture and excellent sound; featuring songs by The Goo Goo Dolls, Britney Spears, Backstreet Boys, NSYNC, Meredith Brooks, Natalie Imbruglia, Spice Girls, Counting Crows, The Verve and Christina Aguilera
 
-## The Crucible (1)
+## The Crucible
 
-#### The Crucible - The Old Vic - 2015 (Pro-Shot\'s master)
+#### The Crucible - The Old Vic - 2015
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-blue }
 
 FORMAT
-: MKV (HD)
+: MKV `1080p` `11.2 GB`
 
 CAST
 : Jack Ellis (Deputy Governer Danforth), Richard Armitage (John Proctor), Samantha Colley (Abigail Williams)
@@ -3861,12 +3860,13 @@ CAST
 NOTES
 : Proshot. Released 4th February 2015, but filmed in 2014. <https://www.imdb.com/title/tt4156348/>
 
-## Cry-Baby (1)
+## Cry-Baby
 
 #### Cry-Baby - Broadway - June 22, 2008 (Matinee) (Closing Night)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : James Snyder (Wade \"Cry-Baby\" Walker), Elizabeth Stanley (Allison), Harriet Harris (Mrs. Vernon-Williams), Alli Mauzey (Lenora), Chester Gregory (Dupree), Carly Jibson (Pepper), Tory Ross (Mona)
@@ -3874,30 +3874,7 @@ CAST
 NOTES
 : Final Broadway performance
 
-## The Curious Incident of the Dog in the Night-Time (3)
-
-#### The Curious Incident of the Dog in the Night-Time - Broadway - November 22, 2014 \| Lanelle
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Alex Sharp (Christopher Boone), Francesca Faridany (Siobhan), Ian Barford (Ed), Enid Graham (Judy), Helen Carey (Mrs. Alexander)
-
-#### The Curious Incident of the Dog in the Night-Time - Broadway - December 30, 2014 (Matinee) 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Taylor Trensch (alt Christopher Boone), Francesca Faridany (Siobhan), Tim Wright (u/s Ed), Enid Graham (Judy), Helen Carey (Mrs. Alexander), Mercedes Herrero (Mrs. Shears and others), Ben Horner (Mr. Thompson and others), Richard Hollis (Roger Shears and others), David Manis (Rev. Peters and others)
-
-NOTES
-: \"Nicely filmed. There\'s a couple of quick dropouts and not many washouts, but no obstructions or blocking. A-\"
+## The Curious Incident of the Dog in the Night-Time
 
 #### The Curious Incident of the Dog in the Night-Time - National Theatre - September 6, 2012
 {: .no_toc .d-inline-block }
@@ -3906,13 +3883,37 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 (SD) \| 1.33 GB
-
-COMMENTS
-: 2016 DVDRip
+: MP4 `480p` `1.33 GB` `DVDRip`
 
 CAST
 : Luke Treadaway (Christopher Boone), Niamh Cusack (Siobhan), Paul Ritter (Ed), Nicola Walker (Judy), Una Stubbs (Mrs. Alexander)
 
 NOTES
 : Multi-cam pro shot from the National Theatre Live broadcast.
+
+#### The Curious Incident of the Dog in the Night-Time - Broadway - November 22, 2014
+{: .no_toc .d-inline-block }
+
+Lanelle
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Alex Sharp (Christopher Boone), Francesca Faridany (Siobhan), Ian Barford (Ed), Enid Graham (Judy), Helen Carey (Mrs. Alexander)
+
+#### The Curious Incident of the Dog in the Night-Time - Broadway - December 30, 2014 (Matinee)
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Taylor Trensch (alt Christopher Boone), Francesca Faridany (Siobhan), Tim Wright (u/s Ed), Enid Graham (Judy), Helen Carey (Mrs. Alexander), Mercedes Herrero (Mrs. Shears and others), Ben Horner (Mr. Thompson and others), Richard Hollis (Roger Shears and others), David Manis (Rev. Peters and others)
+
+NOTES
+: \"Nicely filmed. There\'s a couple of quick dropouts and not many washouts, but no obstructions or blocking. A-\"
