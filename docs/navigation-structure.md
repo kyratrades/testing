@@ -2193,6 +2193,7 @@ CAST
 : Uwe Kröger (Emcee), Vasiliki Roussi (Sally Bowles)
 
 #### Cabaret - Second Broadway Revival - June 9, 2000
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -2204,6 +2205,7 @@ NOTES
 : A lot of generational loss
 
 #### Cabaret - Second Broadway Revival - November 13, 2001
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -2371,7 +2373,7 @@ CAST
 NOTES
 : Proshot for TV. Cast is great and funny, Kristin has a great Glitter and by Gay, an also Janine LaManna is here so I\'m automatically biased for this.
 
-## Carousel (8)
+## Carousel
 
 #### Carousel - Broadway - 1945 (Highlights)
 {: .no_toc .d-inline-block }
@@ -2391,46 +2393,16 @@ CAST
 NOTES
 : 18 minutes of black and white sound archival footage shot with three cameras. It was recorded after a performance, with only a piano for musical accompaniment, to preserve the original choreographies.
 
-#### Carousel - Carnegie Hall - June 6, 2002
+#### Carousel - Second Broadway Revival - March 9, 1994 (Preview)
 
 FORMAT
 : VOB+smalls
 
 CAST
-: Hugh Jackman (Billy Bigelow), Audra McDonald (Julie Jordan), Judy Kaye (Nettie Fowler), Lauren Ward (Carrie Pipperidge), Jason Danieley (Enoch Snow), Blythe Danner (Mrs. Mullin), Philip Bosco (The Starkeeper), Norbert Leo Butz (Jigger Craigin), Eden Riegel (Louise)
+: Michael Hayden (Billy Bigelow), Sally Murphy (Julie Jordan), Shirley Verrett (Nettie Fowler), Audra McDonald (Carrie Pipperidge), Eddie Korbich (Enoch Snow)
 
 NOTES
-: Missing the instrumental Hornpipe and the June Ballet. Lots of zooms.
-
-#### Carousel - Chicago - April 10, 2015
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Steven Pasquale (Billy Bigelow), Laura Osnes (Julie Jordan), Denyce Graves (Nettie Fowler), Jenn Gambatese (Carrie Pipperidge), Matthew Hydzik (Enoch Snow), Charlotte d\'Amboise (Mrs. Mullin), Tony Roberts (The Starkeeper), Jarrod Emick (Jigger Craigin), Abigail Simon (Louise), Martin Harvey (Fairground Boy)
-
-NOTES
-: Beautiful HD capture with no obstructions of this exquisite production. It is perfectly cast and performed. A huge production that is wonderful to take in! A
-
-#### Carousel - New York Philharmonic Concert - March 2, 2013
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 (HD) \| 3.91 GB
-
-CAST
-: Nathan Gunn (Billy Bigelow), Kelli O'Hara (Julie Jordan), Stephanie Blythe (Nettie Fowler), Jessie Mueller (Carrie Pipperidge), Jason Danieley (Enoch Snow), Kate Burton (Mrs. Mullin), John Cullum (The Starkeeper), Shuler Hensley (Jigger Craigin), Tiler Peck (Louise), Robert Fairchild (Fairground Boy)
-
-NOTES
-: HD Pro-shot from PBS, recorded 3/2/13 at Avery Fisher Hall at Lincoln Center and marks the orchestra\'s 75th appearance on the series. Aired on April 26, 2013.
+: There\'s a little obstruction and generation loss, no close ups, but overall, a good capture of this beloved revival.
 
 #### Carousel - North Shore Music Theatre - 2001
 {: .no_toc .d-inline-block }
@@ -2447,16 +2419,46 @@ CAST
 NOTES
 : Pro-shot, filmed for archival purposes using multiple cameras. Unfortunately suffers from some generational loss but a great DVD of a beautiful production. Great performances.
 
-#### Carousel - Second Broadway Revival - March 9, 1994 (Preview)
+#### Carousel - Carnegie Hall - June 6, 2002
 
 FORMAT
 : VOB+smalls
 
 CAST
-: Michael Hayden (Billy Bigelow), Sally Murphy (Julie Jordan), Shirley Verrett (Nettie Fowler), Audra McDonald (Carrie Pipperidge), Eddie Korbich (Enoch Snow)
+: Hugh Jackman (Billy Bigelow), Audra McDonald (Julie Jordan), Judy Kaye (Nettie Fowler), Lauren Ward (Carrie Pipperidge), Jason Danieley (Enoch Snow), Blythe Danner (Mrs. Mullin), Philip Bosco (The Starkeeper), Norbert Leo Butz (Jigger Craigin), Eden Riegel (Louise)
 
 NOTES
-: There\'s a little obstruction and generation loss, no close ups, but overall, a good capture of this beloved revival.
+: Missing the instrumental Hornpipe and the June Ballet. Lots of zooms.
+
+#### Carousel - New York Philharmonic Concert - March 2, 2013
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 \| 1080p \| 3.91 GB `With English subtitles (.srt)`
+
+CAST
+: Nathan Gunn (Billy Bigelow), Kelli O'Hara (Julie Jordan), Stephanie Blythe (Nettie Fowler), Jessie Mueller (Carrie Pipperidge), Jason Danieley (Enoch Snow), Kate Burton (Mrs. Mullin), John Cullum (The Starkeeper), Shuler Hensley (Jigger Craigin), Tiler Peck (Louise), Robert Fairchild (Fairground Boy)
+
+NOTES
+: HD Pro-shot from PBS, recorded 3/2/13 at Avery Fisher Hall at Lincoln Center and marks the orchestra\'s 75th appearance on the series. Aired on April 26, 2013.
+
+#### Carousel - Chicago - April 10, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVD`
+
+CAST
+: Steven Pasquale (Billy Bigelow), Laura Osnes (Julie Jordan), Denyce Graves (Nettie Fowler), Jenn Gambatese (Carrie Pipperidge), Matthew Hydzik (Enoch Snow), Charlotte d\'Amboise (Mrs. Mullin), Tony Roberts (The Starkeeper), Jarrod Emick (Jigger Craigin), Abigail Simon (Louise), Martin Harvey (Fairground Boy)
+
+NOTES
+: Beautiful HD capture with no obstructions of this exquisite production. It is perfectly cast and performed. A huge production that is wonderful to take in! A
 
 #### Carousel - Third Broadway Revival - March 2, 2018 (Preview) 
 {: .no_toc .d-inline-block }
