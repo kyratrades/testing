@@ -3180,7 +3180,7 @@ CAST
 NOTES
 : There\'s a 10-15 second break in act 2 due to a battery change.
 
-## Children of Eden (1)
+## Children of Eden
 
 #### Children of Eden - Cabrillo Music Theatre - April 17, 2016 
 {: .no_toc .d-inline-block }
@@ -3189,21 +3189,21 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Kevin McMahon (Adam / Noah), Misty Cotton (Eve / Mama Noah), Norman Large (Father), Ryan J Driscoll (Cain / Japheth), Barnaby James (Abel / Ham), Paul DiLoreto (Seth / Shem), Natalia Vivino (Yonah)
 
-## Chinglish (1)
+## Chinglish
 
-#### Chinglish - Pre-Broadway/Chicago - July 31, 2011 (Closing Night)
+#### Chinglish - Pre-Broadway / Chicago - July 31, 2011 (Closing Night)
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Jennifer Lim (Xi Yan), Stephen Pucci (Peter Timms), James Waterston (Daniel Cavanaugh), Angela Lin (Miss Qian/Prosecutor), Christine Lin (Miss Zhao), Johnny Wu (Bing/Judge Xu Geming), Larry Lei Zhang (Minister Cai Guoliang)
@@ -3211,12 +3211,43 @@ CAST
 NOTES
 : Great Capture of the final performance before the production moved to Broadway. Excellent cast and funny show that explores what is lost in translation. A
 
-## A Chorus Line (7)
+## A Chorus Line
+
+#### A Chorus Line - Off-Broadway - July 12, 1975
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: `1` VOB+smalls `4.08 GB`
+: `2` VOB+smalls `2.86 GB`
+
+COMMENTS
+: I will include both versions in one link, please do so as well if you traded them from me.
+
+CAST
+: Robert LuPone (Zach), Thommie Walsh (Bobby Strong), Clive Clerk (Larry), Ron Khulman (Don), Kay Cole (Maggie), Wayne Cilento (Mike), Baayork Lee (Connie), Michael Stuart (Greg), Donna McKechnie (Cassie), Kelly Bishop (Sheila), Nancy Lane (Bebe), Patricia Garland (Judy), Ronald Dennis (Richie), Don Percassi (Al), Renne Baughman (Kristine), Pam Blair (Val), Cameron Mason (Mark), Sammy Williams (Paul), Priscilla Lopez (Diana)
+
+NOTES
+: The original Broadway cast filmed prior to moving to Broadway. Professionally filmed using multiple cameras for the Lincoln Center Theatre on Film and Tape (TOFT) archives. Newly surfaced video which is a HUGE improvement over the previous version which has been in circulation for a while. This is also complete and includes the opening announcement alerting the audience that the show is being filmed. Amazing quality, but still has a little generational loss. In black and white. The DVD has been enhanced with chapter stops for all of the musical numbers. This, along with the tapes of Crazy for You and Passion, is amongst the only three TOFT tapes that have been leaked.
+
+#### A Chorus Line - New Orleans - February 16, 2003
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Alton Geno (Zach), Benjamin Linn (Larry), Jeff Lukas (Don), Ariel Assaf (Maggie), Matias J Grau III (Mike), Tracey Hensarling (Connie), Gary Rucker (Greg), Elizabeth Argus (Cassie)
 
 #### A Chorus Line - Broadway Revival - September 30, 2006 (Preview)
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Michael Berresse (Zach), Tyler Hanes (Larry), Brad Anderson (Don), Mara Davi (Maggie), Jeffrey Schecter (Mike), Yuka Takara (Connie), Michael Paternostro (Greg), Charlotte d\'Amboise (Cassie), Deirdre Goodwin (Sheila), Ken Alan (Bobby), Alisan Porter (Bebe), Heather Parcells (Judy), James T Lane (Richie), Tony Yazbeck (Al), Chryssie Whitehead (Kristine), Jessica Lee Goldyn (Val), Paul McGill (Mark), Jason Tam (Paul), Natalie Cortez (Diana), Michelle Aravena (Tricia), E Clayton Cornelious (Butch), David Baum (Roy), Mike Cannon (Tom), Nadine Isenegger (Lois), Grant Turner (Frank), Lorin Latarro (Vicki)
@@ -3227,7 +3258,7 @@ NOTES
 #### A Chorus Line - Broadway Revival - August 17, 2008 (Closing Night)
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `No DVD menu`
 
 CAST
 : Mario Lopez (Zach), Nick Adams (Larry), Jason Patrick Sands (Don), Melissa Lone (Maggie), Jeffrey Schecter (Mike), J Elaine Marcos (Connie), Tommy Berklund (Greg), Jessica Lee Goldyn (Cassie), Deirdre Goodwin (Sheila), Will Taylor (Bobby), Dena DiGiacinto (Bebe), Heather Parcells (Judy), James T Lane (Richie), Mike Cannon (Al), Katherine Tokarz (Kristine), Jenifer Foote (Val), Paul McGill (Mark), Bryan Knowlton (Paul), Natalie Cortez (Diana), Michelle Aravena (Tricia), E Clayton Cornelious (Butch), Todd Anderson (Roy), Kevin Worley (Tom), Nadine Isenegger (Lois), Grant Turner (Frank), Jenifer Foote (Vicki)
@@ -3235,46 +3266,16 @@ CAST
 NOTES
 : Final performance: filmed from front row of mezzanine video starts near the end of the audition and shot goes down for applause breaks; captures everything clearly after Mike\'s \"I Can Do That\" but pretty full throughout
 
-#### A Chorus Line - Hollywood Bowl - July 29, 2016 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Mario Lopez (Zach), Spencer Liff (Larry), Michael Starr (Don), Mara Davi (Maggie), Robert Fairchild (Mike), J Elaine Marcos (Connie), Denis Lambert (Greg), Sarah Bowden (Cassie), Leigh Zimmerman (Sheila), Kelsey Walston (Bebe), Tiana Okoye (Judy), Cornelius Jones Jr (Richie), Justin Michael Wilcox (Al), Courtney Lopez (Kristine), Sabrina Bryan (Val), Ross Lynch (Mark), Jason Tam (Paul), Krysta Rodriguez (Diana)
-
-NOTES
-: This all star cast gives energetic and nuanced performances, cast as a whole is a stand out with absolutely incredible dance numbers, nicely filmed, no obstructions, no washout, just a couple of quick dropouts, filmed from stage directly, screens are never shown, filmed in 16:9 with a mix of wides, mediums and close-ups, show is 125 minutes on one disc includes curtain call and playbill scans.
-
 #### A Chorus Line - National Tour - March 27, 2009
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Jordan Fife Hunt (u/s Larry), Robyn Hurder (Cassie), Julie Kotarides (u/s Kristine), Stephanie Martignetti (u/s Val), Gabrielle Ruiz (Diana)
 
 NOTES
-: Great capture, filmed from the front, center mezzanine, so the choreography looks just the way it was intended. Missing about twenty seconds during Paul\'s monologue for a tape change. First five seconds are blacked out; clear sound, nice video A
-
-#### A Chorus Line - New Orleans - February 16, 2003
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Alton Geno (Zach), Benjamin Linn (Larry), Jeff Lukas (Don), Ariel Assaf (Maggie), Matias J Grau III (Mike), Tracey Hensarling (Connie), Gary Rucker (Greg), Elizabeth Argus (Cassie)
-
-NOTES
-: A great pro-shot recording with a great fun cast!
+: Great capture, filmed from the front, center mezzanine, so the choreography looks just the way it was intended. Missing about twenty seconds during Paul\'s monologue for a tape change. First five seconds are blacked out; clear sound, nice video AJeff Lukas (Don), Ariel Assaf (Maggie), Matias J Grau III (Mike), Tracey Hensarling (Connie), Gary Rucker (Greg), Elizabeth Argus (Cassie)
 
 #### A Chorus Line - North Shore Music Theatre - November, 2010
 {: .no_toc .d-inline-block }
@@ -3283,7 +3284,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 (SD) \| 2.35 GB
+: MP4 `368p` `2.35 GB`
 
 CAST
 : Derek Hanson (Zach), Kurt Domoney (Larry), Joe Grandy (Don), Cary Michelle Miller (Maggie), Jonathan Day (Mike), Hannah Chin (Connie), Aaron Umsted (Greg), Rebecca Riker (Cassie), Katie Cameron (Sheila), Sean Quinn (Bobby), Katerina Papacostas (Bebe), Bethany Moore (Judy), Delius Doherty (Richie), Venny Carranza (Al), Nancy Renée Braun (Kristine), Leslie Donna Flesner (Val), Christopher Shin (Mark), Miguel Angel Falcon (Paul), Julie Kotarides (Diana), Maggie Marino (Tricia), Brian Bailey (Roy), Michael McCrary (Tom), Sarah Shepler (Lois), Taylor Shubert (Frank), Wendy O\'Byrne (Vicki)
@@ -3291,23 +3292,26 @@ CAST
 NOTES
 : Performed in the round, two cameras and sound patched in from the soundboard.
 
-#### A Chorus Line - Off-Broadway - July 12, 1975
+#### A Chorus Line - Hollywood Bowl - July 29, 2016 
 {: .no_toc .d-inline-block }
 
-Pro-Shot
-{: .label .label-green }
+SJ Bernly
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls \| 4.08 GB/2.86 GB
-
-COMMENTS
-: I will include both versions in one link, please do so as well if you traded them from me
+: VOB+smalls `1 DVD`
 
 CAST
-: Robert LuPone (Zach), Thommie Walsh (Bobby Strong), Clive Clerk (Larry), Ron Khulman (Don), Kay Cole (Maggie), Wayne Cilento (Mike), Baayork Lee (Connie), Michael Stuart (Greg), Donna McKechnie (Cassie), Kelly Bishop (Sheila), Nancy Lane (Bebe), Patricia Garland (Judy), Ronald Dennis (Richie), Don Percassi (Al), Renne Baughman (Kristine), Pam Blair (Val), Cameron Mason (Mark), Sammy Williams (Paul), Priscilla Lopez (Diana)
+: Mario Lopez (Zach), Spencer Liff (Larry), Michael Starr (Don), Mara Davi (Maggie), Robert Fairchild (Mike), J Elaine Marcos (Connie), Denis Lambert (Greg), Sarah Bowden (Cassie), Leigh Zimmerman (Sheila), Kelsey Walston (Bebe), Tiana Okoye (Judy), Cornelius Jones Jr (Richie), Justin Michael Wilcox (Al), Courtney Lopez (Kristine), Sabrina Bryan (Val), Ross Lynch (Mark), Jason Tam (Paul), Krysta Rodriguez (Diana)
 
 NOTES
-: The original Broadway cast filmed prior to moving to Broadway. Professionally filmed using multiple cameras for the Lincoln Center Theatre on Film and Tape (TOFT) archives. Newly surfaced video which is a HUGE improvement over the previous version which has been in circulation for a while. This is also complete and includes the opening announcement alerting the audience that the show is being filmed. Amazing quality, but still has a little generational loss. In black and white. The DVD has been enhanced with chapter stops for all of the musical numbers. This, along with the tapes of Crazy for You and Passion, is amongst the only three TOFT tapes that have been leaked.
+: This all star cast gives energetic and nuanced performances, cast as a whole is a stand out with absolutely incredible dance numbers, nicely filmed, no obstructions, no washout, just a couple of quick dropouts, filmed from stage directly, screens are never shown, filmed in 16:9 with a mix of wides, mediums and close-ups, show is 125 minutes on one disc includes curtain call and playbill scans.
+
+### Specials
+
+A Chorus Line - Broadway 3,389th performance finale `MP4` `360p` `03:40`
+A Chorus Line 1976 Tony Awards `MP4` `1080p` `07:57`
+Every Little Step (Documentary) `MP4` `1080p` `1:33:15`
 
 ## A Christmas Carol Goes Wrong (1)
 
