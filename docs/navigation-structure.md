@@ -3348,7 +3348,7 @@ CAST
 NOTES
 : Mischief Theatre 2017 BBC Special proshot.
 
-## A Christmas Story (1)
+## A Christmas Story
 
 #### A Christmas Story - Broadway - November 7, 2012
 {: .no_toc .d-inline-block }
@@ -3356,8 +3356,14 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
+
+COMMENTS
+: Disc 2 glitches at 15:43. Would trade for a working set of files.
 
 CAST
 : Johnny Rabe (Ralphie), Dan Lauria (Jean Shepherd), John Bolton (The Old Man), Erin Dilly (Mother), Zac Ballard (Randy), Caroline O'Connor (Miss Shields)
@@ -3365,7 +3371,35 @@ CAST
 NOTES
 : Excellent HD capture of the Broadway transfer. This is such a fun show and a top notch cast that delivers the perfect blend of performances. Nice changes from the previous PreBroadway tour from last year and a perfect show to get into the holiday season!
 
-## Cinderella (Rodgers & Hammerstein) (9)
+## Cinderella (Rodgers & Hammerstein)
+
+#### Cinderella (Rodgers & Hammerstein) - US National Tour (2000) - May 5, 2001
+
+FORMAT
+: VOB+smalls `1 DVD` `1.65 GB`
+
+COMMENTS
+: Audio on left channel only, turn on mono; Would trade for a better copy.
+
+CAST
+: Jamie-Lynn Sigler (Ella), Paolo Montalban (Topher), Eartha Kitt (Fairy Godmother)
+
+NOTES
+: A beautiful capture from the orchestra. Jamie-Lynn does a smashing job as Cinderella. Also includes Tv appearances about the show. A
+
+#### Cinderella (Rodgers & Hammerstein) - New York City Opera - November 21, 2004 (Closing Night)
+
+FORMAT
+: VOB+smalls `1 DVD` `2.88 GB`
+
+COMMENTS
+: Would trade for a better copy
+
+CAST
+: Sarah Uriarte Berry (Ella), Christopher Sieber (Topher), Eartha Kitt (Fairy Godmother), John Epperson (Stepmother), Dick Van Patten (King), Renee Taylor (Queen)
+
+NOTES
+: Excellent picture and sound with lots of nice closeups. A
 
 #### Cinderella (Rodgers & Hammerstein) - Broadway - March 2, 2013 (Preview)
 {: .no_toc .d-inline-block }
@@ -3373,8 +3407,14 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
+
+COMMENTS
+: Act 1 is faulty. Please do tell me if you have a working copy!
 
 CAST
 : Laura Osnes (Ella), Santino Fontana (Topher), Victoria Clark (Marie), Harriet Harris (Madame), Ann Harada (Charlotte), Greg Hildreth (Jean-Michel), Marla Mindelle (Gabrielle), Phumzile Sojola (Lord Pinkleton), Peter Bartlett (Sebastian)
@@ -3382,10 +3422,14 @@ CAST
 NOTES
 : Beautiful HD capture of this classic show, with this being the first time having appeared on Broadway! Really a top notch cast and a beautiful production, nicely staged! A
 
-#### Cinderella (Rodgers & Hammerstein) - Broadway - March 13, 2013 \| Lanelle
+#### Cinderella (Rodgers & Hammerstein) - Broadway - March 13, 2013
+{: .no_toc .d-inline-block }
+
+Lanelle
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Laura Osnes (Ella), Santino Fontana (Topher), Victoria Clark (Marie), Harriet Harris (Madame), Ann Harada (Charlotte), Greg Hildreth (Jean-Michel), Marla Mindelle (Gabrielle), Phumzile Sojola (Lord Pinkleton), Peter Bartlett (Sebastian)
@@ -3397,7 +3441,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Carly Rae Jepsen (Ella), Joe Carroll (Topher), Victoria Clark (Marie), Fran Drescher (Madame), Ann Harada (Charlotte), Todd Buonopane (Jean-Michel), Stephanie Gibson (Gabrielle), Peter Bartlett (Sebastian)
@@ -3412,13 +3456,28 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Paige Faure (Ella), Joe Carroll (Topher), Victoria Clark (Marie), Nancy Opel (Madame), Ann Harada (Charlotte), Todd Buonopane (Jean-Michel), Stephanie Gibson (Gabrielle), Branch Woodman (u/s Lord Pinkleton), Peter Bartlett (Sebastian)
 
 NOTES
 : A nice capture of Paige's Broadway run. Act one has a couple small heads that can occasionally be seen at the bottom of the screen, but they don't affect the action. Act two has no obstruction, but there is one blackout for about one minute during The Pursuit. There are also a couple quick dropouts in each act. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There is some chatter from the kids in the audience, but the sound is otherwise excellent. Includes curtain call, encore, and playbill scans.
+
+#### Cinderella (Rodgers & Hammerstein) - First National Tour - December 21, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB (NO SMALLS) `2 DVDs`
+
+CAST
+: Paige Faure (Ella), Andy Huntington Jones (Topher), Kecia Lewis-Evans (Marie), Beth Glover (Madame), Aymee Garcia (Charlotte), David Andino (Jean-Michel), Ashley Park (Gabrielle), Antoine L Smith (Lord Pinkleton), Blake Hammond (Sebastian)
+
+NOTES
+: Beautiful HD capture with no obstructions. This cast has to be one of the best ever on tour. Paige and Kecia were so hilarious and wonderful in their roles. Gabrielle falls in the Finale and Paige brings out a newspaper at curtain call, to reference Newsies also in Chicago. A+
 
 #### Cinderella (Rodgers & Hammerstein) - Broadway - January 1, 2015 (Matinee) 
 {: .no_toc .d-inline-block }
@@ -3435,32 +3494,6 @@ CAST
 NOTES
 : Great HD capture of the final Broadway cast. Filmed just 2 days before the show closed. Keke is great as Ella but a very different voice from Laura and Paige. One slight head at the bottom at times but very visible. No washouts.
 
-#### Cinderella (Rodgers & Hammerstein) - First National Tour - December 21, 2014
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB (NO SMALLS)
-
-CAST
-: Paige Faure (Ella), Andy Huntington Jones (Topher), Kecia Lewis-Evans (Marie), Beth Glover (Madame), Aymee Garcia (Charlotte), David Andino (Jean-Michel), Ashley Park (Gabrielle), Antoine L Smith (Lord Pinkleton), Blake Hammond (Sebastian)
-
-NOTES
-: Beautiful HD capture with no obstructions. This cast has to be one of the best ever on tour. Paige and Kecia were so hilarious and wonderful in their roles. Gabrielle falls in the Finale and Paige brings out a newspaper at curtain call, to reference Newsies also in Chicago. A+
-
-#### Cinderella (Rodgers & Hammerstein) - New York City Opera - November 21, 2004 (Closing Night)
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Sarah Uriarte Berry (Ella), Christopher Sieber (Topher), Eartha Kitt (Fairy Godmother), John Epperson (Stepmother), Dick Van Patten (King), Renee Taylor (Queen)
-
-NOTES
-: Excellent picture and sound with lots of nice closeups. A
-
 #### Cinderella (Rodgers & Hammerstein) - Second National Tour - May, 2018 
 {: .no_toc .d-inline-block }
 
@@ -3468,24 +3501,13 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: MP4 (HD) \| 1.26 GB
+: MP4 `720p` `1.26 GB`
 
 CAST
 : Tatyana Lubov (Ella), Louis Griffin (Topher), Leslie Jackson (Marie), Sarah Smith (Madame), Joanna Johnson (Charlotte), Corbin Williams (Jean-Michel), Nicole Zelka (Gabrielle), Antonio Beverly (Lord Pinkleton), Christopher Swan (Sebastian)
 
 NOTES
 : Video is filmed in a house cam format. There is a lot of spotlight washout so you can\'t really make out faces, but the sound is wonderful. Soundboard. Location unknown
-
-#### Cinderella (Rodgers & Hammerstein) - US National Tour (2000) - May 5, 2001
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Jamie-Lynn Sigler (Ella), Paolo Montalban (Topher), Eartha Kitt (Fairy Godmother)
-
-NOTES
-: A beautiful capture from the orchestra. Jamie-Lynn does a smashing job as Cinderella. Also includes Tv appearances about the show. A
 
 ## City of Angels (5)
 
