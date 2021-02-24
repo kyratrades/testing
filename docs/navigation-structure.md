@@ -1758,6 +1758,21 @@ CAST
 NOTES
 : Good HD capture from the right orchestra with beautiful zooms and way less obstructions than the March video. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
 
+#### Beetlejuice - Broadway - September, 2019 (2) 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 5.50 GB
+
+CAST
+: Alex Brightman (Beetlejuice), Presley Ryan (u/s Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Kritzer (Delia Deetz/Miss Argentina), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno), Dana Steingold (Girl Scout)
+
+NOTES
+: Beautiful HD capture of the incredible Presley Ryan as Lydia and David's first week as Adam! Filmed from the left orchestra without obstructions with a mix of wides, mediums, and closeups. This is hands down the best video of the show to date. Starts about 3 minutes into performance (mid whole being dead thing).
+
 #### Beetlejuice - Broadway - November, 2019 
 {: .no_toc .d-inline-block }
 
@@ -1773,17 +1788,136 @@ CAST
 NOTES
 : A few heads show up briefly and a quick video drop after the first two songs. Covers from opening song to final applause, great shot.
 
-#### Beetlejuice - Broadway - September, 2019 (2) 
+## Big Fish
+
+#### Big Fish - Broadway - November 23, 2013
 {: .no_toc .d-inline-block }
 
-StarCuffedJeans
+Lanelle
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 5.50 GB
+: VOB+smalls
 
 CAST
-: Alex Brightman (Beetlejuice), Presley Ryan (u/s Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Kritzer (Delia Deetz/Miss Argentina), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno), Dana Steingold (Girl Scout)
+: Norbert Leo Butz (Edward Bloom), Bobby Steggert (Will Bloom), Zachary Unger (Young Will), Kate Baldwin (Sandra Bloom), Ryan Andes (Karl), Brad Oscar (Amos Calloway), Ciara Renée (The Witch), Kirsten Scott (Jenny Hill)
+
+#### Big Fish - Musical Theatre West - November 1, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jeff Skowron (Edward Bloom), Andrew Huber (Will Bloom), Jude Mason (Young Will), Rebecca Johnson (Sandra Bloom), Kristina Miller (Josephine Bloom), Timothy Hughes (Karl), Gabriel Kalomas (Amos Calloway), Zachary Ford (Don Price), Molly Garner (The Witch), Michelle Loucadoux (Jenny Hill), Richard Bulda (u/s Dr. Bennett), Jake Saenz (Zacky Price), Marisa Field (Girl in the Water)
 
 NOTES
-: Beautiful HD capture of the incredible Presley Ryan as Lydia and David's first week as Adam! Filmed from the left orchestra without obstructions with a mix of wides, mediums, and closeups. This is hands down the best video of the show to date. Starts about 3 minutes into performance (mid whole being dead thing).
+: Impeccably shot, 10/10.
+
+## Billy Elliot: The Musical
+
+#### Billy Elliot: The Musical - Australian Tour - January 23, 2008 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Seems faulty but the VOBs can be played individually. Do tell me if you have a working copy when loaded like a DVD into VLC! 
+
+CAST
+: Corey John Snide (Billy Elliot), Genevieve Lemon (Mrs. Wilkinson), Richard Piper (Dad), Lola Nixon (Grandma), Justin Smith (Tony), Linal Haft (George), Samantha Morley (Mum), John Xintavelonis (Mr. Braithwaite), Fiona Booker (Debbie)
+
+#### Billy Elliot: The Musical - La Mirada, California - February 20, 2015 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Mitchell Tobin (Billy Elliot), Vicki Lewis (Mrs. Wilkinson), David Atkinson (Dad), Marsha Waterbury (Grandma), Stephen Weston (Tony), Jake Kitchin (Michael), Kim Huber (Mum), Neil Dale (Mr. Braithwaite), RJ Highton (Tall Boy)
+
+NOTES
+: A fantastic regional production by McCoy/Rigby Entertainment. The cast is phenomenal, and I believe this is the only full capture of Mitchell in the role. A near perfect capture with no obstruction and no washout. The first minute of act two is blacked out, and there are a couple quick dropouts between scenes, but the rest of the show is fully intact. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+## Blood Brothers
+
+#### Blood Brothers - US National Tour - 1994, 1995
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Seems faulty but the VOBs can be played individually. Do tell me if you have a working copy when loaded like a DVD into VLC!
+
+CAST
+: Petula Clark (Mrs Johnstone), Mark McGrath (Narrator), David Cassidy (Mickey), Tif Luckenbill (Eddie), Priscilla Quinby (Mrs Lyons), John Kozeluh (Sammy), Yvette Lawrence (Linda), Walter Hudson (Mr Lyons), Marcy De Nezza (Brenda), Perry Ojeda (Perkins), Brandon Stacy Williams, Christopher Yates, Donna Marie, Kent Dalian, Leslie Ann Hendricks
+
+#### Blood Brothers - West End - March, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Melanie C (Mrs Johnstone), Philip Stewart (Narrator), Stephen Palfreman (Mickey), Richard Reynard (Eddie), Vivienne Carlyle (Mrs Lyons), Michael Southern (Sammy), Louise Clayton (Linda), Owen Oldroyd (Mr Lyons)
+
+NOTES
+: Some heads in the bottom of the screen but they are shot around very well and completely avoided whenever possible. Overall, a good video of an amazing cast. A-
+
+## Bloody Bloody Andrew Jackson
+
+#### Bloody Bloody Andrew Jackson - Broadway - November 10, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Benjamin Walker (Andrew Jackson), Kristine Nielsen (The Storyteller), Maria Elena Ramirez (Rachel / Florida Woman), Darren Goldstein (Calhoun / Andrew Sr.), Jeff Hiller (John Quincy Adams / Cobbler / Messenger / Tour Guide / Florida Man), Lucas Near-Verbrugghe (Van Buren / Keokuk), Bryce Pinkham (Clay / Black Fox), Greg Hildreth (Red Eagle / University President), Ben Steinfeld (Monroe), James Barry (Male Soloist / Citizen / Man), Kate Cullen Roberts (Elizabeth / Erica), Emily Young (Female Soloist / Announcer / Naomi), Cameron Ocasio (Lyncoya), Nadia Quinn (Female Ensemble / Toula)
+
+## The Bodyguard
+
+#### The Bodyguard - First National Tour - May 18, 2017 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alex Carrado (Tony), Charles Gray (Bill), Deborah Cox (Rachel), Jarid Faubel (Ray), Jasmin Richardson (Nicki), Jonathan Hadley (Sy), Jorge Paniagua (Stalker), Judson Mills (Frank Farmer), Kevelin B Jones III (Fletcher)
+
+NOTES
+: Deborah is fantastic as Rachel and gives a powerful performance. The rest of the cast is solid as well. A nice capture overall with a few blackouts at the beginning of act one: the first two minutes of the show, 2 minutes during How Will I Know, and 3 minutes during Greatest Love of All. The rest of the show is fully captured with no obstruction or washout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes playbill scans. A-
+
+## Bombay Dreams
+
+#### Bombay Dreams - Apollo Victoria, London - September 15, 2002
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephen Rahman-Hughes (u/s Akaash), Preeya Kalidas (Priya), Ayesha Dharker (Rani), Ramon Tikaram (Vikram), Stephen Berkeley-White (u/s Sweetie), Shelly King (Kitty DaSousa), Dalip Tahil (Madan)
+
+NOTES
+: Beautiful capture. Great picture and sharpness. Could be mislabeled as 5/15/02, but the show did not start previews until 5/31/02.
