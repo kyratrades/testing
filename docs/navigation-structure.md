@@ -1121,6 +1121,9 @@ NOTES
 Pro-Shot
 {: .label .label-green }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `1 DVD` `Footage starts at 1:28:24`
 
@@ -1138,6 +1141,9 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `1 DVD`
 
@@ -1149,6 +1155,9 @@ NOTES
 
 #### Anything Goes - Second Broadway Revival - November 15, 2011
 {: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -1200,17 +1209,23 @@ NOTES
 Lanelle
 {: .label .label-blue }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : VOB+smalls `2 DVDs`
 
 COMMENTS
-: VERY well shot (best capture of Rachel as Reno)
+: VERY well shot. This is the best capture of Rachel as Reno.
 
 CAST
 : Rachel York (Reno Sweeney), Josh Franklin (Billy Crocker), Alex Finke (Hope Harcourt), Fred Applegate (Moonface Martin)
 
 #### Anything Goes - Third National Tour - September 29, 2013 
 {: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
 
 SJ Bernly
 {: .label .label-blue }
@@ -1325,6 +1340,9 @@ NOTES
 #### Anything Goes - Ogunquit Playhouse/Gateway Playhouse - May 18, 2016 (Highlights)
 {: .no_toc .d-inline-block }
 
+Watched
+{: .label .label-yellow }
+
 FORMAT
 : MP4 `720p` `59.5 MB` `3m 25s`
 
@@ -1339,6 +1357,9 @@ NOTES
 
 #### Anything Goes - Ogunquit Playhouse/Gateway Playhouse - July, 2016 (Highlights)
 {: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
 
 FORMAT
 : MP4 `1080p` `35.3 MB` `1m 52s`
@@ -3331,7 +3352,7 @@ A Chorus Line - Broadway 3,389th performance finale `MP4` `360p` `03:40`
 A Chorus Line 1976 Tony Awards `MP4` `1080p` `07:57`
 Every Little Step (Documentary) `MP4` `1080p` `1:33:15`
 
-## A Christmas Carol Goes Wrong (1)
+## A Christmas Carol Goes Wrong
 
 #### A Christmas Carol Goes Wrong - BBC Special - December 30, 2017
 {: .no_toc .d-inline-block }
@@ -3374,6 +3395,7 @@ NOTES
 ## Cinderella (Rodgers & Hammerstein)
 
 #### Cinderella (Rodgers & Hammerstein) - US National Tour (2000) - May 5, 2001
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.65 GB`
@@ -3388,6 +3410,7 @@ NOTES
 : A beautiful capture from the orchestra. Jamie-Lynn does a smashing job as Cinderella. Also includes Tv appearances about the show. A
 
 #### Cinderella (Rodgers & Hammerstein) - New York City Opera - November 21, 2004 (Closing Night)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.88 GB`
@@ -3509,40 +3532,22 @@ CAST
 NOTES
 : Video is filmed in a house cam format. There is a lot of spotlight washout so you can\'t really make out faces, but the sound is wonderful. Soundboard. Location unknown
 
-## City of Angels (5)
-
-#### City of Angels - Illinois/Northwestern University - January 27, 1996
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Colby Bessera (Stone), Eric Silverberg (Stine), Daniel Kramer (Buddy / Irwin S. Irving), Kate Shindle (Gabby / Bobbi), Amy Silverman (Donna / Oolie), Kristi Frazer (Carla / Alaura), David Ayers (Pancho / Munoz), Russel Koplin (Avril / Mallory)
-
-#### City of Angels - San Jose - June, 1998
-
-FORMAT
-: MP4 (SD) \| 557.1 MB
-
-CAST
-: Darrin Baker (Stone), Neal Benari (Stine), Kenny Morris (Buddy / Irwin S. Irving), Jeanne Jones (Gabby / Bobbi), Valerie Perri (Donna / Oolie), Herschel Sparber (Jimmy Powers), Lisa Robinson (Carla / Alaura), Gary Littman (Pancho / Munoz), Annmarie Martin (Avril / Mallory)
+## City of Angels
 
 #### City of Angels - US First National Tour - November, 1991
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Jeff McCarthy (Stone), Stephen Bogardus (Stine), Catherine Cox (Donna / Oolie)
 
 #### City of Angels - West End - April 3, 1994
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Roger Allam (Stone), Martin Smith (Stine), Henry Goodman (Buddy / Irwin S. Irving), Fiona Hendley (Gabby / Bobbi), Haydn Gwynne (Donna / Oolie), Maurice Clarke (Jimmy Powers), Susannah Fellows (Carla / Alaura), David Schofield (Pancho / Munoz)
@@ -3550,10 +3555,35 @@ CAST
 NOTES
 : Intense video gen loss, some parts of video/audio is really bad. For some reason, a John Barrowman tv interview is included?? Makes no sense, but it\'s an interesting interview!
 
-#### City of Angels - West End Revival - March 9, 2020 (Preview) \| BwaytoWestEnd
+#### City of Angels - Illinois (Northwestern University) - January 27, 1996
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
 
 FORMAT
-: MP4 (HD)
+: VOB+smalls `1 DVD`
+
+CAST
+: Colby Bessera (Stone), Eric Silverberg (Stine), Daniel Kramer (Buddy / Irwin S. Irving), Kate Shindle (Gabby / Bobbi), Amy Silverman (Donna / Oolie), Kristi Frazer (Carla / Alaura), David Ayers (Pancho / Munoz), Russel Koplin (Avril / Mallory)
+
+#### City of Angels - San Jose - June, 1998
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `480p` `557.1 MB`
+
+CAST
+: Darrin Baker (Stone), Neal Benari (Stine), Kenny Morris (Buddy / Irwin S. Irving), Jeanne Jones (Gabby / Bobbi), Valerie Perri (Donna / Oolie), Herschel Sparber (Jimmy Powers), Lisa Robinson (Carla / Alaura), Gary Littman (Pancho / Munoz), Annmarie Martin (Avril / Mallory)
+
+#### City of Angels - West End Revival - March 9, 2020 (Preview)
+{: .no_toc .d-inline-block }
+
+BwaytoWestEnd
+{: .label .label-blue }
+
+FORMAT
+: MP4 `720p` `12.8 GB`
 
 CAST
 : Theo James (Stone), Hadley Fraser (Stine), Jonathan Slinger (Buddy / Irwin S. Irving), Rosalie Craig (Gabby / Bobbi), Rebecca Trehearn (Donna / Oolie), Rob Houchen (Jimmy Powers), Vanessa Williams (Carla / Alaura), Marc Elliott (Pancho / Munoz), Nicola Roberts (Avril / Mallory)
@@ -3561,7 +3591,7 @@ CAST
 NOTES
 : Stage Shot filmed from Stalls. Awful audio.
 
-## Come From Away (4)
+## Come From Away
 
 #### Come From Away - Broadway - March 10, 2017 (Preview) 
 {: .no_toc .d-inline-block }
@@ -3570,10 +3600,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
-
-COMMENTS
-: With English and Portuguese subtitles (.srt)
+: VOB+smalls `1 DVD` `English (.srt)` `Portuguese (.srt)`
 
 CAST
 : Jenn Colella (Beverley/Annette & others), Chad Kimball (Kevin T./Garth & others), Joel Hatch (Claude & others), Geno Carr (Oz & others), Kendra Kassebaum (Janice & others), Caesar Samayoa (Kevin J./Ali & others), Lee MacDougall (Nick/Doug & others), Sharon Wheatley (Diane & others), Q Smith (Hannah & others), Astrid Van Wieren (Beulah & others), Petrina Bromley (Bonnie & others), Rodney Hicks (Bob & others)
@@ -3581,34 +3608,20 @@ CAST
 NOTES
 : A beautiful capture of the new Broadway musical. The score is fantastic and the production is wonderful.
 
-#### Come From Away - West End - April, 2019 \| hitmewithyourbethshot
+#### Come From Away - West End - April, 2019
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
 
 FORMAT
-: MP4 \| 576p \| 3.34 GB
-
-COMMENTS
-: Divided into 4 parts, original
+: MP4 `576p` `3.34 GB`
 
 CAST
 : Rachel Tucker (Beverley/Annette & others), David Shannon (Kevin T./Garth & others), Clive Carter (Claude & others), Harry Morrison (Oz & others), Emma Salvo (Janice & others), Jonathan Andrew Hume (Kevin J./Ali & others), Robert Hands (Nick/Doug & others), Helen Hobson (Diane & others), Cat Simmons (Hannah & others), Jenna Boyd (Beulah & others), Mary Doherty (Bonnie & others), Nathaniel Campbell (Bob & others)
 
 NOTES
 : This video is never to be publicly shared on YouTube, tumblr, Facebook, Stagedork etc. SD MP4, 3.34GB. Often confused with queenofthedead\'s video, which is also from April, 2019, but in HD MOV.
-
-#### Come From Away - West End - February, 2020 
-{: .no_toc .d-inline-block }
-
-queenofthedead
-{: .label .label-blue }
-
-FORMAT
-: MP4 (HD) \| 3.84 GB
-
-CAST
-: Alice Fearn (Beverley/Annette & others), Mark Dugdale (Kevin T./Garth & others), James Doherty (Claude & others), Harry Morrison (Oz & others), Emma Salvo (Janice & others), Jonathan Andrew Hume (Kevin J./Ali & others), Alasdair Harvey (Nick/Doug & others), Kate Graham (Diane & others), Cat Simmons (Hannah & others), Jenna Boyd (Beulah & others), Mary Doherty (Bonnie & others), Tarinn Callender (Bob & others)
-
-NOTES
-: Slightly obstructed by one head but worked around the best I could.
 
 #### Come From Away - West End - November, 2019 
 {: .no_toc .d-inline-block }
@@ -3617,13 +3630,28 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: M2TS (HD) \| 13.60 GB
+: M2TS `13.60 GB`
 
 CAST
 : Rachel Tucker (Beverley/Annette & others), David Thaxton (Kevin T./Garth & others), Clive Carter (Claude & others), Harry Morrison (Oz & others), Emma Salvo (Janice & others), Jonathan Andrew Hume (Kevin J./Ali & others), Bob Harms (s/b Nick/Doug & others), Helen Hobson (Diane & others), Chiara Baronti (s/b Hannah & others), Jenna Boyd (Beulah & others), Jennifer Tierney (s/b Bonnie & others), Nathanael Campbell (Bob & others)
 
 NOTES
 : Incomplete: starts 12 mins in. Shot around heads. The combination of the revolve and the lighting of this show might make it a jolty watch but the action is caught as best as possible. If I had to decide who to film, I chose Rachel Tucker.
+
+#### Come From Away - West End - February, 2020 
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `3.84 GB`
+
+CAST
+: Alice Fearn (Beverley/Annette & others), Mark Dugdale (Kevin T./Garth & others), James Doherty (Claude & others), Harry Morrison (Oz & others), Emma Salvo (Janice & others), Jonathan Andrew Hume (Kevin J./Ali & others), Alasdair Harvey (Nick/Doug & others), Kate Graham (Diane & others), Cat Simmons (Hannah & others), Jenna Boyd (Beulah & others), Mary Doherty (Bonnie & others), Tarinn Callender (Bob & others)
+
+NOTES
+: Slightly obstructed by one head but worked around the best I could.
 
 ## The Comedy About A Bank Robbery (1)
 
@@ -3634,7 +3662,7 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: MP4 (HD) \| 19.13 GB
+: MP4 `1080p` `19.13 GB`
 
 CAST
 : Tom Hopcroft (u/s Sam Monaghan), Ross Virgo (u/s Neil Cooper), Charlotte Duffy (u/s Caprice Freeboys), George Hannigan (Everyone Else), Eddy Westbury (u/s Mitch Ruscitti), Damian Lynch (Mr. Freeboys), Killian Macardle (Officer Shuck), Jean-Luke Worrell (e/c Warren Slax), Ashley Tucker (Ruth Monaghan)
