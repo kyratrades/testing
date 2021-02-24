@@ -2819,7 +2819,18 @@ CAST
 NOTES
 : Beautiful HD close-ups but some long drop-outs and quite a few obstructed scenes. The rake in the mezzanine at the Neil Simon kinda stinks and I\'m pretty sure the ushers were playing flashlight tag with each other the entire show. but I began to care a lot less as the night went on Video is very Cher-centric\...choreography in \"Dark Lady\" is captured beautifully, but for the rest of the show I was mostly focused on getting those Stephanie, Teal, and Micaela zooms. We start at the scene before \"Half Breed\" and when Stephanie tells everyone to stand up for the finale it\'s all over for my filming ability.
 
-## Chess (4)
+## Chess
+
+#### Chess - Actors\' Fund Benefit Concert - September 21, 2003 (Rehearsal)
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Josh Groban (Anatoly Sergievsky), Julia Murney (Florence Vassy), Adam Pascal (Freddie Trumper), Sutton Foster (Svetlana Sergievskaya), Raúl Esparza (Arbiter), Norm Lewis (Molokov), Jonathan Dokuchitz (Walter de Courcey)
+
+NOTES
+: Complete footage of the final rehearsal before the benefit concert. Great sound and picture.
 
 #### Chess - Actors\' Fund Benefit Concert - September 22, 2003
 {: .no_toc .d-inline-block }
@@ -2828,32 +2839,10 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Josh Groban (Anatoly Sergievsky), Julia Murney (Florence Vassy), Adam Pascal (Freddie Trumper), Sutton Foster (Svetlana Sergievskaya), Raúl Esparza (Arbiter), Norm Lewis (Molokov), Jonathan Dokuchitz (Walter de Courcey)
-
-#### Chess - Actors\' Fund Benefit Concert - September 21, 2003 (Rehearsal)
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Josh Groban (Anatoly Sergievsky), Julia Murney (Florence Vassy), Adam Pascal (Freddie Trumper), Sutton Foster (Svetlana Sergievskaya), Raúl Esparza (Arbiter), Norm Lewis (Molokov), Jonathan Dokuchitz (Walter de Courcey)
-
-NOTES
-: Complete footage of the final rehearsal before the benefit concert. Great sound and picture.
-
-#### Chess - Kennedy Center/Washington D.C. - February 15 And 18, 2018 (Highlights)
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Ramin Karimloo (Anatoly Sergievsky), Karen Olivo (Florence Vassy), Raúl Esparza (Freddie Trumper), Ruthie Ann Miles (Svetlana Sergievskaya), Bryce Pinkham (Arbiter), Bradley Dean (Molokov), Sean Allan Krill (Walter de Courcey)
-
-NOTES
-: Raúl-centered highlights recorded from two nights. A lot of obstruction, not much washout. Some clips are vertical, most are horizontal. All quite watchable. Unfortunately the only known video of these performances.
 
 #### Chess - Royal Albert Hall Concert - May 12, 2008 (Opening Night)
 {: .no_toc .d-inline-block }
@@ -2862,15 +2851,80 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 (HD) \| 1.22 GB
+: MP4 `468p` `1.22 GB`
 
 CAST
 : Josh Groban (Anatoly Sergievsky), Idina Menzel (Florence Vassy), Adam Pascal (Freddie Trumper), Kerry Ellis (Svetlana Sergievskaya), Marti Pellow (Arbiter), David Bedella (Molokov), Clarke Peters (Walter de Courcey)
 
-NOTES
-: Pro-shot concert.
+#### Chess - Kennedy Center/Washington D.C. - February 15 And 18, 2018 (Highlights)
 
-## Chicago (24)
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Ramin Karimloo (Anatoly Sergievsky), Karen Olivo (Florence Vassy), Raúl Esparza (Freddie Trumper), Ruthie Ann Miles (Svetlana Sergievskaya), Bryce Pinkham (Arbiter), Bradley Dean (Molokov), Sean Allan Krill (Walter de Courcey)
+
+NOTES
+: Raúl-centered highlights recorded from two nights. A lot of obstruction, not much washout. Some clips are vertical, most are horizontal. All quite watchable. Unfortunately the only known video of these performances.
+
+## Chicago
+
+### National Tour(s)
+
+#### Chicago - First National Tour - 1978
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Melody Adams (s/w Roxie Hart), Kristen Childs (u/s Velma Kelly), Jerry Orbach (Billy Flynn), Rex Everhart (Amos Hart), Edye Byrde (Matron \"Mama\" Morton)
+
+NOTES
+: One of the few copies of the Bob Fosse staging instead of the concert presentation. It\'s an older video but still wonderful to watch even with some major generation loss. C
+
+#### Chicago - Fourth National Tour - November 23, 2005
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Paige Davis (Roxie Hart), Brenda Braxton (Velma Kelly), Tom Wopat (Billy Flynn), Ron Orbach (Amos Hart), Carol Woods (Matron \"Mama\" Morton), C Newcomb (Mary Sunshine)
+
+NOTES
+: Amazing cast and so much fun in this production. Paige is great, Brenda is sassy, and Woods vocals are wild. Best Chicago video ever. Crystal Clear picture and sound. A+
+
+#### Chicago - Fourth National Tour - May 12, 2007
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Michelle Dejean (Roxie Hart), Terra C MacLeod (Velma Kelly), Tom Wopat (Billy Flynn), Carol Woods (Matron \"Mama\" Morton)
+
+NOTES
+: A terrific capture of this show with amazing shots. Michelle is the highlight here and gives a wonderful performance. A
+
+#### Chicago - Seventh National Tour - February 2, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Paige Davis (Roxie Hart), Terra C MacLeod (Velma Kelly), John O\'Hurley (Billy Flynn), Ron Orbach (Amos Hart), Carol Woods (Matron \"Mama\" Morton), C Newcomb (Mary Sunshine), Naomi Kakuk (Hunyak), Sherisse Springer (Liz), Laura Oldham (Annie), Lindsay Roginski (June), Stephanie Maloney (Mona), Jon-Paul Mateo (Fred Casely)
+
+### Broadway Revival
 
 #### Chicago - Broadway Revival - 1996 (Highlights)
 {: .no_toc .d-inline-block }
@@ -2879,7 +2933,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Ann Reinking (Roxie Hart), Bebe Neuwirth (Velma Kelly), James Naughton (Billy Flynn), Joel Grey (Amos Hart), Marcia Lewis (Matron \"Mama\" Morton), D Sabella (Mary Sunshine)
@@ -2888,17 +2942,19 @@ NOTES
 : Almost the full show (2 hours and 7 minutes). Usually referred to as Press Reels, this is actually the unedited footage shot for press or archival purposes. Decent amount on generation loss with some distortion at the top of the screen, and a time code at the bottom. Sometimes incorrectly labeled as 1995 .
 
 #### Chicago - Broadway Revival - September 8, 2002
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Amy Spanger (Roxie Hart), Stephanie Pope (Velma Kelly), Michael C Hall (Billy Flynn)
 
 #### Chicago - Broadway Revival - May 10, 2004
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Belle Callaway (Roxie Hart), Pia Douwes (Velma Kelly), Tom Wopat (Billy Flynn), PJ Benjamin (Amos Hart), Roz Ryan (Matron \"Mama\" Morton), D Sabella (Mary Sunshine), Jennifer Dunne (u/s Hunyak), Michelle Marie Robinson (Liz), Roxanne Corrasco (Annie), Donna Marie Asbury (June), Michelle Dejean (Mona)
@@ -2907,9 +2963,10 @@ NOTES
 : Starts at \"All That Jazz.\" Shaky at times but overall good quality
 
 #### Chicago - Broadway Revival - May 22, 2007
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Bianca Marroquin (Roxie Hart), Brenda Braxton (Velma Kelly), Joey Lawrence (Billy Flynn), Rob Bartlett (Amos Hart), Carol Woods (Matron \"Mama\" Morton), R Lowe (Mary Sunshine), Michelle Marie Robinson (Liz), Donna Marie Asbury (June)
@@ -2924,7 +2981,10 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
+
+COMMENTS
+: Audio on left channel only, turn on mono
 
 CAST
 : Kara DioGuardi (Roxie Hart), Amra-Faye Wright (Velma Kelly), Tony Yazbeck (Billy Flynn), Chris Sullivan (Amos Hart), Nicole Bridgewater (Matron \"Mama\" Morton), R Lowe (Mary Sunshine), Donna Marie Asbury (June), James Harkness (Fred Casely), Melissa Rae Mahon (Go-To-Hell-Kitty), Jason Patrick Sands (Doctor), James T Lane (Aaron), Jason Patrick Sands (The Judge), Ryan Worsing (The Jury)
@@ -2932,10 +2992,14 @@ CAST
 NOTES
 : Filmed in 16:9 HD Widescreen, a mezzanine bar at times obstructs the very front of the stage but otherwise very clear. Includes NY1 Interview with Kara DioGuardi. Wonderful cast, and the capture uses mostly wider shots so you can see the big pictures of the dances.
 
-#### Chicago - Broadway Revival - November 18, 2012 \| Lanelle
+#### Chicago - Broadway Revival - November 18, 2012
+{: .no_toc .d-inline-block }
+
+Lanelle
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Amy Spanger (Roxie Hart), Amra-Faye Wright (Velma Kelly), Billy Ray Cyrus (Billy Flynn), Brian O\'Brien (Amos Hart), Carol Woods (Matron \"Mama\" Morton), R Lowe (Mary Sunshine)
@@ -2947,7 +3011,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Brandy Norwood (Roxie Hart), Amra-Faye Wright (Velma Kelly), Ivan Hernandez (Billy Flynn), Raymond Bokhour (Amos Hart), NaTasha Yvette Williams (Matron \"Mama\" Morton)
@@ -2970,169 +3034,12 @@ CAST
 NOTES
 : Great capture of Jane the Virgin star in the role of Billy. Donna gives a great performance and vocals as Velma!
 
-#### Chicago - Ettlingen, Germany - July, 2018 \| Rumpel
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Dorothée Kahler (Velma Kelly), Maria-Danae Bahnsen (Roxie Hart), Adrian Kroneberger (Amos Hart), Gudrun Schade (Mama Morton), Marc Lamberty (Billy Flynn), Anton Schweizer (Mary Sunshine), Eva Müller (Kitty), Marc Trojan (Fred Casely), Vanessa Wilcek (Liz/Harrys Mädchen), Ellen Wawrzyniak (Annie), Tina Podstawa (June), Isabelle Vedder (Junyak/Harrys Mädchen), Julie Hall (Mona), Wolfgang Schwingler (Seargant Fogerty/Richter), Bas Timmers (Ein Schneider/Gerichtsdiener), Marco Fahrland-Jadue (Harry, Kittys Mann/Harrison, Staatsanwalt), Robert Lankester (Ein Arzt/Aaron, Anwalt)
-
-NOTES
-: There\'s a 10-15 second break in act 2 due to a battery change.
-
-#### Chicago - First National Tour - 1978
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Melody Adams (s/w Roxie Hart), Kristen Childs (u/s Velma Kelly), Jerry Orbach (Billy Flynn), Rex Everhart (Amos Hart), Edye Byrde (Matron \"Mama\" Morton)
-
-NOTES
-: One of the few copies of the Bob Fosse staging instead of the concert presentation. It\'s an older video but still wonderful to watch even with some major generation loss. C
-
-#### Chicago - Fourth National Tour - November 23, 2005
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Paige Davis (Roxie Hart), Brenda Braxton (Velma Kelly), Tom Wopat (Billy Flynn), Ron Orbach (Amos Hart), Carol Woods (Matron \"Mama\" Morton), C Newcomb (Mary Sunshine)
-
-NOTES
-: Amazing cast and so much fun in this production. Paige is great, Brenda is sassy, and Woods vocals are wild. Best Chicago video ever. Crystal Clear picture and sound. A+
-
-#### Chicago - Fourth National Tour - May 12, 2007
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Michelle Dejean (Roxie Hart), Terra C MacLeod (Velma Kelly), Tom Wopat (Billy Flynn), Carol Woods (Matron \"Mama\" Morton)
-
-NOTES
-: A terrific capture of this show with amazing shots. Michelle is the highlight here and gives a wonderful performance. A
-
-#### Chicago - Hollywood Bowl - July 26, 2013 (Opening Night)
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Ashlee Simpson (Roxie Hart), Samantha Barks (Velma Kelly), Stephen Moyer (Billy Flynn), Drew Carey (Amos Hart), Lucy Lawless (Matron \"Mama\" Morton), D Tablak (Mary Sunshine)
-
-#### Chicago - Long Beach Civic Light Opera - 1992
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Juliet Prowse (Roxie Hart), Bebe Neuwirth (Velma Kelly), Gary Sandy (Billy Flynn), Barney Martin (Amos Hart), Kaye Ballard (Matron \"Mama\" Morton), M O\'Haughey (Mary Sunshine), Jodi Lang (Hunyak), Lisa Akey (Liz), Kim Morgan Greene (Annie), Daryl Richardson (June), Caitlin Carter (Mona), David Warren-Gibson (Fred Casely), Jennifer Nairn-Smith (Go-To-Hell-Kitty), William Ledesma (Sergeant Fogarty), Robert Loftin (Aaron), Jim Borstelmann (Martin Harrison), Glenn Sneed (The Jury), Eric Davenport (Court Clerk)
-
-NOTES
-: Audience shot, much generation loss, good sound, problems with the video at the end. Re-creation of Bob Fosse\'s original staging. Features the original scenic design from 1975. Directed by Rob Marshall (who later directed the movie adaption of this musical) with choreography by Ann Reinking (in the style of Bob Fosse). Highly recommended for fans of \'Chicago\'.
-
-#### Chicago - Madrid - 2010
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Natalia Millán, Marcela Paoli, Manuel Bandera, Fedor de Pablos, Linda Mirabal, Gerónimo Rauch
-
-NOTES
-: Multicamera Proshot
-
-#### Chicago - Mexico City - 2001
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Bianca Marroquin (Roxie Hart), Sandra Guida (Velma Kelly), Eugenio Montessoro (Billy Flynn), Dario Ripoll (Amos Hart), Laura Cortés (Matron \"Mama\" Morton), Javier Medina (Mary Sunshine)
-
-NOTES
-: Multi-Cam Pro-Shot from the original production, meant for production viewing only
-
-#### Chicago - San José Civic Light Opera - January, 1988
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Kirsten Childs (Velma Kelly), Belle Calaway (Roxie), Marsha Bagwell (Matron \"Mama\" Morton). Directed by Dianna Shuster, choreographed by Bick Goss. Single Cam Pro-Shot w. Soundboard Audio.
-
-NOTES
-: Single Cam Pro-Shot with Soundboard Audio. CAST
-: Kirsten Childs (Velma Kelly), Belle Calaway (Roxie), Marsha Bagwell (Matron \"Mama\" Morton). Directed by Dianna Shuster with Bick Goss recreating Bob Fosse\'s original choreography.
-
-#### Chicago - Seventh National Tour - February 2, 2014 
-{: .no_toc .d-inline-block }
-
-SJ Bernly
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Paige Davis (Roxie Hart), Terra C MacLeod (Velma Kelly), John O\'Hurley (Billy Flynn), Ron Orbach (Amos Hart), Carol Woods (Matron \"Mama\" Morton), C Newcomb (Mary Sunshine), Naomi Kakuk (Hunyak), Sherisse Springer (Liz), Laura Oldham (Annie), Lindsay Roginski (June), Stephanie Maloney (Mona), Jon-Paul Mateo (Fred Casely)
-
-#### Chicago - The Netherlands - 1999
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-COMMENTS
-: 2-Disc version (the one commonly mislabeled as Fall, 1999, but is actually the 1999 one according to a few Dutch traders)
-
-CAST
-: Simone Kleinsma (Roxie Hart), Pia Douwes (Velma Kelly), Stanley Burleson (Billy Flynn), Marjolijn Touw (Matron \"Mama\" Morton)
-
-#### Chicago - The Netherlands - Fall, 1999
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Ellen Evers (u/s Roxie Hart), Pia Douwes (Velma Kelly), Stanley Burleson (Billy Flynn), Serge Henry Valke (Amos Hart), Marjolijn Touw (Matron \"Mama\" Morton)
-
-NOTES
-: Good capture; multicam proshot. One camera is centre stage, the other is on the left balcony.
+### West End Revival
 
 #### Chicago - West End Revival - 1999
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Chita Rivera (Roxie Hart), Valarie Pettiford (Velma Kelly), Michael Siberry (Billy Flynn), Norman Pace (Amos Hart), Sue Kelvin (Matron \"Mama\" Morton), Charles Shirvell (Mary Sunshine), Robbie O\'Reilly (Hunyak), Cat Lawrence (Liz), Rachel Stanley (Annie), Suzy Bloom (June), Jacqui Jameson (Mona), Jo Ellery (Go-To-Hell-Kitty)
@@ -3140,10 +3047,8 @@ CAST
 #### Chicago - West End Revival - August 14, 2003
 
 FORMAT
-: VOB+smalls
-
-COMMENTS
-: I have two different sets of VOB+smalls.
+: `1` VOB+smalls `4.03 GB`
+: `2` VOB+smalls `2.30 GB` `Includes playbill at the start`
 
 CAST
 : Linzi Hateley (Roxie Hart), Ruthie Henshall (Velma Kelly), Rolf Saxon (Billy Flynn), Norman Pace (Amos Hart), Zee Asha (Matron \"Mama\" Morton)
@@ -3154,10 +3059,126 @@ NOTES
 #### Chicago - West End Revival - February 9, 2012
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `No DVD menu`
 
 CAST
 : Sarah Soetaert, Rachel McDowall, Terence Maynard, James Doherty, Jasna, Ivir, R. Whitehead, Lauren Brooke, Chantelle Carey, Abramo Ciullo, Edwina Cox, BenDixon, Jenny Gayner, Emma Harris, Jamie Hughes-Ward, Debbie Jenkins, Dann Kharsa, Rory Locke, Dario Mazzoli, Richard Murphy, Grant Neal, Alicia Peacock, Sergio Priftis, Laura Tyrer, Matt Wesley, Jayde Westaby
+
+### The Netherlands
+
+#### Chicago - The Netherlands - 1999
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Simone Kleinsma (Roxie Hart), Pia Douwes (Velma Kelly), Stanley Burleson (Billy Flynn), Marjolijn Touw (Matron \"Mama\" Morton)
+
+NOTES
+: The 2-Disc version is commonly mislabeled as Fall, 1999, but is actually the 1999 one according to a few Dutch traders.
+
+
+#### Chicago - The Netherlands - Fall, 1999
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Ellen Evers (u/s Roxie Hart), Pia Douwes (Velma Kelly), Stanley Burleson (Billy Flynn), Serge Henry Valke (Amos Hart), Marjolijn Touw (Matron \"Mama\" Morton)
+
+NOTES
+: Good capture; multicam proshot. One camera is centre stage, the other is on the left balcony.
+
+### MISC
+
+#### Chicago - San José Civic Light Opera - January, 1988
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Kirsten Childs (Velma Kelly), Belle Calaway (Roxie), Marsha Bagwell (Matron \"Mama\" Morton). Directed by Dianna Shuster, choreographed by Bick Goss. Single Cam Pro-Shot w. Soundboard Audio.
+
+NOTES
+: Single Cam Pro-Shot with Soundboard Audio. Directed by Dianna Shuster with Bick Goss recreating Bob Fosse\'s original choreography.
+
+#### Chicago - Long Beach Civic Light Opera - 1992
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Juliet Prowse (Roxie Hart), Bebe Neuwirth (Velma Kelly), Gary Sandy (Billy Flynn), Barney Martin (Amos Hart), Kaye Ballard (Matron \"Mama\" Morton), M O\'Haughey (Mary Sunshine), Jodi Lang (Hunyak), Lisa Akey (Liz), Kim Morgan Greene (Annie), Daryl Richardson (June), Caitlin Carter (Mona), David Warren-Gibson (Fred Casely), Jennifer Nairn-Smith (Go-To-Hell-Kitty), William Ledesma (Sergeant Fogarty), Robert Loftin (Aaron), Jim Borstelmann (Martin Harrison), Glenn Sneed (The Jury), Eric Davenport (Court Clerk)
+
+NOTES
+: Audience shot, much generation loss, good sound, problems with the video at the end. Re-creation of Bob Fosse\'s original staging. Features the original scenic design from 1975. Directed by Rob Marshall (who later directed the movie adaption of this musical) with choreography by Ann Reinking (in the style of Bob Fosse). Highly recommended for fans of \'Chicago\'.
+
+#### Chicago - Mexico City - 2001
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Bianca Marroquin (Roxie Hart), Sandra Guida (Velma Kelly), Eugenio Montessoro (Billy Flynn), Dario Ripoll (Amos Hart), Laura Cortés (Matron \"Mama\" Morton), Javier Medina (Mary Sunshine)
+
+NOTES
+: Multi-Cam Pro-Shot from the original production, meant for production viewing only
+
+#### Chicago - Madrid - 2010
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Natalia Millán, Marcela Paoli, Manuel Bandera, Fedor de Pablos, Linda Mirabal, Gerónimo Rauch
+
+NOTES
+: Multicamera Proshot
+
+#### Chicago - Hollywood Bowl - July 26, 2013 (Opening Night)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Ashlee Simpson (Roxie Hart), Samantha Barks (Velma Kelly), Stephen Moyer (Billy Flynn), Drew Carey (Amos Hart), Lucy Lawless (Matron \"Mama\" Morton), D Tablak (Mary Sunshine)
+
+#### Chicago - Ettlingen, Germany - July, 2018
+{: .no_toc .d-inline-block }
+
+Rumpel
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Dorothée Kahler (Velma Kelly), Maria-Danae Bahnsen (Roxie Hart), Adrian Kroneberger (Amos Hart), Gudrun Schade (Mama Morton), Marc Lamberty (Billy Flynn), Anton Schweizer (Mary Sunshine), Eva Müller (Kitty), Marc Trojan (Fred Casely), Vanessa Wilcek (Liz/Harrys Mädchen), Ellen Wawrzyniak (Annie), Tina Podstawa (June), Isabelle Vedder (Junyak/Harrys Mädchen), Julie Hall (Mona), Wolfgang Schwingler (Seargant Fogerty/Richter), Bas Timmers (Ein Schneider/Gerichtsdiener), Marco Fahrland-Jadue (Harry, Kittys Mann/Harrison, Staatsanwalt), Robert Lankester (Ein Arzt/Aaron, Anwalt)
+
+NOTES
+: There\'s a 10-15 second break in act 2 due to a battery change.
 
 ## Children of Eden (1)
 
