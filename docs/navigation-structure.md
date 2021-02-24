@@ -1577,7 +1577,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Julia Knitel (Carole King), Liam Tobin (Gerry Goffin), Erika Olson (Cynthia Weil), Ben Fankhauser (Barry Mann), Curt Bouril (Don Kirshner), Suzanne Grodner (Genie Klein)
@@ -1997,7 +1997,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD` `With English subtitles .srt`
+: VOB+smalls `2 DVDs` `With English subtitles .srt`
 
 CAST
 : Nic Rouleau (Elder Price), Ben Platt (Elder Cunningham), Syesha Mercado (Nabulungi), Pierce Cassedy (Elder McKinley), James Vincent Meredith (Mafala Hatimbi), Christopher Shyer (Mission President), David Aron Damane (General)
@@ -2124,7 +2124,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Zach Braff (David Shayne), Janet Dickinson (u/s Helen Sinclair), Brooks Ashmanskas (Warner Purcell), Vincent Pastore (Nick Valenti), Lenny Wolpe (Julian Marx), Nick Cordero (Cheech), Betsy Wolfe (Ellen), Heléne Yorke (Olive Neal), Karen Ziemba (Eden Brent)
@@ -2139,7 +2139,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Michael Williams (David Shayne), Emma Stratton (Helen Sinclair), Bradley Allen Zarr (Warner Purcell), Michael Corvino (Nick Valenti), Rick Grossman (Julian Marx), Jeffrey Brooks (Cheech), Hannah Cruz (Ellen), Jemma Jane (Olive Neal), Rachel Bahler (Eden Brent)
@@ -2235,7 +2235,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Leeds Hill (u/s Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost)
@@ -2250,7 +2250,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Alan Cumming (Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost)
@@ -2265,7 +2265,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Alan Cumming (Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Benjamin Eakeley (u/s Ernst Ludwig), Kaleigh Cronin (u/s Fräulein Kost), Stacey Sipowicz (u/s Lulu/Two Ladies Dancer), Andrea Goss (Frenchie/Gorilla), Leeds Hill (Bobby/Two Ladies Dancer), Kristin Olness (Helga), Jessica Pariseau (Texas), Dylan Paul (Victor), Kelly Paredes (u/s Rosie), Evan D Siegel (Hans/Rudy)
@@ -2277,8 +2277,8 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: `1` VOB+smalls `2 DVD` `6.52 GB`
-: `2` VOB+smalls `2 DVD` `7.93 GB`
+: `1` VOB+smalls `2 DVDs` `6.52 GB`
+: `2` VOB+smalls `2 DVDs` `7.93 GB`
 
 CAST
 : Alan Cumming (Emcee), Emma Stone (Sally Bowles), Kristie Dale Sanders (s/b Fräulein Schneider), Philip Hoffman (s/b Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost), Katrina Yaukey (u/s Lulu/Two Ladies Dancer), Benjamin Eakeley (Herman/Customs Officer/Max), Andrea Goss (Frenchie/Gorilla), Leeds Hill (Bobby/Two Ladies Dancer), Kristin Olness (Helga), Jessica Pariseau (Texas), Dylan Paul (Victor), Stacey Sipowicz (Rosie), Evan D Siegel (Hans/Rudy)
@@ -2296,7 +2296,7 @@ Lanelle
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD` `No DVD menu`
+: VOB+smalls `2 DVDs` `No DVD menu`
 
 CAST
 : Alan Cumming (Emcee), Emma Stone (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost), Katrina Yaukey (u/s Lulu/Two Ladies Dancer)
@@ -2308,7 +2308,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `2 DVD` `No DVD menu`
+: VOB+smalls `2 DVDs` `No DVD menu`
 
 CAST
 : Alan Cumming (Emcee), Emma Stone (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Hani Furstenberg (Fräulein Kost)
@@ -2323,7 +2323,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD`
+: VOB+smalls `2 DVDs`
 
 COMMENTS
 : Includes an MP4 NOT to be traded separately
@@ -2452,7 +2452,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVD`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Steven Pasquale (Billy Bigelow), Laura Osnes (Julie Jordan), Denyce Graves (Nettie Fowler), Jenn Gambatese (Carrie Pipperidge), Matthew Hydzik (Enoch Snow), Charlotte d\'Amboise (Mrs. Mullin), Tony Roberts (The Starkeeper), Jarrod Emick (Jigger Craigin), Abigail Simon (Louise), Martin Harvey (Fairground Boy)
