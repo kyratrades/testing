@@ -1634,3 +1634,156 @@ CAST
 
 NOTES
 : Beautiful Thing is a glorious urban love story between two young men set on an inner city housing estate. It tells the story of teenager Jamie\'s relationship with classmate and neighbour Ste. Together the two boys find comedy, warmth and the music of Mama Cass through their loud-mouthed next door neighbour Leah. The play exquisitely depicts what it is to be sixteen, in the first flush of love, and full of optimism. Filmed at Arts Theatre, London.
+
+## Beauty and the Beast (Disney)
+
+#### Beauty and the Beast (Disney) - Toronto - August 8, 1995 (Opening Night) (Highlights) 
+{: .no_toc .d-inline-block }
+
+Press Reel 
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Kerry Butler (Belle), Chuck Wagner (Beast/Prince), Terry Doyle (Maurice), Dan Chameroy (Gaston), Andre Therien (Lumière), Judy Marshak (Mrs. Potts), Paul Brown (Cogsworth), Jo-Anne Kirwan Clark (Madame de la Grande Bouche), Elizabeth Beeler (Babette), Cliff Saunders (Le Fou)
+
+NOTES
+: Press reels with footage from the show and interviews
+
+#### Beauty and the Beast (Disney) - West End - April 29, 1997
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Missing VTS_02_1.VOB.002 (or it could be named VTS_02_12.VOB), PLEASE do tell me if you have it, willing to trade unfairly
+
+CAST
+: Michelle Gayle (Belle), John Barrowman (Beast/Prince), Billy Boyle (Maurice), Alex Bourne (Gaston), Mark Caven (Lumière), Gemma Craven (Mrs. Potts), Barry James (Cogsworth)
+
+NOTES
+: Good video, camcorder. Includes LA Cast Press Reels.
+
+#### Beauty and the Beast (Disney) - Vienna - May - June, 1997
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Caroline Vaiscek (Belle), Steve Barton (Beast/Prince), Kevin Tarte (Gaston)
+
+#### Beauty and the Beast (Disney) - Broadway - September 7, 1997 (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Kerry Butler (Belle), Chuck Wagner (Beast/Prince)
+
+#### Beauty and the Beast (Disney) - Broadway - March 11, 1999
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Andrea McArdle (Belle), William Michals (Beast/Prince), Steve Blanchard (Gaston), Beth Fowler (Mrs. Potts)
+
+#### Beauty and the Beast (Disney) - West End - November 24, 1999 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Audio on right channel only, turn on mono when watching
+
+CAST
+: Annalene Beechey (Belle), Earl Carpenter (Beast/Prince), Billy Boyle (Maurice), Alex Bourne (Gaston), Mark Caven (Lumière), Gemma Craven (Mrs. Potts), Barry James (Cogsworth), Shezwae Powell (Madame de la Grande Bouche), Kate Graham (Babette), Richard Gauntlet (Le Fou)
+
+NOTES
+: House Cam recording of the final West End Cast.
+
+#### Beauty and the Beast (Disney) - Dutch Tour - October 4, 2005 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Chantal Janzen (Belle), Stanley Burleson (Beast/Prince), Dick Rienstra (Maurice), René van Kooten (Gaston), Carlo Bozschard (Lumière), Mariska von Holck (Mrs. Potts), Ger Otte (Cogsworth), Caroline Mout (Madame de la Grande Bouche), Nicole Berendsen (Babette), Jorge Verkoost (Le Fou)
+
+## A Bed and a Chair: A New York Love Affair
+
+#### A Bed and a Chair: A New York Love Affair - Encores! Special Event - November 13, 2013
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Audio on left channel only, turn on mono
+
+CAST
+: Bernadette Peters (Female 1), Cyrille Aimee (Female 2), Elizabeth Parkinson (Female Dancer 1), Grasan Kingsberry (Male Dancer 1), Jeremy Jordan (Male 2), Meg Gillentine (Female Dancer 2), Norm Lewis (Male 1), Tyler Hanes (Male Dancer 2)
+
+## Beetlejuice
+
+#### Beetlejuice - Broadway - July, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 5.63 GB
+
+CAST
+: Alex Brightman (Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), Rob McClure (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Kritzer (Delia Deetz/Miss Argentina), Kelvin Moon Loh (Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno), Dana Steingold (Girl Scout)
+
+NOTES
+: Good HD capture from the right orchestra with beautiful zooms and way less obstructions than the March video. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
+
+#### Beetlejuice - Broadway - November, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 5.67 GB
+
+CAST
+: Will Blum (u/s Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Kim Sava (u/s Delia Deetz/Miss Argentina), Sean Montgomery (u/s Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno)
+
+NOTES
+: A few heads show up briefly and a quick video drop after the first two songs. Covers from opening song to final applause, great shot.
+
+#### Beetlejuice - Broadway - September, 2019 (2) 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 \| 1080p \| 5.50 GB
+
+CAST
+: Alex Brightman (Beetlejuice), Presley Ryan (u/s Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Kritzer (Delia Deetz/Miss Argentina), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno), Dana Steingold (Girl Scout)
+
+NOTES
+: Beautiful HD capture of the incredible Presley Ryan as Lydia and David's first week as Adam! Filmed from the left orchestra without obstructions with a mix of wides, mediums, and closeups. This is hands down the best video of the show to date. Starts about 3 minutes into performance (mid whole being dead thing).
