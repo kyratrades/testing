@@ -85,7 +85,7 @@ NOTES
 
 ### Pre-Broadway / Los Angeles
 
-#### 9 to 5 - Pre-Broadway (Los Angeles) - September 13, 2008 (Preview)
+#### 9 to 5 - Pre-Broadway / Los Angeles - September 13, 2008 (Preview)
 {: .no_toc .d-inline-block }
 
 juniper47
@@ -97,7 +97,7 @@ FORMAT
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Iona Alphonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
 
-#### 9 to 5 - Pre-Broadway (Los Angeles) - September 23, 2008
+#### 9 to 5 - Pre-Broadway / Los Angeles - September 23, 2008
 {: .no_toc }
 
 FORMAT
@@ -109,7 +109,7 @@ CAST
 NOTES
 : Shot from mezzanine with no head obstructions so a very clear shot. A little a bit shaky for the first number but steady after. Opening night was on the 20th, so this is a very early performance.
 
-#### 9 to 5 - Pre-Broadway (Los Angeles) - October 19, 2008 (Closing Night)
+#### 9 to 5 - Pre-Broadway / Los Angeles - October 19, 2008 (Closing Night)
 {: .no_toc .d-inline-block }
 
 juniper47
@@ -124,7 +124,7 @@ CAST
 NOTES
 : Often confused for SunsetBlvd79\'s video from the same performance.
 
-#### 9 to 5 - Pre-Broadway (Los Angeles) - October 19, 2008 (Closing Night)
+#### 9 to 5 - Pre-Broadway / Los Angeles - October 19, 2008 (Closing Night)
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
@@ -2519,6 +2519,7 @@ NOTES
 ## Cat on a Hot Tin Roof
 
 #### Cat on a Hot Tin Roof - Broadway - January 1, 2013
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -2528,7 +2529,7 @@ CAST
 
 ## Catch Me If You Can
 
-#### Catch Me If You Can - Seattle, WA (Pre-Broadway) - August 4, 2009
+#### Catch Me If You Can - Pre-Broadway / Seattle, WA - August 4, 2009
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
@@ -2543,10 +2544,11 @@ CAST
 NOTES
 : This is a great capture of the show. The show is filled with wonderful talent. Aaron and Norbert have a great chemistry together and Aaron has a huge voice. Kerry and Felicia both have great songs and great vocals. The show itself is very sleek and mod. A
 
-#### Catch Me If You Can - Seattle, WA (Pre-Broadway) - August 15, 2009
+#### Catch Me If You Can - Pre-Broadway / Seattle, WA - August 15, 2009
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `1 DVD`
+: VOB+smalls `2 DVDs`
 
 CAST
 : Aaron Tveit (Frank Abagnale, Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale, Sr.), Rachel de Benedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong)
@@ -2555,6 +2557,7 @@ NOTES
 : Some very quick blackouts, none last more than 30 seconds or so.Very little obstruction, just heads on the bottom and the right, mostly in wideshots, and they\'re hardly noticeable.
 
 #### Catch Me If You Can - Broadway - April 27, 2011
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -2577,75 +2580,13 @@ FORMAT
 CAST
 : Jacob Haren (Frank Abagnale, Jr.), Josh Adamson (Agent Carl Hanratty), Robert Neary (Frank Abagnale, Sr.), Tracy Lore (Paula Abagnale), Heather Lundstedt (Brenda Strong)
 
-## Cats (8)
-
-#### Cats - Broadway Revival - October 30, 2016
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Mamie Parris (Grizabella), Ahmad Simmons (Alonzo), Daniel Gaymon (Admetus/Macavity), Christine Cornish Smith (Bombalurina), Christopher Gurr (Bustopher Jones/Gus/Growltiger), Emily Pynenburg (Cassandra), Tanner Ray Wilson (Carbucketty), Corey John Snide (Coricopat), Lili Froehlich (Electra), Sara Jean Ford (Jellylorum), Francesca Granell (u/s Jennyanydots), Corey John Snide (u/s Mr. Mistoffelees), Jess LeProtto (Mungojerrie), Andy Huntington Jones (Munkustrap), Quentin Earl Darrington (Old Deuteronomy), Shonica Gooden (Rumpleteazer), Tyler Hanes (Rum Tum Tugger), Jeremy Davis (Skimbleshanks), Emily Tate (Tantomile), Georgina Pazcoguin (Victoria), Sharrod Williams (Pouncival), Arianna Rosario (Sillabub)
-
-NOTES
-: Great HD capture of the final Broadway Revival cast. Mamie has such a strong voice and is a wonderful Grizabella. A
-
-#### Cats - Commercial Release - August, 1997
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV (HD) \| 7.64 GB + 1.68 GB
-
-COMMENTS
-: Comes with a YouTube rip of ALW\'s Live Commentary
-
-CAST
-: Elaine Paige (Grizabella), Jason Gardiner (Alonzo), Bryn Walters (Admetus/Macavity), Fergus Logan (Bill Bailey/Tumblebrutus), Rosemarie Ford (Bombalurina), James Barron (Bustopher Jones/Gus/Growltiger), Rebecca Parker (Cassandra), Tommi Sliiden (Coricopat), Aeva May (Demeter), Leah - Sue Morland (Electra), Susan Jane Tanner (Jellylorum), Veerle Casteleyn (Jemima), Susie McKenna (Jennyanydots), Jacob Brent (Mr. Mistoffelees), Drew Varley (Mungojerrie), Michael Gruber (Munkustrap), Ken Page (Old Deuteronomy), Jo Gibb (Rumpleteazer), John Partridge (Rum Tum Tugger), Geoffrey Garrat (Skimbleshanks), Kaye Brown (Tantomile), Phyllida Crowley-Smith (Victoria), Karl Morgan (Pouncival), Jo Bingham (Etcetera), Steven Wayne (George)
-
-NOTES
-: Filmed on stage at the Adelphi Theatre (London, England) and distributed commercially.
-
-#### Cats - Mexico - December 29, 2013 (Matinee) (Closing Night) 
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Natalia Sosa (Grizabella), Manuel Landeta (Old Deuteronomy), Jaime Rojas (e/c Old Deuteronomy)
-
-NOTES
-: Recorded by the company with zoom's for production viewing only Previous circulated version is a YouTube rip (640x360p resolution. MP4 **SIZE:** 568 MB) The real information for this video is 720 x 480 resolution DVD 4.19 GB Natalia Sosa (Grizabella) Manuel Landeta (Old Deuteronomy 1 Act) Jaime Rojas (Old Deuteronomy 2nd Act)
-
-#### Cats - The Muny, St. Louis - July 25, 2010 (Closing Night)
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Stephanie J Block (Grizabella), Michael Brian Dunn (Bustopher Jones/Gus/Growltiger), Christine Negherbon (Jennyanydots), Joseph Medeiros (Mr. Mistoffelees), Lara Teeter (Munkustrap), Ken Page (Old Deuteronomy), Kevin Loreque (Rum Tum Tugger), Drew Humphrey (Skimbleshanks)
-
-NOTES
-: Part of the 2010 MUNY Season in St. Louis, which usually draws big Broadway names as demonstrated here. Stephanie does a fantastic job as Grizabella here, as does Ken recreating his Old Deuteronomy from the Original Broadway Cast. A-
+## Cats
 
 #### Cats - Vienna - 1983
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `3.12 GB`
 
 CAST
 : Angelika Milster (Grizabella), Ute Lemper (Bombalurina), Monica Solem (Jellylorum), Valda Aviks (Jennyanydots), Valentin Baraian (Mr. Mistoffelees), Steve Barton (Munkustrap), Gordon Bovinet (Old Deuteronomy)
@@ -2657,7 +2598,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `4.00GB`
 
 COMMENTS
 : Missing VTS_01_5.VOB, but the show is in full. The DVD menu says "London 01. 23. 93" but the content of the video matches the description of April 25, 1992 on various sites... not entirely sure about this one.
@@ -2669,9 +2610,13 @@ NOTES
 : In the beginning, it\'s only black and white. This video also includes a clip from Amsterdam production. Fun fact: In this version of the show, there are two Gumbie Cats during the \"Gumbie Tap Dance\" sequence.
 
 #### Cats - West End - January 23, 1993
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `1.48 GB`
+
+COMMENTS
+: Looking for 2 DVDs version
 
 CAST
 : Jacqui Scott (Grizabella), Bryn Walters (Admetus/Macavity), Deborah Steele (Bombalurina), Rory Campbell (Bustopher Jones/Gus/Growltiger), Angela Heneghan Tyers (Demeter), Peter Bishop (Munkustrap), Leah - Sue Morland (Rumpleteazer), Christopher Howard (Rum Tum Tugger), Phyllida Crowley-Smith (Victoria)
@@ -2679,7 +2624,29 @@ CAST
 NOTES
 : This video really follows where the action is. It\'s also including 2 documentaries, one from the original London production, one from the original Vienna production.
 
+#### Cats - Commercial Release - August, 1997
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `7.64 GB`
+
+COMMENTS
+: Comes with a YouTube rip of ALW\'s Live Commentary `1.68 GB`
+
+CAST
+: Elaine Paige (Grizabella), Jason Gardiner (Alonzo), Bryn Walters (Admetus/Macavity), Fergus Logan (Bill Bailey/Tumblebrutus), Rosemarie Ford (Bombalurina), James Barron (Bustopher Jones/Gus/Growltiger), Rebecca Parker (Cassandra), Tommi Sliiden (Coricopat), Aeva May (Demeter), Leah - Sue Morland (Electra), Susan Jane Tanner (Jellylorum), Veerle Casteleyn (Jemima), Susie McKenna (Jennyanydots), Jacob Brent (Mr. Mistoffelees), Drew Varley (Mungojerrie), Michael Gruber (Munkustrap), Ken Page (Old Deuteronomy), Jo Gibb (Rumpleteazer), John Partridge (Rum Tum Tugger), Geoffrey Garrat (Skimbleshanks), Kaye Brown (Tantomile), Phyllida Crowley-Smith (Victoria), Karl Morgan (Pouncival), Jo Bingham (Etcetera), Steven Wayne (George)
+
+NOTES
+: Filmed on stage at the Adelphi Theatre (London, England) and distributed commercially.
+
 #### Cats - West End - May 11, 2002 (Closing Night)
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB (NO SMALLS) + M4V
@@ -2693,12 +2660,64 @@ CAST
 NOTES
 : Closing night in London. Live streamed to Covent Garden via large screen so it is a recording of the show being played on a big screen outside. Also includes interviews with some of the actors, Elaine Paige, Bonnie Langford, Andrew Lloyd Webber and Gillian Lynne before the show. Very fierce performance by the cast. Also the audience is totally excited by the show. At the end of the show there\'s a long encore with a medley performed by many people who have been in the London production of Cats. Brian Blessed, the Original London Cast, the final London cast and the original creative team also sing \"The Addressing of Cats\" together. Although the quality isn\'t that good (as it was filmed from a screen), this video is a must have for everyone who loves the show!
 
-## Chaplin: The Musical (1)
+#### Cats - The Muny, St. Louis - July 25, 2010 (Closing Night)
+{: .no_toc .d-inline-block }
 
-#### Chaplin: The Musical - Broadway - December 13, 2012
+Issues
+{: .label .label-red }
+
+SunsetBlvd79
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB `1 DVD` `non-original smalls`
+
+CAST
+: Stephanie J Block (Grizabella), Michael Brian Dunn (Bustopher Jones/Gus/Growltiger), Christine Negherbon (Jennyanydots), Joseph Medeiros (Mr. Mistoffelees), Lara Teeter (Munkustrap), Ken Page (Old Deuteronomy), Kevin Loreque (Rum Tum Tugger), Drew Humphrey (Skimbleshanks)
+
+NOTES
+: Part of the 2010 MUNY Season in St. Louis, which usually draws big Broadway names as demonstrated here. Stephanie does a fantastic job as Grizabella here, as does Ken recreating his Old Deuteronomy from the Original Broadway Cast. A-
+
+#### Cats - Mexico - December 29, 2013 (Matinee) (Closing Night) 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Natalia Sosa (Grizabella), Manuel Landeta (Old Deuteronomy), Jaime Rojas (e/c Old Deuteronomy)
+
+NOTES
+: Recorded by the company with zoom's for production viewing only
+
+#### Cats - Broadway Revival - October 30, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Mamie Parris (Grizabella), Ahmad Simmons (Alonzo), Daniel Gaymon (Admetus/Macavity), Christine Cornish Smith (Bombalurina), Christopher Gurr (Bustopher Jones/Gus/Growltiger), Emily Pynenburg (Cassandra), Tanner Ray Wilson (Carbucketty), Corey John Snide (Coricopat), Lili Froehlich (Electra), Sara Jean Ford (Jellylorum), Francesca Granell (u/s Jennyanydots), Corey John Snide (u/s Mr. Mistoffelees), Jess LeProtto (Mungojerrie), Andy Huntington Jones (Munkustrap), Quentin Earl Darrington (Old Deuteronomy), Shonica Gooden (Rumpleteazer), Tyler Hanes (Rum Tum Tugger), Jeremy Davis (Skimbleshanks), Emily Tate (Tantomile), Georgina Pazcoguin (Victoria), Sharrod Williams (Pouncival), Arianna Rosario (Sillabub)
+
+NOTES
+: Great HD capture of the final Broadway Revival cast. Mamie has such a strong voice and is a wonderful Grizabella. A
+
+## Chaplin: The Musical
+
+#### Chaplin: The Musical - Broadway - December 13, 2012
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `No DVD menu`
+
+COMMENTS
+: Audio on left channel only, turn on mono
 
 CAST
 : Rob McClure (Charlie Chaplin), Jim Borstelmann (Alf Reeves), Jenn Colella (Hedda Hopper), Erin Mackey (Oona O\'Neill), Michael McCormick (Sennett/McGranery/Emcee), Christiane Noll (Hannah Chaplin), Zachary Unger (Young Charlie/Jackie), Wayne Alan Wilcox (Sydney Chaplin)
@@ -2706,7 +2725,7 @@ CAST
 NOTES
 : Act 2 filmed on 12/14/12. Act 2 takes a moment to get settled due to latecomers. Good clear video with nice picture and sound, many changes done since previews.
 
-## Charlie and the Chocolate Factory (3)
+## Charlie and the Chocolate Factory
 
 #### Charlie and the Chocolate Factory - Broadway - April 20, 2017 (Preview)
 {: .no_toc .d-inline-block }
@@ -2715,7 +2734,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Christian Borle (Willy Wonka), Ryan Foust (Charlie Bucket), John Rubinstein (Grandpa Joe), F Michael Haynie (Augustus Gloop), Kathy Fitzgerald (Mrs Gloop), Emma Pfaeffle (Veruca Salt), Ben Crawford (Mr Salt), Trista Dollison (Violet Beauregarde), Alan H Green (Mr Beauregarde), Michael Wartella (Mike Teavee), Jackie Hoffman (Mrs Teavee), Emily Padgett (Mrs Bucket)
@@ -2730,7 +2749,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Christian Borle (Willy Wonka), Jake Ryan Flynn (Charlie Bucket), John Rubinstein (Grandpa Joe), F Michael Haynie (Augustus Gloop), Kathy Fitzgerald (Mrs Gloop), Emma Pfaeffle (Veruca Salt), Ben Crawford (Mr Salt), Trista Dollison (Violet Beauregarde), Michael Wartella (Mike Teavee), Jackie Hoffman (Mrs Teavee), Emily Padgett (Mrs Bucket)
@@ -2745,7 +2764,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Noah Weisburg (Willy Wonka), Collin Jeffery (Charlie Bucket), James Young (Grandpa Joe), Matthew Wood (Augustus Gloop), Kathy Fitzgerald (Mrs Gloop), Jessica Cohen (Veruca Salt), Nathaniel Hackmann (Mr Salt), Brynn Williams (Violet Beauregarde), David Samuel (Mr Beauregarde), Daniel Quadrino (Mike Teavee), Madeline Doherty (Mrs Teavee), Amanda Rose (Mrs Bucket)
@@ -2753,7 +2772,7 @@ CAST
 NOTES
 : Excellent HD capture of the new tour, with no obstructions. Great performances from the cast, with a lot of minor changes! A
 
-## The Cher Show (3)
+## The Cher Show
 
 #### The Cher Show - Pre-Broadway / Chicago - July 13, 2018
 {: .no_toc .d-inline-block }
@@ -2762,13 +2781,25 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Stephanie J Block (Cher (Star)), Teal Wicks (Cher (Lady)), Micaela Diamond (Cher (Babe)), Jarrod Spector (Sonny Bono), Michael Berresse (Bob Mackie), Michael Campayno (Rob Camilletti), Matthew Hydzik (Gregg Allman), Emily Skinner (Georgia Holt)
 
 NOTES
 : Beautiful HD capture with no obstructions. The show is a lot of fun and terrific performances from the cast. Stephanie along with Teal and Micaela embody Cher and knock it out of the park! A+
+
+#### The Cher Show - Broadway - January, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Stephanie J Block (Cher (Star)), Teal Wicks (Cher (Lady)), Micaela Diamond (Cher (Babe)), Jarrod Spector (Sonny Bono), Michael Berresse (Bob Mackie), Michael Campayno (Rob Camilletti), Matthew Hydzik (Gregg Allman), Emily Skinner (Georgia Holt)
 
 #### The Cher Show - Broadway - April, 2019 
 {: .no_toc .d-inline-block }
@@ -2777,7 +2808,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 (HD) \| 17.39 GB
+: MP4 `1080p` `17.39 GB`
 
 COMMENTS
 : The original release, looking for the re-release with a smaller file size
@@ -2787,18 +2818,6 @@ CAST
 
 NOTES
 : Beautiful HD close-ups but some long drop-outs and quite a few obstructed scenes. The rake in the mezzanine at the Neil Simon kinda stinks and I\'m pretty sure the ushers were playing flashlight tag with each other the entire show. but I began to care a lot less as the night went on Video is very Cher-centric\...choreography in \"Dark Lady\" is captured beautifully, but for the rest of the show I was mostly focused on getting those Stephanie, Teal, and Micaela zooms. We start at the scene before \"Half Breed\" and when Stephanie tells everyone to stand up for the finale it\'s all over for my filming ability.
-
-#### The Cher Show - Broadway - January, 2019 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Stephanie J Block (Cher (Star)), Teal Wicks (Cher (Lady)), Micaela Diamond (Cher (Babe)), Jarrod Spector (Sonny Bono), Michael Berresse (Bob Mackie), Michael Campayno (Rob Camilletti), Matthew Hydzik (Gregg Allman), Emily Skinner (Georgia Holt)
 
 ## Chess (4)
 
