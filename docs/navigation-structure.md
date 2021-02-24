@@ -4111,3 +4111,195 @@ CAST
 
 NOTES
 : Filmed in widescreen with no obstructions and almost no blackouts, great picture that follows the action very well.
+
+# E
+
+## Everybody\'s Talking About Jamie
+
+#### Everybody\'s Talking About Jamie - West End - July 5, 2018
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: `1` MP4 `1080p` `6.20 GB`
+: `2` TS `original livestream` `1080p` `27.9 GB`
+
+CAST
+: John McCrea (Jamie New), Josie Walker (Margaret New), Lucie Shorthouse (Pritti Pasha), Phil Nichol (Hugo Battersby), Shobna Gulati (Ray), Tamsin Carroll (Miss Hedge), Luke Baker (Dean Paxton), Alex Anstey (Laika Virgin), James Gillan (Tray Sophisticay), Daniel Jacob (Sandra Bollock), Ken Christiansen (Jamie\'s Dad), Lauran Rae (Becca), Harriet Payne (Bex), Kirstie Skivington (Vicki), Ryan Hughes (Mickey), Jordan Cunningham (Sayid), Shiv Rabheru (Cy), Courtney Bowman (Fatimah)
+
+NOTES
+: Pro-Shot recorded and broadcasted live on July 5, 2018.
+
+## Evil Dead: The Musical
+
+#### Evil Dead: The Musical - Montreal - July, 2004
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Alexandria Galante (Linda), Danielle Meierhenry (Cheryl), Matt Olmstead (Scott), Meredith Shaw (Annie/Shelly), Mike Nahrgang (Jake), Ryan Ward (Ash), Tim Evans (Ed/Moose)
+
+NOTES
+: Adapted from Sam Raimi\'s Evil Dead movies. Pro shot, using multiple camera\'s for promotional use by the producers. \"Not For Duplication\" appears occasionally at bottom of screen.
+
+## Evita
+
+#### Evita - Broadway - November 30, 1979
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+COMMENTS
+: Received as the 1980 video, but Trader said it was probably this one.
+
+CAST
+: Patti LuPone (Eva Perón), Mandy Patinkin (Che), Bob Gunton (Perón), Mark Syers (Magaldi), Jane Ohringer (Perón\'s Mistress)
+
+NOTES
+: Better than average for its age. Audio is solid, and there's relatively little gen loss but some extended ducks. Includes TV commercial.
+
+#### Evita - Broadway - 1980
+{: .no_toc .d-inline-block }
+
+FORMAT
+: M4V `480p` `1.67 GB`
+
+CAST
+: Patti LuPone (Eva Perón), Tom Carder (u/s Che), Bob Gunton (Perón), Mark Syers (Magaldi), Jane Ohringer (Perón\'s Mistress)
+
+NOTES
+: COMMONLY CONFUSED WITH NOVEMBER 30, 1979. Please check your copy and the screenshots for both to ensure your video is not the same; the 1980 video does not have a commercial, is filmed from the left of the house rather than the right, and features Tom Carder as Che instead of Mandy Patinkin. Washed out color, but it is still present. Very dark. Tracking issues at times, but a pleasant surprise for its age.
+
+#### Evita - Sacramento Music Circus - August 17, 2008 (Closing Night)
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Julia Murney (Eva Perón), Eric Kunze (Che), Scott Blanks (Perón), Philip Michael Baskerville (Magaldi), Kari Yancy (Perón\'s Mistress)
+
+NOTES
+: Filmed in widescreen with no major obstructions, some great zooms, and a very steady, clear picture. Final performance of the Sacramento production. This production was performed in the round, so sometimes the actors have their backs to the camera, but it is overall very well balanced on all sides. The stage also rises and revolves, which is used to great effect during \"Don\'t Cry For Me, Argentina\"
+
+#### Evita - First Broadway Revival - March 14, 2012 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB (NO SMALLS) `1 DVD`
+
+COMMENTS
+: Looking for original files (should be 2 disc?)
+
+CAST
+: Elena Roger (Eva Perón), Maya Jade Frank (Young Eva), Ricky Martin (Che), Michael Cerveris (Perón), Max von Essen (Magaldi), Rachel Potter (Perón\'s Mistress)
+
+NOTES
+: Great Capture of the due Broadway transfer from London. Elena is a great Evita, the addition of Michael, Ricky and Max are excellent. A lavish and well executed Evita that was due for a date with Broadway. A
+
+#### Evita - First Broadway Revival - July 28, 2012
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Christina DeCicco (alt Eva Perón), Ricky Martin (Che), Michael Cerveris (Perón), Rachel Potter (Perón\'s Mistress)
+
+NOTES
+: Excellent HD capture of the Alternate Eva. Christina vocally commands the score and thrilling to watch. She really should have had the role full time! Beautiful production and stunning Eva. A
+
+#### Evita - First Broadway Revival - August 13, 2012 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Christina DeCicco (t/r Eva Perón), Ricky Martin (Che), Michael Cerveris (Perón), Max von Essen (Magaldi), Rachel Potter (Perón\'s Mistress), Ashley Amber, Bradley Dean, Colin Cunliffe, Eric L Christian, George Lee Andrews, Kristine Covillo, Margot de La Barre
+
+NOTES
+: Very nice video; a couple of short blackouts towards the beginning of the show but otherwise well filmed with good close-ups and sound.
+
+#### Evita - First Broadway Revival - August 15, 2012
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jessica Lea Patty (alt Eva Perón), Ricky Martin (Che), Michael Cerveris (Perón), Max von Essen (Magaldi), Rachel Potter (Perón\'s Mistress)
+
+NOTES
+: Beautiful HD capture of Jessica in the role of Eva with a fresh take on the character. She brings a great element to Eva, since she is normally in an ensemble track, her dancing flourishes with perfection! A
+
+#### Evita - Seventh National Tour - September 22, 2013
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Caroline Bowman (Eva Perón), Josh Young (Che), Sean MacLaughlin (Perón), Christopher Johnstone (Magaldi), Krystina Alabado (Perón\'s Mistress)
+
+NOTES
+: Beautiful HD capture with no obstructions. Josh and Caroline do a great job as Che and Eva. A solid tour, great performances and production value! A+
+
+#### Evita - Nashville, Tennessee - September 13, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Eden Espinosa (Eva Perón), Ben Crawford (Che), Anthony Crivello (Perón), René Millán (Magaldi), Mia Rose Lynn (Perón\'s Mistress)
+
+NOTES
+: Excellent HD capture of the new production by Studio Tenn & TPAC. This was a huge show with a very large cast. Some terrific staging moments and of course Eden did a fantastic job as Eva, beautiful production! A
+
+#### Evita - Regent\'s Park Open Air Theatre - September, 2019
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: M2TS `12.6 GB`
+
+CAST
+: Samantha Pauly (Eva Perón), Trent Saunders (Che), Ektor Rivera (Perón), Adam Pearce (Magaldi), Frances Mayli McCann (Perón\'s Mistress)
+
+NOTES
+: A Stellar Video of this Cast, slightly washed out with zero obstructions and plenty of wides and zooms. Released in 4 MTS Files with a cast list - 13.55 GB
