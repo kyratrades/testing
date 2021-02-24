@@ -1108,7 +1108,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : NO watermark, would trade for the other version!
@@ -1123,7 +1123,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Patti LuPone (Reno Sweeney), Howard McGillin (Billy Crocker), Kathleen Mahoney-Bennett (Hope Harcourt), Bill McCutcheon (Moonface Martin), Anthony Heald (Lord Evelyn Oakleigh), Rex Everhart (Elisha J. Whitney), Linda Hart (Erma)
@@ -1138,7 +1138,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `Footage starts at 1:28:24`
+: VOB+smalls `1 DVD` `Footage starts at 1:28:24`
 
 CAST
 : Patti LuPone (Reno Sweeney)
@@ -1150,7 +1150,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Lenora Nemetz (Reno Sweeney), Ray Benson (Billy Crocker)
@@ -1162,7 +1162,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Elaine Paige (Reno Sweeney), Howard McGillin (Billy Crocker), Ashleigh Sendin (Hope Harcourt), Bernard Cribbins (Moonface Martin), Martin Turner (Lord Evelyn Oakleigh), Ursula Smith (Mrs. Evangeline Harcourt), Harry Towb (Elisha J. Whitney), Kathryn Evans (Erma)
@@ -1174,7 +1174,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Helen Schneider, Ralf Wolter, Hartwig Rudolz, Cusch Jung, Michelle Becker, Alfred Müller, Monica Solem
@@ -1189,7 +1189,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Chita Rivera (Reno Sweeney), George Dvorsky (Billy Crocker), Stacey Logan (Hope Harcourt), Bruce Adler (Moonface Martin), Patrick Quinn (Lord Evelyn Oakleigh)
@@ -1201,7 +1201,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Non-original smalls; Would trade for original files
@@ -1219,7 +1219,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Sutton Foster (Reno Sweeney), Colin Donnell (Billy Crocker), Laura Osnes (Hope Harcourt), Joel Grey (Moonface Martin), Adam Godley (Lord Evelyn Oakleigh), Jessica Walter (Mrs. Evangeline Harcourt), John McMartin (Elisha J. Whitney), Jessica Stone (Erma)
@@ -1231,7 +1231,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : AMAZINGLY shot (turn on mono for Act 1) + Act 2 worked for me in VLC
@@ -1249,7 +1249,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Stephanie J Block (Reno Sweeney), Colin Donnell (Billy Crocker), Erin Mackey (Hope Harcourt), Joel Grey (Moonface Martin), Adam Godley (Lord Evelyn Oakleigh), Kelly Bishop (Mrs. Evangeline Harcourt), John McMartin (Elisha J. Whitney), Jessica Stone (Erma)
@@ -1261,7 +1261,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Diego Tubilla, Fernando Hijar, Daniel Rodriguez, Patricia de la Garza, Manuel Sentíes, Fernando Mitre, Mario Cassán, Jonathan Ugalde, Diego Tenorio
@@ -1273,7 +1273,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 COMMENTS
 : NO DVD menu; Quite shaky but good sound
@@ -1291,7 +1291,7 @@ Lanelle
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 COMMENTS
 : VERY well shot (best capture of Rachel as Reno)
@@ -1306,7 +1306,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 COMMENTS
 : Average picture quality, but very steady shot
@@ -1318,7 +1318,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: MP4 \| 720p \| 59.5 MB \| 3m 25s
+: MP4 `720p``59.5 MB``3m 25s`
 
 COMMENTS
 : Will trade this out as the equivalent of one audio
@@ -2484,37 +2484,7 @@ FORMAT
 CAST
 : Joshua Henry (Billy Bigelow), Jessie Mueller (Julie Jordan), Renée Fleming (Nettie Fowler), Lindsay Mendez (Carrie Pipperidge), Alexander Gemignani (Enoch Snow), John Douglas Thompson (The Starkeeper), Amar Ramasar (Jigger Craigin), Brittany Pollack (Louise), Alexander Gemignani (Enoch Snow, Jr.)
 
-## Carrie: The Musical (3)
-
-#### Carrie: The Musical - Off-Broadway - March 18, 2012
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Molly Ranson (Carrie White), Anne Tolpegin (u/s Margaret White), Christy Altomare (Sue Snell), Derek Klena (Tommy Ross), Jeanna de Waal (Chris Hargensen), Ben Thompson (Billy Nolan), Carmen Cusack (Lynn Gardner), Wayne Alan Wilcox (Mr. Stephens), Blair Goldberg (Norma), Jen Sese (Frieda), Corey Boardman (George), F Michael Haynie (Freddy), Elly Noble (Helen), Andy Mientus (Stokes)
-
-NOTES
-: Terrific capture, one of my favorite shows. Marin was more of a Barbara Cook portrayal, Anne was more of a Betty Buckley. Rare performance as Anne only went on a handful of times. A-
-
-#### Carrie: The Musical - Seattle - October 10, 2013
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Keaton Whittaker (Carrie White), Alice Ripley (Margaret White), Larissa Schmitz (Sue Snell), Kody Bringman (Tommy Ross), Tessa Archer (Chris Hargensen), Andrew Brewer (Billy Nolan), Kendra Kassebaum (Lynn Gardner), Brian Lange (Mr. Stephens), Erin Herrick (Norma), Melissa Maricich (Frieda), Frederick Habreen (George), Riley Neldham (Freddy), Alexandria Henderson (Helen), Eli Wills (Stokes)
-
-NOTES
-: Beautiful HD capture of one of the Final Dress Rehearsals. Top notch production and thrilling performances from Alice, Keaton, and the whole cast! This is quite a unique capture since it was the first time the blood was dropped. Too many amazing things to point out here, don\'t miss this one!!! A+ Well filmed with a nice mix of close-ups and full stage shots and no obstructions. Based on the revised Off-Broadway version, and presented at the Balagan Theatre. Because this was recorded at the final run-through prior to opening night, there are a few "holds" as they worked out any kinks: \* After "Evening Prayers" there is a hold to change all microphone batteries, resulting in most of the song being run a second time (the sound check was removed and put as a bonus at the end of act two). \* During the scene where Carrie is getting ready for the prom a microphone made a \"farting\" noise and Alice grabbed her butt and said \"sorry\" which made the cast and tech crew laugh. \* The first atte
+## Carrie: The Musical
 
 #### Carrie: The Musical - Stratford-Upon-Avon - February 16, 1988 (Preview)
 {: .no_toc .d-inline-block }
@@ -2531,12 +2501,63 @@ CAST
 NOTES
 : Filmed professionally for the RSC archives on the third night of the performance (February 16, 1988). Shot from first row mezzanine center with no obstructions with audio taken directly from the soundboard. Mostly a full stage shots without zooms. This is usually incorrectly labelled as \"Opening Night (February 13, 1988)\", which is incorrect, as on opening night, Barbara Cook was almost decapitated right after the set changes from \"Don\'t Waste The Moon\", which not seen in this video (also verified by the person who copied this from the archives).
 
-## Catch Me If You Can (4)
+#### Carrie: The Musical - Seattle - October 10, 2013
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Keaton Whittaker (Carrie White), Alice Ripley (Margaret White), Larissa Schmitz (Sue Snell), Kody Bringman (Tommy Ross), Tessa Archer (Chris Hargensen), Andrew Brewer (Billy Nolan), Kendra Kassebaum (Lynn Gardner), Brian Lange (Mr. Stephens), Erin Herrick (Norma), Melissa Maricich (Frieda), Frederick Habreen (George), Riley Neldham (Freddy), Alexandria Henderson (Helen), Eli Wills (Stokes)
+
+NOTES
+: Beautiful HD capture of one of the Final Dress Rehearsals. Top notch production and thrilling performances from Alice and Keaton, and the whole cast! This is quite a unique capture since it was the first time the blood was dropped. Too many amazing things to point out here, don't miss this one!!! A+
+
+## Cat on a Hot Tin Roof
+
+#### Cat on a Hot Tin Roof - Broadway - January 1, 2013
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Scarlett Johansson (Maggie), Benjamin Walker (Brick), Ciarán Hinds (Big Daddy), Debra Monk (Big Mama), Brian Reddy, Cherene Snow, Emily Bergl, Jordan Dean, Lance Roberts, Michael Park, Tanya Birl, Vin Knight, Will Cobbs
+
+## Catch Me If You Can
+
+#### Catch Me If You Can - Seattle, WA (Pre-Broadway) - August 4, 2009
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Aaron Tveit (Frank Abagnale, Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale, Sr.), Rachel de Benedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong)
+
+NOTES
+: This is a great capture of the show. The show is filled with wonderful talent. Aaron and Norbert have a great chemistry together and Aaron has a huge voice. Kerry and Felicia both have great songs and great vocals. The show itself is very sleek and mod. A
+
+#### Catch Me If You Can - Seattle, WA (Pre-Broadway) - August 15, 2009
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Aaron Tveit (Frank Abagnale, Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale, Sr.), Rachel de Benedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong)
+
+NOTES
+: Some very quick blackouts, none last more than 30 seconds or so.Very little obstruction, just heads on the bottom and the right, mostly in wideshots, and they\'re hardly noticeable.
 
 #### Catch Me If You Can - Broadway - April 27, 2011
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Aaron Tveit (Frank Abagnale, Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale, Sr.), Rachel de Benedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong), Timothy McCuen Piggee (Agent Cod)
@@ -2551,36 +2572,10 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Jacob Haren (Frank Abagnale, Jr.), Josh Adamson (Agent Carl Hanratty), Robert Neary (Frank Abagnale, Sr.), Tracy Lore (Paula Abagnale), Heather Lundstedt (Brenda Strong)
-
-#### Catch Me If You Can - Seattle, WA (Pre-Broadway) - August 4, 2009
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Aaron Tveit (Frank Abagnale, Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale, Sr.), Rachel de Benedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong)
-
-NOTES
-: This is a great capture of the show. The show is filled with wonderful talent. Aaron and Norbert have a great chemistry together and Aaron has a huge voice. Kerry and Felicia both have great songs and great vocals. The show itself is very sleek and mod. A
-
-#### Catch Me If You Can - Seattle, WA (Pre-Broadway) - August 15, 2009
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Aaron Tveit (Frank Abagnale, Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale, Sr.), Rachel de Benedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong)
-
-NOTES
-: Some very quick blackouts, none last more than 30 seconds or so.Very little obstruction, just heads on the bottom and the right, mostly in wideshots, and they\'re hardly noticeable.
 
 ## Cats (8)
 
@@ -2697,16 +2692,6 @@ CAST
 
 NOTES
 : Closing night in London. Live streamed to Covent Garden via large screen so it is a recording of the show being played on a big screen outside. Also includes interviews with some of the actors, Elaine Paige, Bonnie Langford, Andrew Lloyd Webber and Gillian Lynne before the show. Very fierce performance by the cast. Also the audience is totally excited by the show. At the end of the show there\'s a long encore with a medley performed by many people who have been in the London production of Cats. Brian Blessed, the Original London Cast, the final London cast and the original creative team also sing \"The Addressing of Cats\" together. Although the quality isn\'t that good (as it was filmed from a screen), this video is a must have for everyone who loves the show!
-
-## Cat on a Hot Tin Roof (1)
-
-#### Cat on a Hot Tin Roof - Broadway - January 1, 2013
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Scarlett Johansson (Maggie), Benjamin Walker (Brick), Ciarán Hinds (Big Daddy), Debra Monk (Big Mama), Brian Reddy, Cherene Snow, Emily Bergl, Jordan Dean, Lance Roberts, Michael Park, Tanya Birl, Vin Knight, Will Cobbs
 
 ## Chaplin: The Musical (1)
 
