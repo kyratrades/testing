@@ -24,7 +24,7 @@ permalink: /concerts
 #### Bombshell - Actors\' Fund Benefit Concert - June 8, 2015
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : This is the version recorded by the audience, NOT the pro-shot..
@@ -42,7 +42,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 720p
+: MKV `720p`
 
 COMMENTS
 : Includes two versions (with and without the 2020 cast reunion) + tracked audio (.m4a) ripped from the show, tracked by me.
@@ -115,7 +115,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 17 tracks
+: MP3 `17 tracks`
 
 CAST
 : Megan Hilty, Shoshana Bean
@@ -127,7 +127,7 @@ photoshop_diva
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 35 tracks
+: MP3 `35 tracks`
 
 CAST
 : Megan Hilty, Shoshana Bean, Eden Espinosa (Guest), Adam Lambert (Guest)
@@ -139,8 +139,11 @@ NOTES
 
 #### Wicked Divas - Cincinnati - November 13, 2009
 
+Issues
+{: .label .label-red }
+
 FORMAT
-: MP3 \| 14 tracks
+: MP3 `14 tracks`
 
 COMMENTS
 : Missing "I Will Always Love You"
@@ -155,7 +158,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 28 tracks
+: MP3 `28 tracks`
 
 CAST
 : Julia Murney, Stephanie J. Block, Columbus Symphony Orchestra
@@ -168,7 +171,7 @@ NOTES
 #### Sings The Blondes - Cabaret at the Rrazz Room - January 24, 2011
 
 FORMAT
-: MP3 \| 24 tracks
+: MP3 `24 tracks`
 
 NOTES
 : Bryan Perri features on a medley of Dolly Parton songs.
@@ -176,7 +179,7 @@ NOTES
 #### Sings Sinatra and More - Kennedy Center - November 23, 2012
 
 FORMAT
-: MP3 \| 26 tracks
+: MP3 `26 tracks`
 
 NOTES
 : Featuring Aaron Lazar, the NSO Pops; Songs include Sinatra hits like \"The Lady Is a Tramp,\" \"Moon River,\" and \"I\'ve Got You Under My Skin\", as well as Broadway classics such as \"Diamonds Are a Girl\'s Best Friend,\" \"Almost like Being In Love,\" \"Two Sleepy People,\" and \"Someone to Watch Over Me\" and others.
@@ -184,7 +187,7 @@ NOTES
 #### The American Songbook - Lincoln Center - February 6, 2015
 
 FORMAT
-: MP3 \| 27 tracks
+: MP3 `27 tracks`
 
 NOTES
 : Includes PDF of the booklet
@@ -196,7 +199,7 @@ tatersbwaytrades
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 30 tracks
+: MP3 `30 tracks`
 
 CAST
 : Megan Hilty, the Indianapolis Orchestra
@@ -211,7 +214,7 @@ Token Goat
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 33 tracks
+: MP3 `33 tracks`
 
 NOTES
 : Includes songs from Smash, Little Shop Of Horrors, Wicked, solo album, etc. Matt Cusson features on \"Let\'s Call The Whole Thing Off\" and \"That\'s Life\". Brian Gallagher features on \"Suddenly Seymour\". The encore number is \"For Good\" with Burbank High School\'s show choir In Sync.
@@ -223,7 +226,7 @@ Token Goat
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 22 tracks
+: MP3 `22 tracks`
 
 ## Stephanie J. Block (1)
 
@@ -234,14 +237,29 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 22 tracks
+: MP3 `22 tracks`
+
+## Patti Lupone (2)
+
+#### Coulda Woulda Shoulda - Orange County, California - October 10, 2009
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+#### An Evening with Patti LuPone
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+NOTES
+: On the same DVD as the Anything GOes 'lost footage'
 
 ## Broadway Miscast (2)
 
 #### Broadway Miscast - MCC Theatre - March 4, 2013
 
 FORMAT
-: MP3 \| 24 tracks
+: MP3 `24 tracks`
 
 CAST
 : Jeremy Jordan, Jonathan Groff, Cheyenne Jackson, Victor Garber, Christian Borle, Jane Krakowski, LaChanze, Megan Hilty, Marin Mazzie, Jesse L. Martin, Nicole Parker, Jason Danieley, Patrick Wilson
@@ -256,12 +274,16 @@ wickedlittletown
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 23 tracks
+: MP3 `23 tracks`
 
 CAST
 : Stephanie J. Block, Norbert Leo Butz, Brandon Victor Dixon, Mandy Gonzalez, Ben Platt, Kelli O\'Hara, Brian d\'Arcy James, Jennifer Holiday, Carmen Cusack, Jenn Colella, Jordan Fisher
 
 ## Seth\'s Broadway Chatterbox (1)
+
+### Wants
+
+Rachel York on Seth\'s Broadway Chatterbox
 
 #### Seth\'s Broadway Chatterbox - Don\'t Tell Mama (NYC) - May 12, 2005
 
@@ -301,7 +323,7 @@ NOTES
 #### The Nightmare Before Christmas - Benefit Concert - October 31, 2020
 
 FORMAT
-: MP4 (HD) **\|** 1.42 GB
+: MP4 (HD) `1.42 GB`
 
 CAST
 : Rafael Casal, Adrienne Warren, James Monroe Igle, Danny Burstein, Nik Walker, Lesli Margherita, Rob McClure, Kathryn Allison, Jenni Barber, Erin Clemons, Fergie L. Philippe, Jawan Jackson, Brian Gonzales
@@ -312,7 +334,7 @@ NOTES
 #### Barack On Broadway - Broadway - June 4, 2012
 
 FORMAT
-: MP3 \| 15 tracks
+: MP3 `15 tracks`
 
 CAST
 : Patti LuPone, Neil Patrick Harris, Megan Hilty, Cheyenne Jackson, Angela Lansbury, Mandy Patinkin, Nina Arianda, Bobby Cannavale, Stockard Channing, James Earl Jones, Hettienne Park, Patrick Wilson, Jeffrey Wright, Chuck Cooper, Norbert Leo Butz, Audra McDonald, Tony Kushner, Kerry Butler; with remarks by Bill Clinton and Barack Obama
@@ -327,7 +349,7 @@ irnbruise
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 38 tracks
+: MP3 `38 tracks`
 
 CAST
 : Steven Reineke (Conductor/Host), Martin Short, John Pizzarelli, Andrea Martin, Christian Borle, Sophie von Haselberg, Matthew Morrison, Patti LuPone, Will Chase, Jane Krakowski, Marissa Jaret Winokur, Nikki Blonsky, Ricki Lake, Jenifer Lewis, Aaron Tveit, Megan Hilty, Katharine McPhee, Capathia Jenkins, Brooks Ashmanskas, Clarke Thorell, Kerry Butler, Corey Reynolds, Laura Bell Bundy, Linda Hart
@@ -335,7 +357,7 @@ CAST
 #### Eden Espinosa - The Cutting Room - March 4, 2013
 
 FORMAT
-: MP3 \| 31 tracks
+: MP3 `31 tracks`
 
 NOTES
 : Album release concert. Includes an opening set by Carrie Manolakos. Carey Malloy features on \"As Long As You\'re Mine\", Cathleen Wright features on \"Take Me Or Leave Me\", and Megan Hilty features on \"For Good\".
@@ -347,7 +369,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 28 tracks
+: MP3 `28 tracks`
 
 CAST
 : Corey Cott, Paige Faure, Jessica Grové, Andy Jones, Nikka Graff Lanzarone, Lesli Margherita, Ellyn Marie Marsh, Kyle Dean Massey, Julia Murney, Nic Rouleau, Keala Settle, Tom Souhrada, Stephen Wallem
