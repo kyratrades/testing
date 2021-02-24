@@ -1921,3 +1921,239 @@ CAST
 
 NOTES
 : Beautiful capture. Great picture and sharpness. Could be mislabeled as 5/15/02, but the show did not start previews until 5/31/02.
+
+## Bonnie and Clyde
+
+#### Bonnie and Clyde - La Jolla Playhouse - November 14, 2009 (Matinee) (Preview)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Laura Osnes (Bonnie Parker), Stark Sands (Clyde Barrow), Melissa van der Schyff (Blanche Barrow), Claybourne Elder (Buck Barrow), Wayne Duvall (Sheriff Schmid), Chris Peluso (Ted Hinton), Michael Lanning (Preacher), Mare Winningham (Emma Parker)
+
+NOTES
+: Nice capture of this new Wildhorn show. There are only a couple very short blackouts throughout the show and hardly any washout. A
+
+#### Bonnie and Clyde - Broadway - November 9, 2011 (Preview) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Audio on left channel only, turn on mono when watching
+
+CAST
+: Laura Osnes (Bonnie Parker), Jeremy Jordan (Clyde Barrow), Melissa van der Schyff (Blanche Barrow), Claybourne Elder (Buck Barrow), Joe Hart (Sheriff Schmid), Louis Hobson (Ted Hinton), Michael Lanning (Preacher), Mimi Bessette (Emma Parker), Kelsey Fowler (Young Bonnie), Talon Ackerman (Young Clyde)
+
+NOTES
+: A great capture of this shortly lived show. Jeremy and Laura did a great job in the roles and great voices! A+
+
+## The Book of Mormon
+
+#### The Book of Mormon - Broadway - 2011 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB
+
+COMMENTS
+: **\*\*INCOMPLETE\*\*** The commonly circulated copy with missing VTS_01_3.VOB and .BUP files. Please do tell me if you have the original files, would trade unfairly for that!
+
+CAST
+: Andrew Rannells (Elder Price), Josh Gad (Elder Cunningham), Nikki M James (Nabulungi), Rory O'Malley (Elder McKinley)
+
+#### The Book of Mormon - Broadway - March 1, 2011 (Preview) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Andrew Rannells (Elder Price), Josh Gad (Elder Cunningham), Nikki M James (Nabulungi), Rory O'Malley (Elder McKinley), Michael Potts (Mafala Hatimbi), Lewis Cleale (Mission President)
+
+NOTES
+: Very nice video of the show however a bar can be visable in wide shots but it doesn\'t interfere with anything. Disc also includes behind the scenes footage, interviews and reviews. A
+
+#### The Book of Mormon - Chicago - December 23, 2012
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVD` `With English subtitles .srt`
+
+CAST
+: Nic Rouleau (Elder Price), Ben Platt (Elder Cunningham), Syesha Mercado (Nabulungi), Pierce Cassedy (Elder McKinley), James Vincent Meredith (Mafala Hatimbi), Christopher Shyer (Mission President), David Aron Damane (General)
+
+NOTES
+: Beautiful HD capture of the Chicago Cast. I can not say enough wonderful things about this company! They really are rock solid and give terrific performances! Nic and Ben are really sensational and have great chemistry. A+
+
+#### The Book of Mormon - Second National Tour - May 17, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: David Larsen (Elder Price), Cody Jamison Strand (Elder Cunningham), Tallia Brinson (u/s Nabulungi), Pierce Cassedy (Elder McKinley), James Vincent Meredith (Mafala Hatimbi), Christopher Shyer (Mission President), David Aron Damane (General), Jeff Heimbrock (u/s Cunningham's Dad)
+
+NOTES
+: A fantastic capture of the second tour cast. This is the first known dvd of the 2NT, and the cast doesn't disappoint. David and Cody are strong leads with great voices and comedic timing. Pierce is perfect as McKinley. Tallia also does a great job; she has a strong belt and does an endearing rendition of Sal Tlay Ka Siti. This is a very nice capture with no obstruction or blackouts, and only a bit of washout in superwide shots of high-contrast scenes. The video is very steady and the sound is excellent as usual. It's filmed in 16:9 with a mix of wides, mediums, and close-ups. Includes curtain call.
+
+## The Boy From Oz
+
+#### The Boy From Oz - Broadway - 2003 (Highlights) 
+{: .no_toc .d-inline-block }
+
+Press Reel 
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
+
+NOTES
+: PRESS REEL: almost 90 minutes of pro-shot musical numbers in near perfect quality
+
+#### The Boy From Oz - Broadway - September 21, 2003 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
+
+#### The Boy From Oz - Broadway - October 16, 2003 (Opening Night)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
+
+#### The Boy From Oz - Broadway - September 10, 2004
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
+
+## The Bridges of Madison County
+
+#### The Bridges of Madison County - First National Tour - January 3, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Elizabeth Stanley (Francesca), Andrew Samonsky (Robert), Cullen R Titmas (Bud), Tom Treadwell (u/s Charlie), Mary Callanan (Marge), Caitlin Houlahan (Carolyn), Dave Thomas Brown (Michael), Katie Klaus (Marian/Chiara), Caitlyn Caughell, Cole Burden, Jason Robert Brown
+
+NOTES
+: Very good video with no obstruction, washout, or major blackouts, only a couple of very quick dropouts that last only a few seconds each. Jason Robert Brown conducts the orchestra himself. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+## Brigadoon
+
+#### Brigadoon - Encores! - November 17, 2017 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patrick Wilson (Tommy Albright), Kelli O'Hara (Fiona MacLaren), Aasif Mandvi (Jeff Douglas), Robert Fairchild (Harry Beaton), Stephanie J Block (Meg Brockie), Ross Lekites (Charlie Dairymple), Dakin Matthews (Mr. Lundie), Rich Hebert (Andrew MacLaren), Sara Esty (Jean), David Scott Purdy (Angus McGuffie), Jamie Jackson (Archie Beaton), Madison Stratton (Jane Ashton), Patricia Delgado (Maggie Anderson), Nicholas Ward (Frank), Peyton Crimm (Sandy Dean)
+
+NOTES
+: Excellent HD video with clear picture and sound filmed from the center mezzanine.
+
+## Bright Star
+
+#### Bright Star - Broadway - June 26, 2016 (Closing Night) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Carmen Cusack (Alice Murphy), Paul Alexander Nolan (Jimmy Ray Dobbs), Michael Mulheren (Mayor Josiah Dobbs), AJ Shively (Billy Cane), Hannah Elless (Margo Crawford), Stephen Bogardus (Daddy Cane), Dee Hoty (Mama Murphy), Stephen Lee Anderson (Daddy Murphy), Emily Padgett (Lucy Grant), Maddie Shea Baldwin (Edna)
+
+NOTES
+: Final performance. An electric performance right from the start. The enthusiastic audience is extremely supportive, and the cast gives emotional performances. Steve Martin joins the band for the Entr'Acte, and there's a standing ovation for him, as well as for Carmen following At Long Last. There were no speeches given, but the curtain call was much longer than usual with Steve, Edie, and Walter all taking bows, and Steve doing a short impromptu tap number. This is beautifully captured with no obstruction. There is a one minute blackout over the first scene just before She's Gone, but the rest of the show is complete. There is some slight washout in a few of the wider shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes the entire extended curtain call and playbill scans.
+
+## Bullets Over Broadway
+
+#### Bullets Over Broadway - Broadway - March 29, 2014 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVD`
+
+CAST
+: Zach Braff (David Shayne), Janet Dickinson (u/s Helen Sinclair), Brooks Ashmanskas (Warner Purcell), Vincent Pastore (Nick Valenti), Lenny Wolpe (Julian Marx), Nick Cordero (Cheech), Betsy Wolfe (Ellen), Heléne Yorke (Olive Neal), Karen Ziemba (Eden Brent)
+
+NOTES
+: Excellent HD capture of this hilarious show. The railing can enter the very bottom of frame on wider shots, but mostly shot over it. This cast is top notch, spot on and just 100% perfect! A-
+
+#### Bullets Over Broadway - First National Tour - January 7, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVD`
+
+CAST
+: Michael Williams (David Shayne), Emma Stratton (Helen Sinclair), Bradley Allen Zarr (Warner Purcell), Michael Corvino (Nick Valenti), Rick Grossman (Julian Marx), Jeffrey Brooks (Cheech), Hannah Cruz (Ellen), Jemma Jane (Olive Neal), Rachel Bahler (Eden Brent)
+
+NOTES
+: A great capture of the non-equity tour. Great to see fresh faces in this show. This is shot with no obstruction or blackouts.
+
+## Bye Bye Birdie
+
+#### Bye Bye Birdie - Third National Tour - 1992
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Tommy Tune (Albert Peterson), Ann Reinking (Rose Alvarez), Marc Kudisch (Conrad Birdie), Marcia Lewis (Mae Peterson), Susan Egan (Kim MacAfee)
+
+NOTES
+: Full show, from the overture to the bows; supposedly shot in Los Angeles, CA; the songs \"A Giant Step\" and \"He\'s Mine\" were written for this production
