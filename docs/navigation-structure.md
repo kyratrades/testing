@@ -3791,16 +3791,6 @@ CAST
 NOTES
 : Wideshot MP4 Gifted Upon Request
 
-## Coulda Woulda Shoulda (1)
-
-#### Coulda Woulda Shoulda - Orange County, California - October 10, 2009
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Patti LuPone
-
 ## The Count of Monte Cristo (Wildhorn) (3)
 
 #### The Count of Monte Cristo (Wildhorn) - Leipzig, Germany - February 4, 2012 (Opening Night)
