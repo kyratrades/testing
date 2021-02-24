@@ -1318,7 +1318,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: MP4 `720p``59.5 MB``3m 25s`
+: MP4 `720p` `59.5 MB` `3m 25s`
 
 COMMENTS
 : Will trade this out as the equivalent of one audio
@@ -1333,7 +1333,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: MP4 \| 1080p \| 35.3 MB \| 1m 52s
+: MP4 `1080p` `35.3 MB` `1m 52s`
 
 COMMENTS
 : Will trade this out as the equivalent of one audio
@@ -1350,7 +1350,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Sarah Brightman (Rose Vibert), Kevin Cullum (Alex Dillingham), Barry Ingham (George Dillingham)
