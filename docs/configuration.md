@@ -381,7 +381,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 29 tracks
+: MP3 `29 tracks`
 
 CAST
 : Julia Murney, David Burnham, Farah Alvin
@@ -393,7 +393,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: MP3 \| 25 tracks
+: MP3 `25 tracks`
 
 CAST
 : Lindiwe Dlamini, Bongi Duma, Tsidi Manye, Sbusiso Ngema, Whoopi Goldberg, Horace \"Junior\" Wedderburn, Rolando Morales-Matos, Michael James Scott, Lauryn Ciardullo, April Holloway, Nina LaFarga, Katie Terza, Kara Lindsay, Josh Strickland, Mandy Gonzalez, Kerry Butler, Merle Dandridge, Sherie Rene Scott, Adam Pascal, Andrew Barth Feldman, Adam Jacobs, Ashley Brown, Jelani Alladin, Bradley Gibson, Alton Fitzgerald White, Ramona Keller, Tamika Lawrence, Kissy Simmons, Rema Webb, Syndee Winters, Ashley Park, Gavin Creel, Sierra Boggess, Christian Borle, Norm Lewis, Susan Egan, Krysta Rodriguez, James Monroe Iglehart, Broadway Inspirational Voices
@@ -401,7 +401,7 @@ CAST
 #### The American Songbook: Best of Broadway - Boston Symphony Hall - June 17, 2011
 
 FORMAT
-: MP3 \| 32 tracks
+: MP3 `32 tracks`
 
 CAST
 : The Boston Pops, Stephanie J. Block, Julia Murney
