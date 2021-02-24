@@ -2160,3 +2160,1656 @@ CAST
 
 NOTES
 : Full show, from the overture to the bows; supposedly shot in Los Angeles, CA; the songs \"A Giant Step\" and \"He\'s Mine\" were written for this production
+
+# C
+
+## Cabaret (12)
+
+#### Cabaret - Vienna - 1998
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Uwe Kröger (Emcee), Vasiliki Roussi (Sally Bowles)
+
+#### Cabaret - 4th London Revival - November 4, 2006
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls \| 3.91 GB
+
+CAST
+: James Dreyfus (Emcee), Anna Maxwell Martin (Sally Bowles), Sheila Hancock (Fräulein Schneider), Geoffrey Hutchings (Herr Schultz), Michael Hayden (Clifford Bradshaw), Andrew Maud (Ernst Ludwig), Harriet Thorpe (Fräulein Kost)
+
+NOTES
+: A totally different Cabaret then previous ones. Wonderful production filled with very \"raw\" emotion. This production does contain nudity. Crystal clear picture and sound, Fantastic performances. A+
+
+#### Cabaret - Second Broadway Revival - 1998 (Highlights) 
+{: .no_toc .d-inline-block }
+
+Press Reel 
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alan Cumming (Emcee), Mary McCormack (Sally Bowles), Natasha Richardson (Sally Bowles), Blair Brown (Fräulein Schneider), Mary Louise Wilson (Fräulein Schneider), Ron Rifkin (Herr Schultz), John Benjamin Hickey (Clifford Bradshaw), Michele Pawk (Fräulein Kost)
+
+NOTES
+: Press Reels from 1998/1999. About 90 minutes of raw press footage of the original and replacement casts. Excellent sound and picture for both. Some generation loss.
+
+#### Cabaret - Second Broadway Revival - June 9, 2000
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael C Hall (Emcee), Joely Fisher (Sally Bowles), Carole Shelley (Fräulein Schneider), Dick Latessa (Herr Schultz), Michael Hayden (Clifford Bradshaw), Victoria Clark (Fräulein Kost)
+
+NOTES
+: A lot of generational loss
+
+#### Cabaret - Second Broadway Revival - November 13, 2001
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Raúl Esparza (Emcee), Gina Gershon (Sally Bowles), Carole Shelley (Fräulein Schneider), Larry Keith (Herr Schultz), Matthew Greer (Clifford Bradshaw), Peter Benson (Ernst Ludwig), Candy Buckley (Fräulein Kost), Michael O\'Donnell (Bobby/Two Ladies Dancer)
+
+#### Cabaret - Third Broadway Revival - March 30, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Leeds Hill (u/s Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost)
+
+NOTES
+: Beautiful HD capture of the wonderful revival with no obstructions. Leeds does a wonderful job in the role of the Emcee. Stunning second revival with terrific performances from the entire cast. Linda and Danny are just perfect together! A+
+
+#### Cabaret - Third Broadway Revival - May 3, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alan Cumming (Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost)
+
+NOTES
+: Beautiful HD capture with no obstructions and features the entire Revival Cast. Alan gives a terrific return performance as the Emcee. Gayle and Linda still give such beautiful performances that are wonderful to watch! A
+
+#### Cabaret - Third Broadway Revival - August 19, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alan Cumming (Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Benjamin Eakeley (u/s Ernst Ludwig), Kaleigh Cronin (u/s Fräulein Kost), Stacey Sipowicz (u/s Lulu/Two Ladies Dancer), Andrea Goss (Frenchie/Gorilla), Leeds Hill (Bobby/Two Ladies Dancer), Kristin Olness (Helga), Jessica Pariseau (Texas), Dylan Paul (Victor), Kelly Paredes (u/s Rosie), Evan D Siegel (Hans/Rudy)
+
+#### Cabaret - Third Broadway Revival - November 20, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alan Cumming (Emcee), Emma Stone (Sally Bowles), Kristie Dale Sanders (s/b Fräulein Schneider), Philip Hoffman (s/b Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost), Katrina Yaukey (u/s Lulu/Two Ladies Dancer), Benjamin Eakeley (Herman/Customs Officer/Max), Andrea Goss (Frenchie/Gorilla), Leeds Hill (Bobby/Two Ladies Dancer), Kristin Olness (Helga), Jessica Pariseau (Texas), Dylan Paul (Victor), Stacey Sipowicz (Rosie), Evan D Siegel (Hans/Rudy)
+
+NOTES
+: Excellent HD capture with Emma joining the cast as Sally. She does a dazzling job in the role and very precise in detail. Lovely performances from Kristie and Philip. A
+
+#### Cabaret - Third Broadway Revival - November 29, 2014 \| Lanelle
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alan Cumming (Emcee), Emma Stone (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost), Katrina Yaukey (u/s Lulu/Two Ladies Dancer)
+
+NOTES
+: Missing the first few seconds of Wilkommen, but otherwise complete. Very steady, focused, and mostly unobstructed. Includes curtain call and Alan\'s BCEFA speech.
+
+#### Cabaret - Third Broadway Revival - December 28, 2014
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alan Cumming (Emcee), Emma Stone (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Hani Furstenberg (Fräulein Kost)
+
+NOTES
+: This is a very nice capture with just a couple very quick dropouts. There is also one head that leans in occasionally, but generally not noticeable. There is very little washout except in some wider shots. The sound is excellent. Includes curtain call and playbill scans.
+
+#### Cabaret - Third Broadway Revival - March 14, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Includes an MP4 NOT to be traded separately
+
+CAST
+: Alan Cumming (Emcee), Sienna Miller (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Benjamin Eakeley (u/s Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Hani Furstenberg (Fräulein Kost)
+
+NOTES
+: Beautiful HD capture of Sienna joining the cast as the final Sally Bowles and Hani joining as Kost. Still wonderful and solid performances as the show plays it\'s final few performances. A
+
+## Camelot
+
+#### Wants
+{: .no_toc .d-inline-block }
+
+I’m looking for the June 7, 2007 (National Tour, Chicago). This video does not have the 15 minutes blackout at the start. Also, the DVD menu should have scene selections for all the songs (in thumbnail). I will trade very unfairly for this. Please do tell me if you have it!
+
+#### Camelot - First National Tour - May 8, 2007
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael York (King Arthur), Rachel York (Queen Guenevere), James Barbour (Sir Lancelot), Eric Anderson (Merlyn), Shannon Stoeke (Mordred)
+
+NOTES
+: Wonderful production. Rachel York is stunning on stage and James has a voice that is so big and beefy, both are sensational. A wonderful capture with nice shots, contains 12 minutes of blackouts at the beginning due to ushers. A-
+
+## Candide (1)
+
+#### Candide - Lincoln Center Live - 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV (HD)
+
+COMMENTS
+: With English subtitles (.srt)
+
+CAST
+: Paul Groves (Candide), Sir Thomas Allan (Dr. Pangloss), Kristin Chenoweth (Cunegonde), Janine LaManna (Paquette), Patti LuPone (The Old Lady)
+
+NOTES
+: Proshot for TV. Cast is great and funny, Kristin has a great Glitter and by Gay, an also Janine LaManna is here so I\'m automatically biased for this.
+
+## Carousel (8)
+
+#### Carousel - Broadway - 1945 (Highlights)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 \| 720p \| 793.43 MB \| 18m 46s
+
+COMMENTS
+: This is the fuller version with the original piano accompaniment.
+
+CAST
+: Agnes De Mille
+
+NOTES
+: 18 minutes of black and white sound archival footage shot with three cameras. It was recorded after a performance, with only a piano for musical accompaniment, to preserve the original choreographies.
+
+#### Carousel - Carnegie Hall - June 6, 2002
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hugh Jackman (Billy Bigelow), Audra McDonald (Julie Jordan), Judy Kaye (Nettie Fowler), Lauren Ward (Carrie Pipperidge), Jason Danieley (Enoch Snow), Blythe Danner (Mrs. Mullin), Philip Bosco (The Starkeeper), Norbert Leo Butz (Jigger Craigin), Eden Riegel (Louise)
+
+NOTES
+: Missing the instrumental Hornpipe and the June Ballet. Lots of zooms.
+
+#### Carousel - Chicago - April 10, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Steven Pasquale (Billy Bigelow), Laura Osnes (Julie Jordan), Denyce Graves (Nettie Fowler), Jenn Gambatese (Carrie Pipperidge), Matthew Hydzik (Enoch Snow), Charlotte d\'Amboise (Mrs. Mullin), Tony Roberts (The Starkeeper), Jarrod Emick (Jigger Craigin), Abigail Simon (Louise), Martin Harvey (Fairground Boy)
+
+NOTES
+: Beautiful HD capture with no obstructions of this exquisite production. It is perfectly cast and performed. A huge production that is wonderful to take in! A
+
+#### Carousel - New York Philharmonic Concert - March 2, 2013
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 (HD) \| 3.91 GB
+
+CAST
+: Nathan Gunn (Billy Bigelow), Kelli O'Hara (Julie Jordan), Stephanie Blythe (Nettie Fowler), Jessie Mueller (Carrie Pipperidge), Jason Danieley (Enoch Snow), Kate Burton (Mrs. Mullin), John Cullum (The Starkeeper), Shuler Hensley (Jigger Craigin), Tiler Peck (Louise), Robert Fairchild (Fairground Boy)
+
+NOTES
+: HD Pro-shot from PBS, recorded 3/2/13 at Avery Fisher Hall at Lincoln Center and marks the orchestra\'s 75th appearance on the series. Aired on April 26, 2013.
+
+#### Carousel - North Shore Music Theatre - 2001
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Aaron Lazar (Billy Bigelow), Angela Gaylor (Julie Jordan), Janelle Anne Robinson (Nettie Fowler), Sarah Knapp (Carrie Pipperidge), Michael Halling (Enoch Snow), Kathryn Rossetter (Mrs. Mullin), Dimitry Christy (The Starkeeper), Alex Sanchez (Jigger Craigin), Kathy Meyer (Louise), Justin Bohon (Enoch Snow, Jr.), Sam Sinns (Fairground Boy), Tony Yazbeck (Jonathan Livermore), James Bodge (David Bascombe), Keith Andrews (Hudson Allen), Seth Muse (Abner Bentley), Sharon Richards (Arminy Chase), Laura Gaona (Ella Frazer), Kathryn Comperatore (Penny Peters), Julie Reiber (Hannah Sanborn), Stephanie Sheppard (Frances Sewell), Laura Wagner (Virginia May Sperry), Dana Steer (George Spears), Bobby Pestka (Ben Hamlin), Eric Murray (Heavenly Friend)
+
+NOTES
+: Pro-shot, filmed for archival purposes using multiple cameras. Unfortunately suffers from some generational loss but a great DVD of a beautiful production. Great performances.
+
+#### Carousel - Second Broadway Revival - March 9, 1994 (Preview)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael Hayden (Billy Bigelow), Sally Murphy (Julie Jordan), Shirley Verrett (Nettie Fowler), Audra McDonald (Carrie Pipperidge), Eddie Korbich (Enoch Snow)
+
+NOTES
+: There\'s a little obstruction and generation loss, no close ups, but overall, a good capture of this beloved revival.
+
+#### Carousel - Third Broadway Revival - March 2, 2018 (Preview) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Joshua Henry (Billy Bigelow), Jessie Mueller (Julie Jordan), Renée Fleming (Nettie Fowler), Lindsay Mendez (Carrie Pipperidge), Alexander Gemignani (Enoch Snow), Margaret Colin (Mrs. Mullin), John Douglas Thompson (The Starkeeper), Amar Ramasar (Jigger Craigin), Brittany Pollack (Louise), Garett Hawe (Enoch Snow, Jr.), Andrei Chagas (Fairground Boy)
+
+#### Carousel - Third Broadway Revival - August, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Joshua Henry (Billy Bigelow), Jessie Mueller (Julie Jordan), Renée Fleming (Nettie Fowler), Lindsay Mendez (Carrie Pipperidge), Alexander Gemignani (Enoch Snow), John Douglas Thompson (The Starkeeper), Amar Ramasar (Jigger Craigin), Brittany Pollack (Louise), Alexander Gemignani (Enoch Snow, Jr.)
+
+## Carrie: The Musical (3)
+
+#### Carrie: The Musical - Off-Broadway - March 18, 2012
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Molly Ranson (Carrie White), Anne Tolpegin (u/s Margaret White), Christy Altomare (Sue Snell), Derek Klena (Tommy Ross), Jeanna de Waal (Chris Hargensen), Ben Thompson (Billy Nolan), Carmen Cusack (Lynn Gardner), Wayne Alan Wilcox (Mr. Stephens), Blair Goldberg (Norma), Jen Sese (Frieda), Corey Boardman (George), F Michael Haynie (Freddy), Elly Noble (Helen), Andy Mientus (Stokes)
+
+NOTES
+: Terrific capture, one of my favorite shows. Marin was more of a Barbara Cook portrayal, Anne was more of a Betty Buckley. Rare performance as Anne only went on a handful of times. A-
+
+#### Carrie: The Musical - Seattle - October 10, 2013
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Keaton Whittaker (Carrie White), Alice Ripley (Margaret White), Larissa Schmitz (Sue Snell), Kody Bringman (Tommy Ross), Tessa Archer (Chris Hargensen), Andrew Brewer (Billy Nolan), Kendra Kassebaum (Lynn Gardner), Brian Lange (Mr. Stephens), Erin Herrick (Norma), Melissa Maricich (Frieda), Frederick Habreen (George), Riley Neldham (Freddy), Alexandria Henderson (Helen), Eli Wills (Stokes)
+
+NOTES
+: Beautiful HD capture of one of the Final Dress Rehearsals. Top notch production and thrilling performances from Alice, Keaton, and the whole cast! This is quite a unique capture since it was the first time the blood was dropped. Too many amazing things to point out here, don\'t miss this one!!! A+ Well filmed with a nice mix of close-ups and full stage shots and no obstructions. Based on the revised Off-Broadway version, and presented at the Balagan Theatre. Because this was recorded at the final run-through prior to opening night, there are a few "holds" as they worked out any kinks: \* After "Evening Prayers" there is a hold to change all microphone batteries, resulting in most of the song being run a second time (the sound check was removed and put as a bonus at the end of act two). \* During the scene where Carrie is getting ready for the prom a microphone made a \"farting\" noise and Alice grabbed her butt and said \"sorry\" which made the cast and tech crew laugh. \* The first atte
+
+#### Carrie: The Musical - Stratford-Upon-Avon - February 16, 1988 (Preview)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Linzi Hateley (Carrie White), Barbara Cook (Margaret White), Sally Ann Triplett (Sue Snell), Paul Gyngell (Tommy Ross), Charlotte d\'Amboise (Chris Hargensen), Gene Anthony Ray (Billy Nolan), Darlene Love (Lynn Gardner)
+
+NOTES
+: Filmed professionally for the RSC archives on the third night of the performance (February 16, 1988). Shot from first row mezzanine center with no obstructions with audio taken directly from the soundboard. Mostly a full stage shots without zooms. This is usually incorrectly labelled as \"Opening Night (February 13, 1988)\", which is incorrect, as on opening night, Barbara Cook was almost decapitated right after the set changes from \"Don\'t Waste The Moon\", which not seen in this video (also verified by the person who copied this from the archives).
+
+## Catch Me If You Can (4)
+
+#### Catch Me If You Can - Broadway - April 27, 2011
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Aaron Tveit (Frank Abagnale, Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale, Sr.), Rachel de Benedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong), Timothy McCuen Piggee (Agent Cod)
+
+NOTES
+: A nice capture of the short lived show. Disc also includes around 100 minutes of interviews, B-Roll, behind the scenes, etc. Great video with nice picture and clear sound. A
+
+#### Catch Me If You Can - Moonlight Stage, Vista, San Diego, CA - September 14, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jacob Haren (Frank Abagnale, Jr.), Josh Adamson (Agent Carl Hanratty), Robert Neary (Frank Abagnale, Sr.), Tracy Lore (Paula Abagnale), Heather Lundstedt (Brenda Strong)
+
+#### Catch Me If You Can - Seattle, WA (Pre-Broadway) - August 4, 2009
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Aaron Tveit (Frank Abagnale, Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale, Sr.), Rachel de Benedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong)
+
+NOTES
+: This is a great capture of the show. The show is filled with wonderful talent. Aaron and Norbert have a great chemistry together and Aaron has a huge voice. Kerry and Felicia both have great songs and great vocals. The show itself is very sleek and mod. A
+
+#### Catch Me If You Can - Seattle, WA (Pre-Broadway) - August 15, 2009
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Aaron Tveit (Frank Abagnale, Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale, Sr.), Rachel de Benedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong)
+
+NOTES
+: Some very quick blackouts, none last more than 30 seconds or so.Very little obstruction, just heads on the bottom and the right, mostly in wideshots, and they\'re hardly noticeable.
+
+## Cats (8)
+
+#### Cats - Broadway Revival - October 30, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Mamie Parris (Grizabella), Ahmad Simmons (Alonzo), Daniel Gaymon (Admetus/Macavity), Christine Cornish Smith (Bombalurina), Christopher Gurr (Bustopher Jones/Gus/Growltiger), Emily Pynenburg (Cassandra), Tanner Ray Wilson (Carbucketty), Corey John Snide (Coricopat), Lili Froehlich (Electra), Sara Jean Ford (Jellylorum), Francesca Granell (u/s Jennyanydots), Corey John Snide (u/s Mr. Mistoffelees), Jess LeProtto (Mungojerrie), Andy Huntington Jones (Munkustrap), Quentin Earl Darrington (Old Deuteronomy), Shonica Gooden (Rumpleteazer), Tyler Hanes (Rum Tum Tugger), Jeremy Davis (Skimbleshanks), Emily Tate (Tantomile), Georgina Pazcoguin (Victoria), Sharrod Williams (Pouncival), Arianna Rosario (Sillabub)
+
+NOTES
+: Great HD capture of the final Broadway Revival cast. Mamie has such a strong voice and is a wonderful Grizabella. A
+
+#### Cats - Commercial Release - August, 1997
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV (HD) \| 7.64 GB + 1.68 GB
+
+COMMENTS
+: Comes with a YouTube rip of ALW\'s Live Commentary
+
+CAST
+: Elaine Paige (Grizabella), Jason Gardiner (Alonzo), Bryn Walters (Admetus/Macavity), Fergus Logan (Bill Bailey/Tumblebrutus), Rosemarie Ford (Bombalurina), James Barron (Bustopher Jones/Gus/Growltiger), Rebecca Parker (Cassandra), Tommi Sliiden (Coricopat), Aeva May (Demeter), Leah - Sue Morland (Electra), Susan Jane Tanner (Jellylorum), Veerle Casteleyn (Jemima), Susie McKenna (Jennyanydots), Jacob Brent (Mr. Mistoffelees), Drew Varley (Mungojerrie), Michael Gruber (Munkustrap), Ken Page (Old Deuteronomy), Jo Gibb (Rumpleteazer), John Partridge (Rum Tum Tugger), Geoffrey Garrat (Skimbleshanks), Kaye Brown (Tantomile), Phyllida Crowley-Smith (Victoria), Karl Morgan (Pouncival), Jo Bingham (Etcetera), Steven Wayne (George)
+
+NOTES
+: Filmed on stage at the Adelphi Theatre (London, England) and distributed commercially.
+
+#### Cats - Mexico - December 29, 2013 (Matinee) (Closing Night) 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Natalia Sosa (Grizabella), Manuel Landeta (Old Deuteronomy), Jaime Rojas (e/c Old Deuteronomy)
+
+NOTES
+: Recorded by the company with zoom's for production viewing only Previous circulated version is a YouTube rip (640x360p resolution. MP4 **SIZE:** 568 MB) The real information for this video is 720 x 480 resolution DVD 4.19 GB Natalia Sosa (Grizabella) Manuel Landeta (Old Deuteronomy 1 Act) Jaime Rojas (Old Deuteronomy 2nd Act)
+
+#### Cats - The Muny, St. Louis - July 25, 2010 (Closing Night)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Grizabella), Michael Brian Dunn (Bustopher Jones/Gus/Growltiger), Christine Negherbon (Jennyanydots), Joseph Medeiros (Mr. Mistoffelees), Lara Teeter (Munkustrap), Ken Page (Old Deuteronomy), Kevin Loreque (Rum Tum Tugger), Drew Humphrey (Skimbleshanks)
+
+NOTES
+: Part of the 2010 MUNY Season in St. Louis, which usually draws big Broadway names as demonstrated here. Stephanie does a fantastic job as Grizabella here, as does Ken recreating his Old Deuteronomy from the Original Broadway Cast. A-
+
+#### Cats - Vienna - 1983
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Angelika Milster (Grizabella), Ute Lemper (Bombalurina), Monica Solem (Jellylorum), Valda Aviks (Jennyanydots), Valentin Baraian (Mr. Mistoffelees), Steve Barton (Munkustrap), Gordon Bovinet (Old Deuteronomy)
+
+#### Cats - West End - April 25, 1992
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Missing VTS_01_5.VOB, but the London show is in full
+
+CAST
+: Ria Jones (Grizabella), Guy-Paul Roult de St Germain (Mr. Mistoffelees), Vincent Leigh (Munkustrap), Geoffrey Garrat (Skimbleshanks)
+
+NOTES
+: In the beginning, it\'s only black and white. This video also includes a clip from Amsterdam production. Fun fact: In this version of the show, there are two Gumbie Cats during the \"Gumbie Tap Dance\" sequence.
+
+#### Cats - West End - January 23, 1993
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jacqui Scott (Grizabella), Bryn Walters (Admetus/Macavity), Deborah Steele (Bombalurina), Rory Campbell (Bustopher Jones/Gus/Growltiger), Angela Heneghan Tyers (Demeter), Peter Bishop (Munkustrap), Leah - Sue Morland (Rumpleteazer), Christopher Howard (Rum Tum Tugger), Phyllida Crowley-Smith (Victoria)
+
+NOTES
+: This video really follows where the action is. It\'s also including 2 documentaries, one from the original London production, one from the original Vienna production.
+
+#### Cats - West End - May 11, 2002 (Closing Night)
+
+FORMAT
+: VOB (NO SMALLS) + M4V
+
+COMMENTS
+: Looking to trade for original smalls.
+
+CAST
+: Chrissie Hammond (Grizabella), Chris Jarvis (Alonzo), Kenny Linden (Admetus/Macavity), Robert Foley (Bill Bailey/Tumblebrutus), Alexis Owen-Hobbs (Bombalurina), Gareth Snook (Bustopher Jones/Gus/Growltiger), Tiffany Graves (Cassandra), Jye Frasca (Carbucketty), Oliver Tydman (Coricopat), Barbara King (Demeter), Julie Carlton (Electra), Louisa Shaw (Jellylorum), Caroline Bagnall (Jemima), Susie Fenwick (Jennyanydots), Benjamin Tyrrell (Mr. Mistoffelees), Adrian Edmeades (Mungojerrie), Jack Rebaldi (Munkustrap), Junix Inocian (Old Deuteronomy), Lynsey Britton (Rumpleteazer), John Partridge (Rum Tum Tugger), Ross Finnie (Skimbleshanks), Helen Harper (Tantomile), Sorrell Thomas (Victoria), Sarah Jane Honeywell (Etcetera), Matthew Attwell (Victor)
+
+NOTES
+: Closing night in London. Live streamed to Covent Garden via large screen so it is a recording of the show being played on a big screen outside. Also includes interviews with some of the actors, Elaine Paige, Bonnie Langford, Andrew Lloyd Webber and Gillian Lynne before the show. Very fierce performance by the cast. Also the audience is totally excited by the show. At the end of the show there\'s a long encore with a medley performed by many people who have been in the London production of Cats. Brian Blessed, the Original London Cast, the final London cast and the original creative team also sing \"The Addressing of Cats\" together. Although the quality isn\'t that good (as it was filmed from a screen), this video is a must have for everyone who loves the show!
+
+## Cat on a Hot Tin Roof (1)
+
+#### Cat on a Hot Tin Roof - Broadway - January 1, 2013
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Scarlett Johansson (Maggie), Benjamin Walker (Brick), Ciarán Hinds (Big Daddy), Debra Monk (Big Mama), Brian Reddy, Cherene Snow, Emily Bergl, Jordan Dean, Lance Roberts, Michael Park, Tanya Birl, Vin Knight, Will Cobbs
+
+## Chaplin: The Musical (1)
+
+#### Chaplin: The Musical - Broadway - December 13, 2012
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Rob McClure (Charlie Chaplin), Jim Borstelmann (Alf Reeves), Jenn Colella (Hedda Hopper), Erin Mackey (Oona O\'Neill), Michael McCormick (Sennett/McGranery/Emcee), Christiane Noll (Hannah Chaplin), Zachary Unger (Young Charlie/Jackie), Wayne Alan Wilcox (Sydney Chaplin)
+
+NOTES
+: Act 2 filmed on 12/14/12. Act 2 takes a moment to get settled due to latecomers. Good clear video with nice picture and sound, many changes done since previews.
+
+## Charlie and the Chocolate Factory (3)
+
+#### Charlie and the Chocolate Factory - Broadway - April 20, 2017 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Christian Borle (Willy Wonka), Ryan Foust (Charlie Bucket), John Rubinstein (Grandpa Joe), F Michael Haynie (Augustus Gloop), Kathy Fitzgerald (Mrs Gloop), Emma Pfaeffle (Veruca Salt), Ben Crawford (Mr Salt), Trista Dollison (Violet Beauregarde), Alan H Green (Mr Beauregarde), Michael Wartella (Mike Teavee), Jackie Hoffman (Mrs Teavee), Emily Padgett (Mrs Bucket)
+
+NOTES
+: Great HD capture of the new musical based on the Roald Dahl classic novel. A fresh dark take on the material, which was fun and very enjoyable! A great comedic cast and innovative production. A
+
+#### Charlie and the Chocolate Factory - Broadway - May 1, 2017 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Christian Borle (Willy Wonka), Jake Ryan Flynn (Charlie Bucket), John Rubinstein (Grandpa Joe), F Michael Haynie (Augustus Gloop), Kathy Fitzgerald (Mrs Gloop), Emma Pfaeffle (Veruca Salt), Ben Crawford (Mr Salt), Trista Dollison (Violet Beauregarde), Michael Wartella (Mike Teavee), Jackie Hoffman (Mrs Teavee), Emily Padgett (Mrs Bucket)
+
+NOTES
+: Fantastic HD video with excellent picture and clear great sound; Video has great close-ups and good stage shots for dancing numbers.
+
+#### Charlie and the Chocolate Factory - First National Tour - October 2, 2018
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Noah Weisburg (Willy Wonka), Collin Jeffery (Charlie Bucket), James Young (Grandpa Joe), Matthew Wood (Augustus Gloop), Kathy Fitzgerald (Mrs Gloop), Jessica Cohen (Veruca Salt), Nathaniel Hackmann (Mr Salt), Brynn Williams (Violet Beauregarde), David Samuel (Mr Beauregarde), Daniel Quadrino (Mike Teavee), Madeline Doherty (Mrs Teavee), Amanda Rose (Mrs Bucket)
+
+NOTES
+: Excellent HD capture of the new tour, with no obstructions. Great performances from the cast, with a lot of minor changes! A
+
+## The Cher Show (3)
+
+#### The Cher Show - Pre-Broadway / Chicago - July 13, 2018
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Cher (Star)), Teal Wicks (Cher (Lady)), Micaela Diamond (Cher (Babe)), Jarrod Spector (Sonny Bono), Michael Berresse (Bob Mackie), Michael Campayno (Rob Camilletti), Matthew Hydzik (Gregg Allman), Emily Skinner (Georgia Holt)
+
+NOTES
+: Beautiful HD capture with no obstructions. The show is a lot of fun and terrific performances from the cast. Stephanie along with Teal and Micaela embody Cher and knock it out of the park! A+
+
+#### The Cher Show - Broadway - April, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 17.39 GB
+
+COMMENTS
+: The original release, looking for the re-release with a smaller file size
+
+CAST
+: Stephanie J Block (Cher (Star)), Teal Wicks (Cher (Lady)), Micaela Diamond (Cher (Babe)), Jarrod Spector (Sonny Bono), Michael Berresse (Bob Mackie), Michael Campayno (Rob Camilletti), Matthew Hydzik (Gregg Allman), Emily Skinner (Georgia Holt)
+
+NOTES
+: Beautiful HD close-ups but some long drop-outs and quite a few obstructed scenes. The rake in the mezzanine at the Neil Simon kinda stinks and I\'m pretty sure the ushers were playing flashlight tag with each other the entire show. but I began to care a lot less as the night went on Video is very Cher-centric\...choreography in \"Dark Lady\" is captured beautifully, but for the rest of the show I was mostly focused on getting those Stephanie, Teal, and Micaela zooms. We start at the scene before \"Half Breed\" and when Stephanie tells everyone to stand up for the finale it\'s all over for my filming ability.
+
+#### The Cher Show - Broadway - January, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Cher (Star)), Teal Wicks (Cher (Lady)), Micaela Diamond (Cher (Babe)), Jarrod Spector (Sonny Bono), Michael Berresse (Bob Mackie), Michael Campayno (Rob Camilletti), Matthew Hydzik (Gregg Allman), Emily Skinner (Georgia Holt)
+
+## Chess (4)
+
+#### Chess - Actors\' Fund Benefit Concert - September 22, 2003
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Josh Groban (Anatoly Sergievsky), Julia Murney (Florence Vassy), Adam Pascal (Freddie Trumper), Sutton Foster (Svetlana Sergievskaya), Raúl Esparza (Arbiter), Norm Lewis (Molokov), Jonathan Dokuchitz (Walter de Courcey)
+
+#### Chess - Actors\' Fund Benefit Concert - September 21, 2003 (Rehearsal)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Josh Groban (Anatoly Sergievsky), Julia Murney (Florence Vassy), Adam Pascal (Freddie Trumper), Sutton Foster (Svetlana Sergievskaya), Raúl Esparza (Arbiter), Norm Lewis (Molokov), Jonathan Dokuchitz (Walter de Courcey)
+
+NOTES
+: Complete footage of the final rehearsal before the benefit concert. Great sound and picture.
+
+#### Chess - Kennedy Center/Washington D.C. - February 15 And 18, 2018 (Highlights)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ramin Karimloo (Anatoly Sergievsky), Karen Olivo (Florence Vassy), Raúl Esparza (Freddie Trumper), Ruthie Ann Miles (Svetlana Sergievskaya), Bryce Pinkham (Arbiter), Bradley Dean (Molokov), Sean Allan Krill (Walter de Courcey)
+
+NOTES
+: Raúl-centered highlights recorded from two nights. A lot of obstruction, not much washout. Some clips are vertical, most are horizontal. All quite watchable. Unfortunately the only known video of these performances.
+
+#### Chess - Royal Albert Hall Concert - May 12, 2008 (Opening Night)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 (HD) \| 1.22 GB
+
+CAST
+: Josh Groban (Anatoly Sergievsky), Idina Menzel (Florence Vassy), Adam Pascal (Freddie Trumper), Kerry Ellis (Svetlana Sergievskaya), Marti Pellow (Arbiter), David Bedella (Molokov), Clarke Peters (Walter de Courcey)
+
+NOTES
+: Pro-shot concert.
+
+## Chicago (24)
+
+#### Chicago - Broadway Revival - 1996 (Highlights)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ann Reinking (Roxie Hart), Bebe Neuwirth (Velma Kelly), James Naughton (Billy Flynn), Joel Grey (Amos Hart), Marcia Lewis (Matron \"Mama\" Morton), D Sabella (Mary Sunshine)
+
+NOTES
+: Almost the full show (2 hours and 7 minutes). Usually referred to as Press Reels, this is actually the unedited footage shot for press or archival purposes. Decent amount on generation loss with some distortion at the top of the screen, and a time code at the bottom. Sometimes incorrectly labeled as 1995 .
+
+#### Chicago - Broadway Revival - September 8, 2002
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Amy Spanger (Roxie Hart), Stephanie Pope (Velma Kelly), Michael C Hall (Billy Flynn)
+
+#### Chicago - Broadway Revival - May 10, 2004
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Belle Callaway (Roxie Hart), Pia Douwes (Velma Kelly), Tom Wopat (Billy Flynn), PJ Benjamin (Amos Hart), Roz Ryan (Matron \"Mama\" Morton), D Sabella (Mary Sunshine), Jennifer Dunne (u/s Hunyak), Michelle Marie Robinson (Liz), Roxanne Corrasco (Annie), Donna Marie Asbury (June), Michelle Dejean (Mona)
+
+NOTES
+: Starts at \"All That Jazz.\" Shaky at times but overall good quality
+
+#### Chicago - Broadway Revival - May 22, 2007
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bianca Marroquin (Roxie Hart), Brenda Braxton (Velma Kelly), Joey Lawrence (Billy Flynn), Rob Bartlett (Amos Hart), Carol Woods (Matron \"Mama\" Morton), R Lowe (Mary Sunshine), Michelle Marie Robinson (Liz), Donna Marie Asbury (June)
+
+NOTES
+: A couple minutes total worth of blackouts; coverups mainly in \"Roxie\" very Joey-focused with very nice close-ups throughout, and clear picture.
+
+#### Chicago - Broadway Revival - October 25, 2011 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Kara DioGuardi (Roxie Hart), Amra-Faye Wright (Velma Kelly), Tony Yazbeck (Billy Flynn), Chris Sullivan (Amos Hart), Nicole Bridgewater (Matron \"Mama\" Morton), R Lowe (Mary Sunshine), Donna Marie Asbury (June), James Harkness (Fred Casely), Melissa Rae Mahon (Go-To-Hell-Kitty), Jason Patrick Sands (Doctor), James T Lane (Aaron), Jason Patrick Sands (The Judge), Ryan Worsing (The Jury)
+
+NOTES
+: Filmed in 16:9 HD Widescreen, a mezzanine bar at times obstructs the very front of the stage but otherwise very clear. Includes NY1 Interview with Kara DioGuardi. Wonderful cast, and the capture uses mostly wider shots so you can see the big pictures of the dances.
+
+#### Chicago - Broadway Revival - November 18, 2012 \| Lanelle
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Amy Spanger (Roxie Hart), Amra-Faye Wright (Velma Kelly), Billy Ray Cyrus (Billy Flynn), Brian O\'Brien (Amos Hart), Carol Woods (Matron \"Mama\" Morton), R Lowe (Mary Sunshine)
+
+#### Chicago - Broadway Revival - July 5, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Brandy Norwood (Roxie Hart), Amra-Faye Wright (Velma Kelly), Ivan Hernandez (Billy Flynn), Raymond Bokhour (Amos Hart), NaTasha Yvette Williams (Matron \"Mama\" Morton)
+
+NOTES
+: Excellent HD capture of Brandy Norwood joining the cast as Roxie. Everything is nicely captured, a few minor and quick parts to the extreme far right can be blocked a few times. Brady did an excellent job in the role and was really giving a solid performance! A-
+
+#### Chicago - Broadway Revival - June 7, 2016 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Charlotte d\'Amboise (Roxie Hart), Donna Marie Asbury (u/s Velma Kelly), Jaime Camil (Billy Flynn), Raymond Bokhour (Amos Hart), Nicole Bridgewater (u/s Matron \"Mama\" Morton)
+
+NOTES
+: Great capture of Jane the Virgin star in the role of Billy. Donna gives a great performance and vocals as Velma!
+
+#### Chicago - Ettlingen, Germany - July, 2018 \| Rumpel
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Dorothée Kahler (Velma Kelly), Maria-Danae Bahnsen (Roxie Hart), Adrian Kroneberger (Amos Hart), Gudrun Schade (Mama Morton), Marc Lamberty (Billy Flynn), Anton Schweizer (Mary Sunshine), Eva Müller (Kitty), Marc Trojan (Fred Casely), Vanessa Wilcek (Liz/Harrys Mädchen), Ellen Wawrzyniak (Annie), Tina Podstawa (June), Isabelle Vedder (Junyak/Harrys Mädchen), Julie Hall (Mona), Wolfgang Schwingler (Seargant Fogerty/Richter), Bas Timmers (Ein Schneider/Gerichtsdiener), Marco Fahrland-Jadue (Harry, Kittys Mann/Harrison, Staatsanwalt), Robert Lankester (Ein Arzt/Aaron, Anwalt)
+
+NOTES
+: There\'s a 10-15 second break in act 2 due to a battery change.
+
+#### Chicago - First National Tour - 1978
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Melody Adams (s/w Roxie Hart), Kristen Childs (u/s Velma Kelly), Jerry Orbach (Billy Flynn), Rex Everhart (Amos Hart), Edye Byrde (Matron \"Mama\" Morton)
+
+NOTES
+: One of the few copies of the Bob Fosse staging instead of the concert presentation. It\'s an older video but still wonderful to watch even with some major generation loss. C
+
+#### Chicago - Fourth National Tour - November 23, 2005
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Paige Davis (Roxie Hart), Brenda Braxton (Velma Kelly), Tom Wopat (Billy Flynn), Ron Orbach (Amos Hart), Carol Woods (Matron \"Mama\" Morton), C Newcomb (Mary Sunshine)
+
+NOTES
+: Amazing cast and so much fun in this production. Paige is great, Brenda is sassy, and Woods vocals are wild. Best Chicago video ever. Crystal Clear picture and sound. A+
+
+#### Chicago - Fourth National Tour - May 12, 2007
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michelle Dejean (Roxie Hart), Terra C MacLeod (Velma Kelly), Tom Wopat (Billy Flynn), Carol Woods (Matron \"Mama\" Morton)
+
+NOTES
+: A terrific capture of this show with amazing shots. Michelle is the highlight here and gives a wonderful performance. A
+
+#### Chicago - Hollywood Bowl - July 26, 2013 (Opening Night)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ashlee Simpson (Roxie Hart), Samantha Barks (Velma Kelly), Stephen Moyer (Billy Flynn), Drew Carey (Amos Hart), Lucy Lawless (Matron \"Mama\" Morton), D Tablak (Mary Sunshine)
+
+#### Chicago - Long Beach Civic Light Opera - 1992
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Juliet Prowse (Roxie Hart), Bebe Neuwirth (Velma Kelly), Gary Sandy (Billy Flynn), Barney Martin (Amos Hart), Kaye Ballard (Matron \"Mama\" Morton), M O\'Haughey (Mary Sunshine), Jodi Lang (Hunyak), Lisa Akey (Liz), Kim Morgan Greene (Annie), Daryl Richardson (June), Caitlin Carter (Mona), David Warren-Gibson (Fred Casely), Jennifer Nairn-Smith (Go-To-Hell-Kitty), William Ledesma (Sergeant Fogarty), Robert Loftin (Aaron), Jim Borstelmann (Martin Harrison), Glenn Sneed (The Jury), Eric Davenport (Court Clerk)
+
+NOTES
+: Audience shot, much generation loss, good sound, problems with the video at the end. Re-creation of Bob Fosse\'s original staging. Features the original scenic design from 1975. Directed by Rob Marshall (who later directed the movie adaption of this musical) with choreography by Ann Reinking (in the style of Bob Fosse). Highly recommended for fans of \'Chicago\'.
+
+#### Chicago - Madrid - 2010
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Natalia Millán, Marcela Paoli, Manuel Bandera, Fedor de Pablos, Linda Mirabal, Gerónimo Rauch
+
+NOTES
+: Multicamera Proshot
+
+#### Chicago - Mexico City - 2001
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bianca Marroquin (Roxie Hart), Sandra Guida (Velma Kelly), Eugenio Montessoro (Billy Flynn), Dario Ripoll (Amos Hart), Laura Cortés (Matron \"Mama\" Morton), Javier Medina (Mary Sunshine)
+
+NOTES
+: Multi-Cam Pro-Shot from the original production, meant for production viewing only
+
+#### Chicago - San José Civic Light Opera - January, 1988
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Kirsten Childs (Velma Kelly), Belle Calaway (Roxie), Marsha Bagwell (Matron \"Mama\" Morton). Directed by Dianna Shuster, choreographed by Bick Goss. Single Cam Pro-Shot w. Soundboard Audio.
+
+NOTES
+: Single Cam Pro-Shot with Soundboard Audio. CAST
+: Kirsten Childs (Velma Kelly), Belle Calaway (Roxie), Marsha Bagwell (Matron \"Mama\" Morton). Directed by Dianna Shuster with Bick Goss recreating Bob Fosse\'s original choreography.
+
+#### Chicago - Seventh National Tour - February 2, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Paige Davis (Roxie Hart), Terra C MacLeod (Velma Kelly), John O\'Hurley (Billy Flynn), Ron Orbach (Amos Hart), Carol Woods (Matron \"Mama\" Morton), C Newcomb (Mary Sunshine), Naomi Kakuk (Hunyak), Sherisse Springer (Liz), Laura Oldham (Annie), Lindsay Roginski (June), Stephanie Maloney (Mona), Jon-Paul Mateo (Fred Casely)
+
+#### Chicago - The Netherlands - 1999
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: 2-Disc version (the one commonly mislabeled as Fall, 1999, but is actually the 1999 one according to a few Dutch traders)
+
+CAST
+: Simone Kleinsma (Roxie Hart), Pia Douwes (Velma Kelly), Stanley Burleson (Billy Flynn), Marjolijn Touw (Matron \"Mama\" Morton)
+
+#### Chicago - The Netherlands - Fall, 1999
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ellen Evers (u/s Roxie Hart), Pia Douwes (Velma Kelly), Stanley Burleson (Billy Flynn), Serge Henry Valke (Amos Hart), Marjolijn Touw (Matron \"Mama\" Morton)
+
+NOTES
+: Good capture; multicam proshot. One camera is centre stage, the other is on the left balcony.
+
+#### Chicago - West End Revival - 1999
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Chita Rivera (Roxie Hart), Valarie Pettiford (Velma Kelly), Michael Siberry (Billy Flynn), Norman Pace (Amos Hart), Sue Kelvin (Matron \"Mama\" Morton), Charles Shirvell (Mary Sunshine), Robbie O\'Reilly (Hunyak), Cat Lawrence (Liz), Rachel Stanley (Annie), Suzy Bloom (June), Jacqui Jameson (Mona), Jo Ellery (Go-To-Hell-Kitty)
+
+#### Chicago - West End Revival - August 14, 2003
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: I have two different sets of VOB+smalls.
+
+CAST
+: Linzi Hateley (Roxie Hart), Ruthie Henshall (Velma Kelly), Rolf Saxon (Billy Flynn), Norman Pace (Amos Hart), Zee Asha (Matron \"Mama\" Morton)
+
+NOTES
+: Filmed between heads, but the quality is amazing for its time.
+
+#### Chicago - West End Revival - February 9, 2012
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sarah Soetaert, Rachel McDowall, Terence Maynard, James Doherty, Jasna, Ivir, R. Whitehead, Lauren Brooke, Chantelle Carey, Abramo Ciullo, Edwina Cox, BenDixon, Jenny Gayner, Emma Harris, Jamie Hughes-Ward, Debbie Jenkins, Dann Kharsa, Rory Locke, Dario Mazzoli, Richard Murphy, Grant Neal, Alicia Peacock, Sergio Priftis, Laura Tyrer, Matt Wesley, Jayde Westaby
+
+## Children of Eden (1)
+
+#### Children of Eden - Cabrillo Music Theatre - April 17, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Kevin McMahon (Adam / Noah), Misty Cotton (Eve / Mama Noah), Norman Large (Father), Ryan J Driscoll (Cain / Japheth), Barnaby James (Abel / Ham), Paul DiLoreto (Seth / Shem), Natalia Vivino (Yonah)
+
+## Chinglish (1)
+
+#### Chinglish - Pre-Broadway/Chicago - July 31, 2011 (Closing Night)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jennifer Lim (Xi Yan), Stephen Pucci (Peter Timms), James Waterston (Daniel Cavanaugh), Angela Lin (Miss Qian/Prosecutor), Christine Lin (Miss Zhao), Johnny Wu (Bing/Judge Xu Geming), Larry Lei Zhang (Minister Cai Guoliang)
+
+NOTES
+: Great Capture of the final performance before the production moved to Broadway. Excellent cast and funny show that explores what is lost in translation. A
+
+## A Chorus Line (7)
+
+#### A Chorus Line - Broadway Revival - September 30, 2006 (Preview)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael Berresse (Zach), Tyler Hanes (Larry), Brad Anderson (Don), Mara Davi (Maggie), Jeffrey Schecter (Mike), Yuka Takara (Connie), Michael Paternostro (Greg), Charlotte d\'Amboise (Cassie), Deirdre Goodwin (Sheila), Ken Alan (Bobby), Alisan Porter (Bebe), Heather Parcells (Judy), James T Lane (Richie), Tony Yazbeck (Al), Chryssie Whitehead (Kristine), Jessica Lee Goldyn (Val), Paul McGill (Mark), Jason Tam (Paul), Natalie Cortez (Diana), Michelle Aravena (Tricia), E Clayton Cornelious (Butch), David Baum (Roy), Mike Cannon (Tom), Nadine Isenegger (Lois), Grant Turner (Frank), Lorin Latarro (Vicki)
+
+NOTES
+: Commonly mislabelled as Opening Night (October 5, 2006), however menu says it is September 30, 2006. Video includes the playbill and some bonus news features of the Pre-Opening, Opening Night and the Review.
+
+#### A Chorus Line - Broadway Revival - August 17, 2008 (Closing Night)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Mario Lopez (Zach), Nick Adams (Larry), Jason Patrick Sands (Don), Melissa Lone (Maggie), Jeffrey Schecter (Mike), J Elaine Marcos (Connie), Tommy Berklund (Greg), Jessica Lee Goldyn (Cassie), Deirdre Goodwin (Sheila), Will Taylor (Bobby), Dena DiGiacinto (Bebe), Heather Parcells (Judy), James T Lane (Richie), Mike Cannon (Al), Katherine Tokarz (Kristine), Jenifer Foote (Val), Paul McGill (Mark), Bryan Knowlton (Paul), Natalie Cortez (Diana), Michelle Aravena (Tricia), E Clayton Cornelious (Butch), Todd Anderson (Roy), Kevin Worley (Tom), Nadine Isenegger (Lois), Grant Turner (Frank), Jenifer Foote (Vicki)
+
+NOTES
+: Final performance: filmed from front row of mezzanine video starts near the end of the audition and shot goes down for applause breaks; captures everything clearly after Mike\'s \"I Can Do That\" but pretty full throughout
+
+#### A Chorus Line - Hollywood Bowl - July 29, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Mario Lopez (Zach), Spencer Liff (Larry), Michael Starr (Don), Mara Davi (Maggie), Robert Fairchild (Mike), J Elaine Marcos (Connie), Denis Lambert (Greg), Sarah Bowden (Cassie), Leigh Zimmerman (Sheila), Kelsey Walston (Bebe), Tiana Okoye (Judy), Cornelius Jones Jr (Richie), Justin Michael Wilcox (Al), Courtney Lopez (Kristine), Sabrina Bryan (Val), Ross Lynch (Mark), Jason Tam (Paul), Krysta Rodriguez (Diana)
+
+NOTES
+: This all star cast gives energetic and nuanced performances, cast as a whole is a stand out with absolutely incredible dance numbers, nicely filmed, no obstructions, no washout, just a couple of quick dropouts, filmed from stage directly, screens are never shown, filmed in 16:9 with a mix of wides, mediums and close-ups, show is 125 minutes on one disc includes curtain call and playbill scans.
+
+#### A Chorus Line - National Tour - March 27, 2009
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jordan Fife Hunt (u/s Larry), Robyn Hurder (Cassie), Julie Kotarides (u/s Kristine), Stephanie Martignetti (u/s Val), Gabrielle Ruiz (Diana)
+
+NOTES
+: Great capture, filmed from the front, center mezzanine, so the choreography looks just the way it was intended. Missing about twenty seconds during Paul\'s monologue for a tape change. First five seconds are blacked out; clear sound, nice video A
+
+#### A Chorus Line - New Orleans - February 16, 2003
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alton Geno (Zach), Benjamin Linn (Larry), Jeff Lukas (Don), Ariel Assaf (Maggie), Matias J Grau III (Mike), Tracey Hensarling (Connie), Gary Rucker (Greg), Elizabeth Argus (Cassie)
+
+NOTES
+: A great pro-shot recording with a great fun cast!
+
+#### A Chorus Line - North Shore Music Theatre - November, 2010
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 (SD) \| 2.35 GB
+
+CAST
+: Derek Hanson (Zach), Kurt Domoney (Larry), Joe Grandy (Don), Cary Michelle Miller (Maggie), Jonathan Day (Mike), Hannah Chin (Connie), Aaron Umsted (Greg), Rebecca Riker (Cassie), Katie Cameron (Sheila), Sean Quinn (Bobby), Katerina Papacostas (Bebe), Bethany Moore (Judy), Delius Doherty (Richie), Venny Carranza (Al), Nancy Renée Braun (Kristine), Leslie Donna Flesner (Val), Christopher Shin (Mark), Miguel Angel Falcon (Paul), Julie Kotarides (Diana), Maggie Marino (Tricia), Brian Bailey (Roy), Michael McCrary (Tom), Sarah Shepler (Lois), Taylor Shubert (Frank), Wendy O\'Byrne (Vicki)
+
+NOTES
+: Performed in the round, two cameras and sound patched in from the soundboard.
+
+#### A Chorus Line - Off-Broadway - July 12, 1975
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls \| 4.08 GB/2.86 GB
+
+COMMENTS
+: I will include both versions in one link, please do so as well if you traded them from me
+
+CAST
+: Robert LuPone (Zach), Thommie Walsh (Bobby Strong), Clive Clerk (Larry), Ron Khulman (Don), Kay Cole (Maggie), Wayne Cilento (Mike), Baayork Lee (Connie), Michael Stuart (Greg), Donna McKechnie (Cassie), Kelly Bishop (Sheila), Nancy Lane (Bebe), Patricia Garland (Judy), Ronald Dennis (Richie), Don Percassi (Al), Renne Baughman (Kristine), Pam Blair (Val), Cameron Mason (Mark), Sammy Williams (Paul), Priscilla Lopez (Diana)
+
+NOTES
+: The original Broadway cast filmed prior to moving to Broadway. Professionally filmed using multiple cameras for the Lincoln Center Theatre on Film and Tape (TOFT) archives. Newly surfaced video which is a HUGE improvement over the previous version which has been in circulation for a while. This is also complete and includes the opening announcement alerting the audience that the show is being filmed. Amazing quality, but still has a little generational loss. In black and white. The DVD has been enhanced with chapter stops for all of the musical numbers. This, along with the tapes of Crazy for You and Passion, is amongst the only three TOFT tapes that have been leaked.
+
+## A Christmas Carol Goes Wrong (1)
+
+#### A Christmas Carol Goes Wrong - BBC Special - December 30, 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV (HD)
+
+CAST
+: Henry Shields (Chris), Henry Lewis (Robert), Charlie Russell (Sandra), Dave Hearn (Max), Chris Leask (Trevor), Nancy Zamit (Annie), Greg Tannahill (Jonathan), Jonathan Sayer (Dennis), Ellie Morris (Lucy), Diana Rigg (Aunt Diana), Derek Jacobi (Scrooge/Himself)
+
+NOTES
+: Mischief Theatre 2017 BBC Special proshot.
+
+## A Christmas Story (1)
+
+#### A Christmas Story - Broadway - November 7, 2012
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Johnny Rabe (Ralphie), Dan Lauria (Jean Shepherd), John Bolton (The Old Man), Erin Dilly (Mother), Zac Ballard (Randy), Caroline O'Connor (Miss Shields)
+
+NOTES
+: Excellent HD capture of the Broadway transfer. This is such a fun show and a top notch cast that delivers the perfect blend of performances. Nice changes from the previous PreBroadway tour from last year and a perfect show to get into the holiday season!
+
+## Cinderella (Rodgers & Hammerstein) (9)
+
+#### Cinderella (Rodgers & Hammerstein) - Broadway - March 2, 2013 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Laura Osnes (Ella), Santino Fontana (Topher), Victoria Clark (Marie), Harriet Harris (Madame), Ann Harada (Charlotte), Greg Hildreth (Jean-Michel), Marla Mindelle (Gabrielle), Phumzile Sojola (Lord Pinkleton), Peter Bartlett (Sebastian)
+
+NOTES
+: Beautiful HD capture of this classic show, with this being the first time having appeared on Broadway! Really a top notch cast and a beautiful production, nicely staged! A
+
+#### Cinderella (Rodgers & Hammerstein) - Broadway - March 13, 2013 \| Lanelle
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Laura Osnes (Ella), Santino Fontana (Topher), Victoria Clark (Marie), Harriet Harris (Madame), Ann Harada (Charlotte), Greg Hildreth (Jean-Michel), Marla Mindelle (Gabrielle), Phumzile Sojola (Lord Pinkleton), Peter Bartlett (Sebastian)
+
+#### Cinderella (Rodgers & Hammerstein) - Broadway - April 17, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Carly Rae Jepsen (Ella), Joe Carroll (Topher), Victoria Clark (Marie), Fran Drescher (Madame), Ann Harada (Charlotte), Todd Buonopane (Jean-Michel), Stephanie Gibson (Gabrielle), Peter Bartlett (Sebastian)
+
+NOTES
+: Beautiful HD capture with no obstructions. Carly and Fran were wonderful in the roles and really gave them their own touch! Great to see the show still in wonderful shape. A+
+
+#### Cinderella (Rodgers & Hammerstein) - Broadway - August 21, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Paige Faure (Ella), Joe Carroll (Topher), Victoria Clark (Marie), Nancy Opel (Madame), Ann Harada (Charlotte), Todd Buonopane (Jean-Michel), Stephanie Gibson (Gabrielle), Branch Woodman (u/s Lord Pinkleton), Peter Bartlett (Sebastian)
+
+NOTES
+: A nice capture of Paige's Broadway run. Act one has a couple small heads that can occasionally be seen at the bottom of the screen, but they don't affect the action. Act two has no obstruction, but there is one blackout for about one minute during The Pursuit. There are also a couple quick dropouts in each act. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There is some chatter from the kids in the audience, but the sound is otherwise excellent. Includes curtain call, encore, and playbill scans.
+
+#### Cinderella (Rodgers & Hammerstein) - Broadway - January 1, 2015 (Matinee) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Keke Palmer (Ella), Joe Carroll (Topher), Judy Kaye (Marie), NeNe Leakes (Madame), Laura Irion (Charlotte), Todd Buonopane (Jean-Michel), Stephanie Gibson (Gabrielle), Peter Bartlett (Sebastian)
+
+NOTES
+: Great HD capture of the final Broadway cast. Filmed just 2 days before the show closed. Keke is great as Ella but a very different voice from Laura and Paige. One slight head at the bottom at times but very visible. No washouts.
+
+#### Cinderella (Rodgers & Hammerstein) - First National Tour - December 21, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB (NO SMALLS)
+
+CAST
+: Paige Faure (Ella), Andy Huntington Jones (Topher), Kecia Lewis-Evans (Marie), Beth Glover (Madame), Aymee Garcia (Charlotte), David Andino (Jean-Michel), Ashley Park (Gabrielle), Antoine L Smith (Lord Pinkleton), Blake Hammond (Sebastian)
+
+NOTES
+: Beautiful HD capture with no obstructions. This cast has to be one of the best ever on tour. Paige and Kecia were so hilarious and wonderful in their roles. Gabrielle falls in the Finale and Paige brings out a newspaper at curtain call, to reference Newsies also in Chicago. A+
+
+#### Cinderella (Rodgers & Hammerstein) - New York City Opera - November 21, 2004 (Closing Night)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sarah Uriarte Berry (Ella), Christopher Sieber (Topher), Eartha Kitt (Fairy Godmother), John Epperson (Stepmother), Dick Van Patten (King), Renee Taylor (Queen)
+
+NOTES
+: Excellent picture and sound with lots of nice closeups. A
+
+#### Cinderella (Rodgers & Hammerstein) - Second National Tour - May, 2018 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: MP4 (HD) \| 1.26 GB
+
+CAST
+: Tatyana Lubov (Ella), Louis Griffin (Topher), Leslie Jackson (Marie), Sarah Smith (Madame), Joanna Johnson (Charlotte), Corbin Williams (Jean-Michel), Nicole Zelka (Gabrielle), Antonio Beverly (Lord Pinkleton), Christopher Swan (Sebastian)
+
+NOTES
+: Video is filmed in a house cam format. There is a lot of spotlight washout so you can\'t really make out faces, but the sound is wonderful. Soundboard. Location unknown
+
+#### Cinderella (Rodgers & Hammerstein) - US National Tour (2000) - May 5, 2001
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jamie-Lynn Sigler (Ella), Paolo Montalban (Topher), Eartha Kitt (Fairy Godmother)
+
+NOTES
+: A beautiful capture from the orchestra. Jamie-Lynn does a smashing job as Cinderella. Also includes Tv appearances about the show. A
+
+## City of Angels (5)
+
+#### City of Angels - Illinois/Northwestern University - January 27, 1996
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Colby Bessera (Stone), Eric Silverberg (Stine), Daniel Kramer (Buddy / Irwin S. Irving), Kate Shindle (Gabby / Bobbi), Amy Silverman (Donna / Oolie), Kristi Frazer (Carla / Alaura), David Ayers (Pancho / Munoz), Russel Koplin (Avril / Mallory)
+
+#### City of Angels - San Jose - June, 1998
+
+FORMAT
+: MP4 (SD) \| 557.1 MB
+
+CAST
+: Darrin Baker (Stone), Neal Benari (Stine), Kenny Morris (Buddy / Irwin S. Irving), Jeanne Jones (Gabby / Bobbi), Valerie Perri (Donna / Oolie), Herschel Sparber (Jimmy Powers), Lisa Robinson (Carla / Alaura), Gary Littman (Pancho / Munoz), Annmarie Martin (Avril / Mallory)
+
+#### City of Angels - US First National Tour - November, 1991
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jeff McCarthy (Stone), Stephen Bogardus (Stine), Catherine Cox (Donna / Oolie)
+
+#### City of Angels - West End - April 3, 1994
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Roger Allam (Stone), Martin Smith (Stine), Henry Goodman (Buddy / Irwin S. Irving), Fiona Hendley (Gabby / Bobbi), Haydn Gwynne (Donna / Oolie), Maurice Clarke (Jimmy Powers), Susannah Fellows (Carla / Alaura), David Schofield (Pancho / Munoz)
+
+NOTES
+: Intense video gen loss, some parts of video/audio is really bad. For some reason, a John Barrowman tv interview is included?? Makes no sense, but it\'s an interesting interview!
+
+#### City of Angels - West End Revival - March 9, 2020 (Preview) \| BwaytoWestEnd
+
+FORMAT
+: MP4 (HD)
+
+CAST
+: Theo James (Stone), Hadley Fraser (Stine), Jonathan Slinger (Buddy / Irwin S. Irving), Rosalie Craig (Gabby / Bobbi), Rebecca Trehearn (Donna / Oolie), Rob Houchen (Jimmy Powers), Vanessa Williams (Carla / Alaura), Marc Elliott (Pancho / Munoz), Nicola Roberts (Avril / Mallory)
+
+NOTES
+: Stage Shot filmed from Stalls. Awful audio.
+
+## Come From Away (4)
+
+#### Come From Away - Broadway - March 10, 2017 (Preview) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: With English and Portuguese subtitles (.srt)
+
+CAST
+: Jenn Colella (Beverley/Annette & others), Chad Kimball (Kevin T./Garth & others), Joel Hatch (Claude & others), Geno Carr (Oz & others), Kendra Kassebaum (Janice & others), Caesar Samayoa (Kevin J./Ali & others), Lee MacDougall (Nick/Doug & others), Sharon Wheatley (Diane & others), Q Smith (Hannah & others), Astrid Van Wieren (Beulah & others), Petrina Bromley (Bonnie & others), Rodney Hicks (Bob & others)
+
+NOTES
+: A beautiful capture of the new Broadway musical. The score is fantastic and the production is wonderful.
+
+#### Come From Away - West End - April, 2019 \| hitmewithyourbethshot
+
+FORMAT
+: MP4 \| 576p \| 3.34 GB
+
+COMMENTS
+: Divided into 4 parts, original
+
+CAST
+: Rachel Tucker (Beverley/Annette & others), David Shannon (Kevin T./Garth & others), Clive Carter (Claude & others), Harry Morrison (Oz & others), Emma Salvo (Janice & others), Jonathan Andrew Hume (Kevin J./Ali & others), Robert Hands (Nick/Doug & others), Helen Hobson (Diane & others), Cat Simmons (Hannah & others), Jenna Boyd (Beulah & others), Mary Doherty (Bonnie & others), Nathaniel Campbell (Bob & others)
+
+NOTES
+: This video is never to be publicly shared on YouTube, tumblr, Facebook, Stagedork etc. SD MP4, 3.34GB. Often confused with queenofthedead\'s video, which is also from April, 2019, but in HD MOV.
+
+#### Come From Away - West End - February, 2020 
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 3.84 GB
+
+CAST
+: Alice Fearn (Beverley/Annette & others), Mark Dugdale (Kevin T./Garth & others), James Doherty (Claude & others), Harry Morrison (Oz & others), Emma Salvo (Janice & others), Jonathan Andrew Hume (Kevin J./Ali & others), Alasdair Harvey (Nick/Doug & others), Kate Graham (Diane & others), Cat Simmons (Hannah & others), Jenna Boyd (Beulah & others), Mary Doherty (Bonnie & others), Tarinn Callender (Bob & others)
+
+NOTES
+: Slightly obstructed by one head but worked around the best I could.
+
+#### Come From Away - West End - November, 2019 
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: M2TS (HD) \| 13.60 GB
+
+CAST
+: Rachel Tucker (Beverley/Annette & others), David Thaxton (Kevin T./Garth & others), Clive Carter (Claude & others), Harry Morrison (Oz & others), Emma Salvo (Janice & others), Jonathan Andrew Hume (Kevin J./Ali & others), Bob Harms (s/b Nick/Doug & others), Helen Hobson (Diane & others), Chiara Baronti (s/b Hannah & others), Jenna Boyd (Beulah & others), Jennifer Tierney (s/b Bonnie & others), Nathanael Campbell (Bob & others)
+
+NOTES
+: Incomplete: starts 12 mins in. Shot around heads. The combination of the revolve and the lighting of this show might make it a jolty watch but the action is caught as best as possible. If I had to decide who to film, I chose Rachel Tucker.
+
+## The Comedy About A Bank Robbery (1)
+
+#### The Comedy About A Bank Robbery - West End - December, 2019 
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 19.13 GB
+
+CAST
+: Tom Hopcroft (u/s Sam Monaghan), Ross Virgo (u/s Neil Cooper), Charlotte Duffy (u/s Caprice Freeboys), George Hannigan (Everyone Else), Eddy Westbury (u/s Mitch Ruscitti), Damian Lynch (Mr. Freeboys), Killian Macardle (Officer Shuck), Jean-Luke Worrell (e/c Warren Slax), Ashley Tucker (Ruth Monaghan)
+
+NOTES
+: Masters Notes: Shot around 2 heads. A few dropouts that add up to about 5 minutes overall. Not the most focused capture and a lot of fidgeting from the master, but action is captured mostly well enough.
+
+## Company (8)
+
+#### Company - Berlin - April 6, 1986
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Steve Barton (Bobby/Bobbie), Eva Pflug (Joanne), Dagmar Hellberg (Sarah), Cusch Jung (Harry), Vicky Hall (Susan), Monica Solem (Jenny), Andreas Mannkopf (Larry), Eric Lee Johnson, Jeffry Judson, Martin Pichler, Rolf Kühn, Sona MacDonald, Sue Mathys
+
+NOTES
+: Single camera archival recording.
+
+#### Company - Donmar Warehouse - February, 1996
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: 2 DVD version
+
+CAST
+: Adrian Lester (Bobby/Bobbie), Sheila Gish (Joanne), Rebecca Front (Sarah), Clive Rowe (Harry), Clare Burt (Susan), Gareth Snook (Peter), Liza Sadovy (Jenny), Teddy Kemper (David), Hannah James (April/Andy), Kiran Hocking (Kathy/Theo), Anna Francolini (Marta/PJ), Sophie Thompson (Amy/Jamie), Michael Simkins (Paul), Paul Bentley (Larry)
+
+NOTES
+: Pro-Shot for television, directed by Sam Mendes. Some generation loss. There are a couple of different rips making the rounds. The first four screenshots are from the 2 Disc version.
+
+#### Company - First Australian Revival - 2007
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: David Campbell (Bobby/Bobbie), Anne Looby (Joanne), Katrina Retallick (Sarah), Simon Burke (Harry), Natalie Alexopoulos (Susan), James Millar (Peter), Pippa Grandison (Jenny), Rodney Dobson (David), Christie Whelan (April/Andy), Trisha Crowe (Kathy/Theo), Tamsin Carroll (Marta/PJ), Chelsea Plumley (Amy/Jamie), Scott Irwin (Paul), William Zappa (Larry)
+
+NOTES
+: Directed by Gales Edwards. This almost looks like it was filmed for TV, but it was most probably just filmed for the cast and crew, or maybe it was filmed for press reel purposes. Full show, filmed using multiple cameras with sound patched directly in from the soundboard. Interesting production, with a different interpretation. The stage is a black-and-white checker board design with a large-framed, red ribbon-tied set, and the cast is dressed entirely in black and white with an occasional splash of red. A
+
+#### Company - New York Philharmonic Concert - April, 2011
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV (HD) \| 9.84 GB
+
+CAST
+: Neil Patrick Harris (Bobby/Bobbie), Patti LuPone (Joanne), Martha Plimpton (Sarah), Stephen Colbert (Harry), Jill Paice (Susan), Craig Bierko (Peter), Jennifer Laura Thompson (Jenny), Jon Cryer (David), Christina Hendricks (April/Andy), Chryssie Whitehead (Kathy/Theo), Anika Noni Rose (Marta/PJ), Katie Finneran (Amy/Jamie), Aaron Lazar (Paul), Jim Walton (Larry)
+
+NOTES
+: Filmed version of the staged concert production at the New York Philharmonic. Filmed April 7-9, 2011.
+
+#### Company - Second Broadway Revival - November 14, 2006 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Raúl Esparza (Bobby/Bobbie), Barbara Walsh (Joanne), Keith Buterbaugh (Harry), Amy Justman (Susan), Leenya Rideout (Jenny), Fred Rose (David), Elizabeth Stanley (April/Andy), Kelly Jeanne Grant (Kathy/Theo), Angel Desai (Marta/PJ), Heather Laws (Amy/Jamie), Robert Cunningham (Paul), Bruce Sabath (Larry)
+
+NOTES
+: Beautiful DVD and wonderfully executed revival. Raul and Heather are amazing, as is the rest of the cast. A+
+
+#### Company - Second West End Revival - January, 2019 \| hitmewithyourbethshot
+
+FORMAT
+: MP4 (HD) \| 5.12 GB
+
+CAST
+: Rosalie Craig (Bobby/Bobbie), Patti LuPone (Joanne), Mel Giedroyc (Sarah), Gavin Spokes (Harry), Daisy Maywood (Susan), Ashley Campbell (Peter), Jennifer Saayeng (Jenny), Richard Henders (David), Richard Fleeshman (April/Andy), Matthew Seadon-Young (Kathy/Theo), George Blagden (Marta/PJ), Jonathan Bailey (Amy/Jamie), Alex Gaumond (Paul), Ben Lewis (Larry)
+
+#### Company - Third Broadway Revival - March 10, 2020 (Preview)
+
+FORMAT
+: MP4 (HD) \| 6.59 GB
+
+COMMENTS
+: Gifted upon request
+
+CAST
+: Katrina Lenk (Bobby/Bobbie), Patti LuPone (Joanne), Jennifer Simard (Sarah), Christopher Sieber (Harry), Rashidra Scott (Susan), Greg Hildreth (Peter), Nikki Renée Daniels (Jenny), Christopher Fitzgerald (David), Claybourne Elder (April/Andy), Kyle Dean Massey (Kathy/Theo), Bobby Conte Thornton (Marta/PJ), Matt Doyle (Amy/Jamie), John Arthur Greene (u/s Paul), Terence Archie (Larry)
+
+NOTES
+: Wideshot MP4 Gifted Upon Request
+
+#### Company - Third Broadway Revival - March, 2020 (Preview) 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD)
+
+CAST
+: Katrina Lenk (Bobby/Bobbie), Patti LuPone (Joanne), Jennifer Simard (Sarah), Christopher Sieber (Harry), Rashidra Scott (Susan), Greg Hildreth (Peter), Nikki Renée Daniels (Jenny), Christopher Fitzgerald (David), Claybourne Elder (April/Andy), Kyle Dean Massey (Kathy/Theo), Bobby Conte Thornton (Marta/PJ), Matt Doyle (Amy/Jamie), Etai Benson (Paul), Terence Archie (Larry), Anisha Nagarajan, Britney Coleman, Javier Ignacio, Kathryn Allison, Matt Wall, Stanley Bahorek
+
+NOTES
+: First Preview
+
+## Coulda Woulda Shoulda (1)
+
+#### Coulda Woulda Shoulda - Orange County, California - October 10, 2009
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patti LuPone
+
+## The Count of Monte Cristo (Wildhorn) (3)
+
+#### The Count of Monte Cristo (Wildhorn) - Leipzig, Germany - February 4, 2012 (Opening Night)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Marc Clear (Edmond Dantès/The Count of Monte Cristo), Marysol Ximénez-Carrillo (Mercédès), Andreas Rainer (Fernand Mondego), Milko Milev (Gérard de Villefort), Kostadin Arguirov (Danglars), Cusch Jung (Abbé Faria), Sabine Töpfer (Luisa Vampa), Heiner Kock (Albert Mondego), Mirjam Neururer (Valentine de Villefort), Peter-Paul Stampehl (Jacopo), Roland Otto (Morrel), Mathias Paarsch (Louis Dantès), Carolin Schumann (Isabella), Therese Wittmar (Gabriella), Miranda Caasmann (Sophia), Sebastian Fuchsberger
+
+NOTES
+: Full stage Proshot
+
+#### The Count of Monte Cristo (Wildhorn) - St. Gallen - November 4, 2009
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Thomas Borchert (Edmond Dantès/The Count of Monte Cristo), Sophie Berner (Mercédès), Carsten Lepper (Fernand Mondego), Christoph Goetten (Gérard de Villefort), Karim Khawatmi (Danglars), Dean Welterlen (Abbé Faria), Ava Brennan (Luisa Vampa), Barbara Obermeier (Valentine de Villefort), Kurt Schrepfer (Jacopo), André Bauer (Morrel), Ines Hengl-Pirker, Jochen Schmidtke, Patrick A Stamme
+
+#### The Count of Monte Cristo (Wildhorn) - Tecklenburg - August 9, 2013
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Marc Clear (Edmond Dantès/The Count of Monte Cristo), Anna Thorén (Mercédès), Carsten Lepper (Fernand Mondego), Reinhard Brussmann (Gérard de Villefort), Frank Winkels (Danglars), Reinhard Brussmann (Abbé Faria), Femke Soetenga (Luisa Vampa), Thomas Hohler (Albert Mondego), Karoline Goebel (Valentine de Villefort), Hakan T Aslan (Jacopo), Alexander Bellinkx (Morrel)
+
+NOTES
+: ProShot
+
+## Cruel Intentions (1)
+
+#### Cruel Intentions - Los Angeles - July 31, 2015
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Katie Stevens (Kathryn Merteuil), Constantine Rousouli (Sebastian Valmont), Molly McCook (Annette Hargrove), Shelley Regner (Cecile Caldwell), Tyler Sheef (Blaine Tuttle), Spencer Strong Smith (Greg Mcconnell), Alexander Pimentel (Ronald Clifford), Pamela Holt (Mrs. Bunny Caldwell)
+
+NOTES
+: Notes: Well filmed from the audience with clear picture and excellent sound; featuring songs by The Goo Goo Dolls, Britney Spears, Backstreet Boys, NSYNC, Meredith Brooks, Natalie Imbruglia, Spice Girls, Counting Crows, The Verve and Christina Aguilera
+
+## The Crucible (1)
+
+#### The Crucible - The Old Vic - 2015 (Pro-Shot\'s master)
+
+FORMAT
+: MKV (HD)
+
+CAST
+: Jack Ellis (Deputy Governer Danforth), Richard Armitage (John Proctor), Samantha Colley (Abigail Williams)
+
+NOTES
+: Proshot. Released 4th February 2015, but filmed in 2014. <https://www.imdb.com/title/tt4156348/>
+
+## Cry-Baby (1)
+
+#### Cry-Baby - Broadway - June 22, 2008 (Matinee) (Closing Night)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: James Snyder (Wade \"Cry-Baby\" Walker), Elizabeth Stanley (Allison), Harriet Harris (Mrs. Vernon-Williams), Alli Mauzey (Lenora), Chester Gregory (Dupree), Carly Jibson (Pepper), Tory Ross (Mona)
+
+NOTES
+: Final Broadway performance
+
+## The Curious Incident of the Dog in the Night-Time (3)
+
+#### The Curious Incident of the Dog in the Night-Time - Broadway - November 22, 2014 \| Lanelle
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Alex Sharp (Christopher Boone), Francesca Faridany (Siobhan), Ian Barford (Ed), Enid Graham (Judy), Helen Carey (Mrs. Alexander)
+
+#### The Curious Incident of the Dog in the Night-Time - Broadway - December 30, 2014 (Matinee) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Taylor Trensch (alt Christopher Boone), Francesca Faridany (Siobhan), Tim Wright (u/s Ed), Enid Graham (Judy), Helen Carey (Mrs. Alexander), Mercedes Herrero (Mrs. Shears and others), Ben Horner (Mr. Thompson and others), Richard Hollis (Roger Shears and others), David Manis (Rev. Peters and others)
+
+NOTES
+: \"Nicely filmed. There\'s a couple of quick dropouts and not many washouts, but no obstructions or blocking. A-\"
+
+#### The Curious Incident of the Dog in the Night-Time - National Theatre - September 6, 2012
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 (SD) \| 1.33 GB
+
+COMMENTS
+: 2016 DVDRip
+
+CAST
+: Luke Treadaway (Christopher Boone), Niamh Cusack (Siobhan), Paul Ritter (Ed), Nicola Walker (Judy), Una Stubbs (Mrs. Alexander)
+
+NOTES
+: Multi-cam pro shot from the National Theatre Live broadcast.
