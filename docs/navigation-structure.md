@@ -2163,34 +2163,7 @@ NOTES
 
 # C
 
-## Cabaret (12)
-
-#### Cabaret - Vienna - 1998
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Uwe Kröger (Emcee), Vasiliki Roussi (Sally Bowles)
-
-#### Cabaret - 4th London Revival - November 4, 2006
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls \| 3.91 GB
-
-CAST
-: James Dreyfus (Emcee), Anna Maxwell Martin (Sally Bowles), Sheila Hancock (Fräulein Schneider), Geoffrey Hutchings (Herr Schultz), Michael Hayden (Clifford Bradshaw), Andrew Maud (Ernst Ludwig), Harriet Thorpe (Fräulein Kost)
-
-NOTES
-: A totally different Cabaret then previous ones. Wonderful production filled with very \"raw\" emotion. This production does contain nudity. Crystal clear picture and sound, Fantastic performances. A+
+## Cabaret
 
 #### Cabaret - Second Broadway Revival - 1998 (Highlights) 
 {: .no_toc .d-inline-block }
@@ -2206,6 +2179,18 @@ CAST
 
 NOTES
 : Press Reels from 1998/1999. About 90 minutes of raw press footage of the original and replacement casts. Excellent sound and picture for both. Some generation loss.
+
+#### Cabaret - Vienna - 1998
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Uwe Kröger (Emcee), Vasiliki Roussi (Sally Bowles)
 
 #### Cabaret - Second Broadway Revival - June 9, 2000
 
@@ -2226,7 +2211,7 @@ FORMAT
 CAST
 : Raúl Esparza (Emcee), Gina Gershon (Sally Bowles), Carole Shelley (Fräulein Schneider), Larry Keith (Herr Schultz), Matthew Greer (Clifford Bradshaw), Peter Benson (Ernst Ludwig), Candy Buckley (Fräulein Kost), Michael O\'Donnell (Bobby/Two Ladies Dancer)
 
-#### Cabaret - Third Broadway Revival - March 30, 2014
+#### Cabaret - 4th London Revival - November 4, 2006
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
@@ -2234,6 +2219,21 @@ SunsetBlvd79
 
 FORMAT
 : VOB+smalls
+
+CAST
+: James Dreyfus (Emcee), Anna Maxwell Martin (Sally Bowles), Sheila Hancock (Fräulein Schneider), Geoffrey Hutchings (Herr Schultz), Michael Hayden (Clifford Bradshaw), Andrew Maud (Ernst Ludwig), Harriet Thorpe (Fräulein Kost)
+
+NOTES
+: A totally different Cabaret then previous ones. Wonderful production filled with very \"raw\" emotion. This production does contain nudity. Crystal clear picture and sound, Fantastic performances. A+
+
+#### Cabaret - Third Broadway Revival - March 30, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVD`
 
 CAST
 : Leeds Hill (u/s Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost)
@@ -2248,7 +2248,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVD`
 
 CAST
 : Alan Cumming (Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost)
@@ -2263,7 +2263,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVD`
 
 CAST
 : Alan Cumming (Emcee), Michelle Williams (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Benjamin Eakeley (u/s Ernst Ludwig), Kaleigh Cronin (u/s Fräulein Kost), Stacey Sipowicz (u/s Lulu/Two Ladies Dancer), Andrea Goss (Frenchie/Gorilla), Leeds Hill (Bobby/Two Ladies Dancer), Kristin Olness (Helga), Jessica Pariseau (Texas), Dylan Paul (Victor), Kelly Paredes (u/s Rosie), Evan D Siegel (Hans/Rudy)
@@ -2275,18 +2275,26 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: `1` VOB+smalls `2 DVD` `6.52 GB`
+: `2` VOB+smalls `2 DVD` `7.93 GB`
 
 CAST
 : Alan Cumming (Emcee), Emma Stone (Sally Bowles), Kristie Dale Sanders (s/b Fräulein Schneider), Philip Hoffman (s/b Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost), Katrina Yaukey (u/s Lulu/Two Ladies Dancer), Benjamin Eakeley (Herman/Customs Officer/Max), Andrea Goss (Frenchie/Gorilla), Leeds Hill (Bobby/Two Ladies Dancer), Kristin Olness (Helga), Jessica Pariseau (Texas), Dylan Paul (Victor), Stacey Sipowicz (Rosie), Evan D Siegel (Hans/Rudy)
 
+COMMENTS
+: Not sure why I have two different versions but they are the same video with the same DVD menus
+
 NOTES
 : Excellent HD capture with Emma joining the cast as Sally. She does a dazzling job in the role and very precise in detail. Lovely performances from Kristie and Philip. A
 
-#### Cabaret - Third Broadway Revival - November 29, 2014 \| Lanelle
+#### Cabaret - Third Broadway Revival - November 29, 2014
+{: .no_toc .d-inline-block }
+
+Lanelle
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVD` `No DVD menu`
 
 CAST
 : Alan Cumming (Emcee), Emma Stone (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Gayle Rankin (Fräulein Kost), Katrina Yaukey (u/s Lulu/Two Ladies Dancer)
@@ -2295,9 +2303,10 @@ NOTES
 : Missing the first few seconds of Wilkommen, but otherwise complete. Very steady, focused, and mostly unobstructed. Includes curtain call and Alan\'s BCEFA speech.
 
 #### Cabaret - Third Broadway Revival - December 28, 2014
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVD` `No DVD menu`
 
 CAST
 : Alan Cumming (Emcee), Emma Stone (Sally Bowles), Linda Emond (Fräulein Schneider), Danny Burstein (Herr Schultz), Bill Heck (Clifford Bradshaw), Aaron Krohn (Ernst Ludwig), Hani Furstenberg (Fräulein Kost)
@@ -2312,7 +2321,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVD`
 
 COMMENTS
 : Includes an MP4 NOT to be traded separately
@@ -2345,7 +2354,7 @@ CAST
 NOTES
 : Wonderful production. Rachel York is stunning on stage and James has a voice that is so big and beefy, both are sensational. A wonderful capture with nice shots, contains 12 minutes of blackouts at the beginning due to ushers. A-
 
-## Candide (1)
+## Candide
 
 #### Candide - Lincoln Center Live - 2005
 {: .no_toc .d-inline-block }
@@ -2354,10 +2363,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV (HD)
-
-COMMENTS
-: With English subtitles (.srt)
+: MKV \| 1080p \| 4.62 GB `With English subtitles (.srt)`
 
 CAST
 : Paul Groves (Candide), Sir Thomas Allan (Dr. Pangloss), Kristin Chenoweth (Cunegonde), Janine LaManna (Paquette), Patti LuPone (The Old Lady)
