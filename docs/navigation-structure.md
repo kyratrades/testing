@@ -1224,11 +1224,11 @@ CAST
 #### Anything Goes - Third National Tour - September 29, 2013 
 {: .no_toc .d-inline-block }
 
-Watched
-{: .label .label-yellow }
-
 SJ Bernly
 {: .label .label-blue }
+
+Watched
+{: .label .label-yellow }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -3670,7 +3670,7 @@ CAST
 NOTES
 : Masters Notes: Shot around 2 heads. A few dropouts that add up to about 5 minutes overall. Not the most focused capture and a lot of fidgeting from the master, but action is captured mostly well enough.
 
-## Company (8)
+## Company
 
 #### Company - Berlin - April 6, 1986
 {: .no_toc .d-inline-block }
@@ -3694,16 +3694,28 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
-
-COMMENTS
-: 2 DVD version
+: VOB+smalls `2 DVDs` `5.49 GB`
 
 CAST
 : Adrian Lester (Bobby/Bobbie), Sheila Gish (Joanne), Rebecca Front (Sarah), Clive Rowe (Harry), Clare Burt (Susan), Gareth Snook (Peter), Liza Sadovy (Jenny), Teddy Kemper (David), Hannah James (April/Andy), Kiran Hocking (Kathy/Theo), Anna Francolini (Marta/PJ), Sophie Thompson (Amy/Jamie), Michael Simkins (Paul), Paul Bentley (Larry)
 
 NOTES
-: Pro-Shot for television, directed by Sam Mendes. Some generation loss. There are a couple of different rips making the rounds. The first four screenshots are from the 2 Disc version.
+: Pro-Shot for television, directed by Sam Mendes. Some generation loss. There are a couple of different rips making the rounds.
+
+#### Company - Second Broadway Revival - November 14, 2006 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Raúl Esparza (Bobby/Bobbie), Barbara Walsh (Joanne), Keith Buterbaugh (Harry), Amy Justman (Susan), Leenya Rideout (Jenny), Fred Rose (David), Elizabeth Stanley (April/Andy), Kelly Jeanne Grant (Kathy/Theo), Angel Desai (Marta/PJ), Heather Laws (Amy/Jamie), Robert Cunningham (Paul), Bruce Sabath (Larry)
+
+NOTES
+: Beautiful DVD and wonderfully executed revival. Raul and Heather are amazing, as is the rest of the cast. A+
 
 #### Company - First Australian Revival - 2007
 {: .no_toc .d-inline-block }
@@ -3712,7 +3724,10 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
+
+COMMENTS
+: Generated smalls for Act 1, original smalls for Act 2
 
 CAST
 : David Campbell (Bobby/Bobbie), Anne Looby (Joanne), Katrina Retallick (Sarah), Simon Burke (Harry), Natalie Alexopoulos (Susan), James Millar (Peter), Pippa Grandison (Jenny), Rodney Dobson (David), Christie Whelan (April/Andy), Trisha Crowe (Kathy/Theo), Tamsin Carroll (Marta/PJ), Chelsea Plumley (Amy/Jamie), Scott Irwin (Paul), William Zappa (Larry)
@@ -3727,7 +3742,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV (HD) \| 9.84 GB
+: MKV `1080p` `9.84 GB` `Blu-ray rip`
 
 CAST
 : Neil Patrick Harris (Bobby/Bobbie), Patti LuPone (Joanne), Martha Plimpton (Sarah), Stephen Colbert (Harry), Jill Paice (Susan), Craig Bierko (Peter), Jennifer Laura Thompson (Jenny), Jon Cryer (David), Christina Hendricks (April/Andy), Chryssie Whitehead (Kathy/Theo), Anika Noni Rose (Marta/PJ), Katie Finneran (Amy/Jamie), Aaron Lazar (Paul), Jim Walton (Larry)
@@ -3735,42 +3750,17 @@ CAST
 NOTES
 : Filmed version of the staged concert production at the New York Philharmonic. Filmed April 7-9, 2011.
 
-#### Company - Second Broadway Revival - November 14, 2006 (Preview)
+#### Company - Second West End Revival - January, 2019
 {: .no_toc .d-inline-block }
 
-SunsetBlvd79
+hitmewithyourbethshot
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
-
-CAST
-: Raúl Esparza (Bobby/Bobbie), Barbara Walsh (Joanne), Keith Buterbaugh (Harry), Amy Justman (Susan), Leenya Rideout (Jenny), Fred Rose (David), Elizabeth Stanley (April/Andy), Kelly Jeanne Grant (Kathy/Theo), Angel Desai (Marta/PJ), Heather Laws (Amy/Jamie), Robert Cunningham (Paul), Bruce Sabath (Larry)
-
-NOTES
-: Beautiful DVD and wonderfully executed revival. Raul and Heather are amazing, as is the rest of the cast. A+
-
-#### Company - Second West End Revival - January, 2019 \| hitmewithyourbethshot
-
-FORMAT
-: MP4 (HD) \| 5.12 GB
+: MP4 `480p` `5.12 GB`
 
 CAST
 : Rosalie Craig (Bobby/Bobbie), Patti LuPone (Joanne), Mel Giedroyc (Sarah), Gavin Spokes (Harry), Daisy Maywood (Susan), Ashley Campbell (Peter), Jennifer Saayeng (Jenny), Richard Henders (David), Richard Fleeshman (April/Andy), Matthew Seadon-Young (Kathy/Theo), George Blagden (Marta/PJ), Jonathan Bailey (Amy/Jamie), Alex Gaumond (Paul), Ben Lewis (Larry)
-
-#### Company - Third Broadway Revival - March 10, 2020 (Preview)
-
-FORMAT
-: MP4 (HD) \| 6.59 GB
-
-COMMENTS
-: Gifted upon request
-
-CAST
-: Katrina Lenk (Bobby/Bobbie), Patti LuPone (Joanne), Jennifer Simard (Sarah), Christopher Sieber (Harry), Rashidra Scott (Susan), Greg Hildreth (Peter), Nikki Renée Daniels (Jenny), Christopher Fitzgerald (David), Claybourne Elder (April/Andy), Kyle Dean Massey (Kathy/Theo), Bobby Conte Thornton (Marta/PJ), Matt Doyle (Amy/Jamie), John Arthur Greene (u/s Paul), Terence Archie (Larry)
-
-NOTES
-: Wideshot MP4 Gifted Upon Request
 
 #### Company - Third Broadway Revival - March, 2020 (Preview) 
 {: .no_toc .d-inline-block }
@@ -3779,13 +3769,27 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 (HD)
+: MP4 `1080p` `6.91 GB`
 
 CAST
 : Katrina Lenk (Bobby/Bobbie), Patti LuPone (Joanne), Jennifer Simard (Sarah), Christopher Sieber (Harry), Rashidra Scott (Susan), Greg Hildreth (Peter), Nikki Renée Daniels (Jenny), Christopher Fitzgerald (David), Claybourne Elder (April/Andy), Kyle Dean Massey (Kathy/Theo), Bobby Conte Thornton (Marta/PJ), Matt Doyle (Amy/Jamie), Etai Benson (Paul), Terence Archie (Larry), Anisha Nagarajan, Britney Coleman, Javier Ignacio, Kathryn Allison, Matt Wall, Stanley Bahorek
 
 NOTES
 : First Preview
+
+#### Company - Third Broadway Revival - March 10, 2020 (Preview)
+
+Gifted Upon Request
+{: .label .label-purple }
+
+FORMAT
+: MP4 `720p` `6.59 GB`
+
+CAST
+: Katrina Lenk (Bobby/Bobbie), Patti LuPone (Joanne), Jennifer Simard (Sarah), Christopher Sieber (Harry), Rashidra Scott (Susan), Greg Hildreth (Peter), Nikki Renée Daniels (Jenny), Christopher Fitzgerald (David), Claybourne Elder (April/Andy), Kyle Dean Massey (Kathy/Theo), Bobby Conte Thornton (Marta/PJ), Matt Doyle (Amy/Jamie), John Arthur Greene (u/s Paul), Terence Archie (Larry)
+
+NOTES
+: Wideshot MP4 Gifted Upon Request
 
 ## Coulda Woulda Shoulda (1)
 
