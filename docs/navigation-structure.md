@@ -3656,7 +3656,7 @@ CAST
 NOTES
 : Slightly obstructed by one head but worked around the best I could.
 
-## The Comedy About A Bank Robbery (1)
+## The Comedy About A Bank Robbery
 
 #### The Comedy About A Bank Robbery - West End - December, 2019 
 {: .no_toc .d-inline-block }
@@ -3927,6 +3927,7 @@ NOTES
 ## Damn Yankees
 
 #### Damn Yankees - Broadway Revival - 1994
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -3970,6 +3971,7 @@ NOTES
 : Act One only! A nice capture with no washout and just one quick dropout during the scene after Waving Through a Window. There is one head that blocks part of the front of the stage, but it's worked around generally doesn't do more than block the actors' legs. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent.
 
 #### Dear Evan Hansen - First National Tour - October 26, 2019 (Matinee) (myroadofgoodintentions
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `16.79 GB`
@@ -4015,6 +4017,7 @@ NOTES
 ## Dessa Rose
 
 #### Dessa Rose - Off-Broadway - May 20, 2005
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4045,6 +4048,7 @@ NOTES
 ## Disenchanted!
 
 #### Disenchanted! - Off-Broadway - December 28, 2014 (Matinee)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4075,6 +4079,7 @@ NOTES
 ## Doubt
 
 #### Doubt - Off-Broadway - November 20, 2004
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4085,6 +4090,7 @@ CAST
 ## Dracula, the Musical (Wildhorn)
 
 #### Dracula, the Musical (Wildhorn) - Broadway - September 3, 2004
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4333,6 +4339,7 @@ NOTES
 : Beautiful HD capture of the Revival following opening night. Such a talented cast and the chemistry amongst them is incredible. Beautifully executed and not to be missed! A
 
 #### Falsettos - Broadway Revival - December 30, 2016 (Matinee)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -4373,6 +4380,7 @@ NOTES
 ## Fanny
 
 #### Fanny - Encores! - February 6, 2010
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -4592,6 +4600,7 @@ CAST
 ## The Full Monty
 
 #### The Full Monty - Broadway - January 16, 2002
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.30 GB`
