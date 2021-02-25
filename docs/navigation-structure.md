@@ -5076,6 +5076,7 @@ NOTES
 : Beautiful capture of the Opening Night performance of the Tour cast. Great to see the cast full of energy and Caren back in the role of Sheila. A
 
 #### Hair - Hollywood Bowl - August 1, 2014
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -5282,7 +5283,7 @@ NOTES
 IMPORTANT: Includes both Parts, treated as TWO videos when trading (as is common practice)
 
 #### Harry Potter and the Cursed Child - West End - April 1, 2017
-: .no_toc .d-inline-block }
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MP4 `720p` `7.88 GB`
