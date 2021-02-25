@@ -129,6 +129,7 @@ NOTES
 
 SunsetBlvd79
 {: .label .label-blue }
+
 Issues
 {: .label .label-red }
 
@@ -318,6 +319,7 @@ NOTES
 
 SunsetBlvd79
 {: .label .label-blue }
+
 Issues
 {: .label .label-red }
 
@@ -576,6 +578,7 @@ CAST
 
 Major
 {: .label .label-blue }
+
 Issues
 {: .label .label-red }
 
@@ -983,6 +986,7 @@ NOTES
 
 House-Cam
 {: .label .label-green }
+
 Issues
 {: .label .label-red }
 
@@ -2683,7 +2687,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB (NO SMALLS) + M4V
+: VOB `NO SMALLS` + M4V
 
 COMMENTS
 : Looking to trade for original smalls.
@@ -2697,11 +2701,11 @@ NOTES
 #### Cats - The Muny, St. Louis - July 25, 2010 (Closing Night)
 {: .no_toc .d-inline-block }
 
-Issues
-{: .label .label-red }
-
 SunsetBlvd79
 {: .label .label-blue }
+
+Issues
+{: .label .label-red }
 
 FORMAT
 : VOB `1 DVD` `non-original smalls`
@@ -3496,8 +3500,11 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
-: VOB (NO SMALLS) `2 DVDs`
+: VOB `NO SMALLS` `2 DVDs`
 
 CAST
 : Paige Faure (Ella), Andy Huntington Jones (Topher), Kecia Lewis-Evans (Marie), Beth Glover (Madame), Aymee Garcia (Charlotte), David Andino (Jean-Michel), Ashley Park (Gabrielle), Antoine L Smith (Lord Pinkleton), Blake Hammond (Sebastian)
@@ -4209,7 +4216,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB (NO SMALLS) `1 DVD`
+: VOB `NO SMALLS` `1 DVD`
 
 COMMENTS
 : Looking for original files (should be 2 disc?)
@@ -4731,3 +4738,207 @@ CAST
 
 NOTES
 : Some gen loss and low audio. Pro-shot of the one-night-only Actors\' Fund benefit concert.
+
+# G
+
+## A Gentleman\'s Guide to Love and Murder
+
+#### A Gentleman\'s Guide to Love and Murder - First National Tour - September 29, 2015 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: John Rapson (The D\'Ysquith Family), Kevin Massey (Monty Navarro), Kristen Beth Williams (Sibella Hallward), Adrienne Eller (Phoebe D\'Ysquith), Mary VanArsdel (Miss Marietta Shingle), Kristen Mengelkoch (Lady Eugenia D\'Ysquith and others), Christopher Behmke (Magistrate/Actor/Mr. Gorby), Matt Leisy (Tom Copley/Newsboy/Actor/Guard), Megan Loomis (Tour Guide/Newsboy), Ben Roseberry (Chief Inspector Pinckney/Newsboy/Actor), Lesley McKinnell (Miss Evangeline Barley and others)
+
+NOTES
+: Beautiful capture of the tour which launched in Chicago. There\'s tiny bits of washout when the camera is in wideshot due to the spotlights of the stage. Terrific cast and a wonderful tour of this production!
+
+#### A Gentleman\'s Guide to Love and Murder - First National Tour - April 24, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: John Rapson (The D\'Ysquith Family), Kevin Massey (Monty Navarro), Kristen Beth Williams (Sibella Hallward), Adrienne Eller (Phoebe D\'Ysquith), Mary VanArsdel (Miss Marietta Shingle), Megan Loomis (u/s Lady Eugenia D\'Ysquith and others), Christopher Behmke (Magistrate/Actor/Mr. Gorby), Matt Leisy (Tom Copley/Newsboy/Actor/Guard), Ben Roseberry (Chief Inspector Pinckney/Newsboy/Actor), Lesley McKinnell (Miss Evangeline Barley and others)
+
+NOTES
+: A great capture of the tour. The cast is solid, and the audience is energetic. There are no blackouts, no obstruction, and no washout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call, John and Kevin's BC/EFA speech, and playbill scans. A+
+
+## Gentlemen Prefer Blondes
+
+#### Gentlemen Prefer Blondes - Encores! - May 12, 2012
+{: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Megan Hilty (Lorelei Lee), Rachel York (Dorothy Shaw), Aaron Lazar (Henry Spofford), Steven Boyer (Pierre/Louis Lemanteur), Brennan Brown (Steward/Mr. Robert Lemanteur/Gus Esmond Sr.), Stephen Buntrock (Josephus Gage), Simon Jones (Sir Francis Beekman), Deborah Rush (Mrs. Ella Spofford), Sandra Shipley (Lady Phyllis Beekman), Megan Sikora (Gloria Stark), Clarke Thorell (Gus Esmond Jr.)
+
+NOTES
+: Filmed from the back of the balcony. Many heads appear in the frame to start, then when the filmer gets his bearings, the video improves greatly. There are a few times (mostly at the beginning) when the filmer replaces some poor video moments with still shots. These still shots are less than 2 or 3 minutes of the entire show. Overall, a great video, and Megan Hilty is amazing.
+
+## Grease
+
+#### Grease - Manila, Philippines - August 15, 1995
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB `NO SMALLS` `2.01 GB`
+
+CAST
+: Lea Salonga (Sandy Dumbrowski)
+
+NOTES
+: Quality loss
+
+#### Grease - Second Broadway Revival - July 28, 2007 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Max Crumm (Danny Zuko), Laura Osnes (Sandy Dumbrowski), Matthew Saldivar (Kenickie), Jenny Powers (Betty Rizzo), Stephen Buntrock (Teen Angel), Ryan Patrick Binder (Doody), Daniel Everidge (Roger), Jose Restrepo (Sonny Latierri), Kirsten Wyatt (Frenchy), Lindsay Mendez (Jan), Robyn Hurder (Marty), Allison Fischer (Patty Simcox)
+
+NOTES
+: Good picture and great sound with nice closeups throughout with a head in the way only once or twice for a few moments.
+
+#### Grease - Second Broadway Revival - January 4, 2009 (Closing Night)
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `2 DVDs` `3.85 GB`
+
+COMMENTS
+: Seems to be incomplete, looking for original files
+
+CAST
+: Dere Keeling (Danny Zuko), Ashley Spencer (Sandy Dumbrowski), Ace Young (Kenickie), Janine DiVita (Betty Rizzo), Mike McGowan (Vince Fontaine), Stephen Buntrock (Teen Angel), Ryan Patrick Binder (Doody), Todd Buonopane (Roger), Xavier Cano (Sonny Latierri), Kristien Wyatt (Frenchy), Lindsay Mendez (Jan), Heléne Yorke (Marty), Jamison Scott (Eugene Florczyk), Allison Fischer (Patty Simcox), Susan Blommaert (Miss Lynch)
+
+NOTES
+: Final Performance
+
+#### Grease - Grease: Live (FOX Special) - January 31, 2016
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `4.88 GB`
+
+CAST
+: Aaron Tveit (Danny Zuko), Julianne Hough (Sandy Dumbrowski), Carlos PenaVega (Kenickie), Vanessa Hudgens (Betty Rizzo), Jordan Fisher (Doody), Carly Rae Jepsen (Frenchy), Kether Donohue (Jan), Noah Robbins (Eugene Florczyk), Elle McLemore (Patty Simcox)
+
+## Grey Gardens
+
+#### Grey Gardens - Los Angeles - August 2, 2016
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Rachel York (\"Little\" Edie Beale / Young Edith Bouvier Beale), Betty Buckley (Edith Bouvier Beale), Sarah Hunt (Young \"Little\" Edie Beale), Josh Young (Joseph Patrick Kennedy Jr. / Jerry), Simon Jones (J.V. Major Bouvier/Norman Vincent Beale), Bryan Batt (George Gould Strong), Davon Williams (Brooks Sr. / Brooks Jr.), Katie Silverman (Jacqueline Bouvier), Peyton Ella (Young Lee Bouvier)
+
+## Gypsy
+
+#### Gypsy - Second Broadway Revival - 1990 (2)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.32 GB`
+
+CAST
+: Linda Lavin (Rose), Jonathan Hardy (Herbie), Crista Moore (Louise)
+
+NOTES
+: Complete show, nicely filmed with slight generation loss but clear sound and very watchable A-
+
+#### Gypsy - Third Broadway Revival - April 3, 2003 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.95 GB`
+
+CAST
+: Bernadette Peters (Rose), John Dossett (Herbie), Tammy Blanchard (Louise), Kate Reinders (June), David Burtka (Tulsa)
+
+NOTES
+: Shot from the first row of the balcony, very clear and unobstructed. Includes a CBS News feature, and a clip from the Gypsy performance at the 2003 Tony Awards
+
+#### Gypsy - Encores! - July 29, 2007 (Closing Night)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti LuPone (Rose), Boyd Gaines (Herbie), Laura Benanti (Louise), Leigh Ann Larkin (June), Tony Yazbeck (Tulsa), Marilyn Caskey (Electra), Alison Fraser (Tessie Tura), Nancy Opel (Mazeppa), Bill Bateman (Mr. Goldstone), Jim Bracchitta (Uncle Jocko), Sami Gayle (Baby June)
+
+NOTES
+: Another terrific production by Encores! Wonderful performances by all. Includes curtain call part where Patti calls Laurents and Sondheim on stage. A-
+
+#### Gypsy - Fourth Broadway Revival - March 25, 2008 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti LuPone (Rose), Boyd Gaines (Herbie), Laura Benanti (Louise), Leigh Ann Larkin (June), Tony Yazbeck (Tulsa), Marilyn Caskey (Electra), Alison Fraser (Tessie Tura), Lenora Nemetz (Miss Cratchitt / Mazeppa)
+
+NOTES
+: A not to be missed production, very detailed and near perfection. Beautifully captured and performances that rival the definition of musical theater. A Great close-ups, some blackouts but not on the musical numbers, balcony edge can be seen sometimes, master class performances.
+
+#### Gypsy - Fourth Broadway Revival - April 5, 2008
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti LuPone (Rose), Boyd Gaines (Herbie), Laura Benanti (Louise), Leigh Ann Larkin (June), Tony Yazbeck (Tulsa), Marilyn Caskey (Electra), Alison Fraser (Tessie Tura), Lenora Nemetz (Miss Cratchitt / Mazeppa)
+
+NOTES
+: Nicely filmed from the balcony. Occasional heads and the balcony railing in the wider shot. Not as many close ups as the other video capture of the show, but this one allows you to appreciate the staging a little more. A
+
+#### Gypsy - West End Revival - 2015
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+Watched
+{: .label .label-yellow }
+
+FORMAT
+: MKV `1080p` `10.1GB`
+
+CAST
+: Imelda Staunton (Rose), Peter Davison (Herbie), Lara Pulver (Louise), Dan Burton (Tulsa)
