@@ -5199,7 +5199,7 @@ CAST
 NOTES
 : TV Special aired on NBC on December 7 2016
 
-## Hamilton (5)
+## Hamilton
 
 #### Hamilton - Broadway - December 29, 2015 
 {: .no_toc .d-inline-block }
@@ -5208,13 +5208,29 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Lin-Manuel Miranda (Alexander Hamilton), Phillipa Soo (Eliza Hamilton), Leslie Odom Jr (Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Christopher Jackson (George Washington), Daveed Diggs (Marquis de Lafayette/Thomas Jefferson), Okieriete Onaodowan (Hercules Mulligan/James Madison), Anthony Ramos (John Laurens/Philip Hamilton), Jasmine Cephas Jones (Peggy Schuyler/Maria Reynolds), Jonathan Groff (King George III), Sydney Harcourt (James Reynolds/Philip Schuyler/Doctor), Daniel J Watts (u/s Samuel Seabury), Neil Haskell (u/s Charles Lee), Ephraim Sykes (George Eacker)
 
 NOTES
 : The man, the myth, the legend. This year's most talked about show, fully captured. Enjoy. This is a great capture overall; there some heads at the bottom and sides that can be seen occasionally, especially in wider shots, but they are worked around when necessary and rarely affect the action. There are no major blackouts, just a few quick dropouts, mostly between scenes. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+#### Hamilton - Broadway - June, 2016
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: `1` MKV `1080p` `10.4 GB`
+: `2` MKV `2160p` `19.4 GB`
+
+CAST
+: Lin-Manuel Miranda (Alexander Hamilton), Phillipa Soo (Eliza Hamilton), Leslie Odom Jr (Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Christopher Jackson (George Washington), Daveed Diggs (Marquis de Lafayette/Thomas Jefferson), Okieriete Onaodowan (Hercules Mulligan/James Madison), Anthony Ramos (John Laurens/Philip Hamilton), Jasmine Cephas Jones (Peggy Schuyler/Maria Reynolds), Jonathan Groff (t/r King George III), Sydney Harcourt (James Reynolds/Philip Schuyler/Doctor), Thayne Jasperson (Samuel Seabury), Jon Rua (Charles Lee), Ephraim Sykes (George Eacker), Ariana DeBose (The Bullet), Austin Smith, Carleigh Bettiol, Elizabeth Judd, Hope Easterbrook, Sasha Hutchings, Seth Stewart
+
+NOTES
+: The film is edited together from three performances of Hamilton at the Richard Rodgers Theatre in New York City between June 26 and 28, 2016 with the original principal Broadway cast members, prior to the departure of Miranda, Leslie Odom Jr., Phillipa Soo and Ariana DeBose from the production, combined with a few \"setup shots\" recorded without an audience present. ADMIN NOTE: Only to be listed as \"June, 2016\".
 
 #### Hamilton - Broadway - June 19, 2016 
 {: .no_toc .d-inline-block }
@@ -5223,7 +5239,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Javier Muñoz (alt Alexander Hamilton), Phillipa Soo (Eliza Hamilton), Leslie Odom Jr (Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Nicholas Christopher (u/s George Washington), Daveed Diggs (Marquis de Lafayette/Thomas Jefferson), Okieriete Onaodowan (Hercules Mulligan/James Madison), Andrew Chappelle (u/s John Laurens/Philip Hamilton), Alysha Deslorieux (s/b Peggy Schuyler/Maria Reynolds), Rory O'Malley (King George III)
@@ -5238,28 +5254,13 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Javier Muñoz (Alexander Hamilton), Lexi Lawson (Eliza Hamilton), Sydney Harcourt (u/s Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Christopher Jackson (George Washington), Andrew Chappelle (u/s Marquis de Lafayette/Thomas Jefferson), Ephraim Sykes (u/s Hercules Mulligan/James Madison), Anthony Ramos (John Laurens/Philip Hamilton), Jasmine Cephas Jones (Peggy Schuyler/Maria Reynolds), Rory O'Malley (King George III), Roddy Kennedy (u/s James Reynolds/Philip Schuyler/Doctor), Thayne Jasperson (Samuel Seabury), Neil Haskell (Charles Lee), David Guzman (u/s George Eacker)
 
 NOTES
 : More new performers captured in this phenomenal show. Lexi is lovely as Eliza and makes the role her own. Standout understudies were Sydney and Andrew - both give fantastic performances as Burr and Lafayette/Jefferson. My best capture of this show to date. It's fully captured with no washouts and no blackouts, just a couple very quick dropouts between scenes. There are a couple heads that can be seen occasionally, but they are worked around and don't obstruct the action. It\'s filmed in 16:9, with a mix of wides, mediums and close-ups. The sound is excellent. Includes curtain call and playbill scans.
-
-#### Hamilton - Broadway - June, 2016
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV \| 1080p \| 10.37 GB \| H.264
-
-CAST
-: Lin-Manuel Miranda (Alexander Hamilton), Phillipa Soo (Eliza Hamilton), Leslie Odom Jr (Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Christopher Jackson (George Washington), Daveed Diggs (Marquis de Lafayette/Thomas Jefferson), Okieriete Onaodowan (Hercules Mulligan/James Madison), Anthony Ramos (John Laurens/Philip Hamilton), Jasmine Cephas Jones (Peggy Schuyler/Maria Reynolds), Jonathan Groff (t/r King George III), Sydney Harcourt (James Reynolds/Philip Schuyler/Doctor), Thayne Jasperson (Samuel Seabury), Jon Rua (Charles Lee), Ephraim Sykes (George Eacker), Ariana DeBose (The Bullet), Austin Smith, Carleigh Bettiol, Elizabeth Judd, Hope Easterbrook, Sasha Hutchings, Seth Stewart
-
-NOTES
-: The film is edited together from three performances of Hamilton at the Richard Rodgers Theatre in New York City between June 26 and 28, 2016 with the original principal Broadway cast members, prior to the departure of Miranda, Leslie Odom Jr., Phillipa Soo and Ariana DeBose from the production, combined with a few \"setup shots\" recorded without an audience present. ADMIN NOTE: Only to be listed as \"June, 2016\".
 
 #### Hamilton - First National Tour (Angelica) - August 12, 2017 (Matinee) 
 {: .no_toc .d-inline-block }
@@ -5268,7 +5269,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Michael Luwoye (Alexander Hamilton), Solea Pfeiffer (Eliza Hamilton), Joshua Henry (Aaron Burr), Emmy Raver-Lampman (Angelica Schuyler), Isaiah Johnson (George Washington), Jordan Donica (Marquis de Lafayette/Thomas Jefferson), Mathenee Treco (Hercules Mulligan/James Madison), Ruben J Carbajal (John Laurens/Philip Hamilton), Amber Iman (Peggy Schuyler/Maria Reynolds), Rory O'Malley (King George III), Ryan Vasquez (James Reynolds/Philip Schuyler/Doctor), Andrew Wojtal (Samuel Seabury), Daniel Ching (Charles Lee), Raymond Baynard (George Eacker), Jennifer Geller (The Bullet), Afra Hines, Dan Belnavis, Jeffery Duffy, Lauren Kias, Raven Thomas, Sabrina Imamura
@@ -5276,7 +5277,18 @@ CAST
 NOTES
 : An absolutely stellar tour cast with fantastic performances all around. Some great nuanced interpretations of the characters make the show fresh. This capture is nearly perfect with just one dropout toward the end of My Shot that lasts less than a minute. There is one head that occasionally blocks the actors' legs on the right side of the stage. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
-## Harry Potter and the Cursed Child - Part One & Part Two (3)
+## Harry Potter and the Cursed Child (Part One & Part Two)
+
+IMPORTANT: Includes both Parts, treated as TWO videos when trading (as is common practice)
+
+#### Harry Potter and the Cursed Child - West End - April 1, 2017
+: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `720p` `7.88 GB`
+
+CAST
+: Jamie Parker (Harry Potter), Paul Thornley (Ron Weasley), Noma Dumezweni (Hermione Granger), Poppy Miller (Ginny Potter), Alex Price (Draco Malfoy), Sam Clemmett (Albus Severus Potter), Anthony Boyle (Scorpius Malfoy), Cherrelle Skeete (Rose Granger-Weasley/Young Hermione), Esther Smith (Delphi Diggory), Annabel Baldwin (Moaning Myrtle/Lily Potter Sr.), Adam McNamara (u/s Hagrid/Sorting Hat), James Le Lacheur (Yann Fredericks), Barry McCarthy (Amos Diggory/Albus Dumbledore), Sandy McDade (Professor McGonagall), Jack North (u/s Cedric Diggory/James Potter Jr./James Potter Sr.), Joshua Wyatt (u/s Dudley Dursley/Karl Jenkins/Viktor Krum), Nuno Silva (Bane), Harrison Noble (Young Harry Potter), Phoebe Austen (Lily Potter Jr.), Andrew McDonald (u/s Station Master)
 
 #### Harry Potter and the Cursed Child - Broadway - April 15, 2018 
 {: .no_toc .d-inline-block }
@@ -5285,10 +5297,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
-
-COMMENTS
-: Includes both Parts, treated as TWO videos when trading (as is common practice)
+: VOB+smalls `2 DVDs`
 
 CAST
 : Jamie Parker (Harry Potter), Paul Thornley (Ron Weasley), Noma Dumezweni (Hermione Granger), Poppy Miller (Ginny Potter), Alex Price (Draco Malfoy), Sam Clemmett (Albus Severus Potter), Anthony Boyle (Scorpius Malfoy), Adam McNamara (Hagrid/Sorting Hat), Benjamin Wheelwright (Cedric Diggory/James Potter Jr./James Potter Sr.)
@@ -5300,10 +5309,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 (HD) \| 12.06 GB
-
-COMMENTS
-: Includes both Parts, treated as TWO videos when trading (as is common practice)
+: MP4 `1080p` `12.06 GB`
 
 CAST
 : James Snyder (Harry Potter), Matt Mueller (Ron Weasley), Jenny Jules (Hermione Granger), Diane Davis (Ginny Potter), Jonno Roberts (Draco Malfoy), Nicholas Podany (Albus Severus Potter), Bubba Weiler (Scorpius Malfoy), Nadia Brown (Rose Granger-Weasley/Young Hermione), Sara Farb (Delphi Diggory), Lauren Cipoletti (Moaning Myrtle/Lily Potter Sr.), Katherine Reis (Polly Chapman), Stephen Spinella (Uncle Dursley/Severus Snape/Lord Voldemort), Jonathan Gordon (Yann Fredericks), Fiona Reid (Aunt Petunia/Trolley Witch/Dolores Umbridge), Joey Labrasca (Dudley Dursley/Karl Jenkins/Viktor Krum), Jack Pravda (Young Harry Potter), Catherine Ashmore Bradley (Lily Potter Jr.), Patrick du Laney (Station Master)
@@ -5311,18 +5317,7 @@ CAST
 NOTES
 : Great HD of the Year Two Broadway cast starting with the infamously ridiculous toffee scene. This was taken from one of the boxes so there is railing obstruction on the right of the stage, however most of the main action occurs at center and is brilliantly captured.
 
-#### Harry Potter and the Cursed Child - West End - April 1, 2017
-
-FORMAT
-: MP4 (HD)
-
-COMMENTS
-: Includes both Parts, treated as TWO videos when trading (as is common practice)
-
-CAST
-: Jamie Parker (Harry Potter), Paul Thornley (Ron Weasley), Noma Dumezweni (Hermione Granger), Poppy Miller (Ginny Potter), Alex Price (Draco Malfoy), Sam Clemmett (Albus Severus Potter), Anthony Boyle (Scorpius Malfoy), Cherrelle Skeete (Rose Granger-Weasley/Young Hermione), Esther Smith (Delphi Diggory), Annabel Baldwin (Moaning Myrtle/Lily Potter Sr.), Adam McNamara (u/s Hagrid/Sorting Hat), James Le Lacheur (Yann Fredericks), Barry McCarthy (Amos Diggory/Albus Dumbledore), Sandy McDade (Professor McGonagall), Jack North (u/s Cedric Diggory/James Potter Jr./James Potter Sr.), Joshua Wyatt (u/s Dudley Dursley/Karl Jenkins/Viktor Krum), Nuno Silva (Bane), Harrison Noble (Young Harry Potter), Phoebe Austen (Lily Potter Jr.), Andrew McDonald (u/s Station Master)
-
-## Haven (1)
+## Haven
 
 #### Haven - Los Angeles - November, 2001
 {: .no_toc .d-inline-block }
@@ -5331,7 +5326,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Stephanie J Block (Ruth), Mark Edgar Stevens (Sasha), Sandra Purpuro (Tanya), Betsy Beard (Marte), Brent Keast (Josef), Nathan Holland (Ziggy), Richard Gould (Laskovic), Paul Ainsley (Ickes), Cameron Teitelman (David)
@@ -5339,12 +5334,13 @@ CAST
 NOTES
 : Multi-camera pro shot producer's copy. Occasional sync issues but an excellent video.
 
-## Head Over Heels (2)
+## Head Over Heels
 
 #### Head Over Heels - Broadway - June 23, 2018 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Bonnie Milligan (Pamela), Taylor Iman Jones (Mopsa), Alexandra Socha (Philoclea), Andrew Durand (Musidorus), Jeremy Kushnier (Basilius), Rachel York (Gynecia), Peppermint (Pythio), Tom Alan Robbins (Dametas), Ari Groover (The Lion)
@@ -5359,12 +5355,12 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Bonnie Milligan (Pamela), Taylor Iman Jones (Mopsa), Alexandra Socha (Philoclea), Andrew Durand (Musidorus), Jeremy Kushnier (Basilius), Rachel York (Gynecia), Peppermint (Pythio), Tom Alan Robbins (Dametas)
 
-## Heathers: The Musical (1)
+## Heathers: The Musical
 
 #### Heathers: The Musical - Off-Broadway - May 25, 2014 
 {: .no_toc .d-inline-block }
@@ -5373,10 +5369,10 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls + MP4 `1080p`
 
 COMMENTS
-: Includes a 1080p MP4 NOT to be traded separately
+: The MP4 is superior in picture quality but it is  NOT to be traded separately
 
 CAST
 : Barrett Wilbert Weed (Veronica), Dan Domenech (u/s J.D.), Charissa Hogeland (u/s Heather Chandler), Alice Lee (Heather Duke), Elle McLemore (Heather McNamara), Jon Eidson (Ram Sweeney), Evan Todd (Kurt Kelly), Katie Ladner (Martha Dunnstock), Michelle Duffy (Ms. Fleming), Anthony Crivello (Ram\'s Dad), Daniel Cooney (Kurt\'s Dad), Michelle Duffy (Veronica\'s Mum), Anthony Crivello (Big Bud Dean), Anthony Crivello (Coach Ripper), Dustin Sullivan (Beleaguered Geek), AJ Meijer (Preppy Stud), Matthew Schatz (u/s Hipster Dork), Molly Hager (u/s New Wave Girl), Rachel Flynn (Stoner Chick), Cait Fairbanks (Young Republicanette), Matthew Schatz (u/s Officer McCord), AJ Meijer (Officer Milner)
@@ -5384,22 +5380,27 @@ CAST
 NOTES
 : A near perfect capture and the first known DVD of this show's Off-Broadway run. Barrett is incredibly talented: amazing vocals, acting and comedic timing. Dan and Charissa are both fantastic in their roles as well. The show is absolutely hysterical, much improved from the movie version. The first minute of Act One is blacked out, but the show is otherwise fully intact with no blackouts and only slight washout in a few wide shots. There is no obstruction, the video is steady, the sound is excellent, and it's captured very well with the usual mix of wides, mediums, and close-ups. It's filmed in 16:9 and includes curtain call, encore, and playbill scans.
 
-## The Heiress (1)
+## The Heiress
 
-#### The Heiress - Broadway - October 13, 2012 \| Lanelle
+#### The Heiress - Broadway - October 13, 2012
+{: .no_toc .d-inline-block }
+
+Lanelle
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Ben Livingston (Coachman), Caitlin O'Connell (Elizabeth Almond), Dan Stevens (Morris Townsend), David Strathairn (Dr. Austin Sloper), Dee Nelson (Mrs Montgomery), Jessica Chastain (Catherine Sloper), Judith Ivey (Lavinia Penniman), Kieran Campion (Arthur Townsend), Molly Camp (Marian Almond), Virginia Kull (Maria)
 
-## Helen of Troy (1)
+## Helen of Troy
 
 #### Helen of Troy - Reading (NYC) - June 13, 2005
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `1.10 GB`
 
 CAST
 : Eden Espinosa (Helen), Bruce Vilanch (Zeus), Alice Ripley (Athena), Cary Shields (Paris), Brandi Chavonne Massey, Will Swenson
@@ -5407,7 +5408,7 @@ CAST
 NOTES
 : Concert reading of Helen of Troy, a new musical with a score by Brian Johnson of the Australian heavy metal band AC/DC. Filmed from the front row so you\'re looking up, the music stand is in the way and blocks people; a couple of coverups; sound is very good. B-
 
-## Hello, Dolly! (8)
+## Hello, Dolly!
 
 #### Hello, Dolly! - Fourth National Tour - July, 1977 
 {: .no_toc .d-inline-block }
@@ -5416,7 +5417,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Carol Channing (Dolly Gallagher Levi), Eddie Bracken (Horace Vandergelder), Lee Roy Reams (Cornelius Hackl), Florence Lacey (Irene Molloy), Robert Lydiard (Barnaby Tucker), Alix Korey (Minnie Fay), Michael C Booker (Ambrose Kemper), K T Baumann (Ermengarde), PJ Nelson (Ernestina), John Anania (Rudolph), Marilyn Hudgins (Mrs. Rose), Jack Starkey (Judge), Mark Hopkin (Court Clerk)
@@ -5425,20 +5426,22 @@ NOTES
 : Recorded through the house camera, with amazing sound. In black and white. This one is best enjoyed for the audio, but you can still make out what\'s happening on stage. C
 
 #### Hello, Dolly! - 30th Anniversary National Tour - 1994
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
-: DVD Menu says 01. 22. 2004; 100% would trade for a lower generation copy
+: DVD Menu says 01. 22. 2004; Would trade for a better copy
 
 CAST
 : Carol Channing (Dolly Gallagher Levi), Jay Garner (Horace Vandergelder), Michael DeVries (Cornelius Hackl), Florence Lacey (Irene Molloy), Cory English (Barnaby Tucker)
 
 #### Hello, Dolly! - Third Broadway Revival - October 19, 1995 (Opening Night)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Carol Channing (Dolly Gallagher Levi)
@@ -5453,7 +5456,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Carol Channing (Dolly Gallagher Levi), Herman Petras (Horace Vandergelder), Lee Roy Reams (Cornelius Hackl), Jeanne Lehman (Irene Molloy), Scott Bridges (Barnaby Tucker), Monica Lee Gradischek (Minnie Fay), James Darrah (Ambrose Kemper), Christine DeVito (Ermengarde), Monica M Wemitt (Ernestina), Roger Preston Smith (Rudolph), Judi Mann (Mrs. Rose), Michael Shames (Stanley), Roger Preston Smith (Judge), Ashley Stover, Christopher Regan, Clarence M Sheridan, Douglass Fraser, Eddie Buffum, George M Livengood, Julie L Harkness, Keith Wilson, Kevin P Hill, Kimberly Bellmann, Lindsay Dyett, Michael Quinn, Mindy Franzese Wild, Nikki Snelson, Randy Slovacek, Ron Gibbs, Russ Jones, Simone Gee, Stephanie Sheppard, Stephen Bourneuf, Steven Michael Daley
@@ -5462,9 +5465,10 @@ NOTES
 : Multi-camera pro-shot. This is a "Producer's Reference Tape", which was filmed so that future touring companies would have a reference, and ensure that choreography, blocking, direction, etc. would remain consistent in future productions. Filmed using two cameras with sound patched in from the soundboard. This has been listed as 1977/1978 often, however, there was there was no Tuesday December 17th in 1977, 1978, 1994 or 1995. Only in 1996. The tour was in Melbourne, FL Dec 17th-19th 1996. As this is in December 1996, Jay Garner and Florence Lacey were replaced by Herman Petras and Jeanne Lehman respectively.
 
 #### Hello, Dolly! - Fourth Broadway Revival - June 28, 2017
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Donna Murphy (alt Dolly Gallagher Levi), David Hyde Pierce (Horace Vandergelder), Gavin Creel (Cornelius Hackl), Kate Baldwin (Irene Molloy), Taylor Trensch (Barnaby Tucker), Beanie Feldstein (Minnie Fay), Will Burton (Ambrose Kemper), Melanie Moore (Ermengarde), Jennifer Simard (Ernestina)
@@ -5479,7 +5483,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Donna Murphy (alt Dolly Gallagher Levi), David Hyde Pierce (Horace Vandergelder), Gavin Creel (Cornelius Hackl), Kate Baldwin (Irene Molloy), Taylor Trensch (Barnaby Tucker), Beanie Feldstein (Minnie Fay), Will Burton (Ambrose Kemper), Melanie Moore (Ermengarde), Jennifer Simard (Ernestina), Kevin Ligon (Rudolph)
@@ -5490,11 +5494,11 @@ NOTES
 #### Hello, Dolly! - Fourth Broadway Revival - March 4, 2018 (Matinee) 
 {: .no_toc .d-inline-block }
 
-NYCG8R 
+NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Bernadette Peters (Dolly Gallagher Levi), Victor Garber (Horace Vandergelder), Christian Dante White (u/s Cornelius Hackl), Kate Baldwin (Irene Molloy), Charlie Stemp (Barnaby Tucker), Molly Griggs (Minnie Fay), Will Burton (Ambrose Kemper), Melanie Moore (Ermengarde), Jennifer Simard (Ernestina)
@@ -5508,11 +5512,14 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 COMMENTS
-: Missing smalls for Act 1, would trade for them.
+: Missing smalls for Act 1, please let me know if you have them.
 
 CAST
 : Betty Buckley (Dolly Gallagher Levi), Lewis J Stadlen (Horace Vandergelder), Nic Rouleau (Cornelius Hackl), Analisa Leaming (Irene Molloy), Jess LeProtto (Barnaby Tucker), Kristen Hahn (Minnie Fay), Garrett Hawe (Ambrose Kemper), Morgan Kirner (Ermengarde), Jennifer Sheridan (Ernestina), Wally Dunn (Rudolph)
@@ -5520,7 +5527,7 @@ CAST
 NOTES
 : Beautiful HD capture of the Touring Cast with no obstructions. Betty does a sensational job in the role of Dolly and is having a great time! Nic was such a stand out as Cornelius and was perfect for the role! A+
 
-## Hercules The Muse-ical (1)
+## Hercules The Muse-ical
 
 #### Hercules The Muse-ical - Disney Wonder - 2000\'S
 {: .no_toc .d-inline-block }
@@ -5529,7 +5536,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Hercules, Hades, Pain, Panic, Meg, The Muses, The Parthenon Players
@@ -5537,12 +5544,13 @@ CAST
 NOTES
 : 2 performances, a wide shot and another with close-ups. Recorded on a tripod with zooms.
 
-## High Fidelity (1)
+## High Fidelity
 
 #### High Fidelity - Broadway - December 16, 2006
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Will Chase (Rob), Jenn Colella (Laura), JB Wing (u/s Charlie/Marie LaSalle), Christian Anderson (Dick), Jay Klaitz (Barry), Rachel Stern (Liz/Jackie), Jeb Brown (Ian)
@@ -5550,12 +5558,13 @@ CAST
 NOTES
 : Filmed from high in the balcony. Mostly a full shot with occasional obstructions and spotlight washout, but you still can get a good sense of the show.
 
-## High Society (1)
+## High Society
 
 #### High Society - Broadway - April 19, 1998 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Anna Kendrick (Dinah Lord), Barry Finkel (Chester), Betsy Joslyn (Patsy), Daniel McDonald (C. K. Dexter Haven), John McMartin (Uncle Willie), Kisha Howard (Sunny), Marc Kudisch (George Kittredge), Melissa Errico (Tracy Samantha Lord), Stephen Bogardus (Mike Connor)
@@ -5563,19 +5572,22 @@ CAST
 NOTES
 : Some mild generation loss. B+
 
-## The Hunchback of Notre Dame (Disney) (3)
+## The Hunchback of Notre Dame (Disney)
 
-#### The Hunchback of Notre Dame (Disney) - La Jolla Playhouse - November 8, 2014 
+#### The Hunchback of Notre Dame (Disney) - La Jolla Playhouse - November 9, 2014 
 {: .no_toc .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 COMMENTS
-: Act 1 VTS_01_3.VOB has a glitch; Would trade for a good copy. Also DVD menu says "NOVEMBER 9, 2014"
+: Act 1 VTS_01_3.VOB has a glitch; Would trade for a good copy
 
 CAST
 : Michael Arden (Quasimodo), Ciara Renée (Esmeralda), Patrick Page (Dom Claude Frollo), Andrew Samonsky (Captain Phoebus de Martin), Erik Liberman (Clopin Trouillefou), Neal Mayer (Saint Aphrodisius), Lucas Coleman (Jehan Frollo), William Michals (Father Dupin), Samantha Massell (Florika), Ian Patrick Gibb (Lt. Frederic Charlus), Richard Ruiz (King Louis XI), Beth Kirkpatrick (Madam)
@@ -5584,17 +5596,19 @@ NOTES
 : A great capture of the American premiere at La Jolla Playhouse. The incredibly talented cast delivers the score beautifully. Michael and Ciara both give powerhouse performances. This is a perfect capture with no blackouts, no obstruction, and just slight washout in some wide shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
 
 #### The Hunchback of Notre Dame (Disney) - Papermill Playhouse - April 2, 2015 (Matinee)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Michael Arden (Quasimodo), Ciara Renée (Esmeralda), Patrick Page (Dom Claude Frollo), Andrew Samonsky (Captain Phoebus de Martin), Erik Liberman (Clopin Trouillefou), Neal Mayer (Saint Aphrodisius), Jeremy Stolle (Jehan Frollo), Anise Ritchie, Beth Kirkpatrick, Dashaun Young, Ian Patrick Gibb, Joseph J Simeone, Julian Decker, Neal Mayer, Nora Menken, Richard Ruiz, Samantha Massell, Vincent Rodriguez III, William Michals
 
 #### The Hunchback of Notre Dame (Disney) - Papermill Playhouse - April 5, 2015 (Closing Night)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: MP4 \| 1080p \| 8.19 GB
+: MP4 `1080p` `8.19 GB`
 
 CAST
 : Michael Arden (Quasimodo), Ciara Renée (Esmeralda), Patrick Page (Dom Claude Frollo), Andrew Samonsky (Captain Phoebus de Martin), Erik Liberman (Clopin Trouillefou), Neal Mayer (Saint Aphrodisius), Jeremy Stolle (Jehan Frollo)
