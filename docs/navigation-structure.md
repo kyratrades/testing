@@ -1114,7 +1114,10 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `1 DVD`
+: VOB+smalls `1 DVD` `1.74 GB`
+
+COMMENTS
+: Seems to be a recording of another DVD. PLEASE tell me if you have a better copy.
 
 CAST
 : Patti LuPone (Reno Sweeney), Howard McGillin (Billy Crocker), Kathleen Mahoney-Bennett (Hope Harcourt), Bill McCutcheon (Moonface Martin), Anthony Heald (Lord Evelyn Oakleigh), Rex Everhart (Elisha J. Whitney), Linda Hart (Erma)
