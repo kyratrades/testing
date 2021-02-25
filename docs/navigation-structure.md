@@ -4303,3 +4303,422 @@ CAST
 
 NOTES
 : A Stellar Video of this Cast, slightly washed out with zero obstructions and plenty of wides and zooms. Released in 4 MTS Files with a cast list - 13.55 GB
+
+# F
+
+## Falsettos
+
+#### Falsettos - Broadway - January-February, 1993
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Mandy Patinkin (Marvin), Stephen Bogardus (Whizzer), Barbara Walsh (Trina), Chip Zien (Mendel), Andrew Harrison Leeds (alt Jason), Heather MacRae (Dr. Charlotte), Maureen Moore (Cordelia)
+
+#### Falsettos - Broadway Revival - October 28, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)
+
+NOTES
+: Beautiful HD capture of the Revival following opening night. Such a talented cast and the chemistry amongst them is incredible. Beautifully executed and not to be missed! A
+
+#### Falsettos - Broadway Revival - December 30, 2016 (Matinee)
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)
+
+#### Falsettos - Broadway Revival - January, 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `10.26 G` `WEB-DL`
+
+CAST
+: Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)
+
+NOTES
+: Filmed in January 2017 and aired on PBS on October 27, 2017. Can be found on BroadwayHD to stream.
+
+#### Falsettos - Third National Tour - June, 2019
+{: .no_toc .d-inline-block }
+
+FetchHappened
+{: .label .label-blue }
+
+FORMAT
+: MOV `1080p` `14.93 GB`
+
+CAST
+: Max von Essen (Marvin), Nick Adams (Whizzer), Eden Espinosa (Trina), Nick Blaemire (Mendel), Thatcher Jacobs (Jason), Bryonha Marie Parham (Dr. Charlotte), Audrey Cardwell (Cordelia)
+
+NOTES
+: A decent capture of the touring production of Falsettos with closeups and wideshots. Contains 3 dropouts in act 2. NOT FOR SALE.
+
+## Fanny
+
+#### Fanny - Encores! - February 6, 2010
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Elena Shaddow (Fanny), Priscilla Lopez (Honorine), James Snyder (Marius), Megan Sikora (Claudette), Fred Applegate (Panisse), George Hearn (Cesar)
+
+NOTES
+: Nicely filmed show also includes the Post-Show Talkback featuring the original star Florence Henderson. Pretty amazing stories about the original production. A-
+
+## Fiddler on the Roof
+
+#### Fiddler on the Roof - Broadway (2004 Revival) - February 28, 2004
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Alfred Molina (Tevye), Randy Graff (Golde), Laura Michelle Kelly (Hodel), John Cariani (Motel), Robert Petkoff (Perchik), Sally Murphy (Tzeitel), Nancy Opel (Yente), David Wohl (Lazar Wolf), Tricia Paoluccio (Chava), David Ayers (Fyedka), Lea Michele (Shprintze), Molly Ephraim (Bielke)
+
+#### Fiddler on the Roof - Sixth Broadway Revival - December 29, 2015 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Danny Burstein (Tevye), Jessica Hecht (Golde), Samantha Massell (Hodel), Adam Kantor (Motel), Alexandra Silber (Tzeitel), Alix Korey (Yente), Adam Dannheisser (Lazar Wolf), Melanie Moore (Chava)
+
+NOTES
+: First couple minutes of Act Two are blacked out, but the show is otherwise complete; a few scenes are very dark, but the actors\' faces can be seen; slight washout in the brighter scenes. Excellent picture otherwise and clear sound; good video.
+
+## Finding Neverland
+
+#### Finding Neverland - Pre-Broadway / Cambridge - August 17, 2014 (Matinee) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jeremy Jordan (J.M. Barrie), Laura Michelle Kelly (Sylvia Llewelyn Davies), Michael McGrath (Charles Frohman/Captain James Hook), Jeanna de Waal (Mary Barrie), Carolee Carmello (Mrs. du Maurier), Aidan Gemme (Peter Llewelyn Davies), Alex Dreier (Michael Llewelyn Davies), Hayden Signoretti (Jack Llewelyn Davies), Sawyer Nunes (George Llewelyn Davies)
+
+NOTES
+: Fantastic capture from start to finish with just a couple quick dropouts in act one; clear video with no washout or obstruction; filmed in 16:9, with a mix of wides, mediums, and close-ups.
+
+#### Finding Neverland - Pre-Broadway / Cambridge - September 3, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jeremy Jordan (J.M. Barrie), Laura Michelle Kelly (Sylvia Llewelyn Davies), Michael McGrath (Charles Frohman/Captain James Hook), Jeanna de Waal (Mary Barrie), Carolee Carmello (Mrs. du Maurier), Aidan Gemme (Peter Llewelyn Davies), Alex Dreier (Michael Llewelyn Davies), Hayden Signoretti (Jack Llewelyn Davies), Sawyer Nunes (George Llewelyn Davies)
+
+NOTES
+: Beautiful HD capture of this sensational new show headed to Broadway. The performances, actors, music, book, the comedy are all divine. I think this will take 2015 Tony and also awards for Jeremy and Laura, it was that stunning! A+
+
+#### Finding Neverland - Broadway - March 15, 2015 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Matthew Morrison (J.M. Barrie), Laura Michelle Kelly (Sylvia Llewelyn Davies), Kelsey Grammer (Charles Frohman/Captain James Hook), Teal Wicks (Mary Barrie), Carolee Carmello (Mrs. du Maurier), Aidan Gemme (Peter Llewelyn Davies), Alex Dreier (Michael Llewelyn Davies), Hayden Signoretti (Jack Llewelyn Davies), Sawyer Nunes (George Llewelyn Davies)
+
+NOTES
+: Beautiful HD capture of the First Broadway Preview with Matthew and Kelsey joining the cast. There were a lot of changes to this show compared to the ART Pre-Broadway production. A wonderful show in my opinion! A
+
+#### Finding Neverland - Broadway - April 30, 2015 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Matthew Morrison (J.M. Barrie), Laura Michelle Kelly (Sylvia Llewelyn Davies), Kelsey Grammer (Charles Frohman/Captain James Hook), Teal Wicks (Mary Barrie), Carolee Carmello (Mrs. du Maurier), Aidan Gemme (Peter Llewelyn Davies), Alex Dreier (Michael Llewelyn Davies), Christopher Paul Richards (Jack Llewelyn Davies), Sawyer Nunes (George Llewelyn Davies)
+
+NOTES
+: Video filmed from center mezzanine with very clear picture and nice close-ups
+
+#### Finding Neverland - Broadway - March 31, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Alfie Boe (J.M. Barrie), Laura Michelle Kelly (Sylvia Llewelyn Davies), Kelsey Grammer (Charles Frohman/Captain James Hook), Teal Wicks (Mary Barrie), Sally Ann Triplett (Mrs. du Maurier), Christopher Paul Richards (Peter Llewelyn Davies)
+
+NOTES
+: Beautiful capture of Alfie and Sally joining the cast. Alfie commanded the score and sang the hell out of it. So many beautiful moments and such chemistry with Laura. A
+
+#### Finding Neverland - First National Tour - February 25, 2017 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Billy Harrigan Tighe (J.M. Barrie), Christine Dwyer (Sylvia Llewelyn Davies), Tom Hewitt (Charles Frohman/Captain James Hook), Crystal Kellogg (Mary Barrie), Karen Murphy (Mrs. du Maurier), Mitchell Wray (Peter Llewelyn Davies), Jordan Cole (Michael Llewelyn Davies), Colin Wheeler (Jack Llewelyn Davies), Finn Faulconer (George Llewelyn Davies)
+
+NOTES
+: There are many scene and dialogue changes made from the Broadway version, as well as a couple new songs added for the tour. Billy and Christine give wonderful performances. This is perfectly captured with no blackouts, no obstruction, and no washout. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+## Frankenstein (play by Nick Dear)
+
+#### Frankenstein (play by Nick Dear) - National Theatre - March 17, 2011
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `720p` `5.07 GB`
+
+CAST
+: Jonny Lee Miller (Victor Frankenstein), Benedict Cumberbatch (The Creature), Ella Smith (Gretel/Clarice), John Killoran (Gustav/Constable), Steven Elliott (Klaus), Karl Johnson (De Lacey), Daniel Millar (Felix de Lacey), Lizzie Winkler (Agatha de Lacey), Andreea Padurariu (The Female Creature), William Nye (William Frankenstein), George Harris (M. Frankenstein), Naomie Harris (Elizabeth Lavenza), John Stahl (Ewan), Mark Armstrong (Rab)
+
+## Frozen
+
+#### Frozen - Pre-Broadway / Denver - September 30, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Caissie Levy (Elsa), Patti Murin (Anna), Greg Hildreth (Olaf), Jelani Alladin (Kristoff), Andrew Pirozzi (Sven), John Riddle (Hans), Timothy Hughes (Pabbie)
+
+NOTES
+: Second to the last day. Sometimes the rail can get in the way of the shot
+
+#### Frozen - Pre-Broadway / Denver - October 1, 2017 (Closing Night)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Caissie Levy (Elsa), Patti Murin (Anna), Greg Hildreth (Olaf), Jelani Alladin (Kristoff), John Riddle (Hans), Timothy Hughes (Pabbie)
+
+NOTES
+: Beautiful capture of the Final Performance in the Pre-Broadway Denver Tryout. Some wonderful powerful vocal variations by Caissie. There are a few blackouts, and a few parts in Act 1 has something blocking the right side. But other than that, zooms and quality is perfect!
+
+#### Frozen - Broadway - May 3, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Caissie Levy (Elsa), Patti Murin (Anna), Greg Hildreth (Olaf), Jelani Alladin (Kristoff), Andrew Pirozzi (Sven), John Riddle (Hans), Robert Creighton (Weselton), Timothy Hughes (Pabbie), Olivia Phillip (Bulda), Ann Sanders (Queen Iduna)
+
+NOTES
+: Great capture from the Broadway transfer and a few minor changes from the Denver run. Nicely captured from the balcony.
+
+#### Frozen - Broadway - January, 2020 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.15 GB`
+
+CAST
+: Alyssa Fox (s/b Elsa), Patti Murin (Anna), Suri Marrero (Young Elsa), Fiona Morgan Quinn (Young Anna), Chad Burris (t/r Olaf), Harris M Turner (u/s Kristoff), Andrew Pirozzi (Sven), Joe Carroll (Hans), Kevin Del Aguila (Oaken), Robert Creighton (Weselton), Jeff Pew (u/s Pabbie), Keely Beirne (Bulda), Tyrone L Robinson (King Agnarr), Alicia Albright (u/s Queen Iduna), Robin Masella (Head Handmaiden), Brian Steven Shaw (s/w Bishop)
+
+NOTES
+: Stunning HD capture of Alyssa as Elsa, Chad's temporary residence in the company and one of Harris's first shows as Kristoff. Filmed from the left orchestra with a mix of wides, mediums, and many closeups.
+
+#### Frozen - Broadway - February, 2020 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.10 GB`
+
+CAST
+: Ciara Renée (Elsa), McKenzie Kurtz (Anna), Anna Rae Haller (Young Elsa), Charlie Tassone (Young Anna), Ryann Redmond (Olaf), Noah J Ricketts (Kristoff), Adam Jepsen (Sven), Ryan McCartan (Hans), Kevin Del Aguila (Oaken), Robert Creighton (Weselton), Donald Jones Jr (Pabbie), Tracee Beazer (Bulda), Tyrone L Robinson (King Agnarr), Ann Sanders (Queen Iduna), Robin Masella (Head Handmaiden), Jacob Smith (Bishop), Anthony Sagaria, Austin Lesch, Bronwyn Tarboton, Cajai Fellows Johnson, Charissa Hogeland, Charlie Williams, Claire Camp, Ellen Marlow, Harris M Turner, Jacob Smith, Jake David Smith, Julius Anthony Rubio, Kate Bailey, Keely Beirne, Michael Fatica, Nina Lafarga, Spencer Clark
+
+## The Full Monty
+
+#### The Full Monty - Broadway - January 16, 2002
+
+FORMAT
+: VOB+smalls `1 DVD` `2.30 GB`
+
+CAST
+: Will Chase (Jerry Lukowski), Daniel Stewart Sherman (Dave Bukatinsky), Larry Marshall (Noah \"Horse\" T. Simmons), Danny Gurwin (Malcolm MacGregor), Chris Diamantopoulos (Ethan Girard), Steven Skybell (Harold Nichols), Emily Skinner (Vicki Nichols)
+
+## Fun Home
+
+#### Fun Home - Broadway - June 23, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Beth Malone (Alison), Emily Skeggs (Medium Alison), Gabriella Pizzolo (Small Alison), Michael Cerveris (Bruce), Judy Kuhn (Helen), Roberta Colindrez (Joan), Joel Perez (Roy)
+
+NOTES
+: Great capture of the performance. Instead of where Sunset recorded, SJ recorded it from the other side of the stage.
+
+#### Fun Home - Broadway - July 20, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Beth Malone (Alison), Emily Skeggs (Medium Alison), Gabriella Pizzolo (Small Alison), Michael Cerveris (Bruce), Judy Kuhn (Helen), Roberta Colindrez (Joan), Cole Grey (Christian), Joel Perez (Roy), Zell Steele Morrow (John)
+
+NOTES
+: Excellent HD capture of the shows final weeks before closing. Garbriella does a terrific job taking over the role of Alison, while the whole cast is still perfection. A
+
+#### Fun Home - First National Tour - November 3, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Kate Shindle (Alison), Abby Corrigan (Medium Alison), Alessandra Baldacchino (Small Alison), Robert Petkoff (Bruce), Susan Moniz (Helen), Karen Eilbacher (Joan), Pierson Salvador (Christian), Robert Hager (Roy)
+
+NOTES
+: Great HD capture of the newly launched tour. Some really beautiful performances from the entire cast. Staged differently from the Broadway production to fit touring theaters. A
+
+#### Fun Home - First National Tour - November 4, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Kate Shindle (Alison), Abby Corrigan (Medium Alison), Carly Gold (alt Small Alison), Robert Petkoff (Bruce), Susan Moniz (Helen), Karen Eilbacher (Joan), Pierson Salvador (Christian), Robert Hager (Roy), Lennon Nate Hammond (John)
+
+NOTES
+: Terrific HD capture of the tour with the alternate actress playing Small Alison. Terrific work from the whole cast. Kate really is stunning in the role and doing amazing work! A
+
+#### Fun Home - First National Tour - March 1, 2017 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Kate Shindle (Alison), Abby Corrigan (Medium Alison), Alessandra Baldacchino (Small Alison), Robert Petkoff (Bruce), Susan Moniz (Helen), Karen Eilbacher (Joan), Pierson Salvador (Christian), Robert Hager (Roy)
+
+NOTES
+: This is one of the recordings of the tour cast with really nice closeups. Filmed in 16:9 and includes playbill scans. This is one of the last recordings of SJ before she stopped.
+
+#### Fun Home - Victory Gardens, Chicago - September 21, 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `5.80 GB`
+
+CAST
+: Danni Smith (Alison), Hannah Starr (Medium Alison), Sage Elliot Harper (Small Alison), Rob Lindley (Bruce), McKinley Carter (Helen), Danielle Davis (Joan), Leo Gonzolez (Christian), Joe Lino (Roy), Preetish Chakraborty (John)
+
+NOTES
+: includes introduction by Janine Tesori and Lisa Kron.
+
+## Funny Girl
+
+#### Funny Girl - Music Theater Of Wichita - July, 2001
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.27 GB`
+
+CAST
+: Stephanie J Block (Fanny Brice), Stephen Zinnato (Nick Arnstein), Naz Edwards (Mrs. Brice), John Williford (Eddie Ryan), Charles Parker (Florenz Ziegfeld Jr.), Timothy W Robu (Tom Keeney), Trisha Garnes (Emma)
+
+NOTES
+: Semi-pro shot. Wonderful staging. The cameras volume lowers about 40 min. into production, but all you need do is turn up the volume of your T.V. to adjust the sound.
+
+#### Funny Girl - Actors\' Fund Benefit Concert - September 23, 2002
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.23 GB`
+
+CAST
+: Ana Gasteyer (Fanny Brice), Andrea Martin (Fanny Brice), Bebe Neuwirth (Fanny Brice), Carolee Carmello (Fanny Brice), Idina Menzel (Fanny Brice), Jane Krakowski (Fanny Brice), Judy Kuhn (Fanny Brice), Julia Murney (Fanny Brice), Kristin Chenoweth (Fanny Brice), LaChanze (Fanny Brice), Lillias White (Fanny Brice), Ricki Lake (Fanny Brice), Spencer Kayden (Fanny Brice), Sutton Foster (Fanny Brice), Whoopi Goldberg (Fanny Brice), Peter Gallagher (Nick Arnstein), Kaye Ballard (Mrs. Brice), John Scherer (Eddie Ryan), Christine Pedi (Mrs. Meeker), Kristine Zbornik (Mrs. O\'Malley), Marcia Lewis (Mrs. Strakosh), Len Cariou (Florenz Ziegfeld Jr.), Gary Beach (Tom Keeney), Adriane Lenox (Emma), Rusty Reynolds (Snub Taylor/Ben), Alan Souza, Bill Burns, Brad Musgrove, Brad Oscar, Damian Keenan, David McKeown, Debra Denys Smith, Deidre Goodwin, Edie, Eileen Tepper, Farah Alvin, Gay Willis, Jamie Harris, Jason Danieley, Jeff Roberson, Jenny Sandler, Jermaine R Rembert, Jessica Perrizo, John Bolton, John Paul Almon, Kate Coffman-Lloyd, Laurie Gamache, Mary Birdsong, MaryAnn Hu, Michael Benjamin Washington, Michael Serapiglia, Michelle Potterf, Naomi Kakuk, Paul Castree, Peter Gregus, Phyllis Newman, Ric Ryder, Richard Kind, Robert Fowler, Robin Byrd, Sam Harris, Sara Lepere, Stacey Todd Holt, Stephanie Mills, Steven Brinberg, Trisha Rapier
+
+NOTES
+: Some gen loss and low audio. Pro-shot of the one-night-only Actors\' Fund benefit concert.
