@@ -31,7 +31,7 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 7.72 GB
+: MP4 `1080p` `7.72 GB`
 
 CAST
 : Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), David Bedella (Lance), Jocasta Almgill (Lady Capulet/Nell), Ivan de Freitas (Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Nathan Lorainey-Dineen (Gregory), Sophie Usher (s/w Gwynne), Alex Tranter (Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Danielle Fiamanya (Lucy)
@@ -46,7 +46,7 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 3.63 GB
+: MP4 `1080p` ` `3.63 GB` `
 
 CAST
 : Miriam-Teak Lee (Juliet), Cassidy Janson (Anne Hathaway), Ivan de Freitas (u/s William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), David Bedella (Lance), Jocasta Almgill (Lady Capulet/Nell), Christopher Parkinson (u/s Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Nathan Lorainey-Dineen (Gregory), Alex Tranter (Henry), Rhian Duncan (Imogen), Grace Mouat (Judith), Kieran Lai (Kempe), Danielle Fiamanya (Lucy), Dillon Scott-Lewis (Richard), Kerri Norville (Susanna)
@@ -61,10 +61,10 @@ hitmewithyourbethshot
 {: .label .label-blue }
 
 FORMAT
-: MTS \| 14.77 GB
+: MTS `14.77 GB`
 
 CAST
-: Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), Ivan de Freitas (u/s Lance), Jocasta Almgill (Lady Capulet/Nell), Christopher Parkinson (s/w Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Sophie Usher (s/w Gwynne), Alex Tranter (Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Danielle Fiamanya (Lucy), Dillon Scott-Lewis (Richard), Kerri Norville (Susanna), Josh Baker (s/w Thomas)
+: Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), Ivan de Freitas (u/s Lance), Jocasta Almgill (Lady Capulet/Nell), Christopher Parkinson (s/w Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan ` (Augustine), Sophie Usher (s/w Gwynne), Alex Tranter (Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Danielle Fiamanya (Lucy), Dillon Scott-Lewis (Richard), Kerri Norville (Susanna), Josh Baker (s/w Thomas)
 
 #### & Juliet - West End - March, 2020 
 {: .no_toc .d-inline-block }
@@ -73,7 +73,7 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 5.12 GB
+: MP4 `1080p` `5.12 GB`
 
 CAST
 : Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Alex Tranter (u/s Romeo), Dillon Scott-Lewis (u/s Francois), Nathan Lorainey-Dineen (u/s May), Melanie La Barrie (Nurse \"Angelique\"), David Bedella (Lance), Jocasta Almgill (Lady Capulet/Nell), Ivan de Freitas (Lord Capulet/Sly), Antoine Murray-Straughan (Augustine), Billy Nevers (s/w Cuthbert), Sophie Usher (s/w Gwynne), Josh Baker (s/w Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Kerri Norville (Susanna)
@@ -341,7 +341,7 @@ NOTES
 {: .no_toc }
 
 FORMAT
-: MP4 \| 480p \| 3.18 GB
+: MP4 `480p` `3.18 GB`
 
 CAST
 : Wanda Richert-Preston (Peggy Sawyer), Jerry Orbach (Julian Marsh), Millicent Martin (Dorothy Brock), Lee Roy Reams (Billy Lawlor), Joseph Bova (Bert Barry), Peggy Cass (Maggie Jones), Danny Carroll (Andy Lee)
@@ -357,7 +357,7 @@ Pro-Shot
 
 FORMAT
 : `1` VOB+smalls
-: `2` MP4 \| 476p
+: `2` MP4 `476p`
 
 COMMENTS
 : I have two different versions, and will trade them out as one video but you must do so as well.
@@ -405,7 +405,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p \| 227.4 MB \| 21m 32s
+: MP4 `720p` `227.4 MB` `21m 32s` `
 
 COMMENTS
 : Will trade this as the equivalent of one audio
@@ -423,7 +423,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 480p \| 3.68 GB
+: MP4 `480p` `3.68 GB` `
 
 CAST
 : Mara Davi (Peggy Sawyer), Kyle Dean Massey (Billy Lawlor), JL Williams (Andy Lee), Rob Ouellette (Oscar)
@@ -453,7 +453,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p \| 3.31 GB
+: MP4 `720p` `3.31 GB` `
 
 CAST
 : Kristen Martin (Peggy), Paul Gregory Nelson (Julian), Natalie Buster (Dorothy), Charles MacEachern (Billy), Veronica DiPerna (Annie), Chris Clay (Andy), Ira Denmark (Bert), Karen McDonald (Maggie), Rockford Sansom (Pat), Julie Rees (Phyllis), Lani Corson (Lorraine), Rob Ouellette (Oscar)
@@ -483,7 +483,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p \| 2.12 GB
+: MP4 `720p` `2.12 GB` `
 
 CAST
 : Kimberly Immanuel (Peggy Sawyer), Gene Weygandt (Julian Marsh), Suzzanne Douglas (Dorothy Brock), Phillip Attmore (Billy Lawlor), Justin Brill (Bert Barry), Donica Lynn (Maggie Jones), Sierra Schnack (Annie), Annie Jo Ermel (Phyllis Dale), Mandy Modic (Lorraine Flemming), Brandon Springman (Pat Denning), Erica Evans (Andy Lee)
@@ -498,7 +498,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 1080p \| 8.95 GB `Amazon WEB-DL`
+: MKV `1080p` `8.95 GB` `Amazon WEB-DL`
 
 CAST
 : Clare Halse (Peggy Sawyer), Tom Lister (Julian Marsh), Bonnie Langford (Dorothy Brock), Philip Bertioli (Billy Lawlor), Christopher Howell (Bert Barry), Jasna Ivir (Maggie Jones), Bruce Montague (Abner Dillon), Emma Caffrey (Annie), Clare Rickard (Phyllis Dale), Ella Martine (Lorraine Flemming), Matthew Goodgame (Pat Denning), Graeme Henderson (Andy Lee), Paul Knight (Oscar)
@@ -665,7 +665,7 @@ CAST
 : Adam Jacobs (Aladdin), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), James Monroe Iglehart (Genie), Clifton Davis (Sultan), Brian Gonzales (Babkak), Brandon O\'Neill (Kassim), Don Darryl Rivera (Iago), Andrew Cao (u/s Omar)
 
 NOTES
-: Act one has three major blackouts: the scene between Arabian Nights and One Jump Ahead, the scene between One Jump Ahead and Proud of Your Boy, and the last 22 minutes of the act, which is all of Friend Like Me and Act One Finale. There is also a head that blocks center stage and the action is often lost behind it. Act two is much better with no blackouts and only some heads on the bottom that are worked around well. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There's a lot of chatter and rustling from the audience, but the sound is otherwise excellent. Includes playbill scans.
+: Act one has three major blackouts: the scene between Arabian Nights and One Jump Ahead, the scene between One Jump Ahead and Proud of Your Boy, and the last 22 minutes of the act, which is all of Friend Like Me and Act One Finale. There is also a head that blocks center stage and the action is often lost behind it. Act two is much better with no blackouts and only some heads on the bottom  `that are worked around well. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There's a lot of chatter and rustling from the audience, but the sound is otherwise excellent. Includes playbill scans.
 
 #### Aladdin - Broadway - November 5, 2014
 {: .no_toc .d-inline-block }
@@ -689,7 +689,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 5.58 GB
+: MP4 `1080p` `5.58 GB`
 
 CAST
 : Rodney Ingram (t/r Aladdin), Lauryn Ciardullo (u/s Jasmine), Jonathan Freeman (Jafar), Michael James Scott (Genie), JC Montgomery (Sultan), Brian Gonzales (Babkak), Mike Longo (Kassim), Don Darryl Rivera (Iago), Brad Weinstock (Omar), Jaz Sealey (Prince Abdullah), Alicia Charles (Attendant), Olivia Donalson (Fortune Teller), Jamie Kasey Patterson (Henchman), Charles South (Shop Owner), Mark DiConzo (Razoul), Amber Owens, April Holloway, Bobby Pestka, Jacob Gutierrez, Michael Graceffa, Netanel Bellaishe, Paige Williams, Paul HeeSang Miller, Pierre Marais, Samantha Farrow, Stanley Martin, Tia Altinay, Tyler Roberts
@@ -720,7 +720,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 6.64 GB `With English subtitles`
+: MP4 `1080p` `6.64 GB` `English (.srt)`
 
 COMMENTS
 : I will also include the 720p edit with a complete ending (audio) and soft subtitles upon request
@@ -772,7 +772,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 1080p \| 8.29 GB
+: MKV `1080p` `8.29 GB`
 
 IMDB
 : <https://www.imdb.com/title/tt6846134/>
@@ -973,7 +973,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 1080p \| 4.40 GB `Blu-ray rip`
+: MKV `1080p` `4.40 GB` `Blu-ray rip`
 
 CAST
 : Mary Martin (Annie Oakley)
@@ -1473,7 +1473,7 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 3.71 GB
+: MP4 `1080p` `3.71 GB`
 
 CAST
 : Olly Dobson (Marty McFly), Roger Bart (Dr. Emmett Brown), Hugh Coles (George McFly), Rosanna Hyland (Lorraine Baines-McFly), Cedric Neal (Goldie Wilson / Marvin Berry), Aidan Cutler (Biff Tannen), Courtney-Mae Briggs (Jennifer Parker), Mark Oxtoby (Gerald Strickland), Will Haswell (Dave McFly), Emma Lloyd (Linda McFly)
@@ -1567,7 +1567,7 @@ notjustthespongenextdoor
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 17.38 GB
+: MP4 `1080p` `17.38 GB`
 
 CAST
 : Will Roland (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Gerard Canonico (Rich Goranski), Jason SweetTooth Williams (Mr. Heere/Mr. Reyes/Scary Stockboy)
@@ -1582,7 +1582,7 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 6.82 GB `Compressed release`
+: MP4 `1080p` `6.82 GB ` `Compressed release`
 
 CAST
 : Scott Folan (Jeremy Heere), Blake Patrick Anderson (Michael Mell), Miracle Chance (Christine Canigula), Stewart Clarke (The SQUIP), Eloise Davies (Brooke Lohst), Millie O'Connell (Chloe Valentine), Renée Lamb (Jenna Rolan), Miles Paloma (Jake Dillinger), James Hameed (Rich Goranski), Christopher Fry (Mr. Heere/Mr. Reyes/Scary Stockboy)
@@ -1649,7 +1649,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 5.63 GB
+: MP4 `1080p` `5.63 GB`
 
 CAST
 : Sarah Bockel (Carole King), Cory Jeacoma (Gerry Goffin), Jessica Keenan Wynn (Cynthia Weil), Ben Jacoby (Barry Mann), Paul Anthony Stewart (Don Kirshner), Liz Larsen (Genie Klein), Ashley De La Rosa (Janelle Woods/Shirelle), Elena Ricardo (Betty)
@@ -1666,7 +1666,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p \| 2.07 GB
+: MP4 `720p` `2.07 GB`
 
 CAST
 : Jake Davies (Jamie), Danny-Boy Hatchard (Ste), Suranne Jones (Sandra), Oliver Farnworth (Tony), Zaraah Abrahams (Leah)
@@ -1789,7 +1789,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 5.63 GB
+: MP4 `1080p` `5.63 GB`
 
 CAST
 : Alex Brightman (Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), Rob McClure (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Kritzer (Delia Deetz/Miss Argentina), Kelvin Moon Loh (Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno), Dana Steingold (Girl Scout)
@@ -1804,7 +1804,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 5.50 GB
+: MP4 `1080p` `5.50 GB`
 
 CAST
 : Alex Brightman (Beetlejuice), Presley Ryan (u/s Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Kritzer (Delia Deetz/Miss Argentina), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno), Dana Steingold (Girl Scout)
@@ -1819,7 +1819,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 5.67 GB
+: MP4 `1080p` `5.67 GB`
 
 CAST
 : Will Blum (u/s Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Kim Sava (u/s Delia Deetz/Miss Argentina), Sean Montgomery (u/s Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxie Dean/Juno)
@@ -2404,7 +2404,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 1080p \| 4.62 GB `With English subtitles (.srt)`
+: MKV `1080p` `4.62 GB` `English (.srt)`
 
 CAST
 : Paul Groves (Candide), Sir Thomas Allan (Dr. Pangloss), Kristin Chenoweth (Cunegonde), Janine LaManna (Paquette), Patti LuPone (The Old Lady)
@@ -2421,7 +2421,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p \| 793.43 MB \| 18m 46s
+: MP4 `720p` `793.43 MB` `18m 46s`
 
 COMMENTS
 : This is the fuller version with the original piano accompaniment.
@@ -2478,7 +2478,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 1080p \| 3.91 GB `With English subtitles (.srt)`
+: MP4 `1080p` `3.91 GB` `English (.srt)`
 
 CAST
 : Nathan Gunn (Billy Bigelow), Kelli O'Hara (Julie Jordan), Stephanie Blythe (Nettie Fowler), Jessie Mueller (Carrie Pipperidge), Jason Danieley (Enoch Snow), Kate Burton (Mrs. Mullin), John Cullum (The Starkeeper), Shuler Hensley (Jigger Craigin), Tiler Peck (Louise), Robert Fairchild (Fairground Boy)
