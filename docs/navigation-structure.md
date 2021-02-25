@@ -4948,29 +4948,22 @@ CAST
 
 # H
 
-## Hadestown (4)
+## Hadestown
 
-#### Hadestown - Broadway - August, 2019 \| everyturnandtwist
+#### Hadestown - National Theatre, London - December 27, 2018
+{: .no_toc .d-inline-block }
 
-FORMAT
-: MP4 (HD) **\|** 11.88 GB
-
-CAST
-: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)
-
-NOTES
-: \[Please don't trade any of my masters to dontsaythebword/broadwayenthusiast\] My first Broadway video, unfortunately I had a tech issue and the video stops right near the end of Epic III. Act I has washout, it gets better in Act II, but I\'m still figuring out how to film in professional theaters (they got some BRIGHT LIGHTS!!!) There are two heads seen on the side of the video during most parts as I am a mere five feet tall. Some performers get cut off by the mezzanine bar when they\'re at the front of the stage (especially Eva). But overall I\'m really happy with how it came out! The only dropouts are inbetween songs (I really couldn\'t stop myself from cheering and clapping at this one) Please contact me if you are interested in this video! It is NFT except through me until Dec. 1, after that it is fully tradeable!
-
-#### Hadestown - Broadway - January, 2020 \| everyturnandtwist
+chauvelin
+{: .label .label-blue }
 
 FORMAT
-: MP4 (HD) \| 9.68 GB
+: MTS `20.91 GB`
 
 CAST
-: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)
+: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Carly Mercedes Dyer (Fate), Rosie Fletcher (Fate), Gloria Onitiri (Fate)
 
 NOTES
-: Shot from the front mezzanine, front of stage action is captured great from between the bar. The bar obstructs a bit when performers are on the upper levels of the stage but overall very watchable. Capture includes the entire show, including partial curtain call (missing We Raise Our Cups). With my other master, you can get a great visual of the entirety of the show\'s beautiful choreography and staging.
+: HD widescreen from the far right circle without minimal zooms. First known full recording of this show pre-Broadway transfer. Far left of the stage is cut off but otherwise a nice video
 
 #### Hadestown - Broadway - March, 2019 (Preview) 
 {: .no_toc .d-inline-block }
@@ -4979,29 +4972,45 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 \| 1080p \| 9.82 GB
-
-COMMENTS
-: With English subtitles (.srt)
+: MP4 `1080p` `9.82 GB` `English (.srt)`
 
 CAST
 : Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate), Afra Hines, Ahmad Simmons, John Krause, Kimberly Marable, Timothy Hughes
 
 NOTES
-: Previews! Picks up after \"Road to Hell.\" Decent capture with a lot of beautiful zooms, two really annoying heads, and a drop out occasionally but never for long (For the first time in my mastering career I kept putting the camera down after musical numbers because I couldn\'t NOT clap). This was my first time seeing the show and hearing this music so I was sometimes focused on the wrong things. Oh well. Overall, I love this video. I got home at 2AM after filming it and just SOBBED while I rewatched some of my favorite moments. WHAT A SHOW.!
+: Previews! Picks up after \"Road to Hell.\" Decent capture with a lot of beautiful zooms, two really annoying heads, and a drop out occasionally but never for long (For the first time in my mastering career I kept putting the camera down after musical numbers because I couldn\'t NOT clap). This was my first time seeing the show and hearing this music so I was sometimes focused on the wrong things. Oh well. Overall, I love this video. I got home at 2AM after filming it and just SOBBED while I rewatched some of my favorite moments. WHAT A SHOW!
 
-#### Hadestown - National Theatre, London - December 27, 2018 \| chauvelin
+#### Hadestown - Broadway - August, 2019
+{: .no_toc .d-inline-block }
+
+everyturnandtwist
+{: .label .label-blue }
 
 FORMAT
-: MTS \| 20.91 GB
+: MP4 `1080p` `11.88 GB`
 
 CAST
-: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Carly Mercedes Dyer (Fate), Rosie Fletcher (Fate), Gloria Onitiri (Fate)
+: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)
 
 NOTES
-: HD widescreen from the far right circle without minimal zooms. First known full recording of this show pre-Broadway transfer. Far left of the stage is cut off but otherwise a nice video
+: \[Please don't trade any of my masters to dontsaythebword/broadwayenthusiast\] My first Broadway video, unfortunately I had a tech issue and the video stops right near the end of Epic III. Act I has washout, it gets better in Act II, but I\'m still figuring out how to film in professional theaters (they got some BRIGHT LIGHTS!!!) There are two heads seen on the side of the video during most parts as I am a mere five feet tall. Some performers get cut off by the mezzanine bar when they\'re at the front of the stage (especially Eva). But overall I\'m really happy with how it came out! The only dropouts are inbetween songs (I really couldn\'t stop myself from cheering and clapping at this one) Please contact me if you are interested in this video! It is NFT except through me until Dec. 1, after that it is fully tradeable!
 
-## Hair (6)
+#### Hadestown - Broadway - January, 2020
+{: .no_toc .d-inline-block }
+
+everyturnandtwist
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `9.68 GB`
+
+CAST
+: Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Patrick Page (Hades), Amber Gray (Persephone), André De Shields (Hermes), Jewelle Blackman (Fate), Yvette Gonzalez-Nacer (Fate), Kay Trinidad (Fate)
+
+NOTES
+: Shot from the front mezzanine, front of stage action is captured great from between the bar. The bar obstructs a bit when performers are on the upper levels of the stage but overall very watchable. Capture includes the entire show, including partial curtain call (missing We Raise Our Cups). With my other master, you can get a great visual of the entirety of the show\'s beautiful choreography and staging.
+
+## Hair
 
 #### Hair - Actors\' Fund Benefit Concert - September 20, 2004
 {: .no_toc .d-inline-block }
@@ -5010,18 +5019,43 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Adam Pascal (Claude), Euan Morton (Claude), Harris Doran (Claude), Norm Lewis (Claude), Raúl Esparza (Claude), Jennifer Hudson (Sheila), Liz Callaway (Sheila), Shoshana Bean (Sheila), Gavin Creel (Berger), John Tartaglia (Berger), Lea DeLaria (Berger), Christopher Sieber (Woof), Jai Rodriguez (Woof), Billy Porter (Hud), Chuck Cooper (Hud), Harvey Fierstein (Jeanie), Ana Gasteyer (Dionne), Lillias White (Dionne), Orfeh (Dionne), Annie Golden (Crissy), RuPaul (Margaret Mead/Tourist Lady), Ann Harada (Lorri), Kathy Brier (Emeraretta), Brandi Chavonne Massey (Diane), Ledisi (Suzanna), Shayna Steele (Natalie), Darius de Haas (Featured Soloist), Eden Espinosa (Featured Soloist), Laura Benanti (Featured Soloist), Paul Castree (Featured Soloist), Sherie Rene Scott (Featured Soloist), Toxic Audio (Featured Soloist), Aliane Baquerot, Anisha Nagarajan, Bobby Daye, Brian Corey, Brian M Golub, Brooke Wendle, Chris Ghelfi, Christopher Zelno, Craig Ramsay, Darius Nichols, DeQuina Moore, Eliseo Roman, Evan Knapp, Geoffrey Hemingway, Gustavo Wons, Isaac Calpito, J Elaine Marcos, Jackie Hoffman, Jason S Little, Jason Weston, Jenifer Foote, Jerad Bortz, Jessica Walker, Jim J Bullock, Julie Garnye, Julie Lyke, Kate Chapman, Kenway Hon Wai K Kua, Lucia Giannetta, Mary Faber, MaryAnn Hu, Meredith Akins, Michael McKean, Nancy Opel, Naomi Kakuk, Nell Snaidas, Orville Mendoza, Schele Williams, Shanna VanDerwerker, Stuart Capps, Trent Armand Kendall
 
-#### Hair - Broadway Revival - March 15, 2009
+#### Hair - Off-Broadway - July 9, 2008 (Highlights)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
+
+CAST
+: Jonathan Groff (Claude), Karen Olivo (Sheila), Will Swenson (Berger), Bryce Ryness (Woof), Darius Nichols (Hud), Kacie Sheik (Jeanie), Patina Miller (Dionne), Allison Case (Crissy)
+
+NOTES
+: This footage is from the free performance preview of the Public Theatre\'s Shakespeare in the Park production of \"Hair\" at Theory\'s New York store on the Plaza. Only three songs (Hair, I Got Life, Let The Sunshine In) on one DVD with scene selection. Total run time is about 12 minutes. A
+
+#### Hair - Broadway Revival - March 15, 2009
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
 
 CAST
 : Gavin Creel (Claude), Caissie Levy (Sheila), Will Swenson (Berger), Andrew Kober (Woof), Darius Nichols (Hud), Kacie Sheik (Jeanie), Sasha Allen (Dionne), Allison Case (Crissy)
+
+#### Hair - West End - September 4, 2010 (Matinee)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Kevin Kern (Claude), Caissie Levy (Sheila), Steel Burkhardt (Berger), Matt DeAngelis (Woof), Darius Nichols (Hud), Kacie Sheik (Jeanie), Allison Case (Crissy), Aki Omoshaybi, Allison Guinn, Andrew Kober, Ato Blankson-Wood, Brandon Pearson, Crystal Joy, Donna Steele, John Moauro, Kaitlin Kiyan, Lauren Elder, Liam Tamne, Maya Sharpe, Megan Reinking, Paris Remillard, Patrick Smyth, Phyre Hawkins
+
+NOTES
+: Final matinee of the London production, which includes a lot of adlibbing by the cast.
 
 #### Hair - First National Tour - October 28, 2010
 {: .no_toc .d-inline-block }
@@ -5030,7 +5064,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : VTS_01_5.VOB is missing, seems to be the commonly traded copy. Would trade for a replacement!
@@ -5044,34 +5078,12 @@ NOTES
 #### Hair - Hollywood Bowl - August 1, 2014
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Hunter Parrish (Claude), Kristen Bell (Sheila), Benjamin Walker (Berger), Jonah Platt (Woof), Mario (Hud), Jenna Ushkowitz (Jeanie), Amber Riley (Dionne), Sarah Hyland (Crissy)
 
-#### Hair - Off-Broadway - July 9, 2008 (Highlights)
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Jonathan Groff (Claude), Karen Olivo (Sheila), Will Swenson (Berger), Bryce Ryness (Woof), Darius Nichols (Hud), Kacie Sheik (Jeanie), Patina Miller (Dionne), Allison Case (Crissy)
-
-NOTES
-: This footage is from the free performance preview of the Public Theatre\'s Shakespeare in the Park production of \"Hair\" at Theory\'s New York store on the Plaza. Only three songs (Hair, I Got Life, Let The Sunshine In) on one DVD with scene selection. Total run time is about 12 minutes. A
-
-#### Hair - West End - September 4, 2010 (Matinee)
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Kevin Kern (Claude), Caissie Levy (Sheila), Steel Burkhardt (Berger), Matt DeAngelis (Woof), Darius Nichols (Hud), Kacie Sheik (Jeanie), Allison Case (Crissy), Aki Omoshaybi, Allison Guinn, Andrew Kober, Ato Blankson-Wood, Brandon Pearson, Crystal Joy, Donna Steele, John Moauro, Kaitlin Kiyan, Lauren Elder, Liam Tamne, Maya Sharpe, Megan Reinking, Paris Remillard, Patrick Smyth, Phyre Hawkins
-
-NOTES
-: Final matinee of the London production, which includes a lot of adlibbing by the cast.
-
-## Hairspray (8)
+## Hairspray
 
 #### Hairspray - Broadway - 2002 (Highlights) 
 {: .no_toc .d-inline-block }
@@ -5080,7 +5092,7 @@ Press Reel
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Laura Bell Bundy (Amber Von Tussle), Kerry Butler (Penny Pingleton), Matthew Morrison (Link Larkin)
@@ -5089,9 +5101,10 @@ NOTES
 : 13.5 mins of Pro-shot Press Reels including \"Montage of Scenes\" (1:11) \"Welcome to the \'60s\" (2:26) \"Run and Tell That\" (2:58) \"Mama I\'m a Big Girl Now\" (1:24) \"I Can Hear The Bells\" (1:18) \"It Takes Two\" (2:10) \"I Know Where I\'ve Been\" (1:00)
 
 #### Hairspray - Broadway - July 29, 2002 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `2.25 GB`
 
 CAST
 : Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Laura Bell Bundy (Amber Von Tussle), Kerry Butler (Penny Pingleton), Matthew Morrison (Link Larkin)
@@ -5100,17 +5113,25 @@ NOTES
 : Digital, Shot from first row mezz. Lots of close ups.
 
 #### Hairspray - Broadway - August 31, 2002
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Laura Bell Bundy (Amber Von Tussle), Mary Bond Davis (Motormouth Maybelle), Kerry Butler (Penny Pingleton), Linda Hart (Velma Von Tussle), Dick Latessa (Wilbur Turnblad), Matthew Morrison (Link Larkin), Corey Reynolds (Seaweed J. Stubbs), Clarke Thorell (Corny Collins), Danelle Eugenia Wilson (Little Inez)
 
 #### Hairspray - Broadway - October 9, 2002
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
+
+COMMENTS
+: Does not load correctly. Looking to replace this copy.
 
 CAST
 : Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Laura Bell Bundy (Amber Von Tussle), Mary Bond Davis (Motormouth Maybelle), Kerry Butler (Penny Pingleton), Linda Hart (Velma Von Tussle), Dick Latessa (Wilbur Turnblad), Matthew Morrison (Link Larkin), Corey Reynolds (Seaweed J. Stubbs), Peter Matthew Smith (u/s Corny Collins), Danelle Eugenia Wilson (Little Inez)
@@ -5118,10 +5139,14 @@ CAST
 NOTES
 : Starts during The Nicest Kids In Town
 
-#### Hairspray - Broadway - 2003 (Highlights) (Conductor Cam
+#### Hairspray - Broadway - 2003 (Highlights)
+{: .no_toc .d-inline-block }
+
+Conductor Cam
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Laura Bell Bundy (Amber Von Tussle), Kerry Butler (Penny Pingleton), Linda Hart (Velma Von Tussle), Dick Latessa (Wilbur Turnblad), Matthew Morrison (Link Larkin)
@@ -5130,9 +5155,10 @@ NOTES
 : Full show songs and background music, shot from inside the Pit. Meant for understudies and replacement actors to study for their roles in the show.
 
 #### Hairspray - Broadway - January 4, 2003
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Laura Bell Bundy (Amber Von Tussle), Kerry Butler (Penny Pingleton), Matthew Morrison (Link Larkin)
@@ -5143,11 +5169,14 @@ CAST
 SunsetBlvd79
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
-: \*\*LAST VOB MISSING\*\* (But the show is complete, includes curtain call)
+: **\*\*LAST VOB MISSING\*\*** but the show is complete, includes curtain call
 
 CAST
 : Keala Settle (Tracy Turnblad), Dale Calandra (u/s Edna Turnblad), Tara Macri (Amber Von Tussle), Charlotte Crossley (Motormouth Maybelle), Melissa Larsen (u/s Penny Pingleton), Susan Henley (Velma Von Tussle), Jim J Bullock (Wilbur Turnblad), Aaron Tveit (Link Larkin), Alan Mingo Jr (Seaweed J. Stubbs), Bryan Crawford (u/s Corny Collins), Jane Blass (Prudence (Prudy) Pingleton), Hayley Podschun (Tammy), Jeremy Woodard (Fender), Darren Voros (Sketch), Amy Hillner (Shelley), Jesse JP Johnson (IQ), Leslie McDonel (Lou Ann)
@@ -5162,7 +5191,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p \| 2.08 GB
+: MP4 `720p` `2.08 GB`
 
 CAST
 : Maddie Baillio (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Dove Cameron (Amber Von Tussle), Jennifer Hudson (Motormouth Maybelle), Ariana Grande (Penny Pingleton), Kristin Chenoweth (Velma Von Tussle), Martin Short (Wilbur Turnblad), Garrett Clayton (Link Larkin), Ephraim Sykes (Seaweed J. Stubbs), Derek Hough (Corny Collins), Shahadi Wright Joseph (Little Inez), Andrea Martin (Prudence (Prudy) Pingleton), Sean Hayes (Mr. Pinky), Rosie O'Donnell (Gym Teacher)
