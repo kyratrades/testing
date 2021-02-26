@@ -46,7 +46,7 @@ queenofthedead
 {: .label .label-blue }
 
 FORMAT
-: MP4 `1080p` ` `3.63 GB` `
+: MP4 `1080p` `3.63 GB`
 
 CAST
 : Miriam-Teak Lee (Juliet), Cassidy Janson (Anne Hathaway), Ivan de Freitas (u/s William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), David Bedella (Lance), Jocasta Almgill (Lady Capulet/Nell), Christopher Parkinson (u/s Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Nathan Lorainey-Dineen (Gregory), Alex Tranter (Henry), Rhian Duncan (Imogen), Grace Mouat (Judith), Kieran Lai (Kempe), Danielle Fiamanya (Lucy), Dillon Scott-Lewis (Richard), Kerri Norville (Susanna)
@@ -64,7 +64,7 @@ FORMAT
 : MTS `14.77 GB`
 
 CAST
-: Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), Ivan de Freitas (u/s Lance), Jocasta Almgill (Lady Capulet/Nell), Christopher Parkinson (s/w Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan ` (Augustine), Sophie Usher (s/w Gwynne), Alex Tranter (Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Danielle Fiamanya (Lucy), Dillon Scott-Lewis (Richard), Kerri Norville (Susanna), Josh Baker (s/w Thomas)
+: Grace Mouat (u/s Juliet), Cassidy Janson (Anne Hathaway), Oliver Tompsett (William Shakespeare), Jordan Luke Gage (Romeo), Tim Mahendran (Francois), Arun Blair-Mangat (May), Melanie La Barrie (Nurse \"Angelique\"), Ivan de Freitas (u/s Lance), Jocasta Almgill (Lady Capulet/Nell), Christopher Parkinson (s/w Lord Capulet/Sly), Kirstie Skivington (Eleanor/Benvolio), Antoine Murray-Straughan (Augustine), Sophie Usher (s/w Gwynne), Alex Tranter (Henry), Rhian Duncan (Imogen), Kieran Lai (Kempe), Danielle Fiamanya (Lucy), Dillon Scott-Lewis (Richard), Kerri Norville (Susanna), Josh Baker (s/w Thomas)
 
 #### & Juliet - West End - March, 2020 
 {: .no_toc .d-inline-block }
@@ -405,7 +405,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: MP4 `720p` `227.4 MB` `21m 32s` `
+: MP4 `720p` `227.4 MB` `21m 32s`
 
 COMMENTS
 : Will trade this as the equivalent of one audio
@@ -423,7 +423,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 `480p` `3.68 GB` `
+: MP4 `480p` `3.68 GB`
 
 CAST
 : Mara Davi (Peggy Sawyer), Kyle Dean Massey (Billy Lawlor), JL Williams (Andy Lee), Rob Ouellette (Oscar)
@@ -453,7 +453,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: MP4 `720p` `3.31 GB` `
+: MP4 `720p` `3.31 GB`
 
 CAST
 : Kristen Martin (Peggy), Paul Gregory Nelson (Julian), Natalie Buster (Dorothy), Charles MacEachern (Billy), Veronica DiPerna (Annie), Chris Clay (Andy), Ira Denmark (Bert), Karen McDonald (Maggie), Rockford Sansom (Pat), Julie Rees (Phyllis), Lani Corson (Lorraine), Rob Ouellette (Oscar)
@@ -665,7 +665,7 @@ CAST
 : Adam Jacobs (Aladdin), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), James Monroe Iglehart (Genie), Clifton Davis (Sultan), Brian Gonzales (Babkak), Brandon O\'Neill (Kassim), Don Darryl Rivera (Iago), Andrew Cao (u/s Omar)
 
 NOTES
-: Act one has three major blackouts: the scene between Arabian Nights and One Jump Ahead, the scene between One Jump Ahead and Proud of Your Boy, and the last 22 minutes of the act, which is all of Friend Like Me and Act One Finale. There is also a head that blocks center stage and the action is often lost behind it. Act two is much better with no blackouts and only some heads on the bottom  `that are worked around well. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There's a lot of chatter and rustling from the audience, but the sound is otherwise excellent. Includes playbill scans.
+: Act one has three major blackouts: the scene between Arabian Nights and One Jump Ahead, the scene between One Jump Ahead and Proud of Your Boy, and the last 22 minutes of the act, which is all of Friend Like Me and Act One Finale. There is also a head that blocks center stage and the action is often lost behind it. Act two is much better with no blackouts and only some heads on the bottom that are worked around well. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There's a lot of chatter and rustling from the audience, but the sound is otherwise excellent. Includes playbill scans.
 
 #### Aladdin - Broadway - November 5, 2014
 {: .no_toc .d-inline-block }
@@ -5613,3 +5613,319 @@ FORMAT
 
 CAST
 : Michael Arden (Quasimodo), Ciara Renée (Esmeralda), Patrick Page (Dom Claude Frollo), Andrew Samonsky (Captain Phoebus de Martin), Erik Liberman (Clopin Trouillefou), Neal Mayer (Saint Aphrodisius), Jeremy Stolle (Jehan Frollo)
+
+# I
+
+## If/Then (7)
+
+#### If/Then - Broadway - March 8, 2014 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Idina Menzel (Elizabeth), LaChanze (Kate), Anthony Rapp (Lucas), James Snyder (Josh), Jerry Dixon (Stephen), Jenn Colella (Anne), Jason Tam (David), Tamika Lawrence (Elena), Joe Cassidy (Deputy Mayor and others), Miguel Cervantes (A Bartender and others), Curtis Holbrook (A Solider and others), Stephanie Klemons (A Flight Attendant and others), Tyler McGee (A Street Musician and others), Ryann Redmond (Paulette and others), Joe Aaron Reid (An Architect and others), Ann Sanders (Cathy and others)
+
+NOTES
+: Beautiful HD capture with no obstructions. Has some variations from the PreBroadway version, including cut songs, added songs and scenes. This version seems more streamlined and a great piece. A
+
+#### If/Then - Broadway - May 25, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Idina Menzel (Elizabeth), LaChanze (Kate), Anthony Rapp (Lucas), James Snyder (Josh), Jerry Dixon (Stephen), Jenn Colella (Anne), Jason Tam (David), Tamika Lawrence (Elena), Joe Cassidy (Deputy Mayor and others), Miguel Cervantes (A Bartender and others), Curtis Holbrook (A Solider and others), Stephanie Klemons (A Flight Attendant and others), Tyler McGee (A Street Musician and others), Ryann Redmond (Paulette and others), Joe Aaron Reid (An Architect and others), Ann Sanders (Cathy and others)
+
+NOTES
+: There are a couple quick dropouts during the prologue and What If?, and the first half of act one is a bit shaky, but it's much better as the show goes on. There is one head that obstructs a small portion of the front of the stage, but it never blocks more than the actors' feet and it's rarely noticeable overall. There is no washout, and the sound is excellent as usual. It's filmed in 16:9 with a mix of wides, mediums, and close-ups. Includes curtain call and playbill scans.
+
+#### If/Then - Broadway - August 30, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jackie Burns (s/b Elizabeth), LaChanze (Kate), Curtis Holbrook (t/r Lucas), Charles Hagerty (s/w Josh), Jerry Dixon (Stephen), Jenn Colella (Anne), Jason Tam (David), Tamika Lawrence (Elena), Joe Cassidy (Deputy Mayor and others), Miguel Cervantes (A Bartender and others), Kristoffer Cusick (t/r A Solider and others), Janet Krupin (s/w A Flight Attendant and others), Tyler McGee (A Street Musician and others), Megan Lewis (s/w Paulette and others), Joe Aaron Reid (An Architect and others), Ann Sanders (Cathy and others)
+
+NOTES
+: Stunning HD capture of Jackie and Charles in the lead roles. Jackie gives a flawless and powerful performance, which was beautifully sung. Flawless capture with no obstructions! \*\*BEWARE of copies where one of the VOB files has been replaced with a lower quality MP4\*\*
+
+#### If/Then - Broadway - February 22, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jackie Burns (s/b Elizabeth), LaChanze (Kate), Anthony Rapp (Lucas), James Snyder (Josh), Jerry Dixon (Stephen), Deedee Magno Hall (u/s Anne), Jason Tam (David), Tamika Lawrence (Elena), Joe Cassidy (Deputy Mayor and others), Miguel Cervantes (A Bartender and others), Marc delaCruz (s/w A Solider and others), Gabrielle Ruiz (A Flight Attendant and others), Charles Hagerty (s/w A Street Musician and others), Ryann Redmond (Paulette and others), Joe Aaron Reid (An Architect and others), Megan Lewis (s/w Cathy and others)
+
+NOTES
+: Excellent HD capture of one of Jackie\'s final performances. This day promo footage was being filmed and her parents were sitting right behind me. She held the final note in Starting Over for 19 seconds, such a wonderful performance! A
+
+#### If/Then - First National Tour - October 13, 2015 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Idina Menzel (Elizabeth), LaChanze (Kate), Anthony Rapp (Lucas), James Snyder (Josh), Daren A Herbert (Stephen), Janine DiVita (Anne), Marc delaCruz (David), Kyra Faith (Elena), Corey Greenan (Deputy Mayor and others), Cliffton Hall (A Bartender and others), Xavier Cano (A Solider and others), Alicia Taylor Tomasko (A Flight Attendant and others), Tyler McGee (A Street Musician and others), English Bernhardt (Paulette and others), Deedee Magno Hall (Cathy and others), Emily Rogers (s/w Swing)
+
+NOTES
+: Beautiful HD capture of the very first performance on tour. The cast was full of energy and really ready to perform the show, since the Broadway closing. I have never heard Idina sing the score as she had this night, great new riffs, variations and such power, nailed it!
+
+#### If/Then - First National Tour - January 24, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Idina Menzel (Elizabeth), LaChanze (Kate), Trey Ellett (u/s Lucas), James Snyder (Josh), Daren A Herbert (Stephen), Janine DiVita (Anne), Marc delaCruz (David), Kyra Faith (Elena), Corey Greenan (Deputy Mayor and others), Cliffton Hall (A Bartender and others), Xavier Cano (A Solider and others), Alicia Taylor Tomasko (A Flight Attendant and others), Tyler McGee (A Street Musician and others), English Bernhardt (Paulette and others), Deedee Magno Hall (Cathy and others)
+
+NOTES
+: Idina\'s last performance. An emotional performance by the whole cast, particularly Idina. Her feelings overcome her during Always Starting Over and the Finale, leading to roaring cheers of support from the crowd. There is also a fantastic blooper during What If: Elizabeth's phone rings and the phone is not in her pocket. Chaos ensues. A really fantastic capture with no obstruction, no washout, and just two quick dropouts in act one. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. A
+
+#### If/Then - First National Tour - March 3, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jackie Burns (Elizabeth), Tamyra Gray (Kate), Anthony Rapp (Lucas), Matthew Hydzik (Josh), Daren A Herbert (Stephen), Janine DiVita (Anne), Marc delaCruz (David), Kyra Faith (Elena), Corey Greenan (Deputy Mayor and others), Cliffton Hall (A Bartender and others), Xavier Cano (A Solider and others), Alicia Taylor Tomasko (A Flight Attendant and others), Tyler McGee (A Street Musician and others), English Bernhardt (Paulette and others), Deedee Magno Hall (Cathy and others)
+
+NOTES
+: Beautiful capture of the tour, which features three new cast members joining the tour for the leads. Jackie is such a powerhouse and driving force! A+
+
+## In the Heights (2)
+
+#### In the Heights - Broadway - March 5, 2008 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Javier Muñoz (u/s Usnavi), Mandy Gonzalez (Nina), Christopher Jackson (Benny), Karen Olivo (Vanessa), Olga Merediz (Abuela Claudia), Carlos Gomez (Kevin), Priscilla Lopez (Camila), Robin de Jesús (Sonny), Andréa Burns (Daniela), Janet Dacal (Carla), Seth Stewart (Grafitti Pete), Eliseo Roman (Piragua Guy)
+
+NOTES
+: Great capture of this great show with fantastic closeups! Javier does a smashing job. Great cast and energy. A
+
+#### In the Heights - Broadway - May 18, 2008
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lin-Manuel Miranda (Usnavi), Mandy Gonzalez (Nina), Christopher Jackson (Benny), Krysta Rodriguez (u/s Vanessa), Olga Merediz (Abuela Claudia), Carlos Gomez (Kevin), Priscilla Lopez (Camila), Robin de Jesús (Sonny), Andréa Burns (Daniela), Stephanie Klemons (u/s Carla), Seth Stewart (Grafitti Pete)
+
+## Into the Woods (8)
+
+#### Into the Woods - 10th Anniversary Reunion Concert - New York - November 9, 1997
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bernadette Peters (Witch), Chip Zien (Baker), Joanna Gleason (Baker\'s Wife), Kim Crosby (Cinderella), Danielle Ferland (Little Red Riding Hood), Ben Wright (Jack), Chuck Wagner (Wolf/Cinderella\'s Prince), Jonathan Dokuchitz (Rapunzel\'s Prince), Tom Aldredge (Narrator), Barbara Bryne (Jack\'s Mother), Joy Franz (Cinderella\'s Stepmother), Kay McClelland (Florinda), Lauren Mitchell (Lucinda), Edmund Lyndeck (Cinderella\'s Father), Jeff Blumenkrantz (Steward), Pamela Winslow (Rapunzel), Maureen Davis (Sleeping Beauty), Merle Louise (Giant\'s voice), Merle Louise (Granny/Cinderella's Mother)
+
+NOTES
+: Reunion concert; Cameraman wanders from the action a little too often, unfortunately. Sound is great however
+
+#### Into the Woods - Broadway - May, 1989
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bernadette Peters (Witch), Chip Zien (Baker), Joanna Gleason (Baker\'s Wife), Kim Crosby (Cinderella), Danielle Ferland (Little Red Riding Hood), Ben Wright (Jack), Robert Westenberg (Wolf/Cinderella\'s Prince), Chuck Wagner (Rapunzel\'s Prince), Tom Aldredge (Narrator), Tom Aldredge (Mysterious Man), Barbara Bryne (Jack\'s Mother), Joy Franz (Cinderella\'s Stepmother), Kay McClelland (Florinda), Lauren Mitchell (Lucinda), Edmund Lyndeck (Cinderella\'s Father), Phillip Hoffman (Steward), Pamela Winslow (Rapunzel), Cindy Robinson (Snow White), Merle Louise (Giant\'s voice), Merle Louise (Granny/Cinderella's Mother)
+
+NOTES
+: Proshot. Aired on March 15, 1991, but in reality it was filmed between May 23 -- 25, 1989. Filmed as a part of the Season 10 premiere episode of PBS's American Playhouse. Almost the entire original Broadway cast (the only exception being Snow White (who was pregnant) returned to film it.
+
+#### Into the Woods - Hollywood Bowl - July 26, 2019 (Opening Night) \| thehouseonsunset
+
+FORMAT
+: MP4 **\|** 3.41 GB \| 720p
+
+CAST
+: Patina Miller (Witch), Skylar Astin (Baker), Sutton Foster (Baker\'s Wife), Sierra Boggess (Cinderella), Shanice Williams (Little Red Riding Hood), Gaten Matarazzo (Jack), Cheyenne Jackson (Wolf/Cinderella\'s Prince), Chris Carmack (Rapunzel\'s Prince), Edward Hibbert (Narrator), Anthony Crivello (Mysterious Man), Rebecca Spencer (Jack\'s Mother), Evelyn Okano (Cinderella\'s Stepmother), Grace Yoo (Florinda), Stella Kim (Lucinda), Gregory North (Cinderella\'s Father), Daniel Lopez (Steward), Hailey Kilgore (Rapunzel), Whoopi Goldberg (Giant\'s voice), Tamyra Gray (Granny/Cinderella's Mother)
+
+NOTES
+: Full recording of the Hollywood Bowl Production captured from one of the video screens. The first few minutes is a shot of the stage but mostly is the multi cam video of the performance. Very Steady shot of the performance with clear audio patched over.
+
+#### Into the Woods - Hollywood Bowl - July 26, 2019 (Opening Night) (itwbroadwaytrades
+
+FORMAT
+: MP4 (HD) **\|** 3.41 GB
+
+CAST
+: Patina Miller (Witch), Skylar Astin (Baker), Sutton Foster (Baker\'s Wife), Sierra Boggess (Cinderella), Shanice Williams (Little Red Riding Hood), Gaten Matarazzo (Jack), Cheyenne Jackson (Wolf/Cinderella\'s Prince), Chris Carmack (Rapunzel\'s Prince), Edward Hibbert (Narrator), Anthony Crivello (Mysterious Man), Rebecca Spencer (Jack\'s Mother), Evelyn Okano (Cinderella\'s Stepmother), Grace Yoo (Florinda), Stella Kim (Lucinda), Gregory North (Cinderella\'s Father), Daniel Lopez (Steward), Hailey Kilgore (Rapunzel), Whoopi Goldberg (Giant\'s voice), Tamyra Gray (Granny/Cinderella's Mother)
+
+NOTES
+: A fantastic capture of this all star cast performing at the legendary Hollywood Bowl. The audience was energetic and enthusiastic throughout. Shot in a mix of wides and zooms. This video is of the actors ON STAGE, not the big screens set up around the venue. There is occasional spotlight washout, but it is quickly corrected. Shot in crystal clear HD with no obstructions.
+
+#### Into the Woods - Hollywood Bowl - July 28, 2019 (Closing Night) (Highlights)
+
+FORMAT
+: MOV (HD)
+
+CAST
+: Patina Miller (Witch), Skylar Astin (Baker), Sutton Foster (Baker\'s Wife), Sierra Boggess (Cinderella), Shanice Williams (Little Red Riding Hood), Gaten Matarazzo (Jack), Cheyenne Jackson (Wolf/Cinderella\'s Prince), Chris Carmack (Rapunzel\'s Prince), Edward Hibbert (Narrator), Anthony Crivello (Mysterious Man), Rebecca Spencer (Jack\'s Mother), Evelyn Okano (Cinderella\'s Stepmother), Grace Yoo (Florinda), Stella Kim (Lucinda), Gregory North (Cinderella\'s Father), Daniel Lopez (Steward), Hailey Kilgore (Rapunzel), Whoopi Goldberg (Giant\'s voice), Tamyra Gray (Granny/Cinderella's Mother)
+
+NOTES
+: Stageshot. Songs only.
+
+#### Into the Woods - Pittsburgh CLO - August 9, 2009 (Matinee)
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Beth Leavel (Witch), Hunter Foster (Baker), Brynn O\'Malley (Baker\'s Wife), Sara Jean Ford (Cinderella), Jennifer Cody (Little Red Riding Hood), Stanley Bahorek (Jack), Kevin Earley (Wolf/Cinderella\'s Prince), Greggory Brandt (Rapunzel\'s Prince), Betsy Lawrence (Jack\'s Mother), Kaitlyn Davidson (Rapunzel)
+
+NOTES
+: Not the closing performance as previously listed. This was the matinee performance, and the production had an evening show as their closing. A couple of minor obstructions but only in the wider shots. Almost no blackouts and nicely captured.
+
+#### Into the Woods - Regent\'s Park Open Air Theatre - September 9, 2010
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV (HD) \| 10.42 GB
+
+COMMENTS
+: H.264 1080p (Amazon rip)
+
+CAST
+: Hannah Waddingham (Witch), Mark Hadfield (Baker), Jenna Russell (Baker\'s Wife), Helen Dallimore (Cinderella), Beverly Rudd (Little Red Riding Hood), Ben Stott (Jack), Michael Xavier (Wolf/Cinderella\'s Prince), Simon Thomas (Rapunzel\'s Prince), Billy Boyle (Mysterious Man), Marilyn Cutts (Jack\'s Mother), Gaye Brown (Cinderella\'s Stepmother), Amy Ellen Richardson (Florinda), Amy Griffiths (Lucinda), Mark Goldthorp (Steward), Alice Fearn (Rapunzel), Alice Fearn (Sleeping Beauty), Dame Judi Dench (Giant\'s voice)
+
+NOTES
+: Sept 9/10, 2010. Exists in 2 versions, one is a DT rip, in 720p and low bitrate sound and video, and and Amazon rip in 1080p and high bitrate sound and video. Ask traders.
+
+#### Into the Woods - Shakespeare In The Park - August 1, 2012 (Preview) 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Donna Murphy (Witch), Denis O\'Hare (Baker), Amy Adams (Baker\'s Wife), Jessie Mueller (Cinderella), Gideon Glick (Jack), Ivan Hernandez (Wolf/Cinderella\'s Prince), Paris Remillard (u/s Rapunzel\'s Prince), Noah Radcliffe (u/s Narrator), Chip Zien (Mysterious Man), Kristine Zbornik (Jack\'s Mother), Ellen Harvey (Cinderella\'s Stepmother), Chip Zien (Cinderella\'s Father), Josh Lamon (Steward), Tess Soltau (Rapunzel), Glenn Close (Giant\'s voice)
+
+NOTES
+: Single cam, whole-stage shot, no zooms.
+
+## It Shoulda Been You (2)
+
+#### It Shoulda Been You - Broadway - April 11, 2015 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lisa Howard (Jenny Steinberg), Sierra Boggess (Rebecca Steinberg), Tyne Daly (Judy Steinberg), Harriet Harris (Georgette Howard), David Burtka (Brian Howard), Montego Glover (Annie Shepard), Josh Grisetti (Marty Kaufman), Adam Heller (Walt/Uncle Morty), Edward Hibbert (Albert), Chip Zien (Murray Steinberg), Michael X Martin (George Howard), Anne L Nathan (Mimsy/Aunt Sheila), Nick Spangler (Greg Madison)
+
+NOTES
+: Brilliant capture of the hysterical new musical. Sierra is brilliant, Tyne and Harriet are fantastic - and Lisa steals the show. Great humor in the show. A head on the left side of the stage is shot around nicely, but it is present when action is over near it. A
+
+#### It Shoulda Been You - Broadway - July 21, 2015 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Lisa Howard (Jenny Steinberg), Sierra Boggess (Rebecca Steinberg), Tyne Daly (Judy Steinberg), Harriet Harris (Georgette Howard), Aaron C Finley (u/s Brian Howard), Josh Grisetti (Marty Kaufman), Chip Zien (Murray Steinberg)
+
+NOTES
+: Includes several extra clips from the opening night red carpet, the Tonys performance, audience wedding proposals, and more.
+
+## It\'s a Bird, It\'s a Plane, It\'s Superman! (1)
+
+#### It\'s a Bird, It\'s a Plane, It\'s Superman! - Encores! - March 21, 2013
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Edward Watts, Jenny Powers, Will Swenson, Alli Mauzey, David Pittu, Craig Hennigsen, Suo Liu, Adam Monley, Jason Ng, James Saito, Scott Weber, Wendi Bergamini, Ward Billeisen, Sam Bolen, Stephen Carrasco, Hannah Florence, Sara Jean Ford, Miles Johnson, Max Kumangai, Samantha Massell, Skye Mattox, Kenita R. Miller, Michael Mindlin, Jessica Lea Patty, David Scott Purdy, Manuel Stark, Charlie Williams, Kristen Wyatt, Samantha Zack
+
+NOTES
+: Good shoot, sound couldn't be fully filtered.
+
+## It\'s Only A Play (2)
+
+#### It\'s Only A Play - Broadway - December 29, 2014
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Nathan Lane (James Wicker), Matthew Broderick (Peter Austin), Megan Mullally (Julia Budder), Stockard Channing (Virginia Noyes), F Murray Abraham (Ira Drew), Rupert Grint (Frank Finger), Micah Stock (Gus)
+
+NOTES
+: A decent capture of the play's original cast. \*The play is absolutely hysterical --- Nathan, Megan, and Micah being particularly fantastic. This capture has no washout and only minor obstruction, but most of the first 26 minutes of Act One are blacked out. After that, the show is very nicely captured with just one head that can occasionally be seen at the bottom of the screen and does not affect the action. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is very good overall, but there is more shuffling and static than usual; all of the dialogue is listenable.
+
+#### It\'s Only A Play - Broadway - January 31, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Martin Short (James Wicker), Matthew Broderick (Peter Austin), Megan Mullally (Julia Budder), Stockard Channing (Virginia Noyes), F Murray Abraham (Ira Drew), Rupert Grint (Frank Finger), Micah Stock (Gus)
+
+NOTES
+: Beautiful HD capture of the show. Martin Short makes a wonderful edition and is absolutely hilarious. This is when the production switched theatres.
