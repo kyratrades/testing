@@ -8,7 +8,8 @@ permalink: /videos
 # Videos
 {: .no_toc }
 
-<p align="center"><small>IMPORTANT</small></p>
+### Important
+{: .no_toc }
 
 <p align="center"><small>Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.</small></p>
 
