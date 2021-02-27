@@ -6144,3 +6144,692 @@ CAST
 
 NOTES
 : A little grainy, but nothing too bad. Some cover-ups in the second act. Mostly mid-stage zooms or a little closer, but no actual close-ups. Follows the action well and the sound is good. There are a couple of very brief black outs. Pretty nice for the most part. Also includes Press Reels from the show.
+
+# L
+
+## The Last Five Years (3)
+
+#### The Last Five Years - Vienna, Austria - 2007
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Rob Fowler (Jamie Wellerstein), Caroline Frank (Cathy Hiatt)
+
+NOTES
+: Proshot from the Kammeroper Wien, staged in English.
+
+#### The Last Five Years - Northlight Theatre, Skokie, IL (Chicago) -- 2001
+
+FORMAT
+: MKV \| 480p \| 3.18 GB
+
+CAST
+: Norbert Leo Butz (Jamie Wellerstein), Lauren Kennedy (Cathy Hiatt)
+
+NOTES
+: Available in various qualities. Great multicam proshot featuring Lauren Kennedy.
+
+#### The Last Five Years - Virtual - June 25-27, 2020
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 \| 720p
+
+CAST
+: Danny Becker (Jamie Wellerstein), Lauren Samuels (Cathy Hiatt)
+
+NOTES
+: Virtual lockdown performance, streamed online by The Other Palace on June 25-27, recorded at an earlier date. <https://lwtheatres.co.uk/whats-on/the-last-five-years/>
+
+## Legally Blonde (11)
+
+#### Legally Blonde - 54 Below - March 3, 2019
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 (HD) \| 1.63 GB
+
+CAST
+: Carrie St Louis (Elle Woods), Dan DeLuca (Emmett Forrest), Bobby Conte Thornton (Warner Huntington III), Haven Burton (Paulette), Raven Thomas (Vivienne Kensington), Tracy Jai Edwards (Brooke Wyndham/Shandi), Ed Watts (Professor Callahan), Delaney Westfall (Margot), Amber Ardolino (Serena), Shea Renne (Pilar), Darius Wright (Kyle/Grandmaster Chad/Dewey), Gwynne Wood (Veronica/Enid), Esteban Suero, Jessica Kundla, Jonathan Young, Lauren Urso, Salome Smith, Sonya Venugopal
+
+#### Legally Blonde - Broadway - April 14, 2007 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
+
+NOTES
+: Great fun show and nice capture. Laura was wonderful along with a fantastic cast. A-
+
+#### Legally Blonde - Broadway - May 19, 2007
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Leslie Kritzer (e/c Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (u/s Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
+
+NOTES
+: A nice capture of the show. Missing about 3 and a half minutes of the show during Legally Blonde remix and about 8 seconds of skipping at the very end during the graduation. A-
+
+#### Legally Blonde - Broadway - May 20, 2007
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Kritzer (Serena), DeQuina Moore (Pilar), Natalie Joy Johnson (Veronica/Enid)
+
+NOTES
+: Another great capture of the show. Has great sound and an over all nice sharp capture of the original cast.
+
+#### Legally Blonde - Broadway - July 1, 2007
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney), Tracy Jai Edwards (u/s Cece)
+
+NOTES
+: DeQuina Moore\'s last performance
+
+#### Legally Blonde - Broadway - September 2, 2007
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Laura Bell Bundy (Elle Woods), Andy Karl (u/s Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Matthew Risch (u/s Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
+
+#### Legally Blonde - Broadway - March 2, 2008
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Haven Burton (u/s Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Becky Gulsvig (u/s Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
+
+#### Legally Blonde - Broadway - March 16, 2008
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Gaelen Gilliland (u/s Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Haven Burton (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Stephanie Fittro (Kate/Chutney), Tiffany Engen (u/s Mom/Whitney), Lindsay Nicole Chambers (u/s Judge), Nick Kenkel (u/s Padamadan/Nikos), Rusty Mowery (u/s Padamadan/Nikos)
+
+#### Legally Blonde - Broadway - May 15, 2008
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Becky Gulsvig (u/s Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Gaelen Gilliland (u/s Paulette), Kate Shindle (Vivienne Kensington), Nicolette Hart (Brooke Wyndham/Shandi), Kevin Pariseau (u/s Professor Callahan), Kate Rockwell (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid)
+
+#### Legally Blonde - Broadway - July 26, 2008
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bailey Hanks (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Amber Efé (u/s Paulette), Kate Shindle (Vivienne Kensington), Nicolette Hart (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Kate Rockwell (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Ven Daniel (Kyle/Grandmaster Chad/Dewey), Lucia Spina (Veronica/Enid), Stephanie Fittro (Kate/Chutney), Autumn Hurlbert (Leilani)
+
+NOTES
+: Featuring the winner of MTV\'s Search for Elle Woods Series, Bailey. She did a wonderful job and very cute in the role. She also did not copy Laura\'s Elle and did it her own, which was great. Amber as Paulette did a wonderful job in the role and has such a big voice and very pretty. I never get tired of this show as it is so much fun. Beautifully captured with terrific closeups. A
+
+#### Legally Blonde - First UK Tour - October 4, 2011
+
+FORMAT
+: VOB+smalls**NFT:** Forever
+
+CAST
+: Faye Brookes (Elle Woods), Iwan Lewis (Emmett Forrest), Neil Toon (Warner Huntington III), Claire Sweeney (Paulette), Charlotte Harwood (Vivienne Kensington), Hannah Grover (Brooke Wyndham/Shandi), Dave Willetts (Professor Callahan), Sophie Isaacs (Margot), Sinead Long (Serena), Micha Richardson (Pilar), Lewis Griffiths (Kyle/Grandmaster Chad/Dewey), Gemma Baird (Veronica/Enid), Nia Jermin (Kate/Chutney)
+
+NOTES
+: An amazing capture in 16:9 wide-screen with no obstructions with action well followed. This cast is a real treat giving Impeccable sparkling performances. Brookes's Elle really shines and she is a joy to watch. A+
+
+## Lennon (1)
+
+#### Lennon - Broadway - August 21, 2005
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Will Chase (John), Chad Kimball, Chuck Cooper, Julia Murney, Julie Danao, Mandy Gonzalez, Marcy Harriell, Michael Potts, Terrence Mann
+
+NOTES
+: Digital, master, shot from 4th row of the mezz. Beautiful with lots of closeups of all of the cast members.
+
+## The Lightning Thief: The Percy Jackson Musical (1)
+
+#### The Lightning Thief: The Percy Jackson Musical - Broadway - October, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 5.07 GB
+
+CAST
+: Chris McCarrell (Percy Jackson), Kristin Stokes (Annabeth Chase), Jorrel Javier (Grover/Mr. D), James Hayden Rodriguez (Luke & others), Jalynn Steele (Sally Jackson & others), Sarah Beth Pfeifer (Clarisse & others), Ryan Knowles (Chiron & others)
+
+NOTES
+: Fantastic HD capture of the Broadway transfer of this show, filmed from the orchestra. The video starts part of the way through the first number. Act Two starts after the bus explodes. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
+
+## The Little Mermaid (7)
+
+#### The Little Mermaid - ABC Live Special - November 5, 2019
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV (HD) \| 2.74 GB
+
+CAST
+: Auli\'i Cravalho (Ariel), Queen Latifah (Ursula), Graham Phillips (Prince Eric), Shaggy (Sebastian), John Stamos (Chef Louis)
+
+#### The Little Mermaid - Broadway - January 30, 2008
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Bret Shuford (u/s Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Tyler Maynard (Flotsam), Cody Hanford (Flounder), Heidi Blickenstaff (Carlotta), John Treacy Egan (Chef Louis)
+
+NOTES
+: Great capture with great closups. The first 11 minutes after the overture are mostly blackouts due to late comers, after that no real problems. Bret did a nice job as understudy. Sierra and Sherie still rock with much greatness! Also includes the Part of Your World performance and interview on The View. A-
+
+#### The Little Mermaid - Broadway - March 29, 2008
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Betsy Morgan (u/s Ariel), Cicily Daniels (u/s Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Tyler Maynard (Flotsam), Trevor Braun (Flounder), Meredith Inglesby (Carlotta)
+
+NOTES
+: Many blackouts for the first 15 minutes of the show. Also 4 minutes missing after Scuttle checks if Prince Eric has a pulse in his feet, then resumes in the middle of \"She\'s in Love.\" Interesting to see the understudies in the roles, from the master. B
+
+#### The Little Mermaid - Broadway - June 27, 2008
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Arbender Robinson (u/s Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Jason Snow (u/s Flotsam), Brian D\'Addario (Flounder), John Treacy Egan (Chef Louis)
+
+NOTES
+: A minor blackout at the beginning of Act Two due to an usher helping someone who fell in the aisle
+
+#### The Little Mermaid - Hollywood Bowl - June 3, 2016
+
+FORMAT
+: MP4 (HD) \| 780 MB
+
+COMMENTS
+: I have no idea whether this is original
+
+CAST
+: Sara Bareilles (Ariel), Rebel Wilson (Ursula), Darren Criss (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Joshua Colley (Flounder), John Stamos (Chef Louis)
+
+NOTES
+: A wide shot focusing on the full stage and the center screen
+
+#### The Little Mermaid - Moscow - December 21, 2013 (Highlights)
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Original AVI (HD) included
+
+CAST
+: Elena Gazaeva (Ariel), Manana Gogitidze (Ursula), Evgeniy Zaytsev (Prince Eric), Aleksandr Sukhanov (King Triton), Pavel Berdnikov (Sebastian), Aleksey Bobrov (Scuttle), Oleg Fedkushov (Grimsby), Marat Yarullin (Flounder), Marat Abdrakhimov (Chef Louis)
+
+NOTES
+: Full Act 1, but only about 37 minutes of act 2. Quality: A-
+
+#### The Little Mermaid - Pre-Broadway / Denver - August 31, 2007
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Tyler Maynard (Flotsam), Cody Hanford (Flounder)
+
+NOTES
+: Amazing show and performances beautifully captured. A
+
+## Little Miss Sunshine (1)
+
+#### Little Miss Sunshine - La Jolla - February 20, 2011
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Georgi James (Olive Hoover), Hunter Foster (Richard Hoover), Jennifer Laura Thompson (Sheryl Hoover), Malcolm Gets (Frank Hoover), Taylor Trensch (Dwayne Hoover)
+
+NOTES
+: First minute or so of act one is blacked out, and there are a few quick drop-outs throughout the show, but nothing major and overall very nice. A.
+
+## A Little Night Music (10)
+
+#### A Little Night Music - Broadway Revival - May 4, 2010
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Catherine Zeta-Jones (Desiree Armfeldt), Angela Lansbury (Madame Armfeldt), Alexander Hanson (Fredrik Egerman), Ramona Mallory (Anne Egerman), Hunter Ryan Herdlicka (Henrik Egerman), Aaron Lazar (Count Carl-Magnus Malcolm), Erin Davie (Countess Charlotte Malcolm), Leigh Ann Larkin (Petra), Katherine Leigh Doherty (Fredrika Armfeldt), Bradley Dean (Frid)
+
+#### A Little Night Music - Broadway Revival - September 4, 2010
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bernadette Peters (Desiree Armfeldt), Elaine Stritch (Madame Armfeldt), Alexander Hanson (Fredrik Egerman), Ramona Mallory (Anne Egerman), Hunter Ryan Herdlicka (Henrik Egerman), Bradley Dean (Count Carl-Magnus Malcolm), Erin Davie (Countess Charlotte Malcolm), Leigh Ann Larkin (Petra), Keaton Whittaker (Fredrika Armfeldt)
+
+NOTES
+: Due to disruptions in the audience, \"Now, Later, Soon\" and a scene in Act II are replaced with those from the recording made on April 4, 2010, and the beginning of \"Liaisons\" is taken instead from a recording from a few days earlier, as is the last minute of Act I. The edits are well made, and make the best recording possible with no cast changes.
+
+#### A Little Night Music - Houston Grand Opera - March 16, 2014
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Elizabeth Futral (Desiree Armfeldt), Joyce Castle (Madame Armfeldt), Chad Shelton (Fredrik Egerman), Andrea Carroll (Anne Egerman), Brenton Ryan (Henrik Egerman), Mark Diamond (Count Carl-Magnus Malcolm), Carolyn Sproule (Countess Charlotte Malcolm), Alicia Gianni (Petra), Grace Muir (Fredrika Armfeldt)
+
+NOTES
+: This production was done by Houston Grand Opera. This is a very odd production of ALNM; the set looks more like it\'s for a production of A Midsummer Night\'s Dream.
+
+#### A Little Night Music - Kennedy Center - August 16, 2002
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: NO DVD menu
+
+CAST
+: Blair Brown (Desiree Armfeldt), Barbara Bryne (Madame Armfeldt), John Dossett (Fredrik Egerman), Sarah Uriarte Berry (Anne Egerman), Danny Gurwin (Henrik Egerman), Douglas Sills (Count Carl-Magnus Malcolm), Randy Graff (Countess Charlotte Malcolm), Natascia Diaz (Petra), Kristen Bell (Fredrika Armfeldt), Christopher Flint (Mr. Lindquist), Anna Bergman (Mrs. Nordstrom), Ilona Dulaski (Mrs. Anderssen), Peter Cormican (Mr. Erlanson), Siobhan Kolker (Mrs. Segstrom), Erik Sorensen (Frid)
+
+NOTES
+: Audience cam Kennedy Center production. Shot from first row mezz, very clear with lots of close-ups. Great production, from master. Randy Graff is amazing!
+
+#### A Little Night Music - New York City Opera - November 7, 1990
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sally Ann Howes (Desiree Armfeldt), Regina Resnik (Madame Armfeldt), George Lee Andrews (Fredrik Egerman), Beverly Lambert (Anne Egerman), Kevin Anderson (Henrik Egerman), Michael Maguire (Count Carl-Magnus Malcolm), Maureen Moore (Countess Charlotte Malcolm), Susan Terry (Petra), Danielle Ferland (Fredrika Armfeldt), Ron Baker (Mr. Lindquist), Lisa Saffer (Mrs. Nordstrom), Barbara Shirvis (Mrs. Anderssen), Michael Rees Davis (Mr. Erlanson), Susanne Marsee (Mrs. Segstrom), David Comstock (Frid)
+
+NOTES
+: Production at Lincoln Center, PBS aired, pro-shot. Very slight generational loss.
+
+#### A Little Night Music - North Shore Music Theatre, Beverly MA - September, 2000
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Donna McKechnie, Jeff McCarthy, Merle Louise, Angela Gaylor, Adam Monley, Chuck Wagner, Diana Canova, Natasha Ashworth, Julia Haubner, Jeremy Holm, Sharon Richards, Curtis Olds, Joy Hermalyn, Susan Derry, Michael Hailing
+
+#### A Little Night Music - Ravinia Festival - August, 2002
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patti LuPone (Desiree Armfeldt), Zoe Caldwell (Madame Armfeldt), George Hearn (Fredrik Egerman), Johanna McKenzie Miller (Anne Egerman), John McVeigh (Henrik Egerman), Marc Kudisch (Count Carl-Magnus Malcolm), Hollis Resnik (Countess Charlotte Malcolm), Sara Ramirez (Petra)
+
+#### A Little Night Music - San Francisco - December 7, 1998
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Meg Mackay (Desiree Armfeldt), Ruth Kobart (Madame Armfeldt), Lisa Vroman (Anne Egerman), Franc D\'Ambrosio (Henrik Egerman), Christopher Carl (Count Carl-Magnus Malcolm), Karen Culliver (Countess Charlotte Malcolm), Krista Wigle (Petra), Bonnie Rapple (Fredrika Armfeldt)
+
+NOTES
+: The San Francisco company of The Phantom Of The Opera presented this staged benefit concert. Nice two camera archival recording with sound system audio. There is a strong audio buzz.
+
+#### A Little Night Music - Théâtre Du Châtelet - 2010 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Greta Scacchi (Desiree Armfeldt), Leslie Caron (Madame Armfeldt), Lambert Wilson (Fredrik Egerman), Rebecca Bottone (Anne Egerman), David Curry (Henrik Egerman), Nicholas Garrett (Count Carl-Magnus Malcolm), Deanne Meek (Countess Charlotte Malcolm), Francesca Jackson (Petra), Celeste de Veazey (Fredrika Armfeldt)
+
+NOTES
+: This is the first production of Sondheim\'s show ever in France. Produced at the world-famous Theatre du Chatelet in Paris. In English and full stage shot with clear sound but no closeups. A
+
+#### A Little Night Music - West End Revival - July 21, 2009
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hannah Waddingham (Desiree Armfeldt), Maureen Lipman (Madame Armfeldt), Alexander Hanson (Fredrik Egerman), Jessie Buckley (Anne Egerman), Gabriel Vick (Henrik Egerman), Alistair Robins (Count Carl-Magnus Malcolm), Kelly Price (Countess Charlotte Malcolm), Kaisa Hammarlund (Petra), Lynden Edwards (Mr. Lindquist), Fiona Dunn (Mrs. Nordstrom), Laura Armstrong (Mrs. Anderssen), John Addison (Mr. Erlanson), Nicola Sloane (Mrs. Segstrom)
+
+NOTES
+: An amazing capture of the West End revival before it went to Broadway. Filmed in 16:9 with hardly any blackouts or obstructions. Does not include Curtain Call.
+
+## Little Shop of Horrors (15)
+
+#### Little Shop of Horrors - American Musical Theater Of San Jose - January-February, 2008
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 (HD) \| 1.01 GB
+
+CAST
+: Josh Lamon (Seymour), Christiane Noll (Audrey), Hal Linden (Mushnik), Todd Alan Johnson (Orin), Michael Mandell (Audrey II), Kristin McDonald (Crystal), Izetta Fang (Ronnette), Adrienne Miller (Chiffon)
+
+NOTES
+: Single camera on tripod, mix of full-stage and mid-range shots, soundboard
+
+#### Little Shop of Horrors - Broadway - September 21, 2003 (Preview)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hunter Foster (Seymour), Kerry Butler (Audrey), Rob Bartlett (Mushnik), Douglas Sills (Orin), Michael-Leon Wooley (Audrey II), Trisha Jeffrey (Crystal), Carla J Hargrove (Ronnette), DeQuina Moore (Chiffon)
+
+#### Little Shop of Horrors - Broadway - September 23, 2003 (Preview)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hunter Foster (Seymour), Kerry Butler (Audrey), Rob Bartlett (Mushnik), Douglas Sills (Orin), Michael-Leon Wooley (Audrey II), Trisha Jeffrey (Crystal), Carla J Hargrove (Ronnette), DeQuina Moore (Chiffon)
+
+NOTES
+: Very nice capture and taper follows action well and not too many coverups. Includes Theater Talk segment. A
+
+#### Little Shop of Horrors - Cape Playhouse - July, 2019 (Highlights)
+
+FORMAT
+: MP4 (HD) \| 580.1 MB
+
+COMMENTS
+: 13 MP4 files in total
+
+CAST
+: Andrew Keenan-Bolger (Seymour), Lauren Zakrin (Audrey), Stephen Berger (Mushnik), Miles Jacoby (Orin), Rema Webb (Audrey II), Nia Marché (Crystal), Talitha Farrow (Ronnette)
+
+NOTES
+: Highlights running around 40 minutes long, only known video from this production. 1080p/720p YouTube rips. Clips include: Little Shop of Horrors, Skid Row (Downtown), Da-Doo, Grow for Me, Ya Never Know, Somewhere That\'s Green x2, Dentist!, Now (It\'s Just the Gas), Suddenly, Seymour, Sominex/Suppertime (Reprise) through Somewhere That\'s Green (Reprise), and Don\'t Feed the Plants, filmed at multiple performances due to overlapping songs that were filmed from different angles.
+
+#### Little Shop of Horrors - Constellation Theatre Company - November 22, 2019 \| theatrecouple14
+
+FORMAT
+: MP4 (HD)
+
+\*\* NOT FOR SALE
+
+CAST
+: Christian Montgomery (Seymour), Teresa Quigley Danskey (Audrey), Robert John Biedermann (Mushnik), Scott Ward Abernethy (Orin), Marty Austin Lamar (Audrey II), Chani Wereley (Crystal), Alana S Thomas (Ronnette), Selena Clyne-Galindo (Chiffon)
+
+NOTES
+: Perfect audio, very obstructed video, but the stuff you can see is great. Wonderful performances from entire cast. Enthusiastic audience. Please don\'t sell. Gifting encouraged.
+
+#### Little Shop of Horrors - Encores! Off-Center - July 1, 2015 (Opening Night) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jake Gyllenhaal (Seymour), Ellen Greene (Audrey), Joe Grifasi (Mushnik), Taran Killam (Orin), Eddie Cooper (Audrey II), Marva Hicks (Crystal), Ramona Keller (Ronnette), Tracy Nicole Chapman (Chiffon)
+
+NOTES
+: Opening Night filmed from the very back of City Center, so there is some spotlight washout that\'s never too bad and a head that\'s shot well around. A-
+
+#### Little Shop of Horrors - Encores! Off-Center - July 2, 2015 (Matinee)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jake Gyllenhaal (Seymour), Ellen Greene (Audrey), Joe Grifasi (Mushnik), Taran Killam (Orin), Eddie Cooper (Audrey II), Marva Hicks (Crystal), Ramona Keller (Ronnette), Tracy Nicole Chapman (Chiffon)
+
+NOTES
+: Beautiful HD capture of the Encores Summer Series. Ellen and Jake were perfection and this was the 2015 show that was not to be missed! The last 15 mins (customers coming in and song/scene finale don\'t feed the plants) are mostly blind shot, where a few times no action can be seen. Everything else is there and beautiful. A-
+
+#### Little Shop of Horrors - Japan Tour - October, 1987
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bert Hilkes (Seymour), Marsha Waterbury (Audrey), David Kaiserman (Mushnik), David Jordan (Orin), Tyrone Aiken (Audrey II), Angel Jemmott (Crystal), Natalie Oliver (Ronnette), Sharon Lorraine-Young (Chiffon)
+
+NOTES
+: Clear, slightly faint picture. Broadcast on Japanese TV. Often misidentified as the original Off-Broadway production, this production toured Japan and was directed by Victor Valentine.
+
+#### Little Shop of Horrors - Off-Broadway - June, 1984
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Brad Moranz (Seymour), Marsha Skaggs (Audrey), Fyvush Finkel (Mushnik), Robert Frisch (Orin), Ron Taylor (Audrey II), Jennifer Leigh Warren (Crystal), Sheila Kay Davis (Ronnette), Lelani Jones (Chiffon), Lynn Hippen (Derelict)
+
+NOTES
+: Fyvush Finkel served as the understudy for Mr. Mushnik in the original cast, while Brad Moraz served as the understudy for Seymour, Audrey II, and Orin/Everyone Else. Marsha Waterbury (under her maiden name Marsha Skaggs) would go on to play Audrey in a few regional productions of Little Shop, as well as an English-language production that toured Japan between 1986 and 1987. Sometimes circulated as a YouTube rip of the original VOB files watermarked from \"The Little Shop Archive.\"
+
+#### Little Shop of Horrors - Off-Broadway Revival - January 24, 2020 (Highlights)
+
+FORMAT
+: MP4 (HD)
+
+CAST
+: Gideon Glick (Seymour), Tammy Blanchard (Audrey), Tom Alan Robbins (Mushnik), Christian Borle (Orin), Kingsley Leggs (Audrey II), Salome Smith (Crystal), Ari Groover (Ronnette), Joy Woods (Chiffon)
+
+NOTES
+: Highlights include from \"Dentist!\" to \"Mushnik and Son\" and from \"Suddenly Seymour\" to \"Suppertime\"
+
+#### Little Shop of Horrors - Pasadena Playhouse - October 13, 2019
+
+FORMAT
+: MOV \| 1080p \| 743.7 MB
+
+COMMENTS
+: Original format
+
+CAST
+: George Salazar (Seymour), MJ Rodriguez (Audrey), Kevin Chamberlin (Mushnik), Matthew Wilkas (Orin), Amber Riley (Audrey II), Cheyenne Isabel Wells (Crystal), Brittany Campbell (Ronnette), Tickwanya Jones (Chiffon), Brittany Campbell, Cheyenne Isabel Wells, Tickwanya Jones
+
+NOTES
+: Includes the full show and the curtain call. There is some drifting in Act One, but it isn't as prevalent in Act Two. There are a lot of obstructions, but I was (mostly) able to film around them. The only part that was really blocked was Somewhere That's Green. Somewhere That's Green (Reprise) is the only majorly whitewashed part, but other than that it's not too much of an issue. Overall, it's a pretty decent capture of the show, considering it's my first video master.
+
+#### Little Shop of Horrors - Pre-Broadway - June 5, 2003
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hunter Foster (Seymour), Alice Ripley (Audrey), Lee Wilkof (Mushnik), Reg Rogers (Orin), Billy Porter (Audrey II), Dioni Michelle Collins (Crystal), Haneefah Wood (Ronnette), Moeisha McGill (Chiffon)
+
+#### Little Shop of Horrors - Revival National Tour - July 3, 2005
+
+FORMAT
+: VOB+smalls \| 3.43 GB
+
+COMMENTS
+: This is the correct file
+
+CAST
+: Jonathan Rayson (Seymour), Yvette Lawrence (u/s Audrey), Lenny Wolpe (Mushnik), James Moye (Orin), Michael James Leslie (Audrey II), Iris Burruss (u/s Crystal), Latonya Holmes (Ronnette), Yasmeen Sulieman (Chiffon)
+
+NOTES
+: Understudies for Audrey and Crystal. Great performances. Crystal clear picture and sound. A+
+
+#### Little Shop of Horrors - Third Mexico City Revival - May 4, 2019 \| MozartWasCrazy
+
+FORMAT
+: MP4 (HD) \| 11.30 GB
+
+CAST
+: Daniela Pasquel (Seymour), Eduardo Garduño Corte (Audrey), Sergio Arturo Rodriguez Valencia (Mushnik), Andres Peña Loyo (Audrey II), Barbara Lorena Rivera Vilches (Crystal), Andrea Viruega Gunther (Ronnette), Daniela Losana Ocampo (Chiffon)
+
+NOTES
+: Third Revival Of Little Shop Of Horrors in Mexico City, Limited Run!
+
+#### Little Shop of Horrors - UK Tour - May 4, 2009 (Opening Night)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Damian Humbley (Seymour), Clare Buckfield (Audrey), Sylvester McCoy (Mushnik), Alex Ferns (Orin), Clive Rowe (Audrey II), Nadia Di Mambro (Crystal), Donna Hines (Ronnette), Lara Martin (Chiffon)
+
+NOTES
+: Average quality. Follows most of the action.
+
+## Little Women (1)
+
+#### Little Women - Broadway - December 11, 2004 (Preview)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sutton Foster (Jo), Danny Gurwin (Laurie), Megan McGinnis (Beth), Jenny Powers (Meg), Amy McAlexander (Amy), Maureen McGovern (Marmee), Janet Carroll (Aunt March), John Hickok (Professor Bhaer), Robert Stattel (Mr. Laurence), Jim Weitzer (Mr. Brooke)
+
+NOTES
+: Excellent video capture of the show! A little spotlight washout in the first 15 mins. Sound is excellent throughout. Also includes short Preview piece from NY1.
+
+## Love Cycle: A Soap Operetta (1)
+
+#### Love Cycle: A Soap Operetta - Commercial Release/Pro-shot - February 9, 1984
+
+FORMAT
+: MP4 (SD) \| 145.9 MB
+
+CAST
+: Walter Bobbie (Malcolm MacBeagle), Priscilla Lopez (Debra), Patti LuPone (Rachel Burston), Martin Vidnovic (Steve Burston), Joe Hudson (Laundry Doer 1), Lonny Price (Laundry Doer 2), Ellen Foley (Laundry Doer 3)
+
+NOTES
+: A musical that takes place in a laundromat, where Patti LuPone plays a ghost who lives in one of the dryers and offers advice to the patrons. This pro-shot video, filmed for TV, reunites the 1979 cast of the Off-Broadway musical of the same name. This was intended to be the pilot for a series of lesser-known musicals to be televised, but the series was never picked up.
+
+## Love Never Dies (3)
+
+#### Love Never Dies - First National Tour - September 25, 2018
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Bronson Norris Murphy (The Phantom), Meghan Picerno (Christine Daaé), Sean Thompson (Raoul, Vicomte de Chagny), Karen Mason (Madame Giry), Mary Michael Patterson (Meg Giry), Katrina Kemp (Fleck), Richard Koons (Squelch), Stephen Petrovich (Gangle), Jake Heston Miller (Gustave)
+
+NOTES
+: Wonderful HD capture of the reworked North American Tour. Everything is nicely captured and great performances from the cast. I really enjoyed this production and cast! A
+
+#### Love Never Dies - Melbourne - September 15, 2011
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV (HD) \| 5.31 GB
+
+CAST
+: Ben Lewis (The Phantom), Anna O'Byrne (Christine Daaé), Simon Gleeson (Raoul, Vicomte de Chagny), Maria Mercedes (Madame Giry), Sharon Millerchip (Meg Giry), Emma J Hawkins (Fleck), Paul Ettore Tabone (Squelch), Dean Vince (Gangle), Jack Lyall (Gustave)
+
+NOTES
+: Pro-shot of the revamped Australian Production. Released on BluRay.
+
+#### Love Never Dies - West End - June 25, 2010 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ramin Karimloo (The Phantom), Sierra Boggess (Christine Daaé), Joseph Millson (Raoul, Vicomte de Chagny), Liz Robertson (Madame Giry), Summer Strallen (Meg Giry)
+
+NOTES
+: House cam pro-shot. Pre-changes. Mic seems to cut out toward the end of \"The Beauty Underneath\" but is back by \"The Phantom Confronts Christine.\"
