@@ -10,6 +10,12 @@ permalink: /videos
 
 Shows are organised alphabetically and all videos are in chronological order under each show. If a show is sub-divided by tour, the tours will be organised in chronological order as well.
 
+I have checked every bootleg before listing them onto my site for missing files/glitches and will list any issues. However, although unlikely, I may still have missed something.
+
+If you have a better copy than my existing one please do tell me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case.
+
+I have listed information I deem relevant (no. of discs, file size, source etc.). File size is calculated in gibibytes (1 GB = 1024 MB).
+
 <details close markdown="block">
   <summary>
     Table of contents
