@@ -6021,3 +6021,104 @@ FORMAT
 
 CAST
 : Jason Tam (Peter Patrone), John Legend (Jesus Christ), Brandon Victor Dixon (Judas Iscariot), Sara Bareilles (Mary Magdalene), Ben Daniels (Pontius Pilate), Norm Lewis (Caiaphas), Jin Ha (Annas), Alice Cooper (King Herod)
+
+# K
+
+## Kiss Me, Kate
+
+#### Kiss Me, Kate - Television Production - November 20, 1958
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.70 GB`
+
+CAST
+: Patricia Morison (Lilli Vanessi / Katharine), Alfred Drake (Fred Graham / Petruchio), Eva Jessye (Hattie), Lorenzo Fuller (Paul), Lee Richardson (Ralph), Julie Wilson (Lois Lane / Bianca), Bill Hayes (Bill Calhoun / Lucentio), Robinson Stone (Harry Trevor / Baptista), Paul McGrath (Harrison Howell), Harvey Lembeck (Gangster / First Man), Jack Klugman (Gangster / Second Man)
+
+NOTES
+: Surviving kinescope print.
+
+#### Kiss Me, Kate - British Television Production - April 21, 1964
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+COMMENTS
+: The last few minutes of the last VOB (VTS_01_4.VOB) glitches, but you can play nearly the whole show in full. Please do tell me if you have a fully functional copy!
+
+FORMAT
+: VOB+smalls `1 DVD` `3.31 GB`
+
+CAST
+: Patricia Morison (Lilli Vanessi / Katharine), Howard Keel (Fred Graham / Petruchio), Isabelle Lucas (Hattie), Millicent Martin (Lois Lane / Bianca), Irving Davies (Bill Calhoun / Lucentio), Eric Barker (Harrison Howell), Danny Green (Gangster / First Man), Bill Owen (Gangster / Second Man)
+
+NOTES
+: This version was rewritten and abbreviated to fit within its 95-minute time slot. A little on the dark side, in black and white with a slight blue tinge, has producer's counter numbers hard-coded on the screen in the upper third. This version of the show was produced for the launch of a new station in the UK. After months of preparing the launch of the new television station---with it's brand-new 625 line resolution (until then UK TV's had a resolution of 405 lines)---the night turned out to be a disaster. 50 minutes before the launch, a fire broke out at a local power station, cutting power to most of London but not the television station. They started the evening's news show which was to be followed by this broadcast, but it soon became clear that there was no audience, and after a few minutes, the schedule was abandoned. The production was instead shown the next day. The date that's superimposed on the video is April 20, 1964---the originally scheduled night. It is unclear if this is a fi
+
+#### Kiss Me, Kate - US National Tour - June 24, 2001
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Rachel York (Lilli Vanessi / Katharine), Rex Smith (Fred Graham / Petruchio), Susan Beaubian (Hattie), Randy Donaldson (Paul), Nancy Anderson (Lois Lane / Bianca), Jim Newman (Bill Calhoun / Lucentio), Herman Petras (Harry Trevor / Baptista), Chuck Wagner (Harrison Howell), Richard Poe (Gangster / First Man), Michael Arkin (Gangster / Second Man), Carmen Yurich, Carol Lee Meadows, Ivy Fox, Jody Reynard, John D Baker, John Treacy Egan, Juliet Fischer, Keith Howard, Kevin B McGlynn, Kimberly Dawn Neumann, Laura Marie Crosta, Marci Reid, Margaret Shafer, Matthew J Vargo, Michael Lackey, Rachel Lafer, Rommy Sandhu, Stephen Reed, Steven Sofia, Tina Marie Casamento
+
+#### Kiss Me, Kate - London - August, 2002
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: `1` MKV `480p` `2.11 GB`
+: `2` MKV `1080p` `Blu-ray REMUX`
+
+CAST
+: Rachel York (Lilli Vanessi / Katharine), Brent Barrett (Fred Graham / Petruchio), Kaye Brown (Hattie), Nolan Frederick (Paul), Alan Vicary (Ralph), Nancy Anderson (Lois Lane / Bianca), Michael Berresse (Bill Calhoun / Lucentio), Colin Farrell (Harry Trevor / Baptista), Duncan Smith (Pops), Nicolas Colicos (Harrison Howell), Teddy Kemper (Gangster / First Man), Jack Chissick (Gangster / Second Man)
+
+NOTES
+: Pro-shot for \"Great Performances\" on PBS.
+
+#### Kiss Me, Kate - BBC Proms - August 2, 2014
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `6.32 GB`
+
+CAST
+: Alexandra Silber (Lilli Vanessi / Katharine), Ben Davis (Fred Graham / Petruchio), Louise Marshall (Hattie), Jason Pennycooke (Paul), Christopher Howell (Ralph), Louise Dearman (Lois Lane / Bianca), Tony Yazbeck (Bill Calhoun / Lucentio), Ian Talbot (Harry Trevor / Baptista), Alex Bourne (Harrison Howell), James Doherty (Gangster / First Man), Michael Jibson (Gangster / Second Man)
+
+NOTES
+: The concert used the original 1948 version of the show in a new critical edition by David Charles Abell and Seann Alderking.
+
+#### Kiss Me, Kate - Third Broadway Revival - March, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Kelli O'Hara (Lilli Vanessi / Katharine), Will Chase (Fred Graham / Petruchio), Adrienne Walker (Hattie), James T Lane (Paul), Stephanie Styles (Lois Lane / Bianca), Corbin Bleu (Bill Calhoun / Lucentio), Mel Johnson Jr (Harry Trevor / Baptista), Terence Archie (Harrison Howell), John Pankow (Gangster / First Man), Lance Coadie Williams (Gangster / Second Man)
+
+## Kiss of the Spider Woman
+
+#### Kiss of the Spider Woman - First National Tour - 1995
+
+FORMAT
+: VOB+smalls `1 DVD` `3.67 GB`
+
+CAST
+: Chita Rivera (Aurora/The Spider Woman), Juan Chioran (Molina), John Dossett (Valentin), Juliet Lambert (Marta), Mark Zimmerman (Warden), Rita Gardner (Mother), Wade Williams (Esteban), Robert Jensen (Marcos)
+
+NOTES
+: A little grainy, but nothing too bad. Some cover-ups in the second act. Mostly mid-stage zooms or a little closer, but no actual close-ups. Follows the action well and the sound is good. There are a couple of very brief black outs. Pretty nice for the most part. Also includes Press Reels from the show.
