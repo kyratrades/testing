@@ -8,8 +8,7 @@ permalink: /videos
 # Videos
 {: .no_toc }
 
-### IMPORTANT
-{: .no_toc }
+<p align="center"><small>IMPORTANT</small></p>
 
 <p align="center"><small>Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.</small></p>
 
@@ -20,6 +19,8 @@ permalink: /videos
 <p align="center"><small>I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB).</small></p>
 
 <p align="center"><small>Happy trading!</small></p>
+
+---
 
 ### Navigation
 {: .no_toc }
@@ -34,6 +35,7 @@ permalink: /videos
 - TOC
 {:toc}
 </details>
+
 ---
 
 # \#
