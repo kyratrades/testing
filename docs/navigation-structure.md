@@ -483,7 +483,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 `720p` `2.12 GB` `
+: MP4 `720p` `2.12 GB`
 
 CAST
 : Kimberly Immanuel (Peggy Sawyer), Gene Weygandt (Julian Marsh), Suzzanne Douglas (Dorothy Brock), Phillip Attmore (Billy Lawlor), Justin Brill (Bert Barry), Donica Lynn (Maggie Jones), Sierra Schnack (Annie), Annie Jo Ermel (Phyllis Dale), Mandy Modic (Lorraine Flemming), Brandon Springman (Pat Denning), Erica Evans (Andy Lee)
@@ -5616,7 +5616,7 @@ CAST
 
 # I
 
-## If/Then (7)
+## If/Then
 
 #### If/Then - Broadway - March 8, 2014 (Preview)
 {: .no_toc .d-inline-block }
@@ -5625,7 +5625,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Idina Menzel (Elizabeth), LaChanze (Kate), Anthony Rapp (Lucas), James Snyder (Josh), Jerry Dixon (Stephen), Jenn Colella (Anne), Jason Tam (David), Tamika Lawrence (Elena), Joe Cassidy (Deputy Mayor and others), Miguel Cervantes (A Bartender and others), Curtis Holbrook (A Solider and others), Stephanie Klemons (A Flight Attendant and others), Tyler McGee (A Street Musician and others), Ryann Redmond (Paulette and others), Joe Aaron Reid (An Architect and others), Ann Sanders (Cathy and others)
@@ -5640,7 +5640,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Idina Menzel (Elizabeth), LaChanze (Kate), Anthony Rapp (Lucas), James Snyder (Josh), Jerry Dixon (Stephen), Jenn Colella (Anne), Jason Tam (David), Tamika Lawrence (Elena), Joe Cassidy (Deputy Mayor and others), Miguel Cervantes (A Bartender and others), Curtis Holbrook (A Solider and others), Stephanie Klemons (A Flight Attendant and others), Tyler McGee (A Street Musician and others), Ryann Redmond (Paulette and others), Joe Aaron Reid (An Architect and others), Ann Sanders (Cathy and others)
@@ -5655,7 +5655,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Jackie Burns (s/b Elizabeth), LaChanze (Kate), Curtis Holbrook (t/r Lucas), Charles Hagerty (s/w Josh), Jerry Dixon (Stephen), Jenn Colella (Anne), Jason Tam (David), Tamika Lawrence (Elena), Joe Cassidy (Deputy Mayor and others), Miguel Cervantes (A Bartender and others), Kristoffer Cusick (t/r A Solider and others), Janet Krupin (s/w A Flight Attendant and others), Tyler McGee (A Street Musician and others), Megan Lewis (s/w Paulette and others), Joe Aaron Reid (An Architect and others), Ann Sanders (Cathy and others)
@@ -5670,7 +5670,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Jackie Burns (s/b Elizabeth), LaChanze (Kate), Anthony Rapp (Lucas), James Snyder (Josh), Jerry Dixon (Stephen), Deedee Magno Hall (u/s Anne), Jason Tam (David), Tamika Lawrence (Elena), Joe Cassidy (Deputy Mayor and others), Miguel Cervantes (A Bartender and others), Marc delaCruz (s/w A Solider and others), Gabrielle Ruiz (A Flight Attendant and others), Charles Hagerty (s/w A Street Musician and others), Ryann Redmond (Paulette and others), Joe Aaron Reid (An Architect and others), Megan Lewis (s/w Cathy and others)
@@ -5685,7 +5685,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Idina Menzel (Elizabeth), LaChanze (Kate), Anthony Rapp (Lucas), James Snyder (Josh), Daren A Herbert (Stephen), Janine DiVita (Anne), Marc delaCruz (David), Kyra Faith (Elena), Corey Greenan (Deputy Mayor and others), Cliffton Hall (A Bartender and others), Xavier Cano (A Solider and others), Alicia Taylor Tomasko (A Flight Attendant and others), Tyler McGee (A Street Musician and others), English Bernhardt (Paulette and others), Deedee Magno Hall (Cathy and others), Emily Rogers (s/w Swing)
@@ -5700,7 +5700,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Idina Menzel (Elizabeth), LaChanze (Kate), Trey Ellett (u/s Lucas), James Snyder (Josh), Daren A Herbert (Stephen), Janine DiVita (Anne), Marc delaCruz (David), Kyra Faith (Elena), Corey Greenan (Deputy Mayor and others), Cliffton Hall (A Bartender and others), Xavier Cano (A Solider and others), Alicia Taylor Tomasko (A Flight Attendant and others), Tyler McGee (A Street Musician and others), English Bernhardt (Paulette and others), Deedee Magno Hall (Cathy and others)
@@ -5715,7 +5715,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Jackie Burns (Elizabeth), Tamyra Gray (Kate), Anthony Rapp (Lucas), Matthew Hydzik (Josh), Daren A Herbert (Stephen), Janine DiVita (Anne), Marc delaCruz (David), Kyra Faith (Elena), Corey Greenan (Deputy Mayor and others), Cliffton Hall (A Bartender and others), Xavier Cano (A Solider and others), Alicia Taylor Tomasko (A Flight Attendant and others), Tyler McGee (A Street Musician and others), English Bernhardt (Paulette and others), Deedee Magno Hall (Cathy and others)
@@ -5723,7 +5723,7 @@ CAST
 NOTES
 : Beautiful capture of the tour, which features three new cast members joining the tour for the leads. Jackie is such a powerhouse and driving force! A+
 
-## In the Heights (2)
+## In the Heights
 
 #### In the Heights - Broadway - March 5, 2008 (Preview)
 {: .no_toc .d-inline-block }
@@ -5732,7 +5732,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Javier Muñoz (u/s Usnavi), Mandy Gonzalez (Nina), Christopher Jackson (Benny), Karen Olivo (Vanessa), Olga Merediz (Abuela Claudia), Carlos Gomez (Kevin), Priscilla Lopez (Camila), Robin de Jesús (Sonny), Andréa Burns (Daniela), Janet Dacal (Carla), Seth Stewart (Grafitti Pete), Eliseo Roman (Piragua Guy)
@@ -5741,25 +5741,15 @@ NOTES
 : Great capture of this great show with fantastic closeups! Javier does a smashing job. Great cast and energy. A
 
 #### In the Heights - Broadway - May 18, 2008
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `No DVD menu`
 
 CAST
 : Lin-Manuel Miranda (Usnavi), Mandy Gonzalez (Nina), Christopher Jackson (Benny), Krysta Rodriguez (u/s Vanessa), Olga Merediz (Abuela Claudia), Carlos Gomez (Kevin), Priscilla Lopez (Camila), Robin de Jesús (Sonny), Andréa Burns (Daniela), Stephanie Klemons (u/s Carla), Seth Stewart (Grafitti Pete)
 
-## Into the Woods (8)
-
-#### Into the Woods - 10th Anniversary Reunion Concert - New York - November 9, 1997
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Bernadette Peters (Witch), Chip Zien (Baker), Joanna Gleason (Baker\'s Wife), Kim Crosby (Cinderella), Danielle Ferland (Little Red Riding Hood), Ben Wright (Jack), Chuck Wagner (Wolf/Cinderella\'s Prince), Jonathan Dokuchitz (Rapunzel\'s Prince), Tom Aldredge (Narrator), Barbara Bryne (Jack\'s Mother), Joy Franz (Cinderella\'s Stepmother), Kay McClelland (Florinda), Lauren Mitchell (Lucinda), Edmund Lyndeck (Cinderella\'s Father), Jeff Blumenkrantz (Steward), Pamela Winslow (Rapunzel), Maureen Davis (Sleeping Beauty), Merle Louise (Giant\'s voice), Merle Louise (Granny/Cinderella's Mother)
-
-NOTES
-: Reunion concert; Cameraman wanders from the action a little too often, unfortunately. Sound is great however
+## Into the Woods
 
 #### Into the Woods - Broadway - May, 1989
 {: .no_toc .d-inline-block }
@@ -5768,7 +5758,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `Commercial DVD` `4.20 GB`
 
 CAST
 : Bernadette Peters (Witch), Chip Zien (Baker), Joanna Gleason (Baker\'s Wife), Kim Crosby (Cinderella), Danielle Ferland (Little Red Riding Hood), Ben Wright (Jack), Robert Westenberg (Wolf/Cinderella\'s Prince), Chuck Wagner (Rapunzel\'s Prince), Tom Aldredge (Narrator), Tom Aldredge (Mysterious Man), Barbara Bryne (Jack\'s Mother), Joy Franz (Cinderella\'s Stepmother), Kay McClelland (Florinda), Lauren Mitchell (Lucinda), Edmund Lyndeck (Cinderella\'s Father), Phillip Hoffman (Steward), Pamela Winslow (Rapunzel), Cindy Robinson (Snow White), Merle Louise (Giant\'s voice), Merle Louise (Granny/Cinderella's Mother)
@@ -5776,38 +5766,17 @@ CAST
 NOTES
 : Proshot. Aired on March 15, 1991, but in reality it was filmed between May 23 -- 25, 1989. Filmed as a part of the Season 10 premiere episode of PBS's American Playhouse. Almost the entire original Broadway cast (the only exception being Snow White (who was pregnant) returned to film it.
 
-#### Into the Woods - Hollywood Bowl - July 26, 2019 (Opening Night) \| thehouseonsunset
+#### Into the Woods - 10th Anniversary Reunion Concert - New York - November 9, 1997
+{: .no_toc .d-inline-block }
 
 FORMAT
-: MP4 **\|** 3.41 GB \| 720p
+: VOB+smalls `1 DVD` `4.00 GB`
 
 CAST
-: Patina Miller (Witch), Skylar Astin (Baker), Sutton Foster (Baker\'s Wife), Sierra Boggess (Cinderella), Shanice Williams (Little Red Riding Hood), Gaten Matarazzo (Jack), Cheyenne Jackson (Wolf/Cinderella\'s Prince), Chris Carmack (Rapunzel\'s Prince), Edward Hibbert (Narrator), Anthony Crivello (Mysterious Man), Rebecca Spencer (Jack\'s Mother), Evelyn Okano (Cinderella\'s Stepmother), Grace Yoo (Florinda), Stella Kim (Lucinda), Gregory North (Cinderella\'s Father), Daniel Lopez (Steward), Hailey Kilgore (Rapunzel), Whoopi Goldberg (Giant\'s voice), Tamyra Gray (Granny/Cinderella's Mother)
+: Bernadette Peters (Witch), Chip Zien (Baker), Joanna Gleason (Baker\'s Wife), Kim Crosby (Cinderella), Danielle Ferland (Little Red Riding Hood), Ben Wright (Jack), Chuck Wagner (Wolf/Cinderella\'s Prince), Jonathan Dokuchitz (Rapunzel\'s Prince), Tom Aldredge (Narrator), Barbara Bryne (Jack\'s Mother), Joy Franz (Cinderella\'s Stepmother), Kay McClelland (Florinda), Lauren Mitchell (Lucinda), Edmund Lyndeck (Cinderella\'s Father), Jeff Blumenkrantz (Steward), Pamela Winslow (Rapunzel), Maureen Davis (Sleeping Beauty), Merle Louise (Giant\'s voice), Merle Louise (Granny/Cinderella's Mother)
 
 NOTES
-: Full recording of the Hollywood Bowl Production captured from one of the video screens. The first few minutes is a shot of the stage but mostly is the multi cam video of the performance. Very Steady shot of the performance with clear audio patched over.
-
-#### Into the Woods - Hollywood Bowl - July 26, 2019 (Opening Night) (itwbroadwaytrades
-
-FORMAT
-: MP4 (HD) **\|** 3.41 GB
-
-CAST
-: Patina Miller (Witch), Skylar Astin (Baker), Sutton Foster (Baker\'s Wife), Sierra Boggess (Cinderella), Shanice Williams (Little Red Riding Hood), Gaten Matarazzo (Jack), Cheyenne Jackson (Wolf/Cinderella\'s Prince), Chris Carmack (Rapunzel\'s Prince), Edward Hibbert (Narrator), Anthony Crivello (Mysterious Man), Rebecca Spencer (Jack\'s Mother), Evelyn Okano (Cinderella\'s Stepmother), Grace Yoo (Florinda), Stella Kim (Lucinda), Gregory North (Cinderella\'s Father), Daniel Lopez (Steward), Hailey Kilgore (Rapunzel), Whoopi Goldberg (Giant\'s voice), Tamyra Gray (Granny/Cinderella's Mother)
-
-NOTES
-: A fantastic capture of this all star cast performing at the legendary Hollywood Bowl. The audience was energetic and enthusiastic throughout. Shot in a mix of wides and zooms. This video is of the actors ON STAGE, not the big screens set up around the venue. There is occasional spotlight washout, but it is quickly corrected. Shot in crystal clear HD with no obstructions.
-
-#### Into the Woods - Hollywood Bowl - July 28, 2019 (Closing Night) (Highlights)
-
-FORMAT
-: MOV (HD)
-
-CAST
-: Patina Miller (Witch), Skylar Astin (Baker), Sutton Foster (Baker\'s Wife), Sierra Boggess (Cinderella), Shanice Williams (Little Red Riding Hood), Gaten Matarazzo (Jack), Cheyenne Jackson (Wolf/Cinderella\'s Prince), Chris Carmack (Rapunzel\'s Prince), Edward Hibbert (Narrator), Anthony Crivello (Mysterious Man), Rebecca Spencer (Jack\'s Mother), Evelyn Okano (Cinderella\'s Stepmother), Grace Yoo (Florinda), Stella Kim (Lucinda), Gregory North (Cinderella\'s Father), Daniel Lopez (Steward), Hailey Kilgore (Rapunzel), Whoopi Goldberg (Giant\'s voice), Tamyra Gray (Granny/Cinderella's Mother)
-
-NOTES
-: Stageshot. Songs only.
+: Reunion concert; Cameraman wanders from the action a little too often, unfortunately. Sound is great however.
 
 #### Into the Woods - Pittsburgh CLO - August 9, 2009 (Matinee)
 {: .no_toc .d-inline-block }
@@ -5816,7 +5785,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Beth Leavel (Witch), Hunter Foster (Baker), Brynn O\'Malley (Baker\'s Wife), Sara Jean Ford (Cinderella), Jennifer Cody (Little Red Riding Hood), Stanley Bahorek (Jack), Kevin Earley (Wolf/Cinderella\'s Prince), Greggory Brandt (Rapunzel\'s Prince), Betsy Lawrence (Jack\'s Mother), Kaitlyn Davidson (Rapunzel)
@@ -5831,10 +5800,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV (HD) \| 10.42 GB
-
-COMMENTS
-: H.264 1080p (Amazon rip)
+: MKV `1080p` `10.42 GB` `Amazon rip`
 
 CAST
 : Hannah Waddingham (Witch), Mark Hadfield (Baker), Jenna Russell (Baker\'s Wife), Helen Dallimore (Cinderella), Beverly Rudd (Little Red Riding Hood), Ben Stott (Jack), Michael Xavier (Wolf/Cinderella\'s Prince), Simon Thomas (Rapunzel\'s Prince), Billy Boyle (Mysterious Man), Marilyn Cutts (Jack\'s Mother), Gaye Brown (Cinderella\'s Stepmother), Amy Ellen Richardson (Florinda), Amy Griffiths (Lucinda), Mark Goldthorp (Steward), Alice Fearn (Rapunzel), Alice Fearn (Sleeping Beauty), Dame Judi Dench (Giant\'s voice)
@@ -5849,7 +5815,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Donna Murphy (Witch), Denis O\'Hare (Baker), Amy Adams (Baker\'s Wife), Jessie Mueller (Cinderella), Gideon Glick (Jack), Ivan Hernandez (Wolf/Cinderella\'s Prince), Paris Remillard (u/s Rapunzel\'s Prince), Noah Radcliffe (u/s Narrator), Chip Zien (Mysterious Man), Kristine Zbornik (Jack\'s Mother), Ellen Harvey (Cinderella\'s Stepmother), Chip Zien (Cinderella\'s Father), Josh Lamon (Steward), Tess Soltau (Rapunzel), Glenn Close (Giant\'s voice)
@@ -5857,7 +5823,34 @@ CAST
 NOTES
 : Single cam, whole-stage shot, no zooms.
 
-## It Shoulda Been You (2)
+#### Into the Woods - Hollywood Bowl - July 26, 2019 (Opening Night)
+{: .no_toc .d-inline-block }
+
+itwbroadwaytrades
+{: .label .label-blue }
+
+FORMAT
+: MP4 `720p` `3.41 GB`
+
+CAST
+: Patina Miller (Witch), Skylar Astin (Baker), Sutton Foster (Baker\'s Wife), Sierra Boggess (Cinderella), Shanice Williams (Little Red Riding Hood), Gaten Matarazzo (Jack), Cheyenne Jackson (Wolf/Cinderella\'s Prince), Chris Carmack (Rapunzel\'s Prince), Edward Hibbert (Narrator), Anthony Crivello (Mysterious Man), Rebecca Spencer (Jack\'s Mother), Evelyn Okano (Cinderella\'s Stepmother), Grace Yoo (Florinda), Stella Kim (Lucinda), Gregory North (Cinderella\'s Father), Daniel Lopez (Steward), Hailey Kilgore (Rapunzel), Whoopi Goldberg (Giant\'s voice), Tamyra Gray (Granny/Cinderella's Mother)
+
+NOTES
+: A fantastic capture of this all star cast performing at the legendary Hollywood Bowl. The audience was energetic and enthusiastic throughout. Shot in a mix of wides and zooms. This video is of the actors ON STAGE, not the big screens set up around the venue. There is occasional spotlight washout, but it is quickly corrected. Shot in crystal clear HD with no obstructions.
+
+#### Into the Woods - Hollywood Bowl - July 28, 2019 (Closing Night) (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MOV `1080p` `26 files` `2.63 GB`
+
+CAST
+: Patina Miller (Witch), Skylar Astin (Baker), Sutton Foster (Baker\'s Wife), Sierra Boggess (Cinderella), Shanice Williams (Little Red Riding Hood), Gaten Matarazzo (Jack), Cheyenne Jackson (Wolf/Cinderella\'s Prince), Chris Carmack (Rapunzel\'s Prince), Edward Hibbert (Narrator), Anthony Crivello (Mysterious Man), Rebecca Spencer (Jack\'s Mother), Evelyn Okano (Cinderella\'s Stepmother), Grace Yoo (Florinda), Stella Kim (Lucinda), Gregory North (Cinderella\'s Father), Daniel Lopez (Steward), Hailey Kilgore (Rapunzel), Whoopi Goldberg (Giant\'s voice), Tamyra Gray (Granny/Cinderella's Mother)
+
+NOTES
+: Stageshot. Songs only.
+
+## It Shoulda Been You
 
 #### It Shoulda Been You - Broadway - April 11, 2015 (Preview)
 {: .no_toc .d-inline-block }
@@ -5866,7 +5859,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Lisa Howard (Jenny Steinberg), Sierra Boggess (Rebecca Steinberg), Tyne Daly (Judy Steinberg), Harriet Harris (Georgette Howard), David Burtka (Brian Howard), Montego Glover (Annie Shepard), Josh Grisetti (Marty Kaufman), Adam Heller (Walt/Uncle Morty), Edward Hibbert (Albert), Chip Zien (Murray Steinberg), Michael X Martin (George Howard), Anne L Nathan (Mimsy/Aunt Sheila), Nick Spangler (Greg Madison)
@@ -5881,7 +5874,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Lisa Howard (Jenny Steinberg), Sierra Boggess (Rebecca Steinberg), Tyne Daly (Judy Steinberg), Harriet Harris (Georgette Howard), Aaron C Finley (u/s Brian Howard), Josh Grisetti (Marty Kaufman), Chip Zien (Murray Steinberg)
@@ -5892,6 +5885,10 @@ NOTES
 ## It\'s a Bird, It\'s a Plane, It\'s Superman! (1)
 
 #### It\'s a Bird, It\'s a Plane, It\'s Superman! - Encores! - March 21, 2013
+{: .no_toc .d-inline-block }
+
+COMMENTS
+: Audio on left channel only, turn on mono
 
 FORMAT
 : VOB+smalls
