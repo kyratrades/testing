@@ -15,7 +15,7 @@ permalink: /videos
 
 <p align="center"><small>I check every single video bootleg before listing them onto my site for missing files/glitches and will list any issues. Please do note that although unlikely, I may still have missed something, in which case I will offer a replacement and update you when I find a working/correct copy.</small></p>
 
-<p align="center"><small>If you have a better copy than my existing one (higher generation, larger file size etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!</small></p>
+<p align="center"><small>If you have a better copy than my existing one (higher generation, larger file size, original smalls etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!</small></p>
 
 <p align="center"><small>I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB).</small></p>
 
@@ -6160,29 +6160,30 @@ NOTES
 
 # L
 
-## The Last Five Years (3)
+## The Last Five Years
 
-#### The Last Five Years - Vienna, Austria - 2007
+#### The Last Five Years - Northlight Theatre, Skokie, IL (Chicago) - 2001
 
 FORMAT
-: VOB+smalls
+: MKV `480p` `3.18 GB`
+
+CAST
+: Norbert Leo Butz (Jamie Wellerstein), Lauren Kennedy (Cathy Hiatt)
+
+#### The Last Five Years - Vienna, Austria - 2007
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
 
 CAST
 : Rob Fowler (Jamie Wellerstein), Caroline Frank (Cathy Hiatt)
 
 NOTES
 : Proshot from the Kammeroper Wien, staged in English.
-
-#### The Last Five Years - Northlight Theatre, Skokie, IL (Chicago) -- 2001
-
-FORMAT
-: MKV \| 480p \| 3.18 GB
-
-CAST
-: Norbert Leo Butz (Jamie Wellerstein), Lauren Kennedy (Cathy Hiatt)
-
-NOTES
-: Available in various qualities. Great multicam proshot featuring Lauren Kennedy.
 
 #### The Last Five Years - Virtual - June 25-27, 2020
 {: .no_toc .d-inline-block }
@@ -6191,7 +6192,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 720p
+: MP4 `720p` `0.99 GB`
 
 CAST
 : Danny Becker (Jamie Wellerstein), Lauren Samuels (Cathy Hiatt)
@@ -6199,19 +6200,7 @@ CAST
 NOTES
 : Virtual lockdown performance, streamed online by The Other Palace on June 25-27, recorded at an earlier date. <https://lwtheatres.co.uk/whats-on/the-last-five-years/>
 
-## Legally Blonde (11)
-
-#### Legally Blonde - 54 Below - March 3, 2019
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 (HD) \| 1.63 GB
-
-CAST
-: Carrie St Louis (Elle Woods), Dan DeLuca (Emmett Forrest), Bobby Conte Thornton (Warner Huntington III), Haven Burton (Paulette), Raven Thomas (Vivienne Kensington), Tracy Jai Edwards (Brooke Wyndham/Shandi), Ed Watts (Professor Callahan), Delaney Westfall (Margot), Amber Ardolino (Serena), Shea Renne (Pilar), Darius Wright (Kyle/Grandmaster Chad/Dewey), Gwynne Wood (Veronica/Enid), Esteban Suero, Jessica Kundla, Jonathan Young, Lauren Urso, Salome Smith, Sonya Venugopal
+## Legally Blonde
 
 #### Legally Blonde - Broadway - April 14, 2007 (Preview)
 {: .no_toc .d-inline-block }
@@ -6220,7 +6209,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
@@ -6229,9 +6218,10 @@ NOTES
 : Great fun show and nice capture. Laura was wonderful along with a fantastic cast. A-
 
 #### Legally Blonde - Broadway - May 19, 2007
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `No DVD menu`
 
 CAST
 : Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Leslie Kritzer (e/c Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (u/s Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
@@ -6240,9 +6230,10 @@ NOTES
 : A nice capture of the show. Missing about 3 and a half minutes of the show during Legally Blonde remix and about 8 seconds of skipping at the very end during the graduation. A-
 
 #### Legally Blonde - Broadway - May 20, 2007
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Kritzer (Serena), DeQuina Moore (Pilar), Natalie Joy Johnson (Veronica/Enid)
@@ -6257,7 +6248,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney), Tracy Jai Edwards (u/s Cece)
@@ -6266,17 +6257,19 @@ NOTES
 : DeQuina Moore\'s last performance
 
 #### Legally Blonde - Broadway - September 2, 2007
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Laura Bell Bundy (Elle Woods), Andy Karl (u/s Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Matthew Risch (u/s Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
 
 #### Legally Blonde - Broadway - March 2, 2008
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Haven Burton (u/s Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Becky Gulsvig (u/s Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Kate Wetherhead (Kate/Chutney)
@@ -6288,7 +6281,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Orfeh (Paulette), Gaelen Gilliland (u/s Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Haven Burton (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid), Stephanie Fittro (Kate/Chutney), Tiffany Engen (u/s Mom/Whitney), Lindsay Nicole Chambers (u/s Judge), Nick Kenkel (u/s Padamadan/Nikos), Rusty Mowery (u/s Padamadan/Nikos)
@@ -6300,7 +6293,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Becky Gulsvig (u/s Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Gaelen Gilliland (u/s Paulette), Kate Shindle (Vivienne Kensington), Nicolette Hart (Brooke Wyndham/Shandi), Kevin Pariseau (u/s Professor Callahan), Kate Rockwell (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Grandmaster Chad/Dewey), Natalie Joy Johnson (Veronica/Enid)
@@ -6311,8 +6304,14 @@ CAST
 SunsetBlvd79
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `4.00 GB`
+
+COMMENTS
+: Suspected non-original smalls
 
 CAST
 : Bailey Hanks (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Amber Efé (u/s Paulette), Kate Shindle (Vivienne Kensington), Nicolette Hart (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Kate Rockwell (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Ven Daniel (Kyle/Grandmaster Chad/Dewey), Lucia Spina (Veronica/Enid), Stephanie Fittro (Kate/Chutney), Autumn Hurlbert (Leilani)
@@ -6322,14 +6321,29 @@ NOTES
 
 #### Legally Blonde - First UK Tour - October 4, 2011
 
+NFT
+: Forever. Do not request.
+
 FORMAT
-: VOB+smalls**NFT:** Forever
+: VOB+smalls `2 DVDs`
 
 CAST
 : Faye Brookes (Elle Woods), Iwan Lewis (Emmett Forrest), Neil Toon (Warner Huntington III), Claire Sweeney (Paulette), Charlotte Harwood (Vivienne Kensington), Hannah Grover (Brooke Wyndham/Shandi), Dave Willetts (Professor Callahan), Sophie Isaacs (Margot), Sinead Long (Serena), Micha Richardson (Pilar), Lewis Griffiths (Kyle/Grandmaster Chad/Dewey), Gemma Baird (Veronica/Enid), Nia Jermin (Kate/Chutney)
 
 NOTES
 : An amazing capture in 16:9 wide-screen with no obstructions with action well followed. This cast is a real treat giving Impeccable sparkling performances. Brookes's Elle really shines and she is a joy to watch. A+
+
+#### Legally Blonde - 54 Below - March 3, 2019
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `1.63 GB`
+
+CAST
+: Carrie St Louis (Elle Woods), Dan DeLuca (Emmett Forrest), Bobby Conte Thornton (Warner Huntington III), Haven Burton (Paulette), Raven Thomas (Vivienne Kensington), Tracy Jai Edwards (Brooke Wyndham/Shandi), Ed Watts (Professor Callahan), Delaney Westfall (Margot), Amber Ardolino (Serena), Shea Renne (Pilar), Darius Wright (Kyle/Grandmaster Chad/Dewey), Gwynne Wood (Veronica/Enid), Esteban Suero, Jessica Kundla, Jonathan Young, Lauren Urso, Salome Smith, Sonya Venugopal
 
 ## Lennon (1)
 
