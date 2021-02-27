@@ -5976,7 +5976,7 @@ CAST
 NOTES
 : This musical is performed as a staged concert reading. Rather than one person per role, the concert is done with some of Broadway\'s best alternating in the roles. Shot from the front of the venue and a nice capture. A
 
-## Jerry\'s Girls (2)
+## Jerry\'s Girls
 
 #### Jerry\'s Girls - National Tour - February-March, 1984
 {: .no_toc .d-inline-block }
@@ -6060,6 +6060,7 @@ NOTES
 : This version was rewritten and abbreviated to fit within its 95-minute time slot. A little on the dark side, in black and white with a slight blue tinge, has producer's counter numbers hard-coded on the screen in the upper third. This version of the show was produced for the launch of a new station in the UK. After months of preparing the launch of the new television station---with it's brand-new 625 line resolution (until then UK TV's had a resolution of 405 lines)---the night turned out to be a disaster. 50 minutes before the launch, a fire broke out at a local power station, cutting power to most of London but not the television station. They started the evening's news show which was to be followed by this broadcast, but it soon became clear that there was no audience, and after a few minutes, the schedule was abandoned. The production was instead shown the next day. The date that's superimposed on the video is April 20, 1964---the originally scheduled night. It is unclear if this is a fi
 
 #### Kiss Me, Kate - US National Tour - June 24, 2001
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -6113,6 +6114,7 @@ CAST
 ## Kiss of the Spider Woman
 
 #### Kiss of the Spider Woman - First National Tour - 1995
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.67 GB`
