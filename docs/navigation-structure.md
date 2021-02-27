@@ -5882,7 +5882,7 @@ CAST
 NOTES
 : Includes several extra clips from the opening night red carpet, the Tonys performance, audience wedding proposals, and more.
 
-## It\'s a Bird, It\'s a Plane, It\'s Superman! (1)
+## It\'s a Bird, It\'s a Plane, It\'s Superman!
 
 #### It\'s a Bird, It\'s a Plane, It\'s Superman! - Encores! - March 21, 2013
 {: .no_toc .d-inline-block }
@@ -5891,7 +5891,7 @@ COMMENTS
 : Audio on left channel only, turn on mono
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Edward Watts, Jenny Powers, Will Swenson, Alli Mauzey, David Pittu, Craig Hennigsen, Suo Liu, Adam Monley, Jason Ng, James Saito, Scott Weber, Wendi Bergamini, Ward Billeisen, Sam Bolen, Stephen Carrasco, Hannah Florence, Sara Jean Ford, Miles Johnson, Max Kumangai, Samantha Massell, Skye Mattox, Kenita R. Miller, Michael Mindlin, Jessica Lea Patty, David Scott Purdy, Manuel Stark, Charlie Williams, Kristen Wyatt, Samantha Zack
@@ -5899,12 +5899,12 @@ CAST
 NOTES
 : Good shoot, sound couldn't be fully filtered.
 
-## It\'s Only A Play (2)
+## It\'s Only A Play
 
 #### It\'s Only A Play - Broadway - December 29, 2014
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Nathan Lane (James Wicker), Matthew Broderick (Peter Austin), Megan Mullally (Julia Budder), Stockard Channing (Virginia Noyes), F Murray Abraham (Ira Drew), Rupert Grint (Frank Finger), Micah Stock (Gus)
@@ -5919,7 +5919,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Martin Short (James Wicker), Matthew Broderick (Peter Austin), Megan Mullally (Julia Budder), Stockard Channing (Virginia Noyes), F Murray Abraham (Ira Drew), Rupert Grint (Frank Finger), Micah Stock (Gus)
