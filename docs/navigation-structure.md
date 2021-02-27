@@ -2418,6 +2418,20 @@ CAST
 NOTES
 : Proshot for TV. Cast is great and funny, Kristin has a great Glitter and by Gay, an also Janine LaManna is here so I\'m automatically biased for this.
 
+## La Cage aux Folles
+
+#### La Cage aux Folles - Berlin - 1987
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+small `1 DVD`s `2.95 GB`
+
+CAST
+: Gunther Konig (Georges), Steve Barton (Albin/Zazá)
+
 ## Carousel
 
 #### Carousel - Broadway - 1945 (Highlights)
