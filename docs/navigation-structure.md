@@ -26,6 +26,9 @@ Happy trading!
 - TOC
 {:toc}
 </details>
+
+[#](https://kyratrades.github.io/testing/videos#top) •  [A](https://kyratrades.github.io/testing/videos#a)
+
 ---
 
 # \#
