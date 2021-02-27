@@ -6311,7 +6311,7 @@ FORMAT
 : VOB+smalls `1 DVD` `4.00 GB`
 
 COMMENTS
-: Suspected non-original smalls
+: Suspected non-original smalls. No DVD menu.
 
 CAST
 : Bailey Hanks (Elle Woods), Christian Borle (Emmett Forrest), Richard H Blake (Warner Huntington III), Amber Efé (u/s Paulette), Kate Shindle (Vivienne Kensington), Nicolette Hart (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Kate Rockwell (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Ven Daniel (Kyle/Grandmaster Chad/Dewey), Lucia Spina (Veronica/Enid), Stephanie Fittro (Kate/Chutney), Autumn Hurlbert (Leilani)
@@ -6321,7 +6321,7 @@ NOTES
 
 #### Legally Blonde - First UK Tour - October 4, 2011
 
-NFT
+Not for trade
 : Forever. Do not request.
 
 FORMAT
