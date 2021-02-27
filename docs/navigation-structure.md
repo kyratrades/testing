@@ -8,15 +8,15 @@ permalink: /videos
 # Videos
 {: .no_toc }
 
-<p align="center">Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.
+<p align="center">Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.</p>
 
-I check every single video bootleg before listing them onto my site for missing files/glitches and will list any issues. Please do note that although unlikely, I may still have missed something.
+<p align="center">SI check every single video bootleg before listing them onto my site for missing files/glitches and will list any issues. Please do note that although unlikely, I may still have missed something, in which case I will offer a replacement and update you when I find a working/correct copy.</p>
 
-If you have a better copy than my existing one (higher generation, larger file size etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!
+<p align="center">SIf you have a better copy than my existing one (higher generation, larger file size etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!</p>
 
-I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB).</p>
+<p align="center">SI will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB).</p>
 
-Happy trading!
+<p align="center">SHappy trading!</p>
 
 <details close markdown="block">
   <summary>
