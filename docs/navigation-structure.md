@@ -5902,6 +5902,7 @@ NOTES
 ## It\'s Only A Play
 
 #### It\'s Only A Play - Broadway - December 29, 2014
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -5926,3 +5927,97 @@ CAST
 
 NOTES
 : Beautiful HD capture of the show. Martin Short makes a wonderful edition and is absolutely hilarious. This is when the production switched theatres.
+
+# J
+
+## Jagged Little Pill
+
+#### Jagged Little Pill - Broadway - November, 2019 (Preview) 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `6.48 GB` `English (.srt)`
+
+CAST
+: Elizabeth Stanley (Mary Jane Healy), Celia Gooding (Frankie Healy), Sean Allan Krill (Steve Healy), Derek Klena (Nick Healy), Lauren Patten (Jo), Kathryn Gallagher (Bella), Antonio Cipriano (Phoenix), Logan Hart (Andrew Montefiore), Annelise Baker, Ebony Williams, Ezra Menas, Heather Lang, Jane Brusch, John Cardoza, Kei Tsuruharatani, Ken Wulf Clark, Laurel Harris, Logan Hart, Max Kumangai, Nora Schell
+
+NOTES
+: Stunning HD capture of the Alanis Morrisette musical in Broadway Previews. Filmed from the left orchestra with a mix of wides, mediums, and closeups. Fantastic performances all around with the action well-followed.
+
+#### Jagged Little Pill - Broadway - February, 2020 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4  `1080p` `6.55 GB` `English (.srt)`
+
+CAST
+: Elizabeth Stanley (Mary Jane Healy), Celia Gooding (Frankie Healy), Sean Allan Krill (Steve Healy), Derek Klena (Nick Healy), Ezra Menas (u/s Jo), Kathryn Gallagher (Bella), Antonio Cipriano (Phoenix), Logan Hart (Andrew Montefiore), Nora Schell (Pharmacist/Therapist), Kelsey Orem (s/w Jill/Teacher), Heather Lang (Courtney), Jane Bruce (Denise), Ebony Williams (Barista), Zach Hess (Drug Dealer), Max Kumangai (Doctor), Annelise Baker (Kelsey), John Cardoza, Kei Tsuruharatani, Kelsey Orem, Ken Wulf Clark, Nora Schell, Yeman Brown
+
+NOTES
+: Begins in the middle of the opening number. Clear picture and good sound throughout.
+
+## Jawbreaker The Musical
+
+#### Jawbreaker The Musical - Concert Reading - July 29, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Aaron Neely, Aynsley Bubbico, Deborah S Craig, Eden Espinosa, Elizabeth Brackenbury, Jackie Seiden, James Snyder, Jenna Leigh Green, Jennifer Malenke, Katie Kern, Katie Thompson, Lesli Margherita, Leslie Odom Jr, Marty Thomas, Megan Hilty, Nick Galbraith, Scarlett Cherry, Shoshana Bean, Vic Mazzone
+
+NOTES
+: This musical is performed as a staged concert reading. Rather than one person per role, the concert is done with some of Broadway\'s best alternating in the roles. Shot from the front of the venue and a nice capture. A
+
+## Jerry\'s Girls (2)
+
+#### Jerry\'s Girls - National Tour - February-March, 1984
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.53 GB`
+
+CAST
+: Andrea McArdle, Carol Channing, Leslie Uggams
+
+NOTES
+: Full show, filmed using one camera on a tripod, with sound patched in directly from the sound board. This footage might have been intended for media use. A
+
+#### Jerry\'s Girls - Broadway - 1986
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.12 GB`
+
+COMMENTS
+: Audio only on right channel, turn on Mono when watching
+
+CAST
+: Chita Rivera, Dorothy Loudon, Leslie Uggams
+
+NOTES
+: Surprisingly good for a video more than 20 years old of the Broadway transfer. The disc starts out with a few minutes of Alexis Smith promoting Platinum, with Gene Shallit. A
+
+## Jesus Christ Superstar
+
+#### Jesus Christ Superstar - Live In Concert (NBC) - April 1, 2018
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `7.02 GB` `Amazon rip`
+
+CAST
+: Jason Tam (Peter Patrone), John Legend (Jesus Christ), Brandon Victor Dixon (Judas Iscariot), Sara Bareilles (Mary Magdalene), Ben Daniels (Pontius Pilate), Norm Lewis (Caiaphas), Jin Ha (Annas), Alice Cooper (King Herod)
