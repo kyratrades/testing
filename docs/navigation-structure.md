@@ -28,6 +28,15 @@ permalink: /videos
 
 <p align="center"><a href="https://kyratrades.github.io/testing/videos#top">#</a> • <a href="https://kyratrades.github.io/testing/videos#a">A</a> • <a href="https://kyratrades.github.io/testing/videos#b">B</a> • <a href="https://kyratrades.github.io/testing/videos#c">C</a> • <a href="https://kyratrades.github.io/testing/videos#d">D</a> • <a href="https://kyratrades.github.io/testing/videos#e">E</a> • <a href="https://kyratrades.github.io/testing/videos#f">F</a> • <a href="https://kyratrades.github.io/testing/videos#g">G</a> • <a href="https://kyratrades.github.io/testing/videos#h">H</a> • <a href="https://kyratrades.github.io/testing/videos#i">I</a> • <a href="https://kyratrades.github.io/testing/videos#j">J</a> • <a href="https://kyratrades.github.io/testing/videos#k">K</a> • <a href="https://kyratrades.github.io/testing/videos#l">L</a> • <a href="https://kyratrades.github.io/testing/videos#m">M</a> • <a href="https://kyratrades.github.io/testing/videos#n">N</a> • <a href="https://kyratrades.github.io/testing/videos#o">O</a> • <a href="https://kyratrades.github.io/testing/videos#p">P</a> • Q • <a href="https://kyratrades.github.io/testing/videos#r">R</a> • <a href="https://kyratrades.github.io/testing/videos#s">S</a> • <a href="https://kyratrades.github.io/testing/videos#t">T</a> • <a href="https://kyratrades.github.io/testing/videos#u">U</a> • <a href="https://kyratrades.github.io/testing/videos#v">V</a> • <a href="https://kyratrades.github.io/testing/videos#w">W</a> • <a href="https://kyratrades.github.io/testing/videos#x">X</a> • <a href="https://kyratrades.github.io/testing/videos#y">Y</a> • Z </p>
 
+<details close markdown="block">
+  <summary>
+    Expand for show titles
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ---
 
 # \#
