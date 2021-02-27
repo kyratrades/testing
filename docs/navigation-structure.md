@@ -8,13 +8,13 @@ permalink: /videos
 # Videos
 {: .no_toc }
 
-Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.
+<p align="center">Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.
 
 I check every single video bootleg before listing them onto my site for missing files/glitches and will list any issues. Please do note that although unlikely, I may still have missed something.
 
 If you have a better copy than my existing one (higher generation, larger file size etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!
 
-I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB).
+I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB).</p>
 
 Happy trading!
 
@@ -27,7 +27,7 @@ Happy trading!
 {:toc}
 </details>
 
-[#](https://kyratrades.github.io/testing/videos#top) •  [A](https://kyratrades.github.io/testing/videos#a)
+[#](https://kyratrades.github.io/testing/videos#top) • [A](https://kyratrades.github.io/testing/videos#a) • [B](https://kyratrades.github.io/testing/videos#b) • [C](https://kyratrades.github.io/testing/videos#c) • [D](https://kyratrades.github.io/testing/videos#top) • [A](https://kyratrades.github.io/testing/videos#d) • [E](https://kyratrades.github.io/testing/videos#e) • [f](https://kyratrades.github.io/testing/videos#f) • [G](https://kyratrades.github.io/testing/videos#g) • [H](https://kyratrades.github.io/testing/videos#h) • [I](https://kyratrades.github.io/testing/videos#i) • [J](https://kyratrades.github.io/testing/videos#j) • [K](https://kyratrades.github.io/testing/videos#k) • [L](https://kyratrades.github.io/testing/videos#l) • [M](https://kyratrades.github.io/testing/videos#m) • [N](https://kyratrades.github.io/testing/videos#n) • [O](https://kyratrades.github.io/testing/videos#o) • [P](https://kyratrades.github.io/testing/videos#p) • [Q](https://kyratrades.github.io/testing/videos#q) • [R](https://kyratrades.github.io/testing/videos#r) • [S](https://kyratrades.github.io/testing/videos#s) • [T](https://kyratrades.github.io/testing/videos#t) • [U](https://kyratrades.github.io/testing/videos#u) • [V](https://kyratrades.github.io/testing/videos#v) • [W#](https://kyratrades.github.io/testing/videos#top) • [A](https://kyratrades.github.io/testing/videos#a) • [#](https://kyratrades.github.io/testing/videos#top) • [A](https://kyratrades.github.io/testing/videos#w) • [X](https://kyratrades.github.io/testing/videos#x) • [Y](https://kyratrades.github.io/testing/videos#a) • [#](https://kyratrades.github.io/testing/videos#top) • [A](https://kyratrades.github.io/testing/videos#a) • [#](https://kyratrades.github.io/testing/videos#y) • [Z](https://kyratrades.github.io/testing/videos#z)
 
 ---
 
