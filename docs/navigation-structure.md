@@ -8,13 +8,13 @@ permalink: /videos
 # Videos
 {: .no_toc }
 
-Shows are organised alphabetically and all videos are in chronological order under each show. If a show is sub-divided by tour, the tours will be organised in chronological order as well.
+Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have organised them by tour.
 
-I have checked every bootleg before listing them onto my site for missing files/glitches and will list any issues. However, although unlikely, I may still have missed something.
+I have checked every video bootleg before listing them onto my site for missing files/glitches and will list any issues. Although unlikely, I may still have missed something.
 
-If you have a better copy than my existing one please do tell me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case.
+If you have a better copy than my existing one (higher generation, larger file size etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case.
 
-I have listed information I deem relevant (no. of discs, file size, source etc.). File size is calculated in gibibytes (1 GB = 1024 MB).
+I will include any information I deem relevant (no. of discs, file size, source etc). File size is calculated in gibibytes (1 GB = 1024 MB).
 
 <details close markdown="block">
   <summary>
