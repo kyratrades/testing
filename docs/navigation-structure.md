@@ -2401,7 +2401,7 @@ NOTES
 ### Wants
 {: .no_toc }
 
-I’m looking for the June 7, 2007 (National Tour, Chicago). This video does not have the 15 minutes blackout at the start. Also, the DVD menu should have scene selections for all the songs (in thumbnail). I will trade very unfairly for this. Please do tell me if you have it!
+I’m looking for the June 7, 2007 (National Tour, Chicago) video. This video does not have the ~15 minutes blackout at the start. Also, the DVD menu should have scene selections for all the songs (in thumbnail form). I will trade very unfairly for this. Please do tell me if you have it!
 
 #### Camelot - First National Tour - May 8, 2007
 {: .no_toc .d-inline-block }
@@ -6482,6 +6482,7 @@ CAST
 ## Little Miss Sunshine
 
 #### Little Miss Sunshine - La Jolla - February 20, 2011
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
