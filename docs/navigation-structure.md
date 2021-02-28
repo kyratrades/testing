@@ -6349,12 +6349,16 @@ FORMAT
 CAST
 : Carrie St Louis (Elle Woods), Dan DeLuca (Emmett Forrest), Bobby Conte Thornton (Warner Huntington III), Haven Burton (Paulette), Raven Thomas (Vivienne Kensington), Tracy Jai Edwards (Brooke Wyndham/Shandi), Ed Watts (Professor Callahan), Delaney Westfall (Margot), Amber Ardolino (Serena), Shea Renne (Pilar), Darius Wright (Kyle/Grandmaster Chad/Dewey), Gwynne Wood (Veronica/Enid), Esteban Suero, Jessica Kundla, Jonathan Young, Lauren Urso, Salome Smith, Sonya Venugopal
 
-## Lennon (1)
+## Lennon
 
 #### Lennon - Broadway - August 21, 2005
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `3.69 GB`
+
+COMMENTS
+: This is meely the recording of another DVD, please tell me if you have the original!
 
 CAST
 : Will Chase (John), Chad Kimball, Chuck Cooper, Julia Murney, Julie Danao, Mandy Gonzalez, Marcy Harriell, Michael Potts, Terrence Mann
@@ -6362,7 +6366,7 @@ CAST
 NOTES
 : Digital, master, shot from 4th row of the mezz. Beautiful with lots of closeups of all of the cast members.
 
-## The Lightning Thief: The Percy Jackson Musical (1)
+## The Lightning Thief: The Percy Jackson Musical
 
 #### The Lightning Thief: The Percy Jackson Musical - Broadway - October, 2019 
 {: .no_toc .d-inline-block }
@@ -6371,7 +6375,7 @@ StarCuffedJeans
 {: .label .label-blue }
 
 FORMAT
-: MP4 (HD) \| 5.07 GB
+: MP4 `1080p` `5.07 GB`
 
 CAST
 : Chris McCarrell (Percy Jackson), Kristin Stokes (Annabeth Chase), Jorrel Javier (Grover/Mr. D), James Hayden Rodriguez (Luke & others), Jalynn Steele (Sally Jackson & others), Sarah Beth Pfeifer (Clarisse & others), Ryan Knowles (Chiron & others)
@@ -6379,84 +6383,7 @@ CAST
 NOTES
 : Fantastic HD capture of the Broadway transfer of this show, filmed from the orchestra. The video starts part of the way through the first number. Act Two starts after the bus explodes. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
 
-## The Little Mermaid (7)
-
-#### The Little Mermaid - ABC Live Special - November 5, 2019
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV (HD) \| 2.74 GB
-
-CAST
-: Auli\'i Cravalho (Ariel), Queen Latifah (Ursula), Graham Phillips (Prince Eric), Shaggy (Sebastian), John Stamos (Chef Louis)
-
-#### The Little Mermaid - Broadway - January 30, 2008
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Bret Shuford (u/s Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Tyler Maynard (Flotsam), Cody Hanford (Flounder), Heidi Blickenstaff (Carlotta), John Treacy Egan (Chef Louis)
-
-NOTES
-: Great capture with great closups. The first 11 minutes after the overture are mostly blackouts due to late comers, after that no real problems. Bret did a nice job as understudy. Sierra and Sherie still rock with much greatness! Also includes the Part of Your World performance and interview on The View. A-
-
-#### The Little Mermaid - Broadway - March 29, 2008
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Betsy Morgan (u/s Ariel), Cicily Daniels (u/s Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Tyler Maynard (Flotsam), Trevor Braun (Flounder), Meredith Inglesby (Carlotta)
-
-NOTES
-: Many blackouts for the first 15 minutes of the show. Also 4 minutes missing after Scuttle checks if Prince Eric has a pulse in his feet, then resumes in the middle of \"She\'s in Love.\" Interesting to see the understudies in the roles, from the master. B
-
-#### The Little Mermaid - Broadway - June 27, 2008
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Arbender Robinson (u/s Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Jason Snow (u/s Flotsam), Brian D\'Addario (Flounder), John Treacy Egan (Chef Louis)
-
-NOTES
-: A minor blackout at the beginning of Act Two due to an usher helping someone who fell in the aisle
-
-#### The Little Mermaid - Hollywood Bowl - June 3, 2016
-
-FORMAT
-: MP4 (HD) \| 780 MB
-
-COMMENTS
-: I have no idea whether this is original
-
-CAST
-: Sara Bareilles (Ariel), Rebel Wilson (Ursula), Darren Criss (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Joshua Colley (Flounder), John Stamos (Chef Louis)
-
-NOTES
-: A wide shot focusing on the full stage and the center screen
-
-#### The Little Mermaid - Moscow - December 21, 2013 (Highlights)
-
-FORMAT
-: VOB+smalls
-
-COMMENTS
-: Original AVI (HD) included
-
-CAST
-: Elena Gazaeva (Ariel), Manana Gogitidze (Ursula), Evgeniy Zaytsev (Prince Eric), Aleksandr Sukhanov (King Triton), Pavel Berdnikov (Sebastian), Aleksey Bobrov (Scuttle), Oleg Fedkushov (Grimsby), Marat Yarullin (Flounder), Marat Abdrakhimov (Chef Louis)
-
-NOTES
-: Full Act 1, but only about 37 minutes of act 2. Quality: A-
+## The Little Mermaid
 
 #### The Little Mermaid - Pre-Broadway / Denver - August 31, 2007
 {: .no_toc .d-inline-block }
@@ -6465,7 +6392,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Tyler Maynard (Flotsam), Cody Hanford (Flounder)
@@ -6473,12 +6400,91 @@ CAST
 NOTES
 : Amazing show and performances beautifully captured. A
 
-## Little Miss Sunshine (1)
+#### The Little Mermaid - Broadway - January 30, 2008
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Bret Shuford (u/s Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Tyler Maynard (Flotsam), Cody Hanford (Flounder), Heidi Blickenstaff (Carlotta), John Treacy Egan (Chef Louis)
+
+NOTES
+: Great capture with great closups. The first 11 minutes after the overture are mostly blackouts due to late comers, after that no real problems. Bret did a nice job as understudy. Sierra and Sherie still rock with much greatness! Also includes the Part of Your World performance and interview on The View. A-
+
+#### The Little Mermaid - Broadway - March 29, 2008
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Betsy Morgan (u/s Ariel), Cicily Daniels (u/s Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Tyler Maynard (Flotsam), Trevor Braun (Flounder), Meredith Inglesby (Carlotta)
+
+NOTES
+: Many blackouts for the first 15 minutes of the show. Also 4 minutes missing after Scuttle checks if Prince Eric has a pulse in his feet, then resumes in the middle of \"She\'s in Love.\" Interesting to see the understudies in the roles, from the master. B
+
+#### The Little Mermaid - Broadway - June 27, 2008
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `No DVD menu`
+
+CAST
+: Sierra Boggess (Ariel), Sherie Rene Scott (Ursula), Arbender Robinson (u/s Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Derrick Baskin (Jetsam), Jason Snow (u/s Flotsam), Brian D\'Addario (Flounder), John Treacy Egan (Chef Louis)
+
+NOTES
+: A minor blackout at the beginning of Act Two due to an usher helping someone who fell in the aisle
+
+#### The Little Mermaid - Moscow - December 21, 2013 (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: `1` VOB+smalls
+: `2` AVI `720p` `4.21 GB` `Original`
+
+CAST
+: Elena Gazaeva (Ariel), Manana Gogitidze (Ursula), Evgeniy Zaytsev (Prince Eric), Aleksandr Sukhanov (King Triton), Pavel Berdnikov (Sebastian), Aleksey Bobrov (Scuttle), Oleg Fedkushov (Grimsby), Marat Yarullin (Flounder), Marat Abdrakhimov (Chef Louis)
+
+NOTES
+: Full Act 1, but only about 37 minutes of act 2. Quality: A-
+
+#### The Little Mermaid - Hollywood Bowl - June 3, 2016
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `720p` `780 MB`
+
+COMMENTS
+: I have no idea whether this is original. Please do tell me if you know.
+
+CAST
+: Sara Bareilles (Ariel), Rebel Wilson (Ursula), Darren Criss (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Joshua Colley (Flounder), John Stamos (Chef Louis)
+
+NOTES
+: A wide shot focusing on the full stage and the center screen
+
+#### The Little Mermaid - ABC Live Special - November 5, 2019
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `720p `2.74 GB`
+
+CAST
+: Auli\'i Cravalho (Ariel), Queen Latifah (Ursula), Graham Phillips (Prince Eric), Shaggy (Sebastian), John Stamos (Chef Louis)
+
+## Little Miss Sunshine
 
 #### Little Miss Sunshine - La Jolla - February 20, 2011
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Georgi James (Olive Hoover), Hunter Foster (Richard Hoover), Jennifer Laura Thompson (Sheryl Hoover), Malcolm Gets (Frank Hoover), Taylor Trensch (Dwayne Hoover)
@@ -6489,6 +6495,7 @@ NOTES
 ## A Little Night Music (10)
 
 #### A Little Night Music - Broadway Revival - May 4, 2010
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -6497,6 +6504,7 @@ CAST
 : Catherine Zeta-Jones (Desiree Armfeldt), Angela Lansbury (Madame Armfeldt), Alexander Hanson (Fredrik Egerman), Ramona Mallory (Anne Egerman), Hunter Ryan Herdlicka (Henrik Egerman), Aaron Lazar (Count Carl-Magnus Malcolm), Erin Davie (Countess Charlotte Malcolm), Leigh Ann Larkin (Petra), Katherine Leigh Doherty (Fredrika Armfeldt), Bradley Dean (Frid)
 
 #### A Little Night Music - Broadway Revival - September 4, 2010
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -6508,6 +6516,7 @@ NOTES
 : Due to disruptions in the audience, \"Now, Later, Soon\" and a scene in Act II are replaced with those from the recording made on April 4, 2010, and the beginning of \"Liaisons\" is taken instead from a recording from a few days earlier, as is the last minute of Act I. The edits are well made, and make the best recording possible with no cast changes.
 
 #### A Little Night Music - Houston Grand Opera - March 16, 2014
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -6519,6 +6528,7 @@ NOTES
 : This production was done by Houston Grand Opera. This is a very odd production of ALNM; the set looks more like it\'s for a production of A Midsummer Night\'s Dream.
 
 #### A Little Night Music - Kennedy Center - August 16, 2002
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -6560,6 +6570,7 @@ CAST
 : Donna McKechnie, Jeff McCarthy, Merle Louise, Angela Gaylor, Adam Monley, Chuck Wagner, Diana Canova, Natasha Ashworth, Julia Haubner, Jeremy Holm, Sharon Richards, Curtis Olds, Joy Hermalyn, Susan Derry, Michael Hailing
 
 #### A Little Night Music - Ravinia Festival - August, 2002
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -6568,6 +6579,7 @@ CAST
 : Patti LuPone (Desiree Armfeldt), Zoe Caldwell (Madame Armfeldt), George Hearn (Fredrik Egerman), Johanna McKenzie Miller (Anne Egerman), John McVeigh (Henrik Egerman), Marc Kudisch (Count Carl-Magnus Malcolm), Hollis Resnik (Countess Charlotte Malcolm), Sara Ramirez (Petra)
 
 #### A Little Night Music - San Francisco - December 7, 1998
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -6594,6 +6606,7 @@ NOTES
 : This is the first production of Sondheim\'s show ever in France. Produced at the world-famous Theatre du Chatelet in Paris. In English and full stage shot with clear sound but no closeups. A
 
 #### A Little Night Music - West End Revival - July 21, 2009
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
