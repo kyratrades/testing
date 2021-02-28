@@ -2398,8 +2398,8 @@ NOTES
 
 ## Camelot
 
-#### Wants
-{: .no_toc .d-inline-block }
+### Wants
+{: .no_toc }
 
 I’m looking for the June 7, 2007 (National Tour, Chicago). This video does not have the 15 minutes blackout at the start. Also, the DVD menu should have scene selections for all the songs (in thumbnail). I will trade very unfairly for this. Please do tell me if you have it!
 
