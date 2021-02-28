@@ -6474,7 +6474,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV `720p `2.74 GB`
+: MKV `720p` `2.74 GB`
 
 CAST
 : Auli\'i Cravalho (Ariel), Queen Latifah (Ursula), Graham Phillips (Prince Eric), Shaggy (Sebastian), John Stamos (Chef Louis)
@@ -6493,13 +6493,103 @@ CAST
 NOTES
 : First minute or so of act one is blacked out, and there are a few quick drop-outs throughout the show, but nothing major and overall very nice. A.
 
-## A Little Night Music (10)
+## A Little Night Music
+
+#### A Little Night Music - New York City Opera - November 7, 1990
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `2.54 GB`
+
+CAST
+: Sally Ann Howes (Desiree Armfeldt), Regina Resnik (Madame Armfeldt), George Lee Andrews (Fredrik Egerman), Beverly Lambert (Anne Egerman), Kevin Anderson (Henrik Egerman), Michael Maguire (Count Carl-Magnus Malcolm), Maureen Moore (Countess Charlotte Malcolm), Susan Terry (Petra), Danielle Ferland (Fredrika Armfeldt), Ron Baker (Mr. Lindquist), Lisa Saffer (Mrs. Nordstrom), Barbara Shirvis (Mrs. Anderssen), Michael Rees Davis (Mr. Erlanson), Susanne Marsee (Mrs. Segstrom), David Comstock (Frid)
+
+NOTES
+: Production at Lincoln Center, PBS aired, pro-shot. Very slight generational loss.
+
+#### A Little Night Music - San Francisco - December 7, 1998
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.97 GB`
+
+CAST
+: Meg Mackay (Desiree Armfeldt), Ruth Kobart (Madame Armfeldt), Lisa Vroman (Anne Egerman), Franc D\'Ambrosio (Henrik Egerman), Christopher Carl (Count Carl-Magnus Malcolm), Karen Culliver (Countess Charlotte Malcolm), Krista Wigle (Petra), Bonnie Rapple (Fredrika Armfeldt)
+
+NOTES
+: The San Francisco company of The Phantom Of The Opera presented this staged benefit concert. Nice two camera archival recording with sound system audio. There is a strong audio buzz.
+
+#### A Little Night Music - North Shore Music Theatre, Beverly MA - September, 2000
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.26 GB`
+
+COMMENTS
+: A recording of another DVD. Do tell me if you have a better copy.
+
+CAST
+: Donna McKechnie, Jeff McCarthy, Merle Louise, Angela Gaylor, Adam Monley, Chuck Wagner, Diana Canova, Natasha Ashworth, Julia Haubner, Jeremy Holm, Sharon Richards, Curtis Olds, Joy Hermalyn, Susan Derry, Michael Hailing
+
+#### A Little Night Music - Ravinia Festival - August, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.45 GB`
+
+CAST
+: Patti LuPone (Desiree Armfeldt), Zoe Caldwell (Madame Armfeldt), George Hearn (Fredrik Egerman), Johanna McKenzie Miller (Anne Egerman), John McVeigh (Henrik Egerman), Marc Kudisch (Count Carl-Magnus Malcolm), Hollis Resnik (Countess Charlotte Malcolm), Sara Ramirez (Petra)
+
+#### A Little Night Music - Kennedy Center - August 16, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.94 GB`
+
+CAST
+: Blair Brown (Desiree Armfeldt), Barbara Bryne (Madame Armfeldt), John Dossett (Fredrik Egerman), Sarah Uriarte Berry (Anne Egerman), Danny Gurwin (Henrik Egerman), Douglas Sills (Count Carl-Magnus Malcolm), Randy Graff (Countess Charlotte Malcolm), Natascia Diaz (Petra), Kristen Bell (Fredrika Armfeldt), Christopher Flint (Mr. Lindquist), Anna Bergman (Mrs. Nordstrom), Ilona Dulaski (Mrs. Anderssen), Peter Cormican (Mr. Erlanson), Siobhan Kolker (Mrs. Segstrom), Erik Sorensen (Frid)
+
+NOTES
+: Audience cam Kennedy Center production. Shot from first row mezz, very clear with lots of close-ups. Great production, from master.
+
+#### A Little Night Music - West End Revival - July 21, 2009
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Hannah Waddingham (Desiree Armfeldt), Maureen Lipman (Madame Armfeldt), Alexander Hanson (Fredrik Egerman), Jessie Buckley (Anne Egerman), Gabriel Vick (Henrik Egerman), Alistair Robins (Count Carl-Magnus Malcolm), Kelly Price (Countess Charlotte Malcolm), Kaisa Hammarlund (Petra), Lynden Edwards (Mr. Lindquist), Fiona Dunn (Mrs. Nordstrom), Laura Armstrong (Mrs. Anderssen), John Addison (Mr. Erlanson), Nicola Sloane (Mrs. Segstrom)
+
+NOTES
+: An amazing capture of the West End revival before it went to Broadway. Filmed in 16:9 with hardly any blackouts or obstructions. Does not include Curtain Call.
+
+#### A Little Night Music - Théâtre Du Châtelet - 2010 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Greta Scacchi (Desiree Armfeldt), Leslie Caron (Madame Armfeldt), Lambert Wilson (Fredrik Egerman), Rebecca Bottone (Anne Egerman), David Curry (Henrik Egerman), Nicholas Garrett (Count Carl-Magnus Malcolm), Deanne Meek (Countess Charlotte Malcolm), Francesca Jackson (Petra), Celeste de Veazey (Fredrika Armfeldt)
+
+NOTES
+: This is the first production of Sondheim\'s show ever in France. Produced at the world-famous Theatre du Chatelet in Paris. In English and full stage shot with clear sound but no closeups. A
 
 #### A Little Night Music - Broadway Revival - May 4, 2010
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Catherine Zeta-Jones (Desiree Armfeldt), Angela Lansbury (Madame Armfeldt), Alexander Hanson (Fredrik Egerman), Ramona Mallory (Anne Egerman), Hunter Ryan Herdlicka (Henrik Egerman), Aaron Lazar (Count Carl-Magnus Malcolm), Erin Davie (Countess Charlotte Malcolm), Leigh Ann Larkin (Petra), Katherine Leigh Doherty (Fredrika Armfeldt), Bradley Dean (Frid)
@@ -6508,7 +6598,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Bernadette Peters (Desiree Armfeldt), Elaine Stritch (Madame Armfeldt), Alexander Hanson (Fredrik Egerman), Ramona Mallory (Anne Egerman), Hunter Ryan Herdlicka (Henrik Egerman), Bradley Dean (Count Carl-Magnus Malcolm), Erin Davie (Countess Charlotte Malcolm), Leigh Ann Larkin (Petra), Keaton Whittaker (Fredrika Armfeldt)
@@ -6520,103 +6610,13 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Elizabeth Futral (Desiree Armfeldt), Joyce Castle (Madame Armfeldt), Chad Shelton (Fredrik Egerman), Andrea Carroll (Anne Egerman), Brenton Ryan (Henrik Egerman), Mark Diamond (Count Carl-Magnus Malcolm), Carolyn Sproule (Countess Charlotte Malcolm), Alicia Gianni (Petra), Grace Muir (Fredrika Armfeldt)
 
 NOTES
 : This production was done by Houston Grand Opera. This is a very odd production of ALNM; the set looks more like it\'s for a production of A Midsummer Night\'s Dream.
-
-#### A Little Night Music - Kennedy Center - August 16, 2002
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls
-
-COMMENTS
-: NO DVD menu
-
-CAST
-: Blair Brown (Desiree Armfeldt), Barbara Bryne (Madame Armfeldt), John Dossett (Fredrik Egerman), Sarah Uriarte Berry (Anne Egerman), Danny Gurwin (Henrik Egerman), Douglas Sills (Count Carl-Magnus Malcolm), Randy Graff (Countess Charlotte Malcolm), Natascia Diaz (Petra), Kristen Bell (Fredrika Armfeldt), Christopher Flint (Mr. Lindquist), Anna Bergman (Mrs. Nordstrom), Ilona Dulaski (Mrs. Anderssen), Peter Cormican (Mr. Erlanson), Siobhan Kolker (Mrs. Segstrom), Erik Sorensen (Frid)
-
-NOTES
-: Audience cam Kennedy Center production. Shot from first row mezz, very clear with lots of close-ups. Great production, from master. Randy Graff is amazing!
-
-#### A Little Night Music - New York City Opera - November 7, 1990
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Sally Ann Howes (Desiree Armfeldt), Regina Resnik (Madame Armfeldt), George Lee Andrews (Fredrik Egerman), Beverly Lambert (Anne Egerman), Kevin Anderson (Henrik Egerman), Michael Maguire (Count Carl-Magnus Malcolm), Maureen Moore (Countess Charlotte Malcolm), Susan Terry (Petra), Danielle Ferland (Fredrika Armfeldt), Ron Baker (Mr. Lindquist), Lisa Saffer (Mrs. Nordstrom), Barbara Shirvis (Mrs. Anderssen), Michael Rees Davis (Mr. Erlanson), Susanne Marsee (Mrs. Segstrom), David Comstock (Frid)
-
-NOTES
-: Production at Lincoln Center, PBS aired, pro-shot. Very slight generational loss.
-
-#### A Little Night Music - North Shore Music Theatre, Beverly MA - September, 2000
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Donna McKechnie, Jeff McCarthy, Merle Louise, Angela Gaylor, Adam Monley, Chuck Wagner, Diana Canova, Natasha Ashworth, Julia Haubner, Jeremy Holm, Sharon Richards, Curtis Olds, Joy Hermalyn, Susan Derry, Michael Hailing
-
-#### A Little Night Music - Ravinia Festival - August, 2002
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Patti LuPone (Desiree Armfeldt), Zoe Caldwell (Madame Armfeldt), George Hearn (Fredrik Egerman), Johanna McKenzie Miller (Anne Egerman), John McVeigh (Henrik Egerman), Marc Kudisch (Count Carl-Magnus Malcolm), Hollis Resnik (Countess Charlotte Malcolm), Sara Ramirez (Petra)
-
-#### A Little Night Music - San Francisco - December 7, 1998
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Meg Mackay (Desiree Armfeldt), Ruth Kobart (Madame Armfeldt), Lisa Vroman (Anne Egerman), Franc D\'Ambrosio (Henrik Egerman), Christopher Carl (Count Carl-Magnus Malcolm), Karen Culliver (Countess Charlotte Malcolm), Krista Wigle (Petra), Bonnie Rapple (Fredrika Armfeldt)
-
-NOTES
-: The San Francisco company of The Phantom Of The Opera presented this staged benefit concert. Nice two camera archival recording with sound system audio. There is a strong audio buzz.
-
-#### A Little Night Music - Théâtre Du Châtelet - 2010 
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Greta Scacchi (Desiree Armfeldt), Leslie Caron (Madame Armfeldt), Lambert Wilson (Fredrik Egerman), Rebecca Bottone (Anne Egerman), David Curry (Henrik Egerman), Nicholas Garrett (Count Carl-Magnus Malcolm), Deanne Meek (Countess Charlotte Malcolm), Francesca Jackson (Petra), Celeste de Veazey (Fredrika Armfeldt)
-
-NOTES
-: This is the first production of Sondheim\'s show ever in France. Produced at the world-famous Theatre du Chatelet in Paris. In English and full stage shot with clear sound but no closeups. A
-
-#### A Little Night Music - West End Revival - July 21, 2009
-{: .no_toc .d-inline-block }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Hannah Waddingham (Desiree Armfeldt), Maureen Lipman (Madame Armfeldt), Alexander Hanson (Fredrik Egerman), Jessie Buckley (Anne Egerman), Gabriel Vick (Henrik Egerman), Alistair Robins (Count Carl-Magnus Malcolm), Kelly Price (Countess Charlotte Malcolm), Kaisa Hammarlund (Petra), Lynden Edwards (Mr. Lindquist), Fiona Dunn (Mrs. Nordstrom), Laura Armstrong (Mrs. Anderssen), John Addison (Mr. Erlanson), Nicola Sloane (Mrs. Segstrom)
-
-NOTES
-: An amazing capture of the West End revival before it went to Broadway. Filmed in 16:9 with hardly any blackouts or obstructions. Does not include Curtain Call.
 
 ## Little Shop of Horrors (15)
 
