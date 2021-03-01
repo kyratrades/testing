@@ -8307,3 +8307,964 @@ CAST
 
 NOTES
 : Excellent HD capture of 2018 Tony winner for Best Revival. Sensational show and cast, not to be missed! A-
+
+
+# P
+
+## Passion
+
+#### Passion - Broadway - August 3, 1994
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Donna Murphy (Fosca), Jere Shea (Giorgio), Marin Mazzie (Clara), Gregg Edelman (Colonel Ricci), Tom Aldredge (Doctor Tambourri), Linda Balgord (Fosca\'s Mother), Cris Groenendaal (Major Rizzolli), William Parry (Lieutenant Barri), Matthew Porretta (Ludovic), Francis Ruivivar (Lieutenant Torasso), George Dvorsky (Private Augenti), Juliet Lambert (Mistress), Marcus Olson (Sergeant Lombardi), John Leslie Wolfe (Fosca\'s Father)
+
+NOTES
+: Videotaped for the Lincoln Centre Archives on Film and Tape Archive. Multi-camera Pro-shot. This is only the third video that has been leaked from the library of Broadway shows from the Lincoln Center Archives (the other two are A Chorus Line and Crazy for You). Warning: contains nudity.
+
+#### Passion - Broadway - January 16–18, 1995
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Donna Murphy (Fosca), Jere Shea (Giorgio), Marin Mazzie (Clara), Gregg Edelman (Colonel Ricci), Tom Aldredge (Doctor Tambourri), Linda Balgord (Fosca's Mother), Cris Groenendaal (Major Rizzolli), William Parry (Lieutenant Barri), Matthew Porretta (Ludovic), Francis Ruivivar (Lieutenant Torasso), George Dvorsky (Private Augenti), Juliet Lambert (Mistress), Marcus Olson (Sergeant Lombardi), John Leslie Wolfe (Fosca's Father) 
+NOTES
+: Pro-Shot filmed just after closing for American Playhouse on PBS.
+
+#### Passion - Lincoln Center - March 31, 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.19 GB`
+
+CAST
+: Patti LuPone (Fosca), Michael Cerveris (Giorgio), Audra McDonald (Clara), Allen Fitzpatrick (Colonel Ricci), Richard Easton (Doctor Tambourri), Alexander Gemignani (Lieutenant Torasso)
+
+NOTES
+: Multi-camera Pro-shot filmed for the American Songbook Series from Live at Lincoln Center
+
+## Peter Pan Goes Wrong
+
+#### Peter Pan Goes Wrong - BBC Special - December 31, 2016
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `1.04 GB`
+
+CAST
+: Henry Shields (Chris/George and Hook), Greg Tannahill (Jonathan/Peter Pan), Nancy Zamit (Annie/Mary, Lisa, Tinkerbell and Tigerlily), Charlie Russell (Sandra/Wendy), Dave Hearn (Max/Michael and Crocodile), Jonathan Sayer (Dennis/John and Smee), Henry Lewis (Robert/Nana and Starkey), Chris Leask (Trevor Watson), David Suchet (Francis/Narrator), Ellie Morris (Lucy/Tootles)
+
+NOTES
+: Mischief Theatre 2016 BBC Special proshot.
+
+## The Phantom of the Opera (42)
+
+### West End (9)
+
+#### The Phantom of the Opera - West End - March 27, 1987 (Highlights)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael Crawford (The Phantom of the Opera), Rebecca Caine (alt Christine Daaé), Steve Barton (Raoul)
+
+NOTES
+: Highlights. \'All I Ask of You\' is audio only with still pictures; video ends at \'Notes II\'. Extremely difficult to make out anything other than the figures of people; black-and-white image and very heavy generation loss. Also includes some concert performances and news clips from the Broadway and Los Angeles productions.
+
+#### The Phantom of the Opera - West End - 1988 (2)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Dave Willetts (The Phantom of the Opera), Jan Hartley-Morris (alt Christine Daaé), Michael Cormick (Raoul)
+
+NOTES
+: There\'s a lot of generation loss and tons of washout and color bleeding. Often labeled as having Michael Ball as Raoul, but it\'s Michael Cormick. Dave Willetts and Jan Hartley-Morris are both very lovely, old school actors.
+
+#### The Phantom of the Opera - West End - February 26, 2005
+
+FORMAT
+: VOB+smalls
+
+CAST
+: John Owen-Jones (The Phantom of the Opera), Rachel Barrell (Christine Daaé), Oliver Thornton (Raoul)
+
+NOTES
+: John Owen Jones last show before his return in 2010. Filmed from the stalls, a lot of close ups, especially of Rachel Barrell
+
+#### The Phantom of the Opera - West End - January, 2006
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Earl Carpenter (The Phantom of the Opera), Rachel Barrell (Christine Daaé), David Shannon (Raoul), Wendy Ferguson (Carlotta Giudicelli), David Lawrence (u/s Monsieur Firmin), Sam Hiller (Monsieur André), Emily Harvey (u/s Madame Giry), Rohan Tickell (Ubaldo Piangi), Heidi Ann O\'Brien (Meg Giry)
+
+#### The Phantom of the Opera - West End - February 25, 2006
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Matthew Cammelle (s/b The Phantom of the Opera), Rachel Barrell (Christine Daaé), David Shannon (Raoul), Wendy Ferguson (Carlotta Giudicelli), James Barron (Monsieur Firmin), Sam Hiller (Monsieur André), Annette Yeo (Madame Giry), Rohan Tickell (Ubaldo Piangi), Heidi Ann O\'Brien (u/s Meg Giry)
+
+NOTES
+: Gorgeous crystal clear picture, beautifully filmed in widescreen from the front of the circle so there are no obstructions or heads in the way.
+
+#### The Phantom of the Opera - West End - September 9, 2008
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ramin Karimloo (The Phantom of the Opera), Gina Beck (Christine Daaé), Simon Bailey (Raoul), Kate Radmilovic (Carlotta Giudicelli), Barry James (Monsieur Firmin), Gareth Snook (Monsieur André), Heather Jackson (Madame Giry), Rohan Tickell (Ubaldo Piangi), Tori Johns (Meg Giry)
+
+NOTES
+: Gina, Simon, Kate and Tori\'s first show.
+
+#### The Phantom of the Opera - West End - December, 2018 \| hitmewithyourbethshot
+
+FORMAT
+: MP4 \| 480p \| 2.05 GB
+
+COMMENTS
+: Original files
+
+CAST
+: David Thaxton (The Phantom of the Opera), Amy Manford (alt Christine Daaé), Jeremy Taylor (Raoul), Kimberly Blake (Carlotta Giudicelli), Ross Dawes (Monsieur Firmin), Mark Oxtoby (u/s Monsieur André), Rachel Spurrell (u/s Madame Giry), Paul Tabone (Ubaldo Piangi), Georgia Ware (Meg Giry)
+
+NOTES
+: Lots of blackouts, safety rail in the way as well as a head at times \|\| A bit of shakiness
+
+#### The Phantom of the Opera - West End - April, 2019 \| hitmewithyourbethshot
+
+FORMAT
+: MP4 \| 576p \| 4.21 GB
+
+COMMENTS
+: Original files
+
+CAST
+: David Thaxton (The Phantom of the Opera), Amy Manford (alt Christine Daaé), Danny Whitehead (u/s Raoul), Kimberly Blake (Carlotta Giudicelli), Ross Dawes (Monsieur Firmin), Alan Vicary (Monsieur André), Jacinta Mulcahy (Madame Giry), Paul Tabone (Ubaldo Piangi), Georgia Ware (Meg Giry)
+
+NOTES
+: Shot around heads and lighting equipment.
+
+#### The Phantom of the Opera - West End - November, 2019 \| hitmewithyourbethshot
+
+FORMAT
+: MP4 \| 720p \| 1.10 GB
+
+COMMENTS
+: \*\*DO NOT REQUEST\*\* NOT original which should be MTS; Looking for original files
+
+CAST
+: Josh Piterman (The Phantom of the Opera), Kelly Mathieson (Christine Daaé), Alistair So (u/s Raoul), Britt Lenting (Carlotta Giudicelli), Ross Dawes (Monsieur Firmin), Richard Woodford (Monsieur André), Jacinta Mulcahy (Madame Giry), Simon Whitaker (u/s Ubaldo Piangi), Georgia Ware (Meg Giry)
+
+NOTES
+: MTS file, shot around heads and master tries best to work around them but is unable too. Auction and overtune is blocked alongside most of the whole recording. Theres a few bits here and there where the action is visible such as during think of me, music of the night. Sound is very clear. Anything on the left side of the stage such during \"prima dona\" is mostly visible-ish.
+
+### Broadway (21)
+
+#### The Phantom of the Opera - Broadway - 1987 (Highlights)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael Crawford (The Phantom of the Opera), Sarah Brightman (Christine Daaé), Steve Barton (Raoul)
+
+NOTES
+: Rehearsal footage from a documentary. About 40 minutes long.
+
+#### The Phantom of the Opera - Broadway - February 28, 1988 (Highlights)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael Crawford (The Phantom of the Opera), Sarah Brightman (Christine Daaé), Steve Barton (Raoul)
+
+NOTES
+: About an hour and a half of the show, missing a bunch of the beginning of act 2, which starts in the middle of Don Juan. Clear video for its age.
+
+#### The Phantom of the Opera - Broadway - April, 1988
+
+FORMAT
+: VOB+smalls \| FAULTY
+
+COMMENTS
+: FAULTY and seems to be missing one last VOB
+
+CAST
+: Michael Crawford (The Phantom of the Opera), Sarah Brightman (Christine Daaé), Steve Barton (Raoul)
+
+NOTES
+: Starts partway through \'Overture\'. Color bleeding, washout, generation loss, and several unimportant scenes (\'Prologue\', \'Magical Lasso\', etc.) are cut out, but nevertheless a video of the original cast on Broadway.
+
+#### The Phantom of the Opera - Broadway - August 8, 1988
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael Crawford (The Phantom of the Opera), Patti Cohenour (Christine Daaé), Steve Barton (Raoul), Judy Kaye (Carlotta Giudicelli), Nick Wyman (Monsieur Firmin), Cris Groenendaal (Monsieur André), Leila Martin (Madame Giry), David Romano (Ubaldo Piangi)
+
+#### The Phantom of the Opera - Broadway - October 8, 1988
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael Crawford (The Phantom of the Opera), Dale Kristien (alt Christine Daaé), Steve Barton (Raoul), Judy Kaye (Carlotta Giudicelli), Nick Wyman (Monsieur Firmin), Cris Groenendaal (Monsieur André), Leila Martin (Madame Giry)
+
+NOTES
+: Act 1 starts partway through Auctioneer\'s speech; Act 2 midway through \'Masquerade\'. Includes a clip of Michael Crawford\'s bows for his last show on Broadway, shot from a different angle and possibly taken from another source.
+
+#### The Phantom of the Opera - Broadway - 1989
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Cris Groenendaal (The Phantom of the Opera), Rebecca Luker (Christine Daaé), Steve Barton (Raoul)
+
+NOTES
+: Almost black-and-white video with constant flickering lines. Dark and tons of generation loss and washout
+
+#### The Phantom of the Opera - Broadway - July 31, 2002 (Matinee)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Howard McGillin (The Phantom of the Opera), Elizabeth Southard (Christine Daaé), Michael Shawn Lewis (Raoul), Wren Marie Harrington (u/s Carlotta Giudicelli), Jeff Keller (Monsieur Firmin), George Lee Andrews (Monsieur André), Marilyn Caskey (Madame Giry), Larry Wayne Morbitt (Ubaldo Piangi)
+
+#### The Phantom of the Opera - Broadway - May 20, 2003
+
+FORMAT
+: VOB (NO SMALLS)
+
+COMMENTS
+: COMPLETE RECORDING
+
+CAST
+: Hugh Panaro (The Phantom of the Opera), Lisa Vroman (Christine Daaé), John Cudia (Raoul)
+
+NOTES
+: Decent picture and quality but with some washout in some shots. Hugh and Lisa have been said to have the best chemistry together
+
+#### The Phantom of the Opera - Broadway - October 7, 2003
+
+FORMAT
+: VOB+smalls \| FAULTY
+
+COMMENTS
+: VOBs don\'t seem to work with the smalls they came with. Would trade unfairly for original files.
+
+CAST
+: Hugh Panaro (The Phantom of the Opera), Julie Hanson (Christine Daaé), Jim Weitzer (Raoul)
+
+NOTES
+: Amazing quality video for its time and also early Hugh run!
+
+#### The Phantom of the Opera - Broadway - March 2, 2005
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: No DVD menu, seems to be generated smalls
+
+CAST
+: Hugh Panaro (The Phantom of the Opera), Julie Hanson (u/s Christine Daaé), John Cudia (Raoul)
+
+NOTES
+: Great quality video but the filmer seemed to lack in knowledge of the show so wideshots are more than usual. Amazing trio, but Hugh is a little less stronger this night
+
+#### The Phantom of the Opera - Broadway - October 1, 2005
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: The copy with the weird files with Act 2, seems to be the commonly circulated copy. Looking for the original files.
+
+CAST
+: Hugh Panaro (The Phantom of the Opera), Sandra Joseph (Christine Daaé), Tim Martin Gleason (Raoul), Anne Runolfsson (Carlotta Giudicelli), James Romick (u/s Monsieur Firmin), George Lee Andrews (Monsieur André), Marilyn Caskey (Madame Giry), Larry Wayne Morbitt (Ubaldo Piangi), Kara Klein (Meg Giry)
+
+NOTES
+: Hugh\'s last night performing and Sandra gives a very sweet speech. Hugh Panaro\'s last performance at the time, includes curtain call and speeches at the end. Beautiful, clear picture with great detail and quality, and the entire cast was on fire.
+
+#### The Phantom of the Opera - Broadway - May 9, 2007
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: \*\*ACT 1 SMALLS MISSING\*\* (given as duplicate of Act 2 smalls, seems to be the commonly circulating copy); looking for original files
+
+CAST
+: Gary Mauer (The Phantom of the Opera), Jennifer Hope Wills (Christine Daaé), Jason Mills (u/s Raoul), Patricia Phillips (u/s Carlotta Giudicelli), David Cryer (Monsieur Firmin), George Lee Andrews (Monsieur André), Sally Williams (u/s Madame Giry), Roland Rusinek (Ubaldo Piangi), Heather McFadden (Meg Giry)
+
+NOTES
+: A gorgeous video and the filmer knows the show very well. Includes a flub where Buquet fails to appear in time for Magical Lasso so Meg Giry gets in touch with her Leroux roots
+
+#### The Phantom of the Opera - Broadway - October 13, 2012 \| Lanelle
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hugh Panaro (The Phantom of the Opera), Trista Moldovan (Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Kevin Ligon (Monsieur Firmin), Aaron Galligan-Stierle (Monsieur André), Cristin Hubbard (Madame Giry), Christian Sebek (Ubaldo Piangi), Joelle Gates (Meg Giry)
+
+NOTES
+: Gorgeous video with vibrant and steady filming! Hugh and Trista are AMAZING together. Kyle is okay.
+
+#### The Phantom of the Opera - Broadway - November 22, 2012 \| Lanelle
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Hugh Panaro (The Phantom of the Opera), Samantha Hill (Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Jim Weitzer (Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)
+
+NOTES
+: The same filmer as the one from October 13, 2012 but even better filming. Hugh and Samantha work so well together!
+
+#### The Phantom of the Opera - Broadway - April 27, 2013 \| inallyourfantasies
+
+FORMAT
+: MPG \| 1080p \| 12.68 GB
+
+COMMENTS
+: Not sure whether this is the original file, if you know anything please tell me!
+
+CAST
+: Hugh Panaro (The Phantom of the Opera), Samantha Hill (Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Richard Poole (u/s Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)
+
+#### The Phantom of the Opera - Broadway - May 9, 2013 \| inallyourfantasies
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Peter Jöback (The Phantom of the Opera), Elizabeth Welch (u/s Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Richard Poole (u/s Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)
+
+#### The Phantom of the Opera - Broadway - May 18, 2013 (Matinee) \| inallyourfantasies
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Peter Jöback (The Phantom of the Opera), Samantha Hill (Christine Daaé), Jeremy Stolle (u/s Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Richard Poole (u/s Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry)
+
+#### The Phantom of the Opera - Broadway - July 27, 2013 \| inallyourfantasies
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Peter Jöback (The Phantom of the Opera), Samantha Hill (Christine Daaé), Kyle Barisich (Raoul), Michele McConnell (Carlotta Giudicelli), Kenneth Kantor (u/s Monsieur Firmin), Jim Weitzer (Monsieur André), Marilyn Caskey (Madame Giry), Christian Sebek (Ubaldo Piangi), Kara Klein (Meg Giry), Richard Poole (Joseph Buquet), Greg Mills (Auctioneer), Justin Peck (Slave Master), Kelly Jeanne Grant (Page), Greg Mills (Monsieur Reyer), Scott Mikita (Monsieur Lefèvre), David Michael Garry (Don Attilio), Jeremy Stolle (Passarino), Greg Mills (Hairdresser), Nathan Patrick Morgan (Jeweller), Satomi Hoffman (Wardrobe Mistress), Andrew Drost (Porter), Elizabeth Welch (Princess), Sarah Bakker (Madame Firmin)
+
+#### The Phantom of the Opera - Broadway - March 6, 2014 \| Turnofthescorpion
+
+FORMAT
+: MPG \| 1080p \| 10.25 GB
+
+COMMENTS
+: Not sure whether this is the original file, if you know anything please tell me!
+
+CAST
+: Hugh Panaro (The Phantom of the Opera), Elizabeth Welch (u/s Christine Daaé), Jeremy Hays (Raoul)
+
+NOTES
+: Great quality! There\'s a lot of shakiness and head obstruction, though, and the occasional short blackout.
+
+#### The Phantom of the Opera - Broadway - May 12, 2014 \| inallyourfantasies
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Norm Lewis (The Phantom of the Opera), Sierra Boggess (Christine Daaé), Jeremy Hays (Raoul), Michele McConnell (Carlotta Giudicelli), Tim Jerome (Monsieur Firmin), Laird Mackintosh (Monsieur André), Ellen Harvey (Madame Giry), Christian Sebek (Ubaldo Piangi)
+
+NOTES
+: First show for Norm Lewis and Sierra Boggess. There are two masters (joint masters) for this video: inallyourfantasies and turnofthescorpion
+
+#### The Phantom of the Opera - Broadway - September, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ben Crawford (The Phantom of the Opera), Ali Ewoldt (Christine Daaé), Jay Armstrong Johnson (Raoul), Raquel Suarez Groen (Carlotta Giudicelli), Craig Bennett (Monsieur Firmin), Laird Mackintosh (Monsieur André), Maree Johnson (Madame Giry), Ted Keegan (u/s Ubaldo Piangi), Polly Baird (Meg Giry)
+
+### Others (12)
+
+#### The Phantom of the Opera - 25th Anniversary - Live At The Royal Albert Hall - October 2, 2011
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV \| 1080p \| 5.36 GB
+
+COMMENTS
+: Version 1 (Blu-ray rip)
+
+CAST
+: Ramin Karimloo (The Phantom of the Opera), Sierra Boggess (Christine Daaé), Hadley Fraser (Raoul), Wendy Ferguson (Carlotta Giudicelli), Gareth Snook (Monsieur Firmin), Barry James (Monsieur André), Liz Robertson (Madame Giry), Wynne Evans (Ubaldo Piangi), Daisy Maywood (Meg Giry), Nick Holder (Joseph Buquet), Earl Carpenter (Auctioneer), Sergei Polunin (Slave Master)
+
+NOTES
+: Commonly referred to as \"Live Stream Version 1\" to differentiate from the other cinema live stream video of this production. Typically circulates as a 5.36 GB MKV file with AC3 5.1 audio. Has alternate takes from Live Stream Version 2 and the officially released verson. The first shot in this version is of the orchestra (pictured below). Another note is that Piangi does not hit the note the note in Hannibal "Your army ha - ha - has come home!\" (and the camera is zoomed out more than Version 2, showing Carlotta next to him). You can also see him put his hand on his collar bone near his throat, which he does not do in Version 2.
+
+#### The Phantom of the Opera - 25th Anniversary - Live At The Royal Albert Hall - October 2, 2011
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV \| 1080p \| 21.39 GB
+
+COMMENTS
+: Version 2 1080i (Original Live Stream)
+
+CAST
+: Ramin Karimloo (The Phantom of the Opera), Sierra Boggess (Christine Daaé), Hadley Fraser (Raoul), Wendy Ferguson (Carlotta Giudicelli), Gareth Snook (Monsieur Firmin), Barry James (Monsieur André), Liz Robertson (Madame Giry), Wynne Evans (Ubaldo Piangi), Daisy Maywood (Meg Giry), Nick Holder (Joseph Buquet), Earl Carpenter (Auctioneer), Sergei Polunin (Slave Master)
+
+NOTES
+: Commonly referred to as \"Live Stream Version 1\" to differentiate from the other cinema live stream video of this production. Typically circulates as a 5.36 GB MKV file with AC3 5.1 audio. Has alternate takes from Live Stream Version 2 and the officially released verson. The first shot in this version is of the orchestra (pictured below). Another note is that Piangi does not hit the note the note in Hannibal "Your army ha - ha - has come home!\" (and the camera is zoomed out more than Version 2, showing Carlotta next to him). You can also see him put his hand on his collar bone near his throat, which he does not do in Version 2.
+
+#### The Phantom of the Opera - Sydmonton Festival - July, 1985
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Colm Wilkinson (The Phantom of the Opera), Sarah Brightman (Christine Daaé)
+
+NOTES
+: Pretty bad quality due to age and being ripped from video to digital, but it shows the changes the show made before its opening in 1986.
+
+#### The Phantom of the Opera - First National Tour - 1989
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Michael Crawford (The Phantom of the Opera), Dale Kristien (Christine Daaé), Steve Barton (Raoul)
+
+NOTES
+: Lots of washout and generation loss, but the best video of Michael Crawford around. According to another site, it is Reece Holland as Raoul in the video, though some footage may be from Steve Barton\'s three week stint in the production. Two versions: Version 1 has brighter colors but more generation loss, Version 2 is smaller in file size but has sharper details and lines.
+
+#### The Phantom of the Opera - Third National Tour - January 5, 2006
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Gary Mauer (The Phantom of the Opera), Elizabeth Southard (alt Christine Daaé), John Cudia (Raoul), Kim Stengel (Carlotta Giudicelli), David Cryer (Monsieur Firmin), DC Anderson (Monsieur André), Patti Davidson-Gorbea (Madame Giry), John Whitney (Ubaldo Piangi), Kate Wray (Meg Giry)
+
+NOTES
+: First act starts during the Overture.
+
+#### The Phantom of the Opera - Third National Tour - April 6, 2006 \| musicinthestars
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Gary Mauer (The Phantom of the Opera), Elizabeth Southard (alt Christine Daaé), Jim Weitzer (Raoul), Kim Stengel (Carlotta Giudicelli), John Jellison (Monsieur Firmin), D C Anderson (Monsieur André), Patti Davidson-Gorbea (Madame Giry), John Whitney (Ubaldo Piangi), Kate Wray (Meg Giry)
+
+NOTES
+: 2 camera edit of Elizabeth Southard\'s final performance. Very good and emotional show to watch. Real life husband and wife Phantom and Christine.
+
+#### The Phantom of the Opera - Fourth National Tour - July 27, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Cooper Grodin (The Phantom of the Opera), Grace Morgan (alt Christine Daaé), Ben Jacoby (Raoul), Lindsay O\'Neil (u/s Carlotta Giudicelli), Brad Oscar (Monsieur Firmin), Edward Staudenmayer (Monsieur André), Linda Balgord (Madame Giry), Frank Viveros (Ubaldo Piangi)
+
+NOTES
+: Beautiful HD capture with no obstructions. Grace does a terrific job as the alternate Christine and has wonderful voice. Lindsay as Carlotta has one of the highest singing voices I have ever heard in the role!
+
+#### The Phantom of the Opera - Fourth National Tour - November 16, 2016 (Matinee) \| kradder32
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Derrick Davis (The Phantom of the Opera), Kaitlyn Davis (alt Christine Daaé), Jordan Craig (Raoul), Trista Moldovan (Carlotta Giudicelli), David Benoit (Monsieur Firmin), Price Waldman (Monsieur André), Tynan Davis (u/s Madame Giry), Phumzile Sojola (Ubaldo Piangi), Emily Ramirez (Meg Giry)
+
+NOTES
+: Great video of the fourth national tour.
+
+#### The Phantom of the Opera - Las Vegas - August 8, 2008
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Non-original smalls; Would trade for original files
+
+CAST
+: Anthony Crivello (The Phantom of the Opera), Kristi Holden (Christine Daaé), Andrew Ragone (Raoul)
+
+NOTES
+: Great capture of the reconfigured and shortened version of Phantom which had a long run in Vegas. Anthony really gives a powerful performance as the Phantom. A
+
+#### The Phantom of the Opera - São Paulo - 2005 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Saulo Vasconcelos (The Phantom of the Opera), Kiara Sasso (Christine Daaé), Nando Pradho (Raoul)
+
+NOTES
+: Monitor video, different from the audience recording that is ripped from YouTube.
+
+#### The Phantom of the Opera - Stuttgart - November 16, 2002 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ian Jon Bourg (The Phantom of the Opera), Janine Kitzen (Christine Daaé), Michael Shawn Lewis (Raoul)
+
+NOTES
+: Monitor video.
+
+#### The Phantom of the Opera - Stuttgart - 2003 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Roy Weissensteiner (u/s The Phantom of the Opera), Marion Wilmer (u/s Christine Daaé), Carsten Lepper (Raoul)
+
+NOTES
+: Monitor video. Full stage shot and soundboard audio.
+
+## Phantom: The Untold Story (2)
+
+#### Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2011 (Sort Cast)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Yoshiki Yamamoto (Erik) & Sort Cast
+
+NOTES
+: Officially released DVD. Disc 1 of 4.
+
+#### Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan (2012) - 2012 (Espoir Cast)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Yoshiki Yamamoto (Erik), Shinya Matsumoto (Christine) & Espoir Cast
+
+NOTES
+: Officially released DVD. Disc 4 of 4.
+
+## Pipe Dream (1)
+
+#### Pipe Dream - Encores! - March 28, 2012 (Opening Night)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Will Chase (Doc), Laura Osnes (Suzy), Leslie Uggams (Fauna), Tom Wopat (Mac), James Clow (Ray), Philip Hernandez (Joe), James Moye (Jim), Steve Routman (George), Stephen Wallem (Hazel)
+
+NOTES
+: Filmed around a railing which sometimes gets in the shot, but is well filmed around. Includes 35 minutes of behind the scenes/interviews.
+
+## Pippin (2)
+
+#### Pippin - Hamilton, Ontario - 1981
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Bob Fosse cut
+
+CAST
+: Ben Vereen (Leading Player), William Katt (Pippin), Benjamin Rayson (Charles), Chita Rivera (Fastrada), Martha Raye (Berthe), Leslie Denniston (Catherine), Christopher Chadman (Lewis), Carmine Rizzo (Theo), Allison Williams, Charles Ward, David Warren-Gibson, Debra Phelan, Frank Mastrocola, Gena Ramsel, Joanie O\'Neill, John Mineo, Kate Wright, Lee Mathis, Linda Haberman, Tom Batten
+
+NOTES
+: FOSSE CUT. Different (and longer) than the eventual TV broadcast with different angles and takes. Bob Fosse\'s master which he edited and returned back to the producers. Ultimately his cut was not used and he was apparently unhappy with the finished version. Generation loss and counter numbers at the bottom of the screen. Staged by Fosse's associate Kathryn Doby, based on his original Broadway staging. FIlmed in Hamilton, Ontario, Canada.
+
+#### Pippin - Hamilton, Ontario - 1981
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Ben Vereen (Leading Player), William Katt (Pippin), Benjamin Rayson (Charles), Chita Rivera (Fastrada), Martha Raye (Berthe), Leslie Denniston (Catherine), Christopher Chadman (Lewis), Carmine Rizzo (Theo), Allison Williams, Charles Ward, David Warren-Gibson, Debra Phelan, Frank Mastrocola, Gena Ramsel, Joanie O\'Neill, John Mineo, Kate Wright, Lee Mathis, Linda Haberman, Tom Batten
+
+NOTES
+: Final TV broadcast and video version. Cuts around 20 mins from the Fosse cut due to time constraints (\~1hr 50mins).
+
+## The Pirate Queen (6)
+
+#### The Pirate Queen - Broadway - March 24, 2007 (Preview)
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
+
+#### The Pirate Queen - Broadway - April 11, 2007
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
+
+#### The Pirate Queen - Broadway - April 13, 2007
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
+
+NOTES
+: Wonderful crystal clear capture and top notch amazing performances. Much improved from Chicago version. Includes performance on the the View. A+
+
+#### The Pirate Queen - Pre-Broadway / Chicago - October 8, 2006
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
+
+#### The Pirate Queen - Pre-Broadway / Chicago - October 11, 2006
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
+
+#### The Pirate Queen - Pre-Broadway / Chicago - October-November, 2006
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
+
+NOTES
+: Pro-shot copy, filmed with multiple cameras. Made presumably for archival purposes.
+
+## The Play That Goes Wrong (1)
+
+#### The Play That Goes Wrong - Broadway - May, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Mark Evans (Chris Bean), Preston Truman Boyd (Robert Grove), Jonathan Fielding (Jonathan Harris), Amelia McClain (Sandra Wilkinson), Alex Mandell (Max Bennett), Harrison Unger (Dennis Tyde), Ashley Bryant (Annie Twilliol), Akron Watson (Trevor Watson)
+
+NOTES
+: (not Master\'s notes) Beginning from pre-show where the comedy \'bit\' of the set breaking starts. Throughout, very clearly shot with no obstructions, in a mixture of wides and closes, following the action well. I think it\'s shot from the front of the circle. Once or twice the camera falls but never during key moments, and is quickly fixed. No long blackouts. Audience energy is great.
+
+## Pretty Woman: The Musical (4)
+
+#### Pretty Woman: The Musical - Broadway - February, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Samantha Barks (Vivian Ward), Adam Pascal (Edward Lewis), Eric Anderson (Mr. Thompson/Happy Man), Jason Danieley (Philip Stuckey), Kingsley Leggs (James Morse), Orfeh (Kit De Luca), Tommy Bracco (Giulio)
+
+NOTES
+: (not Master notes) Seems a fantastic capture of the show. Virtually no dropouts, obstructions and spotlight washout. Filmed more centre than the preview recording by the same master; mix of wides, mediums and some closeups; very good capture of the sets and actor choreography. Both are worth watching.
+
+#### Pretty Woman: The Musical - Broadway - July, 2018 (Preview) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Samantha Barks (Vivian Ward), Andy Karl (Edward Lewis), Eric Anderson (Mr. Thompson/Happy Man), Jason Danieley (Philip Stuckey), Ezra Knight (James Morse), Orfeh (Kit De Luca), Allison Blackwell (Violetta), Tommy Bracco (Giulio), Brian Cali (Fred/Alfredo), Robby Clater (David Morse), Anna Eilinsfeld (Susan/Scarlett)
+
+NOTES
+: (not Master notes) Seems a fantastic capture of the show. Virtually no dropouts or obstructions. More spotlight washout than the Feb 2019 recording by the same master, but it\'s very minimal. Filmed at slight angle and with more closeups compared to the other recording. Very good capture of the actors\' expressions. Both are worth watching.
+
+#### Pretty Woman: The Musical - Pre-Broadway/Chicago - April 13, 2018
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Samantha Barks (Vivian Ward), Steve Kazee (Edward Lewis), Eric Anderson (Mr. Thompson/Happy Man), Jason Danieley (Philip Stuckey), Kingsley Leggs (James Morse), Orfeh (Kit De Luca)
+
+NOTES
+: Beautiful HD capture of the PreBroadway production. This includes Steve as Edward before he left the production prior to Broadway. Such a fun show with terrific performances and a rare glimpse of Steve in the role! A
+
+#### Pretty Woman: The Musical - Hamburg - September 25, 2019 (Preview) \| Rumpel
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patricia Meeden (Vivian Ward), Mark Seibert (Edward Lewis), Paul Kribbe (Mr. Thompson/Happy Man), Nigel Casey (Philip Stuckey), Frank Logemann (James Morse), Maricel (Kit De Luca)
+
+## Pride and Prejudice: A New Musical (1)
+
+#### Pride and Prejudice: A New Musical - TheatreWorks Silicon Valley- 2020
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV \| 720p \| 603.0 MB
+
+CAST
+: Samantha James Ayoob, Seton Chiang, Taylor Crousore, Travis Leland, Mary Mattison, Justin Mortellitit, Heather Orth, Sharon Rietkirk, Michelle Skinner, Heather Mae Steffen, Chanel Tilghman, Melissa WolfKlain, Tara Kostmayer, Monique Hafen Adams, Lucinda Hitchcock Cone, Sean Fenton, Brian Herndon, Dani Marcus, Christopher Vettel
+
+NOTES
+: <https://www.streamingmusicals.com/film/pride-and-prejudice/>
+
+## The Prince of Egypt (2)
+
+#### The Prince of Egypt - West End - March 5, 2020 (BwaytoWestEnd
+
+FORMAT
+: MP4 (HD)
+
+CAST
+: Luke Brady (Moses), Liam Tamne (Ramses), Alexia Khadime (Miriam), Christine Allado (Tzipporah), Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), Joe Dixon (Seti), Debbie Kurup (Queen Tuya), Tanisha Spring (Nefertari), Adam Pearce (Hotep), Mercedesz Csampai (Yocheved)
+
+NOTES
+: Approx 12 gb stageshot filmed from stalls. Audio is awful most of the time. Master of this is BwaytoWestEnd
+
+#### The Prince of Egypt - West End - February, 2020 \| hitmewithyourbethshot
+
+FORMAT
+: MTS \| 15.52 GB
+
+CAST
+: Luke Brady (Moses), Liam Tamne (Ramses), Alexia Khadime (Miriam), Christine Allado (Tzipporah), Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), Joe Dixon (Seti), Debbie Kurup (Queen Tuya), Tanisha Spring (Nefertari), Adam Pearce (Hotep), Mercedesz Csampai (Yocheved), Iman Pabani (Young Miriam/Leah/Young Hebrew Girl), Leo Babet (Young Aaron/Young Egyptian Boy/Young Midian Boy)
+
+NOTES
+: This video is never to be publicly shared on YouTube, tumblr, Facebook, Stage Dork etc.
+
+## Priscilla, Queen of the Desert (2)
+
+#### Priscilla, Queen of the Desert - Broadway - March 6, 2011 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Will Swenson (Tick (Mitzi)), Tony Sheldon (Bernadette), Nick Adams (Adam (Felicia)), C David Johnson (Bob), Jacqueline B Arnold (Diva 1), Anastacia McCleskey (Diva 2), Ashley Spencer (Diva 3), Nathan Lee Graham (Miss Understanding), Jessica Phillips (Marion), Steve Schepis (Farrah), Keala Settle (Shirley)
+
+NOTES
+: Great to finally see this show arrive on Broadway. Great capture of this fun show with a very talented cast. The changes with the added Madonna songs are very nice. A-
+
+#### Priscilla, Queen of the Desert - First National Tour - January 4, 2013 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Wade McCollum (Tick (Mitzi)), Scott Willis (Bernadette), Bryan West (Adam (Felicia)), Joe Hart (Bob), Emily Afton (Diva 1), Bre Jackson (Diva 2), Brit West (Diva 3), Nik Alexander (Miss Understanding), Christy Faber (Marion), Chelsea Zeno (Cynthia), Travis Taber (Farrah), Travis Taber (Young Bernadette), Babs Rubenstein (Shirley), David Koch (Frank)
+
+NOTES
+: First preview from the First National Tour!
+
+## The Prom (1)
+
+#### The Prom - Broadway - February, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Caitlin Kinnunen (Emma Nolan), Josh Lamon (u/s Barry Glickman), Isabelle McCalla (Alyssa Greene), Beth Leavel (Dee Dee Allen), Christopher Sieber (Trent Oliver), Michael Genet (Mr. Hawkins), Angie Schworer (Angie), Courtenay Collins (Mrs. Greene), David Josefsberg (u/s Sheldon Saperstein)
+
+NOTES
+: Excellent capture! Josh mistakenly mentions Alyssa in \'Tonight Belongs to You\' despite not being meant to know her name at this point. The last three minutes of the show are from a different performance, during previews, with Brooks Ashmanskas as Barry and Josh Lamon as Sheldon, but it is a full video in total.
+
+## Promises, Promises (2)
+
+#### Promises, Promises - Broadway Revival - April 1, 2010
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sean Hayes (Chuck Baxter), Kristin Chenoweth (Fran Kubelik), Tony Goldwyn (J.D. Sheldrake), Dick Latessa (Dr. Dreyfuss), Brooks Ashmanskas (Mr. Dobitch), Katie Finneran (Marge MacDougall)
+
+NOTES
+: Good picture and sound with nice closeups and wide shots for the dancing; nice video. A-
+
+#### Promises, Promises - Broadway Revival - September 22, 2010
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sean Hayes (Chuck Baxter), Kristin Chenoweth (Fran Kubelik), Brian O\'Brien (u/s J.D. Sheldrake), Dick Latessa (Dr. Dreyfuss), Brooks Ashmanskas (Mr. Dobitch), Katie Finneran (Marge MacDougall), Helen Anker (Peggy Olson)
+
+NOTES
+: Includes full show plus clips from October 10, 2010 of Katie Finneran\'s final performance. Not as crisp a picture as one would like but a nice capture with no real obstructions.
+
+## Puffs (1)
+
+#### Puffs - Off-Broadway - February, 2018
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV \| 1080p \| 8.4 GB \| Amazon WEB-DL
+
+CAST
+: AJ Ditty (Narrator), Andy Miller (Leanne), Eleanor Philips (Hannah), James Fouhey (Cedric), Jessie Cannizzaro (Sally), Julie Ann Earls (Megan), Langston Belton (Oliver), Madeleine Bundy (Susie), Nick Carrillo (J. Finch-Fletchley), Stephen Stout (Ernie Mac), Zac Moon (Wayne)
+
+NOTES
+: You can find the Proshot\'s Kickstarter page here: <https://www.kickstarter.com/projects/269018729/puffs-live-off-broadway> - Filmed across February 3rd and 4th 2018
+
+## Putting it Together (1)
+
+#### Putting it Together - Off-Broadway - March, 1993 (Highlights) 
+{: .no_toc .d-inline-block }
+
+Press Reel 
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: A good bit of generational loss. Tough to watch at times, but it does give an exciting look into this barley-known production. The trader I got it from us combined it with \"Dance a Little Closer\" from 1983.
+
+CAST
+: Christopher Durang, Julie Andrews, Michael Rupert, Rachel York, Stephen Collins
+
+NOTES
+: RARE! Nearly forty minutes of press reel footage from the US premiere of the Sondheim revue. Produced by Cameron Macintosh and The Manhattan Theatre Club, and presented ay New Yorkís City Center theatre. The show eventually moved to Broadway in 1999, after a successful run in Los Angeles. Filmed using one camera on a tripod. Has producerís counter numbers onscreen. Some generational loss. (Also included on the disc: Dance A Little Closer, 5/83) C
