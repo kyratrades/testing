@@ -113,7 +113,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Iona Alphonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
@@ -122,7 +122,7 @@ CAST
 {: .no_toc }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe)
@@ -137,13 +137,10 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
-
-NOTES
-: Often confused for SunsetBlvd79\'s video from the same performance.
 
 #### 9 to 5 - Pre-Broadway / Los Angeles - October 19, 2008 (Closing Night)
 {: .no_toc .d-inline-block }
@@ -155,7 +152,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Non-original smalls; Would trade for original files
@@ -175,7 +172,7 @@ Press Reel
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe)
@@ -193,7 +190,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Non-original smalls; Would trade for original files
@@ -208,19 +205,16 @@ Burntplain
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
 
-NOTES
-: Often confused for SunsetBlvd79\'s video from the same performance.
-
 #### 9 to 5 - Broadway - April 30, 2009 (Opening Night) (Highlights)
-{: .no_toc }
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Brendan King, Jessica Lea Patty, Justin Bohon, Kevin Kern, Michael Mindlin, Paul Castree, Timothy George Anderson, Wayne Schroder
@@ -229,10 +223,10 @@ NOTES
 : **Act One only** of the Broadway opening night; shot in 16:9 widescreen. Coverups during \"9 to 5\", the second half of \"I Just Might\" and the scene right before \"Backwoods Barbie\" and about a minute at the end of the dream sequences; camera also wanders sometimes and heads in the wide shots when taper zoomed out to get the whole picture; DVD includes \"Get Out and Stay Out\" from the April 17th performance with Gaelen Gilliland as Judy.Well-shot from the orchestra. There is sometimes the top of a head at the bottom of the screen, but it never blocks Gaelen.
 
 #### 9 to 5 - Broadway - June 14, 2009
-{: .no_toc }
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
@@ -247,7 +241,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Gaelen Gilliland (u/s Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Dan Cooney (Dick), Van Hughes (Josh), Jeremy Davis (Bob Enright), Jessica Lea Patty (u/s Maria), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Charlie Pollock (Dwight), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
@@ -264,7 +258,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Jill Abramovitz (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita), Autumn Guzzardi, Brandi Wooten, Herman Payne, Jessica Lea Patty, Justin Bohon, Michael Mindlin, Paul Castree, Spencer Liff, Wayne Schroder
@@ -281,7 +275,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Dee Hoty (Violet Newstead), Diana DeGarmo (Doralee Rhodes), Mamie Parris (Judy Bernly), Kristine Zbornik (Roz Keith), Joseph Mahowald (Franklin Hart, Jr.), Greg Goodbrod (Joe), Jesse JP Johnson (Josh), Jane Blass (Margaret)
@@ -296,7 +290,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Dee Hoty (Violet Newstead), Shayla Osborn (Doralee Rhodes), Holly Davis (Judy Bernly), Kathy St George (Roz Keith), George Dvorsky (Franklin Hart, Jr.)
@@ -313,7 +307,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Graham Phillips (Evan Goldman), Allie Trimm (Patrice), Aaron Simon Gross (Archie), Eric M Nelsen (Brett), Delaney Moro (Kendra), Elizabeth Gillies (Lucy), Al Calderon (Eddie), Malik Hammond (Malcolm), Caitlin Gann (Molly), Ariana Grande (Charlotte), Brynn Williams (Cassie), Joey LaVarco (Simon), Eamon Foley (Richie)
@@ -324,10 +318,10 @@ NOTES
 ## The 25th Annual Putnam County Spelling Bee
 
 #### The 25th Annual Putnam County Spelling Bee - Off-Broadway - February 15, 2005
-{: .no_toc }
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Celia Keenan-Bolger (Olive Ostrovsky), Dan Fogler (William Barfee), Jose Llana (Chip Tolentino), Sarah Saltzberg (Logainne Schwartzandgrubenierre), Jesse Tyler Ferguson (Leaf Coneybear), Deborah S Craig (Marcy Park), Lisa Howard (Rona Lisa Peretti), Derrick Baskin (Mitch Mahoney), Jay Reiss (Douglas Panch)
@@ -345,7 +339,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Non-original smalls; Would trade for original files
@@ -359,7 +353,7 @@ NOTES
 ## 42nd Street
 
 #### 42nd Street - Broadway - 1981
-{: .no_toc }
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MP4 `480p` `3.18 GB`
@@ -377,11 +371,11 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: `1` VOB+smalls
+: `1` VOB+smalls `1 DVD`
 : `2` MP4 `476p`
 
 COMMENTS
-: I have two different versions, and will trade them out as one video but you must do so as well.
+: I will trade both formats out as one video. Please do so as well.
 
 CAST
 : Clare Leach (Peggy Sawyer), Jamie Ross (Julian Marsh), Elizabeth Allen (Dorothy Brock), Lee Roy Reams (Billy Lawlor), Joseph Bova (Bert Barry), Carole Cook (Maggie Jones), Don Crabtree (Abner Dillon), Beth Leavel (Annie), Kelly Crafton (Phyllis Dale), Ann Marie Roller (Lorraine Flemming), Michael Dantuono (Pat Denning), Danny Carroll (Andy Lee), Robert Colston (Oscar)
@@ -396,13 +390,13 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `4.18`
 
 CAST
 : Bonnie Langford (Peggy Sawyer), Richard Cuerdan (Billy Lawlor)
 
 NOTES
-: Note from Blvd-on-Sunset: This video has been widely mislabelled as \"2006 UK Tour\" for years and some traders are unaware of this. A show programme from the 1991 UK Tour confirms this. Recorded through the House camera with some static at bottom of screen, and some generational loss. B+
+: \[Note from Blvd-on-Sunset\] This video has been widely mislabelled as \"2006 UK Tour\" for years and some traders are unaware of this. A show programme from the 1991 UK Tour confirms this. Recorded through the House camera with some static at bottom of screen, and some generational loss. B+
 
 #### 42nd Street - Broadway Revival - 2001 (Highlights)
 {: .no_toc .d-inline-block }
@@ -411,7 +405,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Kate Levering (Peggy Sawyer), Michael Cumpsty (Julian Marsh), Christine Ebersole (Dorothy Brock), David Elder (Billy Lawlor), Johnathan Freeman (Bert Barry), Mary Testa (Maggie Jones), Michael McCarty (Abner Dillon), Mylinda Hull (Annie), Richard Muenz (Pat Denning)
@@ -459,7 +453,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Lolita Cortés, Eduardo Ibarra, José Antonio López Tercero, Beto Torres, Said Castro, Lily Corral, Erick Frias, Carlos Pulido
@@ -489,7 +483,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Caitlin Ehlinger (Peggy Sawyer), Matthew J Taylor (Julian Marsh), Kaitlin Lawrence (Dorothy Brock), Blake Stadnik (Billy Lawlor), Steven Bidwell (Bert Barry), Britte Steele (Maggie Jones), Mark Fishback (Abner Dillon), Natalia Lepore Hagan (Annie), Mallory Nolting (Phyllis Dale), Vanessa Mitchell (Lorraine Flemming), DJ Canaday (Pat Denning), Lamont Brown (Andy Lee), Rob Ouellette (Oscar), Alicia Newcom, Allison Blanchard, Andrew Winans, Brady Miller, Brittany Bigelow, Carlos Morales, Courtney Moran, Emily Blake Anderson, Georgina Moore, Joel Chambers, Kahlia Davis, Kelly Gleason, Lucia Foster, Mandy Modic, Matthew Alexander, Mitchell Canfield, Molly Jean Blodgett, Patrick Heffernan, Rob Ouellette, Sarah Fagan, Taylore Burke, Tommy Joscelyn, Tricia DeSario
@@ -525,7 +519,7 @@ CAST
 : Clare Halse (Peggy Sawyer), Tom Lister (Julian Marsh), Bonnie Langford (Dorothy Brock), Philip Bertioli (Billy Lawlor), Christopher Howell (Bert Barry), Jasna Ivir (Maggie Jones), Bruce Montague (Abner Dillon), Emma Caffrey (Annie), Clare Rickard (Phyllis Dale), Ella Martine (Lorraine Flemming), Matthew Goodgame (Pat Denning), Graeme Henderson (Andy Lee), Paul Knight (Oscar)
 
 NOTES
-: The West End revival of \"42nd Street\" starring Bonnie Langford as Dorothy Brock who previously played as \"Peggy\" in the UK Tour. Released to cinemas, there are stills some encore screenings going on. This can also be streamed on BroadwayHD. Quality and file format varies across traders. There are currently two file versions being traded. One is a 4GB MP4/MKV and a 8GB MKV. Some may also trade a 2GB MP4/MKV file.
+: The West End revival of \"42nd Street\" starring Bonnie Langford as Dorothy Brock who previously played as \"Peggy\" in the UK Tour. Released to cinemas, there are stills some encore screenings going on. This can also be streamed on BroadwayHD. Quality and file format varies across traders.
 
 ## 1776
 
