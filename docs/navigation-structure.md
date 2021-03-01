@@ -9399,10 +9399,10 @@ COMMENTS
 CAST
 : Wayne Brady (Django), Tituss Burgess (Remy), Kevin Chamberlin (Gusteau), André De Shields (Ego), Andrew Barth Feldman (Linguini), Adam Lambert (Emile), Priscilla Lopez (Mabel), Ashley Park (Colette), Owen Tabaka (Young Ego), Mary Testa (Skinner), Cori Jaskier, Talia Suskauer, Nikisha Williams, JJ Niemann, John Michael Lyles, Raymond J. Lee, Joy Woods
 
-## Red (2)
+## Red
 
 #### Red - Broadway - March 11, 2010
-: .no_toc .d-inline-block }
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -9440,7 +9440,7 @@ NOTES
 : The original Broadway cast of Rent reunites for Rent 10, a one night-only, benefit concert version of the show to mark the 10th anniversary of Jonathan Larson\'s landmark musical. Includes intro speeches by Allan Gordon, Mayor Bloomberg, Senator Schumer. Beautifully shot, amazingly clear video. An enthusiastic audience and a few flubs by the cast makes this video even more fun. A
 
 #### RENT - Broadway - February 21, 2008
-: .no_toc .d-inline-block }
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
