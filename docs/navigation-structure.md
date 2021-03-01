@@ -1210,8 +1210,14 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
 : VOB+smalls `1 DVD`
+
+COMMENTS
+: Wrong aspect ratio. Stretch to 16:9 when watching.
 
 CAST
 : Stephanie J Block (Reno Sweeney), Colin Donnell (Billy Crocker), Erin Mackey (Hope Harcourt), Joel Grey (Moonface Martin), Adam Godley (Lord Evelyn Oakleigh), Kelly Bishop (Mrs. Evangeline Harcourt), John McMartin (Elisha J. Whitney), Jessica Stone (Erma)
