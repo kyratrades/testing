@@ -9356,6 +9356,8 @@ CAST
 
 # R
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#ragtime">Ragtime</a> • <a href="https://kyratrades.github.io/testing/videos#ratatouille">Ratatouille</a> • <a href="https://kyratrades.github.io/testing/videos#red">Red</a> • <a href="https://kyratrades.github.io/testing/videos#rent">RENT</a> • <a href="https://kyratrades.github.io/testing/videos#the-rocky-horror-show">The Rocky Horror Show</a></p>
+
 ## Ragtime
 
 #### Ragtime - Broadway - December 29, 1997
