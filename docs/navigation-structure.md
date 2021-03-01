@@ -3913,7 +3913,8 @@ CAST
 : Jack Ellis (Deputy Governer Danforth), Richard Armitage (John Proctor), Samantha Colley (Abigail Williams)
 
 NOTES
-: Proshot. Released 4th February 2015, but filmed in 2014. <https://www.imdb.com/title/tt4156348/>
+: Proshot. Released 4th February 2015, but filmed in 2014.
+: <https://www.imdb.com/title/tt4156348/>
 
 ## Cry-Baby
 
@@ -9322,7 +9323,8 @@ CAST
 : AJ Ditty (Narrator), Andy Miller (Leanne), Eleanor Philips (Hannah), James Fouhey (Cedric), Jessie Cannizzaro (Sally), Julie Ann Earls (Megan), Langston Belton (Oliver), Madeleine Bundy (Susie), Nick Carrillo (J. Finch-Fletchley), Stephen Stout (Ernie Mac), Zac Moon (Wayne)
 
 NOTES
-: You can find the Proshot\'s Kickstarter page here: <https://www.kickstarter.com/projects/269018729/puffs-live-off-broadway> - Filmed across February 3rd and 4th 2018
+: Filmed across February 3rd and 4th 2018
+: <https://www.kickstarter.com/projects/269018729/puffs-live-off-broadway>
 
 ## Putting it Together
 
@@ -9505,7 +9507,7 @@ CAST
 : Jordan Fisher (Mark Cohen), Brennin Hunt (Roger Davis), Tinashe (Mimi Márquez), Valentina (Angel Dumott Schunard), Brandon Victor Dixon (Tom Collins), Vanessa Hudgens (Maureen Johnson), Kiersey Clemons (Joanne Jefferson), Mario (Benjamin Coffin III), J Elaine Marcos (Alexi Darling and others), Jennifer Leigh Warren (Mark\'s mom and others), Matthew Saldivar (Gordon/Mr. Grey), Alton Fitzgerald White (Mr. Jefferson/Soloist \#2 and others), Keala Settle (Paul and others), Debra Cardona (Police officer), Bryce Ryness (Steve and others), Emerson Collins (Steve and others), Benjamin Douglas Rivera, Darius Crenshaw, Fredric Odgaard, Hannahlei Cabanilla, Jessica Lee Keller, Khori Michelle Petinaud, Lenin Fernandez Jr, Mia Deweese, Morgan Marcell, Nicholas Lanzisera, Robert Roldan, Sasha Mallory, Tilly Evans-Krueger, Ty Wells
 
 NOTES
-: The show is prerecorded up until the last 10 minutes because Brennin Hunt (Roger Davis) hurt his foot. He is seen in his cast during the last 10 minutes. The original cast comes out at the end to sing Seasons of Love again! <https://www.imdb.com/title/tt6881910/?ref_=nv_sr_srsg_0>
+: The show is prerecorded up until the last 10 minutes because Brennin Hunt (Roger Davis) hurt his foot. He is seen in his cast during the last 10 minutes. The original cast comes out at the end to sing Seasons of Love again! <https://www.imdb.com/title/tt6881910/>
 
 ## The Rocky Horror Show
 
