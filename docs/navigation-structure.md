@@ -6618,7 +6618,85 @@ CAST
 NOTES
 : This production was done by Houston Grand Opera. This is a very odd production of ALNM; the set looks more like it\'s for a production of A Midsummer Night\'s Dream.
 
-## Little Shop of Horrors (15)
+## Little Shop of Horrors
+
+#### Little Shop of Horrors - Off-Broadway - June, 1984
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.44 GB`
+
+CAST
+: Brad Moranz (Seymour), Marsha Skaggs (Audrey), Fyvush Finkel (Mushnik), Robert Frisch (Orin), Ron Taylor (Audrey II), Jennifer Leigh Warren (Crystal), Sheila Kay Davis (Ronnette), Lelani Jones (Chiffon), Lynn Hippen (Derelict)
+
+NOTES
+: Fyvush Finkel served as the understudy for Mr. Mushnik in the original cast, while Brad Moraz served as the understudy for Seymour, Audrey II, and Orin/Everyone Else. Marsha Waterbury (under her maiden name Marsha Skaggs) would go on to play Audrey in a few regional productions of Little Shop, as well as an English-language production that toured Japan between 1986 and 1987. Sometimes circulated as a YouTube rip of the original VOB files watermarked from \"The Little Shop Archive.\"
+
+#### Little Shop of Horrors - Japan Tour - October, 1987
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.13 GB`
+
+CAST
+: Bert Hilkes (Seymour), Marsha Waterbury (Audrey), David Kaiserman (Mushnik), David Jordan (Orin), Tyrone Aiken (Audrey II), Angel Jemmott (Crystal), Natalie Oliver (Ronnette), Sharon Lorraine-Young (Chiffon)
+
+NOTES
+: Clear, slightly faint picture. Broadcast on Japanese TV. Often misidentified as the original Off-Broadway production, this production toured Japan and was directed by Victor Valentine.
+
+#### Little Shop of Horrors - Pre-Broadway - June 5, 2003
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.01 GB`
+
+COMMENTS
+: Seems to be a recording of another DVD. PLEASE tell me if you have a better copy.
+
+CAST
+: Hunter Foster (Seymour), Alice Ripley (Audrey), Lee Wilkof (Mushnik), Reg Rogers (Orin), Billy Porter (Audrey II), Dioni Michelle Collins (Crystal), Haneefah Wood (Ronnette), Moeisha McGill (Chiffon)
+
+#### Little Shop of Horrors - Broadway - September 21, 2003 (Preview)
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.00 GB`
+
+COMMENTS
+: Missing last VOB but the show is complete
+
+CAST
+: Hunter Foster (Seymour), Kerry Butler (Audrey), Rob Bartlett (Mushnik), Douglas Sills (Orin), Michael-Leon Wooley (Audrey II), Trisha Jeffrey (Crystal), Carla J Hargrove (Ronnette), DeQuina Moore (Chiffon)
+
+#### Little Shop of Horrors - Broadway - September 23, 2003 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.85 GB`
+
+CAST
+: Hunter Foster (Seymour), Kerry Butler (Audrey), Rob Bartlett (Mushnik), Douglas Sills (Orin), Michael-Leon Wooley (Audrey II), Trisha Jeffrey (Crystal), Carla J Hargrove (Ronnette), DeQuina Moore (Chiffon)
+
+NOTES
+: Very nice capture and taper follows action well and not too many coverups. Includes Theater Talk segment. A
+
+#### Little Shop of Horrors - Revival National Tour - July 3, 2005
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.43 GB` `This is the correct file`
+
+CAST
+: Jonathan Rayson (Seymour), Yvette Lawrence (u/s Audrey), Lenny Wolpe (Mushnik), James Moye (Orin), Michael James Leslie (Audrey II), Iris Burruss (u/s Crystal), Latonya Holmes (Ronnette), Yasmeen Sulieman (Chiffon)
+
+NOTES
+: Understudies for Audrey and Crystal. Great performances. Crystal clear picture and sound. A+
 
 #### Little Shop of Horrors - American Musical Theater Of San Jose - January-February, 2008
 {: .no_toc .d-inline-block }
@@ -6627,59 +6705,25 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 (HD) \| 1.01 GB
+: MP4 `720p` `1.01 GB`
 
 CAST
 : Josh Lamon (Seymour), Christiane Noll (Audrey), Hal Linden (Mushnik), Todd Alan Johnson (Orin), Michael Mandell (Audrey II), Kristin McDonald (Crystal), Izetta Fang (Ronnette), Adrienne Miller (Chiffon)
 
 NOTES
-: Single camera on tripod, mix of full-stage and mid-range shots, soundboard
+: Single camera on tripod, mix of full-stage and mid-range shots, soundboard audio.
 
-#### Little Shop of Horrors - Broadway - September 21, 2003 (Preview)
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Hunter Foster (Seymour), Kerry Butler (Audrey), Rob Bartlett (Mushnik), Douglas Sills (Orin), Michael-Leon Wooley (Audrey II), Trisha Jeffrey (Crystal), Carla J Hargrove (Ronnette), DeQuina Moore (Chiffon)
-
-#### Little Shop of Horrors - Broadway - September 23, 2003 (Preview)
+#### Little Shop of Horrors - UK Tour - May 4, 2009 (Opening Night)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
-: Hunter Foster (Seymour), Kerry Butler (Audrey), Rob Bartlett (Mushnik), Douglas Sills (Orin), Michael-Leon Wooley (Audrey II), Trisha Jeffrey (Crystal), Carla J Hargrove (Ronnette), DeQuina Moore (Chiffon)
+: Damian Humbley (Seymour), Clare Buckfield (Audrey), Sylvester McCoy (Mushnik), Alex Ferns (Orin), Clive Rowe (Audrey II), Nadia Di Mambro (Crystal), Donna Hines (Ronnette), Lara Martin (Chiffon)
 
 NOTES
-: Very nice capture and taper follows action well and not too many coverups. Includes Theater Talk segment. A
-
-#### Little Shop of Horrors - Cape Playhouse - July, 2019 (Highlights)
-
-FORMAT
-: MP4 (HD) \| 580.1 MB
-
-COMMENTS
-: 13 MP4 files in total
-
-CAST
-: Andrew Keenan-Bolger (Seymour), Lauren Zakrin (Audrey), Stephen Berger (Mushnik), Miles Jacoby (Orin), Rema Webb (Audrey II), Nia Marché (Crystal), Talitha Farrow (Ronnette)
-
-NOTES
-: Highlights running around 40 minutes long, only known video from this production. 1080p/720p YouTube rips. Clips include: Little Shop of Horrors, Skid Row (Downtown), Da-Doo, Grow for Me, Ya Never Know, Somewhere That\'s Green x2, Dentist!, Now (It\'s Just the Gas), Suddenly, Seymour, Sominex/Suppertime (Reprise) through Somewhere That\'s Green (Reprise), and Don\'t Feed the Plants, filmed at multiple performances due to overlapping songs that were filmed from different angles.
-
-#### Little Shop of Horrors - Constellation Theatre Company - November 22, 2019 \| theatrecouple14
-
-FORMAT
-: MP4 (HD)
-
-\*\* NOT FOR SALE
-
-CAST
-: Christian Montgomery (Seymour), Teresa Quigley Danskey (Audrey), Robert John Biedermann (Mushnik), Scott Ward Abernethy (Orin), Marty Austin Lamar (Audrey II), Chani Wereley (Crystal), Alana S Thomas (Ronnette), Selena Clyne-Galindo (Chiffon)
-
-NOTES
-: Perfect audio, very obstructed video, but the stuff you can see is great. Wonderful performances from entire cast. Enthusiastic audience. Please don\'t sell. Gifting encouraged.
+: Average quality. Follows most of the action.
 
 #### Little Shop of Horrors - Encores! Off-Center - July 1, 2015 (Opening Night) 
 {: .no_toc .d-inline-block }
@@ -6688,7 +6732,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Jake Gyllenhaal (Seymour), Ellen Greene (Audrey), Joe Grifasi (Mushnik), Taran Killam (Orin), Eddie Cooper (Audrey II), Marva Hicks (Crystal), Ramona Keller (Ronnette), Tracy Nicole Chapman (Chiffon)
@@ -6703,7 +6747,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Jake Gyllenhaal (Seymour), Ellen Greene (Audrey), Joe Grifasi (Mushnik), Taran Killam (Orin), Eddie Cooper (Audrey II), Marva Hicks (Crystal), Ramona Keller (Ronnette), Tracy Nicole Chapman (Chiffon)
@@ -6711,47 +6755,38 @@ CAST
 NOTES
 : Beautiful HD capture of the Encores Summer Series. Ellen and Jake were perfection and this was the 2015 show that was not to be missed! The last 15 mins (customers coming in and song/scene finale don\'t feed the plants) are mostly blind shot, where a few times no action can be seen. Everything else is there and beautiful. A-
 
-#### Little Shop of Horrors - Japan Tour - October, 1987
+#### Little Shop of Horrors - Third Mexico City Revival - May 4, 2019
 {: .no_toc .d-inline-block }
 
-Pro-Shot
-{: .label .label-green }
+MozartWasCrazy
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: MP4  `1080p` `11.30 GB`
 
 CAST
-: Bert Hilkes (Seymour), Marsha Waterbury (Audrey), David Kaiserman (Mushnik), David Jordan (Orin), Tyrone Aiken (Audrey II), Angel Jemmott (Crystal), Natalie Oliver (Ronnette), Sharon Lorraine-Young (Chiffon)
+: Daniela Pasquel (Seymour), Eduardo Garduño Corte (Audrey), Sergio Arturo Rodriguez Valencia (Mushnik), Andres Peña Loyo (Audrey II), Barbara Lorena Rivera Vilches (Crystal), Andrea Viruega Gunther (Ronnette), Daniela Losana Ocampo (Chiffon)
 
 NOTES
-: Clear, slightly faint picture. Broadcast on Japanese TV. Often misidentified as the original Off-Broadway production, this production toured Japan and was directed by Victor Valentine.
+: Third Revival Of Little Shop Of Horrors in Mexico City, Limited Run!
 
-#### Little Shop of Horrors - Off-Broadway - June, 1984
+#### Little Shop of Horrors - Cape Playhouse - July, 2019 (Highlights)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: MP4 `1080p` `13 files` `580.1 MB`
 
 CAST
-: Brad Moranz (Seymour), Marsha Skaggs (Audrey), Fyvush Finkel (Mushnik), Robert Frisch (Orin), Ron Taylor (Audrey II), Jennifer Leigh Warren (Crystal), Sheila Kay Davis (Ronnette), Lelani Jones (Chiffon), Lynn Hippen (Derelict)
+: Andrew Keenan-Bolger (Seymour), Lauren Zakrin (Audrey), Stephen Berger (Mushnik), Miles Jacoby (Orin), Rema Webb (Audrey II), Nia Marché (Crystal), Talitha Farrow (Ronnette)
 
 NOTES
-: Fyvush Finkel served as the understudy for Mr. Mushnik in the original cast, while Brad Moraz served as the understudy for Seymour, Audrey II, and Orin/Everyone Else. Marsha Waterbury (under her maiden name Marsha Skaggs) would go on to play Audrey in a few regional productions of Little Shop, as well as an English-language production that toured Japan between 1986 and 1987. Sometimes circulated as a YouTube rip of the original VOB files watermarked from \"The Little Shop Archive.\"
-
-#### Little Shop of Horrors - Off-Broadway Revival - January 24, 2020 (Highlights)
-
-FORMAT
-: MP4 (HD)
-
-CAST
-: Gideon Glick (Seymour), Tammy Blanchard (Audrey), Tom Alan Robbins (Mushnik), Christian Borle (Orin), Kingsley Leggs (Audrey II), Salome Smith (Crystal), Ari Groover (Ronnette), Joy Woods (Chiffon)
-
-NOTES
-: Highlights include from \"Dentist!\" to \"Mushnik and Son\" and from \"Suddenly Seymour\" to \"Suppertime\"
+: Highlights running around 40 minutes long, only known video from this production. 1080p/720p YouTube rips. Clips include: Little Shop of Horrors, Skid Row (Downtown), Da-Doo, Grow for Me, Ya Never Know, Somewhere That\'s Green x2, Dentist!, Now (It\'s Just the Gas), Suddenly, Seymour, Sominex/Suppertime (Reprise) through Somewhere That\'s Green (Reprise), and Don\'t Feed the Plants, filmed at multiple performances due to overlapping songs that were filmed from different angles.
 
 #### Little Shop of Horrors - Pasadena Playhouse - October 13, 2019
+{: .no_toc .d-inline-block }
 
 FORMAT
-: MOV \| 1080p \| 743.7 MB
+: MOV `1080p` `743.7 MB`
 
 COMMENTS
 : Original format
@@ -6762,56 +6797,37 @@ CAST
 NOTES
 : Includes the full show and the curtain call. There is some drifting in Act One, but it isn't as prevalent in Act Two. There are a lot of obstructions, but I was (mostly) able to film around them. The only part that was really blocked was Somewhere That's Green. Somewhere That's Green (Reprise) is the only majorly whitewashed part, but other than that it's not too much of an issue. Overall, it's a pretty decent capture of the show, considering it's my first video master.
 
-#### Little Shop of Horrors - Pre-Broadway - June 5, 2003
+#### Little Shop of Horrors - Constellation Theatre Company - November 22, 2019 \| theatrecouple14
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: MP4 `720p` `4.23 GB`
 
 CAST
-: Hunter Foster (Seymour), Alice Ripley (Audrey), Lee Wilkof (Mushnik), Reg Rogers (Orin), Billy Porter (Audrey II), Dioni Michelle Collins (Crystal), Haneefah Wood (Ronnette), Moeisha McGill (Chiffon)
-
-#### Little Shop of Horrors - Revival National Tour - July 3, 2005
-
-FORMAT
-: VOB+smalls \| 3.43 GB
-
-COMMENTS
-: This is the correct file
-
-CAST
-: Jonathan Rayson (Seymour), Yvette Lawrence (u/s Audrey), Lenny Wolpe (Mushnik), James Moye (Orin), Michael James Leslie (Audrey II), Iris Burruss (u/s Crystal), Latonya Holmes (Ronnette), Yasmeen Sulieman (Chiffon)
+: Christian Montgomery (Seymour), Teresa Quigley Danskey (Audrey), Robert John Biedermann (Mushnik), Scott Ward Abernethy (Orin), Marty Austin Lamar (Audrey II), Chani Wereley (Crystal), Alana S Thomas (Ronnette), Selena Clyne-Galindo (Chiffon)
 
 NOTES
-: Understudies for Audrey and Crystal. Great performances. Crystal clear picture and sound. A+
+: Perfect audio, very obstructed video, but the stuff you can see is great. Wonderful performances from entire cast. Enthusiastic audience. Please don\'t sell. Gifting encouraged. \[NOT FOR SALE\]
 
-#### Little Shop of Horrors - Third Mexico City Revival - May 4, 2019 \| MozartWasCrazy
-
-FORMAT
-: MP4 (HD) \| 11.30 GB
-
-CAST
-: Daniela Pasquel (Seymour), Eduardo Garduño Corte (Audrey), Sergio Arturo Rodriguez Valencia (Mushnik), Andres Peña Loyo (Audrey II), Barbara Lorena Rivera Vilches (Crystal), Andrea Viruega Gunther (Ronnette), Daniela Losana Ocampo (Chiffon)
-
-NOTES
-: Third Revival Of Little Shop Of Horrors in Mexico City, Limited Run!
-
-#### Little Shop of Horrors - UK Tour - May 4, 2009 (Opening Night)
+#### Little Shop of Horrors - Off-Broadway Revival - January 24, 2020 (Highlights)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: MP4 `1080p` `12 files` `2.28 GB`
 
 CAST
-: Damian Humbley (Seymour), Clare Buckfield (Audrey), Sylvester McCoy (Mushnik), Alex Ferns (Orin), Clive Rowe (Audrey II), Nadia Di Mambro (Crystal), Donna Hines (Ronnette), Lara Martin (Chiffon)
+: Gideon Glick (Seymour), Tammy Blanchard (Audrey), Tom Alan Robbins (Mushnik), Christian Borle (Orin), Kingsley Leggs (Audrey II), Salome Smith (Crystal), Ari Groover (Ronnette), Joy Woods (Chiffon)
 
 NOTES
-: Average quality. Follows most of the action.
+: Highlights include from \"Dentist!\" to \"Mushnik and Son\" and from \"Suddenly Seymour\" to \"Suppertime\"
 
-## Little Women (1)
+## Little Women
 
 #### Little Women - Broadway - December 11, 2004 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Sutton Foster (Jo), Danny Gurwin (Laurie), Megan McGinnis (Beth), Jenny Powers (Meg), Amy McAlexander (Amy), Maureen McGovern (Marmee), Janet Carroll (Aunt March), John Hickok (Professor Bhaer), Robert Stattel (Mr. Laurence), Jim Weitzer (Mr. Brooke)
@@ -6819,12 +6835,16 @@ CAST
 NOTES
 : Excellent video capture of the show! A little spotlight washout in the first 15 mins. Sound is excellent throughout. Also includes short Preview piece from NY1.
 
-## Love Cycle: A Soap Operetta (1)
+## Love Cycle: A Soap Operetta
 
-#### Love Cycle: A Soap Operetta - Commercial Release/Pro-shot - February 9, 1984
+#### Love Cycle: A Soap Operetta - Commercial Release - February 9, 1984
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
 
 FORMAT
-: MP4 (SD) \| 145.9 MB
+: MP4 `480p` `145.9 MB`
 
 CAST
 : Walter Bobbie (Malcolm MacBeagle), Priscilla Lopez (Debra), Patti LuPone (Rachel Burston), Martin Vidnovic (Steve Burston), Joe Hudson (Laundry Doer 1), Lonny Price (Laundry Doer 2), Ellen Foley (Laundry Doer 3)
@@ -6832,37 +6852,7 @@ CAST
 NOTES
 : A musical that takes place in a laundromat, where Patti LuPone plays a ghost who lives in one of the dryers and offers advice to the patrons. This pro-shot video, filmed for TV, reunites the 1979 cast of the Off-Broadway musical of the same name. This was intended to be the pilot for a series of lesser-known musicals to be televised, but the series was never picked up.
 
-## Love Never Dies (3)
-
-#### Love Never Dies - First National Tour - September 25, 2018
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Bronson Norris Murphy (The Phantom), Meghan Picerno (Christine Daaé), Sean Thompson (Raoul, Vicomte de Chagny), Karen Mason (Madame Giry), Mary Michael Patterson (Meg Giry), Katrina Kemp (Fleck), Richard Koons (Squelch), Stephen Petrovich (Gangle), Jake Heston Miller (Gustave)
-
-NOTES
-: Wonderful HD capture of the reworked North American Tour. Everything is nicely captured and great performances from the cast. I really enjoyed this production and cast! A
-
-#### Love Never Dies - Melbourne - September 15, 2011
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MKV (HD) \| 5.31 GB
-
-CAST
-: Ben Lewis (The Phantom), Anna O'Byrne (Christine Daaé), Simon Gleeson (Raoul, Vicomte de Chagny), Maria Mercedes (Madame Giry), Sharon Millerchip (Meg Giry), Emma J Hawkins (Fleck), Paul Ettore Tabone (Squelch), Dean Vince (Gangle), Jack Lyall (Gustave)
-
-NOTES
-: Pro-shot of the revamped Australian Production. Released on BluRay.
+## Love Never Dies
 
 #### Love Never Dies - West End - June 25, 2010 
 {: .no_toc .d-inline-block }
@@ -6871,10 +6861,40 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Ramin Karimloo (The Phantom), Sierra Boggess (Christine Daaé), Joseph Millson (Raoul, Vicomte de Chagny), Liz Robertson (Madame Giry), Summer Strallen (Meg Giry)
 
 NOTES
 : House cam pro-shot. Pre-changes. Mic seems to cut out toward the end of \"The Beauty Underneath\" but is back by \"The Phantom Confronts Christine.\"
+
+#### Love Never Dies - Melbourne - September 15, 2011
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `5.31 GB` `Blu-ray rip`
+
+CAST
+: Ben Lewis (The Phantom), Anna O'Byrne (Christine Daaé), Simon Gleeson (Raoul, Vicomte de Chagny), Maria Mercedes (Madame Giry), Sharon Millerchip (Meg Giry), Emma J Hawkins (Fleck), Paul Ettore Tabone (Squelch), Dean Vince (Gangle), Jack Lyall (Gustave)
+
+NOTES
+: Pro-shot of the revamped Australian Production. Released on BluRay.
+
+#### Love Never Dies - First National Tour - September 25, 2018
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Bronson Norris Murphy (The Phantom), Meghan Picerno (Christine Daaé), Sean Thompson (Raoul, Vicomte de Chagny), Karen Mason (Madame Giry), Mary Michael Patterson (Meg Giry), Katrina Kemp (Fleck), Richard Koons (Squelch), Stephen Petrovich (Gangle), Jake Heston Miller (Gustave)
+
+NOTES
+: Wonderful HD capture of the reworked North American Tour. Everything is nicely captured and great performances from the cast. I really enjoyed this production and cast! A
