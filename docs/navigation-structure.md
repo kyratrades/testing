@@ -524,10 +524,10 @@ NOTES
 ## 1776
 
 #### 1776 - Encores! - March 31, 2016
-{: .no_toc }
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Santino Fontana (John Adams), John Larroquette (Benjamin Franklin), Bryce Pinkham (John Dickinson), Alexander Gemignani (Edward Rutledge), André De Shields (Stephen Hopkins), John Behlmann (Thomas Jefferson), Michael McCormick (John Hancock), Nikki Renée Daniels (Martha Jefferson), Christiane Noll (Abigail Adams), Jubilant Sykes (Richard Henry Lee), Wayne W Pretlow (Roger Sherman), MacIntyre Dixon (Andrew McNair), Jacob Keith Watson (Robert Livingston), Ric Stoneback (Samuel Chase), Laird Mackintosh (James Wilson), Kevin Ligon (George Read), Michael Medeiros (Caesar Rodney), Robert Sella (Charles Thomson), John Hillner (Lewis Morris), Tom Alan Robbins (Rev. John Witherspoon), Larry Bull (Col. Thomas McKean), John Hickok (Dr. Lyman Hall), Terence Archie (Dr. Josiah Bartlett), Nicholas Ward (Joseph Hewes), Vishal Vaidya (Leather Apron), John-Michael Lyles (Courier)
@@ -544,7 +544,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Cara Seymour (Mrs. Parsons), Max Baker (Emmanuel Goldstein), Michael Potts (Charrington), Nick Mills (Syme), Olivia Wilde (Julia), Reed Birney (O\'Brien), Richard Gallagher (Thought Criminal), Sami Bray (Child), Tom Sturridge (Winston), Wayne Duvall (Parsons)
@@ -565,7 +565,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Nathan Lane (Gomez Addams), Bebe Neuwirth (Morticia Addams), Krysta Rodriguez (Wednesday Addams), Kevin Chamberlin (Fester Addams), Adam Riegler (Pugsley Addams), Jackie Hoffman (Grandma Addams), Zachary James (Lurch), Carolee Carmello (Alice Beineke), Terrence Mann (Mal Beineke)
@@ -580,7 +580,7 @@ Watched
 {: .label .label-yellow }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 COMMENTS
 : A great capture! Follows the action quite well despite a few quick dropouts. Rachel is amazing as Morticia.
@@ -600,7 +600,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : DVD recorder copy; Would trade for original files
@@ -615,7 +615,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Maya Days (Aida), Will Chase (Radames), Taylor Dayne (Amneris), Tyrees Allen (Amonasro), John Hickok (Zoser)
@@ -627,7 +627,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Non-original smalls; Would trade for original files
@@ -647,7 +647,7 @@ thehouseonsunset
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Derrick Baskin (Otis Williams), James Harkness (Paul Williams), Jawan M Jackson (Melvin Franklin), Jeremy Pope (Eddie Kendricks), Ephraim Sykes (David Ruffin), Saint Aubyn (Dennis Edwards), Shawn Bowers (Lamont), Jahi Kearse (Berry Gordy), E Clayton Cornelious (Shelly Berger), Rashidra Scott (Josephine), Christian Thompson (Smokey Robinson), Jarvis B Manning (Al Bryant), Candice Marie Woods (Diana Ross), Taylor Symone Jackson (Johnnie Mae/Mary Wilson)
@@ -661,7 +661,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Adam Jacobs (Aladdin), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), James Monroe Iglehart (Genie), Clifton Davis (Sultan), Brian Gonzales (Babkak), Brandon O\'Neill (Kassim), Don Darryl Rivera (Iago), Jonathan Schwartz (Omar)
@@ -676,7 +676,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Adam Jacobs (Aladdin), Courtney Reed (Jasmine), Jonathan Freeman (Jafar), James Monroe Iglehart (Genie), Clifton Davis (Sultan), Brian Gonzales (Babkak), Brandon O\'Neill (Kassim), Don Darryl Rivera (Iago), Andrew Cao (u/s Omar)
@@ -691,7 +691,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Adam Jacobs (Aladdin), Courtney Reed (Jasmine), Merwin Foard (s/b Jafar), Michael James Scott (s/b Genie)
@@ -720,7 +720,10 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `2.79 GB`
+
+COMMENTS
+: A recording of another DVD. Would trade for the original commercial DVD.
 
 CAST
 : Meryl Streep (Alice), Debbie Allen (Red Queen)
@@ -757,7 +760,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `Commercial DVD`
 
 CAST
 : Lea Salonga (Kei Kimura), George Takei (Sam Kimura/Ojii-chan), Telly Leung (Sammy Kimura), Katie Rose Clarke (Hannah Campbell), Michael K Lee (Frankie Suzuki), Christòpheren Nomura (Tatsuo Kimura), Greg Watanabe (Mike Masaoka), Darren Lee (Dr. Tanaka/Ben Masaoka), Rumi Oyama (Mrs. Tanaka), Shea Renne (Betsy Tanaka), Scott Watanabe (Mr. Maruyama), Janelle Toyomi Dote (Mrs. Maruyama/Executor), Aaron J Albano (Tom Maruyama), Momoko Sugai (Peggy Maruyama), Marcus Choi (Johnny Goto), Elena Wang (Nan Goto), Dan Horn (Private Evans/Recruiting Officer/Big Band Singer), Scott Wise (Director Dillon/Farmer/Photographer), Kevin Munhall (Private Knight/Federal Agent/Tule Lake Guard)
@@ -772,7 +775,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Lea Salonga (Kei Kimura), George Takei (Sam Kimura/Ojii-chan), Telly Leung (Sammy Kimura), Katie Rose Clarke (Hannah Campbell), Michael K Lee (Frankie Suzuki), Christòpheren Nomura (Tatsuo Kimura), Greg Watanabe (Mike Masaoka)
@@ -806,7 +809,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Samantha Barks (Amélie Poulain), Savvy Crawford (Young Amélie), Adam Chanler-Berat (Nino Quincampoix), Tony Sheldon (Raymond Dufayel / Collignon), John Hickok (Raphaël Poulain / Bretodeau), Alison Cimmet (Amandine Poulain / Philomene), Maria-Christina Oliveras (Suzanne), Carla Duren (Gina), Alyse Alan Louis (Georgette / Sylvie / Collignon\'s Mother), Randy Blair (Hipolito / Suicidal Tourist / Elton John), Perry Sherman (Lucien / Mysterious Man), Perry Sherman (Adrien Wells/Wallace), Paul Whitty (Fluffy / Collignon\'s Father), Paul Whitty (Joseph), David Andino (Blind Beggar), David Andino (Garden Gnome)
@@ -821,7 +824,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Suspected non-original smalls; Please tell me if you can help me with it!
@@ -839,7 +842,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Phillipa Soo (Amélie Poulain), Savvy Crawford (Young Amélie), Adam Chanler-Berat (Nino Quincampoix), Tony Sheldon (Raymond Dufayel / Collignon), Manoel Felciano (Raphaël Poulain / Bretodeau), Alison Cimmet (Amandine Poulain / Philomene), Harriett D Foy (Suzanne), Maria-Christina Oliveras (Gina), Alyse Alan Louis (Georgette / Sylvie / Collignon\'s Mother), Randy Blair (Hipolito / Suicidal Tourist / Elton John), Heath Calvert (Lucien / Mysterious Man), Heath Calvert (Adrien Wells/Wallace), Paul Whitty (Fluffy / Collignon\'s Father), Paul Whitty (Joseph), David Andino (Blind Beggar), David Andino (Garden Gnome)
@@ -856,7 +859,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Garen Scribner (Jerry Mulligan), Sara Esty (Lise Dassin), Etai Benson (Adam Hochberg), Emily Ferranti (Milo Davenport), Nick Spangler (Henri Baurel), Gayton Scott (Madame Baurel)
@@ -873,7 +876,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Christy Altomare (Anya), Derek Klena (Dmitry), Manoel Felciano (Gleb Vaganov), John Bolton (Vlad Popov), Caroline O'Connor (Countess Lily Malevsky-Malevitch), Mary Beth Peil (Dowager Empress Maria Feodorovna), Nicole Scimeca (Little Anastasia / Prince Alexei Romanov), Molly Rushing (Young Anastasia / Paulina)
@@ -885,7 +888,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Christy Altomare (Anya), Derek Klena (Dmitry), Ramin Karimloo (Gleb Vaganov), John Bolton (Vlad Popov), Caroline O'Connor (Countess Lily Malevsky-Malevitch), Mary Beth Peil (Dowager Empress Maria Feodorovna), Nicole Scimeca (Little Anastasia / Prince Alexei Romanov), Lauren Blackman (Tsarina Alexandra), Constantine Germanacos (Tsar Nicholas II / Count Ipolitov), Allison Walsh (Olga Romanov), Shina Ann Morris (Tatiana Romanov / Dunya), Sissy Bell (Maria Romanov / Marfa), Molly Rushing (Young Anastasia / Paulina), Ken Krugman (Count Leopold), Allison Walsh (Odette in Swan Lake), Kyle Brown (Prince Siegfried in Swan Lake), Wes Hart (Russian Doorman)
@@ -902,7 +905,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Marissa O\'Donnell (Annie), Alene Robertson (Miss Hannigan), David Chernault (u/s Oliver \"Daddy\" Warbucks), Elizabeth Broadhurst (Grace Farrell), Scott Willis (Rooster Hannigan), Ashley Pucket Gonzales (Lily St. Regis), Monica L Patton (Star to Be)
@@ -917,7 +920,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Lauren Weintraub (Annie), Jacquelyn Piro Donovan (Miss Hannigan), Raymond Jaramillo McLeod (Oliver \"Daddy\" Warbucks), Jessica Tyler Wright (Grace Farrell)
@@ -932,7 +935,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Lilla Crawford (Annie), Katie Finneran (Miss Hannigan), Anthony Warlow (Oliver \"Daddy\" Warbucks), Brynn O\'Malley (Grace Farrell), Clarke Thorell (Rooster Hannigan)
@@ -947,7 +950,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Lilla Crawford (Annie), Jane Lynch (Miss Hannigan), Anthony Warlow (Oliver \"Daddy\" Warbucks), Brynn O\'Malley (Grace Farrell), Clarke Thorell (Rooster Hannigan), J Elaine Marcos (Lily St. Regis)
@@ -962,7 +965,7 @@ hitmewithyourbethshot
 {: .label .label-blue }
 
 FORMAT
-: MTS
+: MTS `13.09 GB`
 
 CAST
 : Ava Smith (Annie), Lesley Joseph (Miss Hannigan), Alex Bourne (Oliver \"Daddy\" Warbucks), Carolyn Maitland (Grace Farrell), Richard Meek (Rooster Hannigan), Jenny Gayner (Lily St. Regis), Florrie May Wilkinson (Molly), Aliya Bashir (Pepper), Marlie Olivia Love (Duffy), Isobelle Chalmers (July), Emily-May Stephenson (Kate)
@@ -973,7 +976,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `NO DVD menu`
+: VOB+smalls `1 DVD` `NO DVD menu`
 
 CAST
 : Danielle Findley (Annie), Dorothy Loudon (Miss Hannigan), Harve Presnell (Oliver \'Daddy\' Warbucks), Lauren Mitchell (Grace Farrell), Marian Seldes (Marietta Christmas), Terrence P Currier (Drake), Ronny Graham (Lionel McCoy), TJ Meyers (Babe Ruth), Raymond Thorne (F.D.R.), Scott Robertson (Charlie Spinoli)
@@ -1008,7 +1011,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : **\*\*LAST VOB MISSING\*\*** Definitely would trade for a new copy
@@ -1023,7 +1026,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Patti LuPone (Annie Oakley), Peter Gallagher (Frank Butler), Jack Dabdoub (Buffalo Bill (Col. William F. Cody)), Mary Testa (Dolly Tate), Michael McGrath (Charlie Davenport), George Lee Andrews (Pawnee Bill), Eli Wallach (Chief Sitting Bull), Cameron Bowen (Little Jake), Cassidy Ladden (Jessie Oakley), Kimberly Hannon (Nellie Oakley)
@@ -1032,7 +1035,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Bernadette Peters (Annie Oakley), Tom Wopat (Frank Butler), Valerie Wright (Dolly Tate), Peter Marx (Charlie Davenport)
@@ -1041,7 +1044,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Reba McEntire (Annie Oakley), Brent Barrett (Frank Butler)
@@ -1053,7 +1056,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Patti LuPone (Annie Oakley), Patrick Cassidy (Frank Butler), George Hearn (Buffalo Bill (Col. William F. Cody)), Suzanne Sole (Dolly Tate), Michael Weber (Charlie Davenport), Joseph Anthony Foronda (Chief Sitting Bull)
@@ -1065,7 +1068,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `NO DVD menu`
+: VOB+smalls `1 DVD` `NO DVD menu`
 
 CAST
 : Emma Williams (Annie Oakley), Jason Donovan (Frank Butler), Norman Pace (Buffalo Bill (Col. William F. Cody))
@@ -1080,7 +1083,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Megan Hilty (Annie Oakley), Andy Karl (Frank Butler), Ron Raines (Buffalo Bill (Col. William F. Cody)), Judy Kaye (Dolly Tate), Brad Oscar (Charlie Davenport), Chuck Cooper (Pawnee Bill), Marshall Factora (Chief Sitting Bull), Sam Chuck (Little Jake)
@@ -1097,7 +1100,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Madeline Kahn (Cora Hoover Hooper), Bernadette Peters (Fay Apple), Scott Bakula (J. Bowden Hapgood), Walter Bobbie (Comptroller Schub), Nick Wyman (Dr. Detmold), Chip Zien (Treasurer Cooley), Ken Page (Chief Magruder)
@@ -1106,7 +1109,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Patti LuPone (Cora Hoover Hooper), Audra McDonald (Fay Apple), Michael Cerveris (J. Bowden Hapgood), Ray Wills (Comptroller Schub), Peter Mohawk (Dr. Detmold), Jerry Galante (Treasurer Cooley), David Mendes (Chief Magruder), Christine Sherrill (June), Jason Bayle (John)
@@ -1115,7 +1118,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Donna Murphy (Cora Hoover Hooper), Sutton Foster (Fay Apple), Raúl Esparza (J. Bowden Hapgood), Edward Hibbert (Comptroller Schub), Patrick Wetzel (Dr. Detmold), Jeff Blumenkrantz (Treasurer Cooley), John Ellison Conlee (Chief Magruder), Max Kumangai (Martin), Tally Sessions (George), Holly Ann Butler (Osgood), Sara Jean Ford (June), Michael Marcotte (John), Linda Griffin (Mrs. Schroeder), Dana Steingold (Baby Joan), Anthony Wayne, Clyde Alves, Eric Sciotto, Grasan Kingsberry
@@ -1412,7 +1415,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `1 DVD`
+: VOB+smalls `1 DVD` `2.34 GB`
 
 CAST
 : Sarah Brightman (Rose Vibert), Kevin Cullum (Alex Dillingham), Barry Ingham (George Dillingham)
@@ -1423,7 +1426,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : William Parry (The Proprietor), Patrick Cassidy (Balladeer/Lee Harvey Oswald), Victor Garber (John Wilkes Booth), Debra Monk (Sara Jane Moore), Annie Golden (Lynette \"Squeaky\" Fromme), Greg Germann (John Hinckley, Jr.), Lee Wilkof (Samuel Byck), Terrence Mann (Leon Czolgosz), Jonathan Hadary (Charles Guiteau)
@@ -1438,7 +1441,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Will Chase (The Balladeer), Scott Lowell (John Wilkes Booth), Meredith Brickett (Sara Jane Moore), Lori Scarlett (Lynette \"Squeaky\" Fromme), Christopher Eudy (John Hinckley, Jr.), Jeff Still (Samuel Byck), Stef Tovar (Leon Czolgosz), Chris McNamara (Charles Guiteau), Anthony Cesarelli
@@ -1447,7 +1450,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Partially corrupted, but much higher quality than the commonly circulated copy
@@ -1462,7 +1465,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Marc Kudisch (The Proprietor), Neil Patrick Harris (Balladeer/Lee Harvey Oswald), Michael Cerveris (John Wilkes Booth), Eamon Foley (Billy), James Clow (President Gerald Ford/James Blaine), Becky Ann Baker (Sara Jane Moore), Mary Catherine Garrison (Lynette \"Squeaky\" Fromme), Alexander Gemignani (John Hinckley, Jr.), Mario Cantone (Samuel Byck), Jeffrey Kuhn (Giuseppe Zangara), James Barbour (Leon Czolgosz), Merwin Foard (President James Garfield), Denis O\'Hare (Charles Guiteau)
@@ -1477,7 +1480,7 @@ NOTES
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Ethan Lipton (The Proprietor), Clifton Duncan (The Balladeer), Cory Michael Smith (Lee Harvey Oswald), Steven Pasquale (John Wilkes Booth), Victoria Clark (Sara Jane Moore), Erin Mackey (Lynette \"Squeaky\" Fromme), Steven Boyer (John Hinckley, Jr.), Danny Wolohan (Samuel Byck), Alex Brightman (Giuseppe Zangara), Shuler Hensley (Leon Czolgosz), John Ellison Conlee (Charles Guiteau), Andrew Durand, Damian Baldet, Eddie Cooper, Eryn Lecroy, Hudson Loverro, Pearl Sun
