@@ -8955,26 +8955,32 @@ CAST
 
 ## Phantom: The Untold Story
 
-#### Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2011 (Sort Cast)
+#### Phantom: The Untold Story (Part I) - The Unkissed Child - Japan - 2011
 {: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
 
+Disc 1 of 4
+{: .label .label-green }
+
 FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD` `Disc 1 of 4`
+: VOB+smalls `1 DVD` `Commercial DVD`
 
 CAST
 : Yoshiki Yamamoto (Erik) & Sort Cast
 
-#### Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan (2012) - 2012 (Espoir Cast)
+#### Phantom: The Untold Story (Part II) - The Kiss of Christine - Japan - 2012
 {: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
 
+Disc 4 of 4
+{: .label .label-green }
+
 FORMAT
-: VOB+smalls `1 DVD` `Commercial DVD` `Disc 4 of 4`
+: VOB+smalls `1 DVD` `Commercial DVD`
 
 CAST
 : Yoshiki Yamamoto (Erik), Shinya Matsumoto (Christine) & Espoir Cast
@@ -9106,7 +9112,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Mark Evans (Chris Bean), Preston Truman Boyd (Robert Grove), Jonathan Fielding (Jonathan Harris), Amelia McClain (Sandra Wilkinson), Alex Mandell (Max Bennett), Harrison Unger (Dennis Tyde), Ashley Bryant (Annie Twilliol), Akron Watson (Trevor Watson)
