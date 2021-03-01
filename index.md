@@ -62,4 +62,4 @@ All the file sizes listed are calculated according to 1GB = 1024 MB. I mainly us
 If any of my links are down just send me a message about it and I will re-upload the files as soon as possible, usually within 12 hours.
  
 ### Gifting policy
-I got my start from a fair number of generous traders, so I’m always happy to help new traders out :) I’m also willing to gift any commercially released pro-shots (in particular National Theatre Live) upon request, just say so in your message
+I got my start from a fair number of generous traders, so I’m always happy to help new traders out :) I’m also willing to gift most commercially released pro-shots (especially National Theatre Live) upon request, just ask!
