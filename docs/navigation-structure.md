@@ -7099,6 +7099,7 @@ NOTES
 ## Master Class
 
 #### Master Class - Broadway - January 14, 1997
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.82 GB`
@@ -7112,6 +7113,7 @@ NOTES
 ## \"Master Harold\"\...and the Boys
 
 #### \"Master Harold\"\...and the Boys - Broadway - May 28, 2003
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7125,6 +7127,7 @@ CAST
 ## Matilda the Musical
 
 #### Matilda the Musical - First National Tour - June 14, 2015
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
@@ -7440,6 +7443,7 @@ NOTES
 ### MISC
 
 #### Les Misérables - Walnut Street Theatre, Philadelphia, PA - May 17, 2008 (Matinee)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.79 GB`
@@ -7463,6 +7467,7 @@ CAST
 : Nicholas Martinelli (Jean Valjean), Ignasi Vidal (Javert), Elena Medina (Fantine), Talía del Val (Cosette), Guido Balzeratti (Marius), Lydia Fairén (Éponine), Manu Pilas (u/s Enjolras), Armando Pita (Thénardier), Eva Digo (Madame Thénardier), Samuel Gomez (Grantaire)
 
 #### Les Misérables - Pre-Broadway / Toronto Revival - January 11, 2014 (where is your red schaaaf
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MOV `720p` `22 files` `16.83 GB`
@@ -7503,6 +7508,7 @@ CAST
 ## Miss Saigon
 
 #### Miss Saigon - Broadway - November 16, 1998 (Highlights)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.96 GB`
@@ -7529,6 +7535,7 @@ NOTES
 : Multi-Cam Pro-shot, in English. Says \"For preview purposes only. Not for commercial use\" during the entire video at the bottom of the screen. 2 versions floating around. A complete version, normally at a higher video quality. Also a incomplete version, the last 10 minutes substituted from a bootleg recording with a different cast. Screenshots to compare.
 
 #### Miss Saigon - Broadway - January 3, 2001
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `2.03 GB`
@@ -7587,6 +7594,7 @@ NOTES
 ## Monty Python\'s Spamalot
 
 #### Monty Python\'s Spamalot - Broadway - March 12, 2005 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : `1` VOB+smalls `1 DVD`
@@ -7599,6 +7607,7 @@ NOTES
 : Broadway Previews. Playbill scans. Includes NY1 Review + Theatre Talk Interview.
 
 #### Monty Python\'s Spamalot - Broadway - June 8, 2005
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -7776,6 +7785,7 @@ NOTES
 ## The Mystery of Edwin Drood
 
 #### The Mystery of Edwin Drood - Broadway - January 26, 1986
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
