@@ -1145,7 +1145,7 @@ CAST
 NOTES
 : Starts from \"I Get a kick out of you\". Grainy footage, some blur. Patti LuPone\'s voice is absolutely sublime.
 
-#### Anything Goes - First Broadway Revival - 1988 (2) (Highlights)
+#### Anything Goes - First Broadway Revival - 1988 (Lost Footage) (Highlights)
 {: .no_toc .d-inline-block }
 
 Pro-Shot
@@ -6919,3 +6919,917 @@ CAST
 
 NOTES
 : Wonderful HD capture of the reworked North American Tour. Everything is nicely captured and great performances from the cast. I really enjoyed this production and cast! A
+
+# M
+
+## Mac Beth
+
+#### Mac Beth - Off-Broadway - January, 2020 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `4.06 GB`
+
+CAST
+: Brittany Bradford (Macbeth), Ismenia Mendes (Lady Macbeth), Camila Cano-Glavia (Macduff), Ayana Workman (Banquo), Sharlene Cruz (Witch 3)
+
+NOTES
+: A re-imagined production of Macbeth in which a group of high school girls perform the play as a ritualistic sacrifice in an abandoned lot.
+
+## Macbeth
+
+#### Macbeth - Manchester International Festival - July 20, 2013
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `6.79 GB`
+
+CAST
+: Kenneth Branagh (Macbeth), Alex Kingston (Lady Macbeth)
+
+NOTES
+: <https://www.imdb.com/title/tt3233718/>
+
+## The Mad Ones
+<p align="center"><small>AKA The Unauthorized Autobiography of Samantha Brown</small></p>
+
+#### The Mad Ones - Costa Mesa, CA - May 3, 2009 (Closing Night)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Patti Murin (Samantha Brown), Jenni Barber (Kelly Manning), Nick Blaemire (Adam / Noah), Lisa Brescia (Beverly Brown), Stephen Bogardus (Derek Brown)
+
+NOTES
+: Final performance: a good mix of wides, mediums, and close-ups shots but a little more obstruction here, but it mostly just blocks the actors\' feet/legs sometimes; some washout in the wides, and the dialogue is pretty quiet sometimes, but it\'s all still understandable. Many changes had been made since the previous video, most notably in The Girl Who Drove Away, Drive, and Sam\'s monologue after I Wouldn\'t Change Anything. A
+
+## Made in Dagenham
+
+#### Made in Dagenham - West End - April 8, 2015
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `3 files` `8.24 GB`
+
+CAST
+: Adrian Der Gregorian (Eddie), Gemma Arterton (Rita)
+
+NOTES
+: Originally shot in portrait mode. Cropped to 4:3 and reframed for a standard screen. Spotlight washout. Effectively a blind phone shoot.
+
+## Mame
+
+#### Mame - Kennedy Center, Washington D.C. - 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.77 GB` `No DVD menu`
+
+CAST
+: Christine Baranski (Mame Dennis), Harriet Harris (Vera Charles), Alice Ripley (Agnes Gooch), Harrison Chad (Patrick Dennis, age 10), Max von Essen (Patrick Dennis, age 19-29), Jeff McCarthy (Beauregard), Alan Muraoka (Ito), Michael L Forrest (Babcock), Ed Dixon (Woolsey), Mary Stout (Mother Burnside), Harry A Winter (Mr. Upson), Ruth Gottschall (Mrs. Doris Upson), Ethan Langsdorf-Willoughby (Peter Dennis)
+
+NOTES
+: Presented at The Kennedy Center For The Performing Arts. Filmed between heads which rarely get in the way of the action. Occasional spotlight wash out.
+
+## Mamma Mia!
+
+#### Mamma Mia! - West End - September 14, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.94 GB`
+
+CAST
+: Louise Plowright (Donna Sheridan), Laura Michelle Kelly (Sophie Sheridan), Simon Slater (Sam Carmichael), Peter Forbes (Harry Bright), Rohan Tickell (Bill Austin), Susannah Fellows (Tanya), Selina Chilton (Ali), Shona White (Lisa)
+
+NOTES
+: Good record to have of the show. Filmed on a VHS tape and age is apparent, but still quite watchable. Every 20 minutes or so, the sound cuts out for around 5 seconds. Does not include curtain call or megamix. Good use of zooms, however due to film age, faces aren't overly clear. Neon floor is used in this performance. Only known recording of the show in London.
+
+#### Mamma Mia! - Stuttgart - December 29, 2004 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.76 GB`
+
+CAST
+: Silke Braas (u/s Sophie Sheridan)
+
+NOTES
+: It\'s a very nice stage shot. Little spotlight washout and a very high quality soundboard recording, especially when you compare it to other German stageshots of the show. However, I must fault picture quality, it is very pixelated, like it\'s been scaled up from an online video. Neon floor is included.
+
+#### Mamma Mia! - Hamburg - 2005 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.06 GB`
+
+CAST
+: Carolin Fortenbacher (Donna Sheridan), Valerie Link (Sophie Sheridan), Frank Logemann (Sam Carmichael), Ulrich Allroggen (Bill Austin), Betty Vermeulen (Tanya), Iris Schumacher (Rosie)
+
+NOTES
+: Single cam proshot with no zooms. Filmed at a slight angle, so it\'s not entirely horizontal, but it\'s still a steady capture of the full show, megamix songs, and even a little post-show maintenance.
+
+#### Mamma Mia! - Shanghai - 2011
+{: .no_toc .d-inline-block }
+
+FORMAT
+: AVI `992x544` `1.28 GB`
+
+CAST
+: Tianshui, Shenxiaoceng
+
+NOTES
+: HD stage shot of the Shanghai musical spectacular! Very respectable quality and is great fun to watch. The show uses the Novello set, has no neon floor, and the stage is very large. This is the only known stage shot in 16:9 HD and best of all, the only spotlight washout\'s in Super Trouper.
+
+#### Mamma Mia! - Stuttgart Revival - August, 2013
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Willemijn Verkaik (t/r Donna Sheridan), Eva Serrarens (Sophie Sheridan), Jerry Marwig (Sam Carmichael), Matthias Otte (u/s Harry Bright), Marek Sarnowski (Bill Austin), James Cook (Sky), Betty Vermuelen (Tanya), Barbara Raunegger (Rosie), Pierre Damen (Pepper), Denys Magda (Eddie), Annakathrin Naderer (Ali), Rebecca Stahlhut (Lisa)
+
+NOTES
+: Filmed during Willemijn\'s short stint as Donna, and she\'s simply phenomenal in the role. Acts it brilliantly, sings it even better and is just adorable and awesome all around. The rest of the cast are also great, The video is filmed from central stalls and features a completely unobstructed view of the stage.
+
+#### Mamma Mia! - Hollywood Bowl - July 30, 2017 (Closing Night) 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jennifer Nettles (Donna Sheridan), Dove Cameron (Sophie Sheridan), Jaime Camil (Sam Carmichael), Hamish Linklater (Harry Bright), Steven Weber (Bill Austin), Corbin Bleu (Sky), Tisha Campbell-Martin (Tanya), Lea DeLaria (Rosie), Charlotte Mary Wen (Ali), Tiana Okoye (Lisa)
+
+## Marry Me a Little
+
+#### Marry Me a Little - The Barn Theatre, Cirencester - 2020
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `1.77 GB`
+
+CAST
+: Celinde Schoenmaker (Woman), Rob Houchen (Man)
+
+NOTES
+: From the online stream during the Barn's run online, November 19-22, 2020. Not sure about filming date. Includes tracked audio ripped from the stream.
+
+## Master Class
+
+#### Master Class - Broadway - January 14, 1997
+
+FORMAT
+: VOB+smalls `1 DVD` `1.82 GB`
+
+CAST
+: Patti LuPone (Maria Callas), Alaine Rodin-Lo (Sharon), Theodora Fried (Sophie), Jay Hunter Morris (Tony)
+
+NOTES
+: Often incorrectly listed with Audra McDonald in the role of Sharon
+
+## \"Master Harold\"\...and the Boys
+
+#### \"Master Harold\"\...and the Boys - Broadway - May 28, 2003
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+COMMENTS
+: Only the first 2 VOBs. The show is complete.
+
+CAST
+: Danny Glover (Sam), Michael Boatman (Willie)
+
+## Matilda the Musical
+
+#### Matilda the Musical - First National Tour - June 14, 2015
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Gabby Gutierrez (Matilda), Bryce Ryness (Miss Trunchbull), Jennifer Blood (Miss Honey), Cassie Silva (Mrs Wormwood), Quinn Mattfeld (Mr Wormwood), Danny Tieger (Michael Wormwood), Ora Jones (Mrs Phelps), Jaquez Andre Sims (Rudolpho), Evan Gray (Bruce), Kaci Walfall (Lavender), Luke Kolbe Mannikus (u/s Nigel), Kayla Vinueza Amistad (Amanda), Serena Quadrato (u/s Eric), Cassidy Hagel (Alice), Megan McGuff (Hortensia), Meliki Hurd (Tommy), Wesley Faucher (Acrobat), Justin Packard (Escapologist), Ian Michael Stuart (Doctor), Jaquez Andre Sims (Entertainer)
+
+NOTES
+: Contains bows and pictures of program at end of video, pictures of program are too blurry to read though.
+
+#### Matilda the Musical - West End - November, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Isobel Hubble (Matilda), Hayden Tee (Miss Trunchbull), Gina Beck (Miss Honey), Holly Dale Spencer (Mrs Wormwood), Rob Compton (Mr Wormwood), Glen Facey (Michael Wormwood), Malinda Parris (Mrs Phelps), Callum Train (Rudolpho), Quincy Miller-Cole (Bruce), Sadie Victoria Lim (Lavender), Henry Littell (Nigel), Lois Abercrombie (Amanda), Asher Ezequiel (Eric), Lottie Cook (Alice), Stella Haden (Hortensia), Sam Winser (Tommy), Simon Shorten (Entertainer), Simon Shorten (Sergei), Jessica Joslin (Cook)
+
+NOTES
+: A nice video with a head at the bottom of the screen for Act 1 that\'s shot around when it obstructs the action onstage.
+
+## Me and My Girl
+
+#### Me and My Girl - Encores! - May, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Christian Borle (Bill Snibson), Laura Michelle Kelly (Sally Smith), Chuck Cooper (Sir John Tremayne), Lisa O\'Hare (Lady Jaqueline Carstone), Mark Evans (The Hon. Gerald Bolingbroke), Harriet Harris (Duchess of Dene)
+
+## Mean Girls
+
+#### Mean Girls - Broadway - April 24, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: MOV `1080p` `10.18 GB`
+
+CAST
+: Erika Henningsen (Cady Heron), Taylor Louderman (Regina George), Ashley Park (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Kerry Butler (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Brendon Stimson (Mr. Heron), Myles McHale (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Ben Cook (Tyler Kimble), DeMarius R Copes (Christian Wiggins), Kevin Csolak (Shane Oman), Riza Takahashi (Sophie Kawachi), Devon Hadsell (Caitlyn Caussin), Curtis Holland (Jason Weems), Nikhil Saboo (Marwan Jitla), Jonalyn Saxer (Taylor Wedell), Kamille Upshaw (Rachel Hamilton), Zurin Villanueva (Grace Akinola), Gianna Yanelli (Sonja Acquino)
+
+NOTES
+: Beautiful quality video! A blackout in the very beginning of Act 1, but other than that amazing quality! The show does the movie justice and is just as dark and funny as the movie.
+
+#### Mean Girls - Broadway - June 10, 2018 (Matinee) 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `11.2 GB`
+
+CAST
+: Erika Henningsen (Cady Heron), Taylor Louderman (Regina George), Ashley Park (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Kerry Butler (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Brendon Stimson (Mr. Heron), Myles McHale (Coach Carr/Glen Coco/Math Moderator), Stephanie Lynn Bissonnette (Dawn Schweitzer), Collins Conley (Lizzie Therman/Caroline Krafft), Ben Cook (Tyler Kimble), DeMarius R Copes (Christian Wiggins), Kevin Csolak (Shane Oman), Riza Takahashi (Sophie Kawachi), Devon Hadsell (Caitlyn Caussin), Curtis Holland (Jason Weems), Nikhil Saboo (Marwan Jitla), Jonalyn Saxer (Taylor Wedell), Kamille Upshaw (Rachel Hamilton), Zurin Villanueva (Grace Akinola), Gianna Yanelli (Sonja Acquino)
+
+NOTES
+: Shot in 4K with a lot of close-ups. Camera occasionally wanders during dialogue, but it\'s generally good during the songs. There was some obstruction on the right side that I couldn\'t work around, but altogether most of the action is captured as the staging of the show puts everything major in the center. I am obviously not practiced yet in taking videos, but if you want to see facial expressions you haven\'t caught before it\'s a good boot. The cast is honestly on the top of their game.
+
+#### Mean Girls - Broadway - June, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.99 GB`
+
+CAST
+: Erika Henningsen (Cady Heron), Reneé Rapp (t/r Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Devon Hadsell (u/s Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall)
+
+NOTES
+: Excellent HD capture of newcomer Reneé Rapp as Regina, bringing a new and powerful take to the role. Devon is a fantastic Mrs. Heron / Ms. Norbury / Mrs. George! Starts during It Roars. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.
+
+#### Mean Girls - Broadway - May, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `6.23 GB`
+
+CAST
+: Erika Henningsen (Cady Heron), Ashley De La Rosa (s/b Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Barrett Wilbert Weed (Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Jennifer Simard (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Iain Young (s/w Mr. Heron)
+
+NOTES
+: Beautiful HD capture of the new cast and Ashley as Regina. Erika flubs a line during \"Whose House is This\" and the cast spends the remainder of the song recovering. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.
+
+## Les Misérables
+
+### West End
+
+#### Les Misérables - West End - May 9, 1987 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.76 GB`
+
+CAST
+: Martin Smith (u/s Jean Valjean), Clive Carter (Javert), Kathleen Rowe McAllen (Fantine), Jacinta Mulcahy (Cosette), Maurice Clarke (u/s Marius), Jayne Draper (Éponine), Martin George (Enjolras), David Delve (Thénardier), Myra Sand (Madame Thénardier), Cameron Stewart (u/s Grantaire)
+
+NOTES
+: Commonly mistaken as December 28, 1988! Martin Smith was part of the West End cast for 6 months starting December 1986, and the non-circulated first-generation DVD labels the date as 1987/05/09.
+
+#### Les Misérables - West End - December 28, 1991 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `Color recording` `1 DVD` `4.22 GB`
+
+CAST
+: Stig Rossen (Jean Valjean), Paul Leonard (Javert), Jenna Russell (Fantine), Sarah Jane Hassell (Cosette), Daryll Winslow (Marius), Meredith Braun (Éponine), Mike Sterling (u/s Enjolras), David Hampshire (u/s The Bishop), Amanda Dainty (u/s Factory Girl)
+
+NOTES
+: Black and white. Audio is nice and clear. A more rare color version does exist.
+he master. A
+
+#### Les Misérables - West End - October 8, 2006 (Highlights)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB `NO SMALLS` `1.41 GB`
+
+CAST
+: Alun Armstrong, Colm Wilkinson, David Burt, Elaine Paige, Frances Ruffelle, Michael Ball, Patti LuPone, Rebecca Caine, Roger Allam
+
+NOTES
+: A pro-shot clip (28 minutes) from 21st Anniversary celebration at Queen\'s Theatre. Includes \'Bring Him Home (Colm Wilkinson and the Original London Cast of Les Miserables), I Dreamed A Dream (Patti LuPone), \'Memory (Elaine Paige), and \'One Day More\'.
+
+#### Les Misérables - West End - August 12, 2012 (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `720p + 480p` `142.2 MB`
+
+COMMENTS
+: Looking for origianl WMV files
+
+CAST
+: Gerónimo Rauch (Jean Valjean), Tam Mutu (Javert), Sierra Boggess (Fantine), Samantha Dorsey (Cosette), Craig Mather (Marius), Danielle Hope (Éponine), Liam Tamne (Enjolras), Cameron Blakely (Thénardier)
+
+NOTES
+: WMV video, but surprisingly large picture and better quality than I expected. Some head obstruction. 25 minutes long and includes highlights of \'Valjean\'s Soliloquy\', \'Fantine\'s Death\', \'Confrontation\', \'Stars\', \'Bring Him Home\', and \'Epilogue\'.
+
+#### Les Misérables - West End - November, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Dean Chisnall (Jean Valjean), Bradley Jaden (Javert), Carley Stenson (Fantine), Amara Okereke (Cosette), Toby Miles (Marius), Elena Skye (Éponine), Samuel Edwards (Enjolras), James Hume (u/s Thénardier), Vivien Parry (Madame Thénardier), Logan Clark (Gavroche), Andrew York (u/s The Bishop), Adam Filipe (u/s Grantaire), Barnaby Hughes (Combeferre), Joe Vetch (Feuilly), Oliver Brenin (s/w Courfeyrac), Ben Tyler (Jean Prouvaire), James Nicholson (Joly), Andrew York (Lesgles), Adam Bayjou (Brujon), Ciaran Bowling (s/w Babet), Sam Harrison (Claquesous), Ciaran Joyce (Montparnasse), Adam Bayjou (Factory Foreman), Anna McGarahan (Factory Girl), Anna McGarahan (Crone), Sam Harrison (Bamatabois), Ben Tyler (Pimp), Barnaby Hughes (Fauchelevent), Adam Bayjou (Champmathieu), Ciaran Bowling (s/w Major Domo)
+
+### Broadway
+
+#### Les Misérables - Broadway - May 18, 2003 (Closing Night) (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls
+
+COMMENTS
+: Recording of another DVD
+
+CAST
+: Randal Keith (Jean Valjean), Michael McCarthy (Javert), Jayne Paterson (Fantine), Sandra Turley (Cosette), Kevin Kern (Marius), Diana Kaarina (Éponine), Christopher Mark Peterson (Enjolras), Stephen Brian Patterson (Thénardier), Aymee Garcia (Madame Thénardier)
+
+NOTES
+: Closing show highlights but not the complete show. The digital video is 1 hour and 5 minutes long. The numbers included are One Day More, On My Own, Bring Him Home, A Little Fall Of Rain, Javert\'s Death, Empty Chairs At Empty Tables, And The Finale as well as the curtain speeches and the high school cast performances; 1st generation from t
+
+### 10th Anniversary Concert
+
+#### Les Misérables - 10th Anniversary: The Dream Cast In Concert - October, 1995
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `576p` `DVD REMUX` `6.24 GB`
+
+CAST
+: Colm Wilkinson (Jean Valjean), Philip Quast (Javert), Ruthie Henshall (Fantine), Judy Kuhn (Cosette), Michael Ball (Marius), Lea Salonga (Éponine), Michael Maguire (Enjolras), Alun Armstrong (Thénardier), Jenny Galloway (Madame Thénardier), Adam Searles (Gavroche), Hannah Chick (Little Cosette), Paul F Monaghan (The Bishop), Anthony Crivello (Grantaire), David Bardsley (Combeferre), Matt Cammelle (Feuilly), Jérôme Pradon (Courfeyrac), Peter Polycarpou (Jean Prouvaire), Darryl Knock (Joly), Mike Sterling (Lesgles), Nick Holder (Brujon), Tony Timberlake (Babet), Stephen Matthews (Claquesous), Keith Burns (Montparnasse), Michael McCarthy (Factory Foreman), Jackie Marks (Factory Girl), Gareth Snook (Bamatabois), Andy Reiss (Pimp), Peter Polycarpou (Labourer), Glyn Kerslake (Constables), Beverly Klein (Old Woman), Christopher Howard (Loud Hailer), Halcro Johnston (Farmer), Adrian Beaumont, Alasdair Harvey, Alistair Robins, Allan Hardman, Annette Yeo, Cameron Stewart, Charles Shirvell, Christopher Coleman, Claire Machin, Claudia Bradley, Cliff Brayshaw, Craig Schulman, Danny Coll, David Alder, David Arneil, David Delve, David Malek, David Shannon, Egill Olaffson, Ellen Jackson, Fenton Gray, Gerard Leighton-Duffy, Glenn Carter, Grania Renihan, Gyula Vikidál, Hadrian Delacey, Helen Hobson, Henk Poort, Irene Warren, James Barron, James Head, Jan Ježek, Jeff Leyton, Jerzy Jeszke, Joanne Redman, Jody Crosier, John Barr, John Owen-Jones, Julia Howson, Julia Worsley, Krzysztof Stasierowicz, Kurt Ravn, Linda-Mae Brewer, Lynden Edwards, Mario Frangoulis, Mark Turnbull, Mark White, Martin George, Martin Scott Warden, Matthew Gould, Matthew White, Michael Burgess, Michael Cantwell, Myra Sands, Neil Couperthwaite, Nicholas Pound, Nicola Sloane, Norma Atallah, Paul Baker, Paula Simpson, Peter Ledbury, Phil Cavill, Philip Cox, Rebecca Storm, Rebecca Thornhill, Reinhard Brussmann, Richard Burman, Rob Guest, Robert Marien, Sara West, Sarah Hay, Steve Balsamo, Susie Fenwick, Takeshi Kaga, Tommy Körberg, Tricia Deighton, Øystein Wiik
+
+NOTES
+: Features key performers from the original Broadway and London casts like Colm Wilkinson, Phillip Quast and Lea Salonga. Includes the encore performance featuring 17 Valjeans from various productions.
+
+### First Broadway Revival
+
+#### Les Misérables - First Broadway Revival - May 12, 2007 (Matinee)
+{: .no_toc .d-inline-block }
+
+jstarz
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Alexander Gemignani (Jean Valjean), Drew Sarich (u/s Javert), Lea Salonga (Fantine), Ali Ewoldt (Cosette), Adam Jacobs (Marius), Mandy Bruno (Éponine), Max von Essen (Enjolras), Gary Beach (Thénardier), Ann Harada (Madame Thénardier), Stephen Trafton (u/s Grantaire)
+
+NOTES
+: Filmed in widescreen (though encoded in 4:3, so there are bars at the top and bottom of the screen), this is a nice capture of some of the new cast members. Drew and Ann give great performances in their roles. The second disc also includes the first 15 minutes of the February 24, 2007 Evening show, filmed from the rear right orchestra.
+
+### Third UK Tour / 25th Anniversary Tour
+
+#### Les Misérables - Third UK Tour - September 17, 2010
+{: .no_toc .d-inline-block }
+
+thewho
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Christopher Jacobsen (u/s Jean Valjean), Earl Carpenter (Javert), Madalena Alberto (Fantine), Katie Hall (Cosette), Gareth Gates (Marius), Rosalind James (Éponine), Jon Robyns (Enjolras), Ashley Artus (Thénardier), Lynne Wilmott (Madame Thénardier), David Lawrence (The Bishop), Adam Linstead (Grantaire), David Covey (Combeferre), Owain Williams (Feuilly), Peter Manchester (u/s Courfeyrac), Jamie Muscato (Jean Prouvaire), Rhidian Marc (Joly), David Lawrence (Lesgles), Luke Kempner (Montparnasse)
+
+NOTES
+:  \[NOT FOR SALE\] Barbican Center Theatre, London. First time in history two same productions of a major musical played in the same city.
+
+#### Les Misérables - Third UK Tour - September 25, 2010
+{: .no_toc .d-inline-block }
+
+thewho
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: John Owen-Jones (Jean Valjean), Earl Carpenter (Javert), Madalena Alberto (Fantine), Katie Hall (Cosette), Gareth Gates (Marius), Rosalind James (Éponine), Jon Robyns (Enjolras), Ashley Artus (Thénardier), Lynne Wilmott (Madame Thénardier), Max Griesbach (Gavroche), David Lawrence (The Bishop), Adam Linstead (Grantaire), David Covey (Combeferre), Owain Williams (Feuilly), Christopher Jacobsen (Courfeyrac), Rhidian Marc (Joly), David Lawrence (Lesgles), Ian Caddick (Babet), Carl Mullaney (Claquesous), Luke Kempner (Montparnasse), Carl Mullaney (Bamatabois)
+
+NOTES
+: \[NOT FOR SALE\] Excellent single camera filming slight to the right of centre of the stage from the balcony. Good clear view, for the most part with some wonderful close up and full stage shots. Audio was slightly on the quiet side, so I boosted it a little but is otherwise untouched.
+
+### Second Broadway Revival
+
+#### Les Misérables - Second Broadway Revival - March 8, 2014 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Ramin Karimloo (Jean Valjean), Will Swenson (Javert), Caissie Levy (Fantine), Samantha Hill (Cosette), Andy Mientus (Marius), Nikki M James (Éponine), Kyle Scatliffe (Enjolras), Cliff Saunders (Thénardier), Keala Settle (Madame Thénardier), Joshua Colley (Gavroche)
+
+NOTES
+: Audience was full of excitement! The last 20 seconds are missing from the very end due to battery issues
+
+#### Les Misérables - Second Broadway Revival - June 15, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: John Owen-Jones (Jean Valjean), Hayden Tee (Javert), Alison Luff (Fantine), Alex Finke (Cosette), Chris McCarrell (Marius), Brennyn Lark (Éponine), Mark Uhre (Enjolras), David Rossmer (Thénardier), Rachel Izen (Madame Thénardier), Marcus D\'Angelo (Gavroche), Eleanor Koski (Little Cosette), Mia Sinclair Jenness (Young Éponine)
+
+NOTES
+: The first 30 minutes of the show are missing; the video starts toward the end of Fantine's Arrest. After that, the show is fully captured with no blackouts. There is some minor head obstruction on the left, but it really only affects a few seconds of the show when Valjean cuts Javert loose after The First Attack. There is also a little more washout than in most of my videos, especially in the full stage shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+### The All-Star Staged Concert
+
+#### Les Misérables - The All-Star Staged Concert - December 2, 2019 (Closing Night)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: `1` MKV `1080p` `6.20 GB` `Livestream rip`
+: `2` MKV `1080p` `6.25 GB` `Home media release`
+: `3` MKV `2160p` `18.6 GB` `Home media release`
+
+CAST
+: Alfie Boe (Jean Valjean), Michael Ball (Javert), Carrie Hope Fletcher (Fantine), Lily Kerhoas (Cosette), Rob Houchen (Marius), Shan Ako (Éponine), Bradley Jaden (Enjolras), Matt Lucas (Thénardier), Katy Secombe (Madame Thénardier), Earl Carpenter (The Bishop), Raymond Walsh (Grantaire), Craig Mather (Combeferre), Vinny Coyle (Feuilly), Niall Sheehy (Courfeyrac), James Nicholson (Jean Prouvaire), Ciaran Joyce (Joly), Andrew York (Lesgles), Leo Roberts (Brujon), Stephen Matthews (Babet), Oliver Jackson (Claquesous), Adam Bayjou (Montparnasse), Gavin James (Factory Foreman), Celia Graham (Factory Girl), Tamsin Dowsett (Crone), Earl Carpenter (Bamatabois), Oliver Jackson (Pimp)
+
+NOTES
+: The digitally released pro-shot is edited differently to the live cinema stream.
+
+### MISC
+
+#### Les Misérables - Walnut Street Theatre, Philadelphia, PA - May 17, 2008 (Matinee)
+
+FORMAT
+: VOB+smalls `1 DVD` `2.79 GB`
+
+COMMENTS
+: Seems to be a recording of another DVD. PLEASE tell me if you have a better copy.
+
+CAST
+: Hugh Panaro (Jean Valjean), Paul Schoeffler (Javert), Jessica Bogart (Fantine), Julie Craig (Cosette), Josh Young (Marius), Christina DeCicco (Éponine), Jeffrey Coon (Enjolras), Scott Greer (Thénardier), Dawn Spence (Madame Thénardier), Dante Mignucci (Gavroche), Laurel Gwynne Yaros (Little Cosette), Maggie Fitzgerald (Young Éponine), Peter Schmitz (The Bishop), Fran Prisco (Grantaire), Ben Dibble (Combeferre), Steve Pacek (Jean Prouvaire), Constantine Germanacos (Factory Foreman), Denise Whelan (Factory Girl), Mary Martello (Crone)
+
+#### Les Misérables - Spanish Tour - December 21, 2013 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Nicholas Martinelli (Jean Valjean), Ignasi Vidal (Javert), Elena Medina (Fantine), Talía del Val (Cosette), Guido Balzeratti (Marius), Lydia Fairén (Éponine), Manu Pilas (u/s Enjolras), Armando Pita (Thénardier), Eva Digo (Madame Thénardier), Samuel Gomez (Grantaire)
+
+#### Les Misérables - Pre-Broadway / Toronto Revival - January 11, 2014 (where is your red schaaaf
+
+FORMAT
+: MOV `720p` `22 files` `16.83 GB`
+
+CAST
+: Ramin Karimloo (Jean Valjean), Andrew Love (u/s Javert), Genevieve Leclerc (Fantine), Samantha Hill (Cosette), Perry Sherman (Marius), Melissa O'Neil (Éponine), Mark Uhre (Enjolras), Cliff Saunders (Thénardier), Lisa Horner (Madame Thénardier), David Gregory Black (Gavroche), Saara Chaudry (Little Cosette), Madison Oldroyd (Young Éponine), Colm Wilkinson (g/p The Bishop), John Rapson (Grantaire), David Silvestri (Combeferre), Matt McMahan (Feuilly), Jonathan Winsby (Courfeyrac), Matt Rosell (Jean Prouvaire), Alan Shaw (Joly), Jason Ostrowski (s/w Lesgles), Aaron Walpole (Brujon), Tyler Murree (Babet), Ashley Wright (Claquesous), Chris Zonneville (Montparnasse), Ashley Wright (Factory Foreman), Kristen Peace (Factory Girl), John Rapson (Bamatabois), Chris Zonneville (Labourer), Caroline Colantonio (Innkeeper\'s Wife), Ashley Wright (Innkeeper), Jonathan Winsby (Constables), Kristen Peace (Old Woman), Cornelia Luna (Wigmaker), Alan Shaw (Fauchelevent), Aaron Walpole (Champmathieu), Aaron Walpole (Loud Hailer), John Rapson (Major Domo), Tyler Murree (Farmer)
+
+NOTES
+: Extended highlights separated by song; runs about 105 minutes. Special charity performance with Colm Wilkinson.
+
+#### Les Misérables - Dallas - August 2, 2014 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Nehal Joshi (Jean Valjean), Edward Watts (Javert), Allison Blackwell (Fantine), Dorcas Leung (Cosette), Justin Keyes (Marius), Elizabeth Judd (Éponine), John Campione (Enjolras), Steven Michael Walters (Thénardier), Christia Mantzke (Madame Thénardier)
+
+NOTES
+: A great capture of Dallas Theatre Center's inventively staged production of Les Miserables. The much-talked about production did not disappoint; the modernized visuals create many new layers to the show, and make you think about events and characters in a whole new way. Nehal, Allison, Justin, and Christia were probably my favorites, but the entire cast is so talented, it's difficult to choose any as standouts. A very nice capture overall. There are a couple quick dropouts in act one, but no major blackouts. There is one head that can be seen occasionally, but it only blocks a small portion of the stage and only affects the action for about 20-30 seconds of the entire show. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent as usual. Includes curtain call and playbill scans.
+
+#### Les Misérables - Fourth UK & Ireland Tour - January, 2019 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `4.49 GB`
+
+CAST
+: Killian Donnelly (Jean Valjean), Nic Greenshields (Javert), Katie Hall (Fantine), Bronwen Hanson (Cosette), Harry Apps (Marius), Tegan Bannister (Éponine), Will Richardson (Enjolras), Martin Ball (Thénardier), Sophie-Louise Dann (Madame Thénardier)
+
+## Miss Saigon
+
+#### Miss Saigon - Broadway - November 16, 1998 (Highlights)
+
+FORMAT
+: VOB+smalls `1 DVD` `3.96 GB`
+
+CAST
+: DeeDee Lynn Magno (Kim), Will Chase (Chris), Louyong Wang (The Engineer), Ruthie Henshall (Ellen), Charlene Carabeo (Gigi), Michael K Lee (Thuy)
+
+NOTES
+: Highlights running about 65 minutes in total.
+
+#### Miss Saigon - Manila - December 24, 2000
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `Complete version`
+
+CAST
+: Lea Salonga (Kim), Will Chase (Chris), Leo Valdez (The Engineer), Ronn Smith (John), Lisa Capps (Ellen), Isay Alvarez (Gigi), Robert Sena (Thuy)
+
+NOTES
+: Multi-Cam Pro-shot, in English. Says \"For preview purposes only. Not for commercial use\" during the entire video at the bottom of the screen. 2 versions floating around. A complete version, normally at a higher video quality. Also a incomplete version, the last 10 minutes substituted from a bootleg recording with a different cast. Screenshots to compare.
+
+#### Miss Saigon - Broadway - January 3, 2001
+
+FORMAT
+: VOB+smalls `1 DVD` `2.03 GB`
+
+CAST
+: Lea Salonga (Kim), Will Chase (Chris), Louyong Wang (The Engineer), Charles Wallace (John), Ruthie Henshall (Ellen), Charlene Carabeo (Gigi), Michael K Lee (Thuy)
+
+NOTES
+: First 10-15 minutes lots of shots of nothing untiltaper gets settled, though the sound is very good. After that any close-ups, clear picture. B
+
+#### Miss Saigon - Second UK Tour - 2006 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.37 GB`
+
+CAST
+: Miriam Valmores (Kim), Ramin Karimloo (Chris), Jon Jon Briones (The Engineer), John Partridge (John), Lara Pulver (Ellen), Christine Sambeli-Maquez (Gigi), Ariel Reonal (u/s Thuy)
+
+NOTES
+: House-cam footage. Pretty grainy, but sound is clear.
+
+#### Miss Saigon - Broadway Revival - March 9, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Eva Noblezada (Kim), Alistair Brammer (Chris), Jon Jon Briones (The Engineer), Katie Rose Clarke (Ellen), Rachelle Ann Go (Gigi), Devin Ilaw (Thuy)
+
+NOTES
+: Great HD capture of the Broadway Revival. Terrific performances from the entire cast with many changes from the original production. There is a 7 minute black out near the top of Act 2 which effects the second half of Bui-Doi and the scene between Chris and John. A-
+
+#### Miss Saigon - Broadway Revival - May 13, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Lianah Sta Ana (alt Kim), Alistair Brammer (Chris), Jon Jon Briones (The Engineer), Katie Rose Clarke (Ellen), Rachelle Ann Go (Gigi), Devin Ilaw (Thuy)
+
+NOTES
+: Excellent HD capture of Lianah as the Kim Alternate. A wonderful production with a very solid cast and from a very nice angle to take in the whole show. A
+
+## Monty Python\'s Spamalot
+
+#### Monty Python\'s Spamalot - Broadway - March 12, 2005 (Preview)
+
+FORMAT
+: `1` VOB+smalls `1 DVD`
+: `2` ISO
+
+CAST
+: Tim Curry (King Arthur), Sara Ramirez (Lady of the Lake), Michael McGrath (Patsy), Steve Rosen (Sir Bedevere), Hank Azaria (Sir Lancelot), Christopher Sieber (Sir Galahad), David Hyde Pierce (Sir Robin), Christian Borle (Prince Herbert), Christian Borle (Historian)
+
+NOTES
+: Broadway Previews. Playbill scans. Includes NY1 Review + Theatre Talk Interview.
+
+#### Monty Python\'s Spamalot - Broadway - June 8, 2005
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Tim Curry (King Arthur), Darlene Wilson (u/s Lady of the Lake), Michael McGrath (Patsy), Steve Rosen (Sir Bedevere), John Bolton (u/s Sir Lancelot), Christopher Sieber (Sir Galahad), David Hyde Pierce (Sir Robin), Christian Borle (Prince Herbert), Christian Borle (Historian)
+
+NOTES
+: Filmed from far left mezz and cuts off after the knights find the grail. Filmed two days after Hank Azaria left.
+
+## Moulin Rouge! The Musical
+
+#### Moulin Rouge! - Broadway - December, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.47 GB`
+
+CAST
+: Aaron Tveit (Christian), Karen Olivo (Satine), Danny Burstein (Harold Zidler), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Tam Mutu (The Duke), Jodi McFadden (u/s Nini), Jacqueline B Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll), Reed Luplau (Pierre), Kyle Brown
+
+NOTES
+: Beautiful HD capture of the Original Broadway Cast. Starts after \"Welcome to the Moulin Rouge!\". Filmed in 16:9 with a mix of wides, mediums, and close-ups.
+
+#### Moulin Rouge! - Broadway - January, 2020 (Ashley Loren)
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.05 GB`
+
+CAST
+: Aaron Tveit (Christian), Ashley Loren (s/b Satine), Austin Durant (t/r Harold Zidler), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Tam Mutu (The Duke), Robyn Hurder (Nini), Jacqueline B Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll), Reed Luplau (Pierre)
+
+NOTES
+: Beautiful HD capture of the stunning Ashley Loren as Satine. Filmed in 16:9 from the mezzanine with a mix of wides, mediums, and many closeups. Starts after "Welcome to the Moulin Rouge!" Includes some minor obstructions, otherwise a great capture of a fantastic cast.
+
+#### Moulin Rouge! - Broadway - January, 2020 (Amber Ardolino) 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `5.31 GB`
+
+CAST
+: Aaron Tveit (Christian), Amber Ardolino (u/s Satine), Danny Burstein (Harold Zidler), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Dylan Paul (u/s The Duke), Robyn Hurder (Nini), Jacqueline B Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll), Reed Luplau (Pierre)
+
+NOTES
+: Beautiful HD capture of the fabulous Amber Ardolino as Satine and Dylan Paul as the Duke. Filmed from the rear left orchestra with a mix of wides, mediums, and many close-ups.
+
+## Much Ado About Nothing
+
+#### Much Ado About Nothing - Wyndham\'s Theatre, West End - September, 2011
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: `1` MP4 `1080p` `9.13 GB`
+: `2` MP4 `720p` `1.99 GB`
+
+CAST
+: Catherine Tate (Beatrice), David Tennant (Benedick), Sarah Macrae (Hero), Tom Bateman (Claudio), Jonathan Coy (Leonato), Adam James (Don Pedro), Elliot Levey (Don John), John Ramm (Dogberry), Mike Grady (Verges), Alex Beckett (Borachio), Clive Hayward (Friar Francis)
+
+#### Much Ado About Nothing - Royal Shakespeare Company - 2014 
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+<small>Royal Shakespeare Theatre</small>
+
+FORMAT
+: MKV `1080p` `6.5 GB`
+
+CAST
+: Michelle Terry (Beatrice), Edward Bennet (Benedick) 
+
+DIRECTOR
+: Christopher Luscombe
+
+#### Much Ado About Nothing - Shakespeare in the Park - June 22-23, 2019 (Closing Night) 
+{: .no_toc .d-inline-block }
+
+<small>Delacorte Theater</ small>
+
+FORMAT
+: MP4 `720p` `2.9 GB`
+
+Pro-Shot
+{: .label .label-green }
+
+CAST
+: Danielle Brooks (Beatrice), Grantham Coleman (Benedick), Margaret Odette (Hero), Jeremie Harris (Claudio), Chuck Cooper (Leonato), Billy Eugene Jones (Don Pedro), Hubert Point Du Jour (Don John), Erik Laray Harvey (Antonio), Lateefah Holder (Dogberry), Erik Laray Harvey (Verges), Jaime Lincoln Smith (Borachio), Khiry Walker (Conrad), Olivia Washington (Margaret), Tiffany Denise Hobbs (Ursula), Tyrone Mitchell Henderson (Friar Francis) 
+
+NOTES
+: Aired on PBS Great Performances on November 22, 2019.
+
+## My Fair Lady
+
+#### My Fair Lady - UK Tour (2005) - October 12, 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Amy Nuttall (Eliza Doolittle), Christopher Cazenove (Henry Higgins), Stephen Moore (Colonel Pickering), Russ Abbot (Alfred P. Doolittle), Stephen Carlile (Freddy Eynsford-Hill), Honor Blackman (Mrs. Higgins)
+
+NOTES
+: Archival recording. Stunning touring production with a massive cast, fabulous set and costumes. Mostly close up and medium shots but there\'s a few amazing wide shots.
+
+#### My Fair Lady - Lincoln Center - March 9, 2007 (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Kelli O'Hara (Eliza Doolittle), Kelsey Grammer (Henry Higgins), Charles Kimbrough (Colonel Pickering), Brian Dennehy (Alfred P. Doolittle), Philippe Castagner (Freddy Eynsford-Hill), Marni Nixon (Mrs. Higgins), Meg Bussert (Mrs. Pearce), Tim Jerome (Professor Zoltan Karpathy)
+
+NOTES
+: A presentation of The New York Philharmonic at Avery Fisher Hall in New York\'s Lincoln Center. Act 1 is well filmed with great close ups and clarity, but unfortunately due to technical issues, Act 2 is audio only (No video)
+
+#### My Fair Lady - Third Broadway Revival - April 14, 2018 (Matinee) (Preview) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Lauren Ambrose (Eliza Doolittle), Harry Hadden-Paton (Henry Higgins), Allan Corduner (Colonel Pickering), Norbert Leo Butz (Alfred P. Doolittle), Jordan Donica (Freddy Eynsford-Hill), Diana Rigg (Mrs. Higgins), Linda Mugleston (Mrs. Pearce), Manu Narayan (Professor Zoltan Karpathy)
+
+#### My Fair Lady - Third Broadway Revival - January, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Kerstin Anderson (u/s Eliza Doolittle), Harry Hadden-Paton (Henry Higgins), Allan Corduner (Colonel Pickering), Danny Burstein (Alfred P. Doolittle), Christian Dante White (Freddy Eynsford-Hill), Rosemary Harris (Mrs. Higgins), Linda Mugleston (Mrs. Pearce), Clarke Thorell (Professor Zoltan Karpathy)
+
+#### My Fair Lady - Third Broadway Revival - February, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Laura Benanti (Eliza Doolittle), Harry Hadden-Paton (Henry Higgins), Allan Corduner (Colonel Pickering), Danny Burstein (Alfred P. Doolittle), Christian Dante White (Freddy Eynsford-Hill), Rosemary Harris (Mrs. Higgins), Linda Mugleston (Mrs. Pearce), Clarke Thorell (Professor Zoltan Karpathy)
+
+NOTES
+: No blackouts. Perfectly captured. Laura and Harry have fabulous chemistry as Eliza and Higgins. Not a video to be missed!
+
+## The Mystery of Edwin Drood
+
+#### The Mystery of Edwin Drood - Broadway - January 26, 1986
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Betty Buckley (Edwin Drood/Miss Alice Nutting), Howard McGillin (John Jasper/Mr. Clive Paget), Cleo Laine (The Princess Puffer/Miss Angela Prysock), George Rose (Chairman/Mr. William Cartwright), Patti Cohenour (Rosa Bud/Miss Deirdre Peregrine), Donna Murphy (s/b Helena Landless/Miss Janet Conover), John Herrera (Neville Landless/Mr. Victor Grinstead), George N Martin (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Jerome Dempsey (Durdles/Mr. Nick Cricker), Joe Grifasi (Bazzard/Mr. Phillip Bax), Stephen Glavin (Deputy/Master Nick Cricker)
+
+#### The Mystery of Edwin Drood - Broadway Revival - October 23, 2012 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Stephanie J Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Betsy Wolfe (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andy Karl (Neville Landless/Mr. Victor Grinstead), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Robert Creighton (Durdles/Mr. Nick Cricker), Peter Benson (Bazzard/Mr. Phillip Bax), Nicholas Barasch (Deputy/Master Nick Cricker), Nick Corley (Stage Manager and Barkeep/Mr. James Throttle)
+
+#### The Mystery of Edwin Drood - Broadway Revival - November 7, 2012 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Stephanie J Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Betsy Wolfe (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andy Karl (Neville Landless/Mr. Victor Grinstead), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Robert Creighton (Durdles/Mr. Nick Cricker), Peter Benson (Bazzard/Mr. Phillip Bax), Nicholas Barasch (Deputy/Master Nick Cricker), Nick Corley (Stage Manager and Barkeep/Mr. James Throttle)
+
+#### The Mystery of Edwin Drood - Broadway Revival - March 10, 2013 (Closing Night)
+{: .no_toc .d-inline-block }
+
+Lanelle
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Stephanie J Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Erin Davie (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andrew Samonsky (Neville Landless/Mr. Victor Grinstead), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Robert Creighton (Durdles/Mr. Nick Cricker), Peter Benson (Bazzard/Mr. Phillip Bax), Nicholas Barasch (Deputy/Master Nick Cricker)
+
+NOTES
+: Final Broadway Performance. Excellent HD capture of the final show. The audience was full of fans of the show, so great energy and applause throughout. Three lovers were selected, including John Jasper. Touching final curtain speech by the Director and Rupert Holmes.
+
+#### The Mystery of Edwin Drood - Broadway Revival - March 10, 2013 (Closing Night)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Stephanie J Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Erin Davie (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andrew Samonsky (Neville Landless/Mr. Victor Grinstead), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Robert Creighton (Durdles/Mr. Nick Cricker), Peter Benson (Bazzard/Mr. Phillip Bax), Nicholas Barasch (Deputy/Master Nick Cricker)
