@@ -8196,9 +8196,10 @@ CAST
 NOTES
 : The cast was sensational and genuine performances all the way. Jim Norton, gives such a wonderful performance. A-
 
-## The Office: a Musical Parody (1)
+## The Office: a Musical Parody
 
 #### The Office: a Musical Parody - Off-Broadway - December 23, 2018
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MOV `1080p` `7.19 GB`
@@ -8209,7 +8210,7 @@ CAST
 NOTES
 : One major head blocking view, but doesn\'t get in the way of most action.
 
-## Oklahoma! (5)
+## Oklahoma!
 
 #### Oklahoma! - Pre-Broadway Tour - 1979
 {: .no_toc .d-inline-block }
@@ -8242,6 +8243,7 @@ NOTES
 : National theatre production starring Hugh Jackma
 
 #### Oklahoma! - Fourth Broadway Revival - February 25, 2002 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `3.81 GB`
@@ -8265,6 +8267,7 @@ NOTES
 : ProShot television broadcast
 
 #### Oklahoma! - Broadway Revival - October 23, 2019 (Matinee) \| Musain
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MP4 `1080p` `13.18 GB`
@@ -8278,6 +8281,7 @@ NOTES
 ## Oliver!
 
 #### Oliver! - Broadway - 1984
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD` `1.46 GB`
@@ -8285,7 +8289,7 @@ FORMAT
 CAST
 : Braden Danner (Oliver Twist), David Garlick (The Artful Dodger), Ron Moody (Fagin), Patti LuPone (Nancy)
 
-## Once On This Island (1)
+## Once On This Island
 
 #### Once On This Island - Broadway Revival - July, 2018
 {: .no_toc .d-inline-block }
