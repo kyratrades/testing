@@ -8995,7 +8995,7 @@ CAST
 NOTES
 : Filmed around a railing which sometimes gets in the shot, but is well filmed around. Includes 35 minutes of behind the scenes/interviews.
 
-## Pippin (2)
+## Pippin
 
 #### Pippin - Hamilton, Ontario - 1981
 {: .no_toc .d-inline-block }
@@ -9004,25 +9004,8 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
-
-COMMENTS
-: Bob Fosse cut
-
-CAST
-: Ben Vereen (Leading Player), William Katt (Pippin), Benjamin Rayson (Charles), Chita Rivera (Fastrada), Martha Raye (Berthe), Leslie Denniston (Catherine), Christopher Chadman (Lewis), Carmine Rizzo (Theo), Allison Williams, Charles Ward, David Warren-Gibson, Debra Phelan, Frank Mastrocola, Gena Ramsel, Joanie O\'Neill, John Mineo, Kate Wright, Lee Mathis, Linda Haberman, Tom Batten
-
-NOTES
-: FOSSE CUT. Different (and longer) than the eventual TV broadcast with different angles and takes. Bob Fosse\'s master which he edited and returned back to the producers. Ultimately his cut was not used and he was apparently unhappy with the finished version. Generation loss and counter numbers at the bottom of the screen. Staged by Fosse's associate Kathryn Doby, based on his original Broadway staging. FIlmed in Hamilton, Ontario, Canada.
-
-#### Pippin - Hamilton, Ontario - 1981
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
+: `1` VOB+smalls `1 DVD`
+: `2` MP4 `720p` `791.4 MB` `Web rip`
 
 CAST
 : Ben Vereen (Leading Player), William Katt (Pippin), Benjamin Rayson (Charles), Chita Rivera (Fastrada), Martha Raye (Berthe), Leslie Denniston (Catherine), Christopher Chadman (Lewis), Carmine Rizzo (Theo), Allison Williams, Charles Ward, David Warren-Gibson, Debra Phelan, Frank Mastrocola, Gena Ramsel, Joanie O\'Neill, John Mineo, Kate Wright, Lee Mathis, Linda Haberman, Tom Batten
@@ -9030,20 +9013,70 @@ CAST
 NOTES
 : Final TV broadcast and video version. Cuts around 20 mins from the Fosse cut due to time constraints (\~1hr 50mins).
 
-## The Pirate Queen (6)
+#### Pippin - Hamilton, Ontario - 1981 (Director's Cut)
+{: .no_toc .d-inline-block }
 
-#### The Pirate Queen - Broadway - March 24, 2007 (Preview)
+Pro-Shot
+{: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `Bob Fosse cut`
+
+CAST
+: Ben Vereen (Leading Player), William Katt (Pippin), Benjamin Rayson (Charles), Chita Rivera (Fastrada), Martha Raye (Berthe), Leslie Denniston (Catherine), Christopher Chadman (Lewis), Carmine Rizzo (Theo), Allison Williams, Charles Ward, David Warren-Gibson, Debra Phelan, Frank Mastrocola, Gena Ramsel, Joanie O\'Neill, John Mineo, Kate Wright, Lee Mathis, Linda Haberman, Tom Batten
+
+NOTES
+: FOSSE CUT. Different (and longer) than the eventual TV broadcast with different angles and takes. Bob Fosse\'s master which he edited and returned back to the producers. Ultimately his cut was not used and he was apparently unhappy with the finished version. Generation loss and counter numbers at the bottom of the screen. Staged by Fosse's associate Kathryn Doby, based on his original Broadway staging. FIlmed in Hamilton, Ontario, Canada.
+
+## The Pirate Queen
+
+#### The Pirate Queen - Pre-Broadway / Chicago - October-November, 2006
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
+
+NOTES
+: Pro-shot copy, filmed with multiple cameras. Made presumably for archival purposes. Includes the documentary \"The Making of The Pirate Queen\".
+
+#### The Pirate Queen - Pre-Broadway / Chicago - October 8, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
+
+#### The Pirate Queen - Pre-Broadway / Chicago - October 11, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
+
+#### The Pirate Queen - Broadway - March 24, 2007 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs` `No DVD menu`
 
 CAST
 : Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
 
 #### The Pirate Queen - Broadway - April 11, 2007
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
@@ -9055,7 +9088,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
@@ -9063,38 +9096,7 @@ CAST
 NOTES
 : Wonderful crystal clear capture and top notch amazing performances. Much improved from Chicago version. Includes performance on the the View. A+
 
-#### The Pirate Queen - Pre-Broadway / Chicago - October 8, 2006
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
-
-#### The Pirate Queen - Pre-Broadway / Chicago - October 11, 2006
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
-
-#### The Pirate Queen - Pre-Broadway / Chicago - October-November, 2006
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
-
-NOTES
-: Pro-shot copy, filmed with multiple cameras. Made presumably for archival purposes.
-
-## The Play That Goes Wrong (1)
+## The Play That Goes Wrong
 
 #### The Play That Goes Wrong - Broadway - May, 2018 
 {: .no_toc .d-inline-block }
@@ -9111,46 +9113,16 @@ CAST
 NOTES
 : (not Master\'s notes) Beginning from pre-show where the comedy \'bit\' of the set breaking starts. Throughout, very clearly shot with no obstructions, in a mixture of wides and closes, following the action well. I think it\'s shot from the front of the circle. Once or twice the camera falls but never during key moments, and is quickly fixed. No long blackouts. Audience energy is great.
 
-## Pretty Woman: The Musical (4)
+## Pretty Woman: The Musical
 
-#### Pretty Woman: The Musical - Broadway - February, 2019 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Samantha Barks (Vivian Ward), Adam Pascal (Edward Lewis), Eric Anderson (Mr. Thompson/Happy Man), Jason Danieley (Philip Stuckey), Kingsley Leggs (James Morse), Orfeh (Kit De Luca), Tommy Bracco (Giulio)
-
-NOTES
-: (not Master notes) Seems a fantastic capture of the show. Virtually no dropouts, obstructions and spotlight washout. Filmed more centre than the preview recording by the same master; mix of wides, mediums and some closeups; very good capture of the sets and actor choreography. Both are worth watching.
-
-#### Pretty Woman: The Musical - Broadway - July, 2018 (Preview) 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Samantha Barks (Vivian Ward), Andy Karl (Edward Lewis), Eric Anderson (Mr. Thompson/Happy Man), Jason Danieley (Philip Stuckey), Ezra Knight (James Morse), Orfeh (Kit De Luca), Allison Blackwell (Violetta), Tommy Bracco (Giulio), Brian Cali (Fred/Alfredo), Robby Clater (David Morse), Anna Eilinsfeld (Susan/Scarlett)
-
-NOTES
-: (not Master notes) Seems a fantastic capture of the show. Virtually no dropouts or obstructions. More spotlight washout than the Feb 2019 recording by the same master, but it\'s very minimal. Filmed at slight angle and with more closeups compared to the other recording. Very good capture of the actors\' expressions. Both are worth watching.
-
-#### Pretty Woman: The Musical - Pre-Broadway/Chicago - April 13, 2018
+#### Pretty Woman - Pre-Broadway / Chicago - April 13, 2018
 {: .no_toc .d-inline-block }
 
 SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Samantha Barks (Vivian Ward), Steve Kazee (Edward Lewis), Eric Anderson (Mr. Thompson/Happy Man), Jason Danieley (Philip Stuckey), Kingsley Leggs (James Morse), Orfeh (Kit De Luca)
@@ -9158,15 +9130,49 @@ CAST
 NOTES
 : Beautiful HD capture of the PreBroadway production. This includes Steve as Edward before he left the production prior to Broadway. Such a fun show with terrific performances and a rare glimpse of Steve in the role! A
 
-#### Pretty Woman: The Musical - Hamburg - September 25, 2019 (Preview) \| Rumpel
+#### Pretty Woman - Broadway - July, 2018 (Preview) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
+
+CAST
+: Samantha Barks (Vivian Ward), Andy Karl (Edward Lewis), Eric Anderson (Mr. Thompson/Happy Man), Jason Danieley (Philip Stuckey), Ezra Knight (James Morse), Orfeh (Kit De Luca), Allison Blackwell (Violetta), Tommy Bracco (Giulio), Brian Cali (Fred/Alfredo), Robby Clater (David Morse), Anna Eilinsfeld (Susan/Scarlett)
+
+NOTES
+: (not Master notes) Seems a fantastic capture of the show. Virtually no dropouts or obstructions. More spotlight washout than the Feb 2019 recording by the same master, but it\'s very minimal. Filmed at slight angle and with more closeups compared to the other recording. Very good capture of the actors\' expressions. Both are worth watching.
+
+#### Pretty Woman - Broadway - February, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Samantha Barks (Vivian Ward), Adam Pascal (Edward Lewis), Eric Anderson (Mr. Thompson/Happy Man), Jason Danieley (Philip Stuckey), Kingsley Leggs (James Morse), Orfeh (Kit De Luca), Tommy Bracco (Giulio)
+
+NOTES
+: (not Master notes) Seems a fantastic capture of the show. Virtually no dropouts, obstructions and spotlight washout. Filmed more centre than the preview recording by the same master; mix of wides, mediums and some closeups; very good capture of the sets and actor choreography. Both are worth watching.
+
+#### Pretty Woman - Hamburg - September 25, 2019 (Preview)
+{: .no_toc .d-inline-block }
+
+Rumpel
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
 
 CAST
 : Patricia Meeden (Vivian Ward), Mark Seibert (Edward Lewis), Paul Kribbe (Mr. Thompson/Happy Man), Nigel Casey (Philip Stuckey), Frank Logemann (James Morse), Maricel (Kit De Luca)
 
-## Pride and Prejudice: A New Musical (1)
+## Pride and Prejudice: A New Musical
 
 #### Pride and Prejudice: A New Musical - TheatreWorks Silicon Valley- 2020
 {: .no_toc .d-inline-block }
@@ -9175,7 +9181,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 720p \| 603.0 MB
+: MKV `720p` `603.0 MB`
 
 CAST
 : Samantha James Ayoob, Seton Chiang, Taylor Crousore, Travis Leland, Mary Mattison, Justin Mortellitit, Heather Orth, Sharon Rietkirk, Michelle Skinner, Heather Mae Steffen, Chanel Tilghman, Melissa WolfKlain, Tara Kostmayer, Monique Hafen Adams, Lucinda Hitchcock Cone, Sean Fenton, Brian Herndon, Dani Marcus, Christopher Vettel
@@ -9183,31 +9189,33 @@ CAST
 NOTES
 : <https://www.streamingmusicals.com/film/pride-and-prejudice/>
 
-## The Prince of Egypt (2)
+## The Prince of Egypt
 
-#### The Prince of Egypt - West End - March 5, 2020 (BwaytoWestEnd
+#### The Prince of Egypt - West End - February, 2020
+{: .no_toc .d-inline-block }
 
-FORMAT
-: MP4 (HD)
-
-CAST
-: Luke Brady (Moses), Liam Tamne (Ramses), Alexia Khadime (Miriam), Christine Allado (Tzipporah), Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), Joe Dixon (Seti), Debbie Kurup (Queen Tuya), Tanisha Spring (Nefertari), Adam Pearce (Hotep), Mercedesz Csampai (Yocheved)
-
-NOTES
-: Approx 12 gb stageshot filmed from stalls. Audio is awful most of the time. Master of this is BwaytoWestEnd
-
-#### The Prince of Egypt - West End - February, 2020 \| hitmewithyourbethshot
+hitmewithyourbethshot
+{: .label .label-blue }
 
 FORMAT
-: MTS \| 15.52 GB
+: MTS `15.52 GB`
 
 CAST
 : Luke Brady (Moses), Liam Tamne (Ramses), Alexia Khadime (Miriam), Christine Allado (Tzipporah), Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), Joe Dixon (Seti), Debbie Kurup (Queen Tuya), Tanisha Spring (Nefertari), Adam Pearce (Hotep), Mercedesz Csampai (Yocheved), Iman Pabani (Young Miriam/Leah/Young Hebrew Girl), Leo Babet (Young Aaron/Young Egyptian Boy/Young Midian Boy)
 
-NOTES
-: This video is never to be publicly shared on YouTube, tumblr, Facebook, Stage Dork etc.
+#### The Prince of Egypt - West End - March 5, 2020
+{: .no_toc .d-inline-block }
 
-## Priscilla, Queen of the Desert (2)
+BwaytoWestEnd
+{: .label .label-blue }
+
+FORMAT
+: MP4 `720p` `11.72 GB`
+
+CAST
+: Luke Brady (Moses), Liam Tamne (Ramses), Alexia Khadime (Miriam), Christine Allado (Tzipporah), Gary Wilmot (Jethro), Silas Wyatt-Barke (Aaron), Joe Dixon (Seti), Debbie Kurup (Queen Tuya), Tanisha Spring (Nefertari), Adam Pearce (Hotep), Mercedesz Csampai (Yocheved)
+
+## Priscilla, Queen of the Desert
 
 #### Priscilla, Queen of the Desert - Broadway - March 6, 2011 (Preview)
 {: .no_toc .d-inline-block }
@@ -9216,7 +9224,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Will Swenson (Tick (Mitzi)), Tony Sheldon (Bernadette), Nick Adams (Adam (Felicia)), C David Johnson (Bob), Jacqueline B Arnold (Diva 1), Anastacia McCleskey (Diva 2), Ashley Spencer (Diva 3), Nathan Lee Graham (Miss Understanding), Jessica Phillips (Marion), Steve Schepis (Farrah), Keala Settle (Shirley)
@@ -9231,7 +9239,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Wade McCollum (Tick (Mitzi)), Scott Willis (Bernadette), Bryan West (Adam (Felicia)), Joe Hart (Bob), Emily Afton (Diva 1), Bre Jackson (Diva 2), Brit West (Diva 3), Nik Alexander (Miss Understanding), Christy Faber (Marion), Chelsea Zeno (Cynthia), Travis Taber (Farrah), Travis Taber (Young Bernadette), Babs Rubenstein (Shirley), David Koch (Frank)
@@ -9239,7 +9247,7 @@ CAST
 NOTES
 : First preview from the First National Tour!
 
-## The Prom (1)
+## The Prom
 
 #### The Prom - Broadway - February, 2019 
 {: .no_toc .d-inline-block }
@@ -9248,7 +9256,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Caitlin Kinnunen (Emma Nolan), Josh Lamon (u/s Barry Glickman), Isabelle McCalla (Alyssa Greene), Beth Leavel (Dee Dee Allen), Christopher Sieber (Trent Oliver), Michael Genet (Mr. Hawkins), Angie Schworer (Angie), Courtenay Collins (Mrs. Greene), David Josefsberg (u/s Sheldon Saperstein)
@@ -9256,12 +9264,19 @@ CAST
 NOTES
 : Excellent capture! Josh mistakenly mentions Alyssa in \'Tonight Belongs to You\' despite not being meant to know her name at this point. The last three minutes of the show are from a different performance, during previews, with Brooks Ashmanskas as Barry and Josh Lamon as Sheldon, but it is a full video in total.
 
-## Promises, Promises (2)
+## Promises, Promises
 
 #### Promises, Promises - Broadway Revival - April 1, 2010
+{: .no_toc .d-inline-block }
+
+Issues
+{: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
+
+COMMENTS
+: Wrong aspect ratio. Stretch to 16:9 when watching.
 
 CAST
 : Sean Hayes (Chuck Baxter), Kristin Chenoweth (Fran Kubelik), Tony Goldwyn (J.D. Sheldrake), Dick Latessa (Dr. Dreyfuss), Brooks Ashmanskas (Mr. Dobitch), Katie Finneran (Marge MacDougall)
@@ -9276,15 +9291,16 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Sean Hayes (Chuck Baxter), Kristin Chenoweth (Fran Kubelik), Brian O\'Brien (u/s J.D. Sheldrake), Dick Latessa (Dr. Dreyfuss), Brooks Ashmanskas (Mr. Dobitch), Katie Finneran (Marge MacDougall), Helen Anker (Peggy Olson)
 
 NOTES
-: Includes full show plus clips from October 10, 2010 of Katie Finneran\'s final performance. Not as crisp a picture as one would like but a nice capture with no real obstructions.
+: Filmed in 16:9 widescreen. No obstructions (no one sitting in front of me). A few very brief blackouts due to late-comers. Steady filming with a good mix of close-ups and medium zooms. External audio fed in from MD source so it is very clear.
+: This DVD also includes Katie Finneran's scenes from her final performance on October 10, 2010. She pretty much steals the show in Act Two and she very much deserved her Tony award for best featured actress in a musical last year. Sean Hayes and Kristin Chenoweth also deliver absolutely charming performances and it is clear that they had great chemistry together. The show's choreography was also inspired and charming. The Sept 22nd performance also included a couple of minor flubs, including one where Chenoweth drops her purse and she briefly ad-libs when she picks it up.
 
-## Puffs (1)
+## Puffs
 
 #### Puffs - Off-Broadway - February, 2018
 {: .no_toc .d-inline-block }
@@ -9293,7 +9309,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV \| 1080p \| 8.4 GB \| Amazon WEB-DL
+: MKV `1080p` `8.4 GB` `Amazon WEB-DL`
 
 CAST
 : AJ Ditty (Narrator), Andy Miller (Leanne), Eleanor Philips (Hannah), James Fouhey (Cedric), Jessie Cannizzaro (Sally), Julie Ann Earls (Megan), Langston Belton (Oliver), Madeleine Bundy (Susie), Nick Carrillo (J. Finch-Fletchley), Stephen Stout (Ernie Mac), Zac Moon (Wayne)
@@ -9301,7 +9317,7 @@ CAST
 NOTES
 : You can find the Proshot\'s Kickstarter page here: <https://www.kickstarter.com/projects/269018729/puffs-live-off-broadway> - Filmed across February 3rd and 4th 2018
 
-## Putting it Together (1)
+## Putting it Together
 
 #### Putting it Together - Off-Broadway - March, 1993 (Highlights) 
 {: .no_toc .d-inline-block }
@@ -9310,13 +9326,23 @@ Press Reel
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
-
-COMMENTS
-: A good bit of generational loss. Tough to watch at times, but it does give an exciting look into this barley-known production. The trader I got it from us combined it with \"Dance a Little Closer\" from 1983.
+: VOB+smalls `1 DVD` `2.68 GB`
 
 CAST
 : Christopher Durang, Julie Andrews, Michael Rupert, Rachel York, Stephen Collins
 
 NOTES
-: RARE! Nearly forty minutes of press reel footage from the US premiere of the Sondheim revue. Produced by Cameron Macintosh and The Manhattan Theatre Club, and presented ay New Yorkís City Center theatre. The show eventually moved to Broadway in 1999, after a successful run in Los Angeles. Filmed using one camera on a tripod. Has producerís counter numbers onscreen. Some generational loss. (Also included on the disc: Dance A Little Closer, 5/83) C
+: RARE! Nearly forty minutes of press reel footage from the US premiere of the Sondheim revue. Filmed using one camera on a tripod. Has producerís counter numbers onscreen. A good bit of generational loss, tough to watch at times. (Also included on the disc: Dance A Little Closer, 5/83) C
+: An even better version has been shared by aurora spiderwoman: https://youtu.be/DgzFncSip5I
+
+#### Putting it Together - Broadway - February 20, 2000
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Carol Burnett (The Wife), George Hearn (The Husband), Ruthie Henshall (The Younger Woman), John Barrowman (The Younger Man), Bronson Pinchot (The Observer)
