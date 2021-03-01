@@ -1490,9 +1490,11 @@ NOTES
 
 # B
 
+<p align="center"><p><a href="https://kyratrades.github.io/testing/videos#back-to-the-future-the-musical">Back to the Future: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#the-band-wagon">The Band Wagon</a> • <a href="https://kyratrades.github.io/testing/videos#bandstand">Bandstand</a> • <a href="https://kyratrades.github.io/testing/videos#bare-the-musical">Bare: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#bat-boy-the-musical">Bat Boy: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#be-more-chill">Be More Chill</a> • <a href="https://kyratrades.github.io/testing/videos#beaches">Beaches</a> • <a href="https://kyratrades.github.io/testing/videos#beautiful-the-carole-king-musical">Beautiful: The Carole King Musical</a> • <a href="https://kyratrades.github.io/testing/videos#beautiful-thing">Beautiful Thing</a> • <a href="https://kyratrades.github.io/testing/videos#beauty-and-the-beast-disney">Beauty and the Beast (Disney)</a> • <a href="https://kyratrades.github.io/testing/videos#a-bed-and-a-chair-a-new-york-love-affair">A Bed and a Chair: A New York Love Affair</a> • <a href="https://kyratrades.github.io/testing/videos#beetlejuice">Beetlejuice</a> • <a href="https://kyratrades.github.io/testing/videos#big-fish">Big Fish</a> • <a href="https://kyratrades.github.io/testing/videos#billy-elliot-the-musical">Billy Elliot: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#blood-brothers">Blood Brothers</a> • <a href="https://kyratrades.github.io/testing/videos#bloody-bloody-andrew-jackson">Bloody Bloody Andrew Jackson</a> • <a href="https://kyratrades.github.io/testing/videos#the-bodyguard">The Bodyguard</a> • <a href="https://kyratrades.github.io/testing/videos#bombay-dreams">Bombay Dreams</a> • <a href="https://kyratrades.github.io/testing/videos#bonnie-and-clyde">Bonnie and Clyde</a> • <a href="https://kyratrades.github.io/testing/videos#the-book-of-mormon">The Book of Mormon</a> • <a href="https://kyratrades.github.io/testing/videos#the-boy-from-oz">The Boy From Oz</a> • <a href="https://kyratrades.github.io/testing/videos#the-bridges-of-madison-county">The Bridges of Madison County</a> • <a href="https://kyratrades.github.io/testing/videos#brigadoon">Brigadoon</a> • <a href="https://kyratrades.github.io/testing/videos#bright-star">Bright Star</a> • <a href="https://kyratrades.github.io/testing/videos#bullets-over-broadway">Bullets Over Broadway</a> • <a href="https://kyratrades.github.io/testing/videos#bye-bye-birdie">Bye Bye Birdie</a></p>
+
 ## Back to the Future: The Musical
 
-#### Back to the Future: The Musical - Manchester Opera House - February, 2020 (Preview) 
+#### Back to the Future - Manchester Opera House - February, 2020 (Preview) 
 {: .no_toc .d-inline-block }
 
 queenofthedead
@@ -1513,7 +1515,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Brian Stokes Mitchell (Tony Hunter), Tracey Ullman (Lily Martin), Michael McKean (Lester Martin), Tony Sheldon (Jeffrey Cordoba), Laura Osnes (Gabrielle Gerard), Michael Berresse (Paul Byrd), Don Stephenson (Hal Meadows)
@@ -1530,7 +1532,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Corey Cott (Donny Novitski), Laura Osnes (Julia Trojan), James Nathan Hopkins (Jimmy Campbell), Joe Carroll (Johnny Simpson), Geoff Packard (Wayne Wright), Brandon J Ellis (Davy Zlatic), Joey Pero (Nick Radel), Beth Leavel (Mrs. June Adams), Mary Callanan (Jean Ann Ryan/Production Assistant), Kevyn Morrow (Al/James Haupt), Carleigh Bettiol (Jo), Drew McVety (Oliver), Ryan Kasprzak (Mr. Jackson), Jonathan Shew (Andre Bauch), Ryan VanDenBoom (Roger Cohen), Morgan Marcell (Entertainment Director), Max Clayton (Tom), Andrea Dotto (Betsy)
@@ -1547,7 +1549,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Jason Hite (Jason McConnell), Taylor Trensch (Peter Simonds), Elizabeth Judd (Ivy Robinson), Barrett Wilbert Weed (Nadia McConnell), Gerard Canonico (Matt Lloyd), Missi Pyle (Sister Joan), Jerold E Solomon (Father Mike), Alice Lee (Diane Lee), Alex Wyse (Alan), Justin Gregory Lopez (Beto)
@@ -1564,7 +1566,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Doug Storm (Bat Boy), Ashia DeLaBastide (Meredith Parker), JR Lotito (Dr Parker), Amanda Taraska (Shelley), Tony Frangipane (Sheriff), Mike Kaczurak (Bud), Mark Weekes (Reverend Hightower), Ron Menin (Rick), Susannah Hoffman (Ruthie)
@@ -1578,7 +1580,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Will Roland (Jeremy Heere), George Salazar (Michael Mell), Stephanie Hsu (Christine Canigula), Jason Tam (The SQUIP), Lauren Marcus (Brooke Lohst), Katlyn Carlson (Chloe Valentine), Tiffany Mann (Jenna Rolan), Britton Smith (Jake Dillinger), Gerard Canonico (Rich Goranski), Jason SweetTooth Williams (Mr. Heere/Mr. Reyes/Scary Stockboy)
@@ -1625,7 +1627,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Andrew Varela (Arthur), Brooklyn Shuck (Little Bertie/Nina), Holly Stauder (Janice), Jim DeSelm (Michael Barron), Kelly Anne Clark (Rose White), Michael Accardo (Nathan), Nancy Voights (Leona Bloom), Olivia Renteria (Teen Bertie), Presley Ryan (Little Cee Cee), Samantha Pauly (Teen Cee Cee), Shoshana Bean (Cee Cee Bloom), Travis Taylor (John Perry), Whitney Bashor (Bertie White)
@@ -1709,7 +1711,7 @@ Press Reel
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Kerry Butler (Belle), Chuck Wagner (Beast/Prince), Terry Doyle (Maurice), Dan Chameroy (Gaston), Andre Therien (Lumière), Judy Marshak (Mrs. Potts), Paul Brown (Cogsworth), Jo-Anne Kirwan Clark (Madame de la Grande Bouche), Elizabeth Beeler (Babette), Cliff Saunders (Le Fou)
@@ -1724,7 +1726,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Missing VTS_02_1.VOB.002 (or it could be named VTS_02_12.VOB), PLEASE do tell me if you have it, willing to trade unfairly
@@ -1739,7 +1741,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `1.91 GB`
 
 CAST
 : Caroline Vaiscek (Belle), Steve Barton (Beast/Prince), Kevin Tarte (Gaston)
@@ -1748,7 +1750,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD``1.90 GB`
 
 CAST
 : Kerry Butler (Belle), Chuck Wagner (Beast/Prince)
@@ -1757,7 +1759,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD``3.01 GB`
 
 CAST
 : Andrea McArdle (Belle), William Michals (Beast/Prince), Steve Blanchard (Gaston), Beth Fowler (Mrs. Potts)
@@ -1769,7 +1771,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Audio on right channel only, turn on mono when watching
@@ -1787,7 +1789,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Chantal Janzen (Belle), Stanley Burleson (Beast/Prince), Dick Rienstra (Maurice), René van Kooten (Gaston), Carlo Bozschard (Lumière), Mariska von Holck (Mrs. Potts), Ger Otte (Cogsworth), Caroline Mout (Madame de la Grande Bouche), Nicole Berendsen (Babette), Jorge Verkoost (Le Fou)
@@ -1798,7 +1800,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Audio on left channel only, turn on mono
@@ -1862,7 +1864,7 @@ Lanelle
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Norbert Leo Butz (Edward Bloom), Bobby Steggert (Will Bloom), Zachary Unger (Young Will), Kate Baldwin (Sandra Bloom), Ryan Andes (Karl), Brad Oscar (Amos Calloway), Ciara Renée (The Witch), Kirsten Scott (Jenny Hill)
@@ -1874,13 +1876,10 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Jeff Skowron (Edward Bloom), Andrew Huber (Will Bloom), Jude Mason (Young Will), Rebecca Johnson (Sandra Bloom), Kristina Miller (Josephine Bloom), Timothy Hughes (Karl), Gabriel Kalomas (Amos Calloway), Zachary Ford (Don Price), Molly Garner (The Witch), Michelle Loucadoux (Jenny Hill), Richard Bulda (u/s Dr. Bennett), Jake Saenz (Zacky Price), Marisa Field (Girl in the Water)
-
-NOTES
-: Impeccably shot, 10/10.
 
 ## Billy Elliot: The Musical
 
@@ -1894,7 +1893,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Seems faulty but the VOBs can be played individually. Do tell me if you have a working copy when loaded like a DVD into VLC! 
@@ -1909,7 +1908,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Mitchell Tobin (Billy Elliot), Vicki Lewis (Mrs. Wilkinson), David Atkinson (Dad), Marsha Waterbury (Grandma), Stephen Weston (Tony), Jake Kitchin (Michael), Kim Huber (Mum), Neil Dale (Mr. Braithwaite), RJ Highton (Tall Boy)
@@ -1926,7 +1925,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Seems faulty but the VOBs can be played individually. Do tell me if you have a working copy when loaded like a DVD into VLC!
@@ -1938,7 +1937,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Melanie C (Mrs Johnstone), Philip Stewart (Narrator), Stephen Palfreman (Mickey), Richard Reynard (Eddie), Vivienne Carlyle (Mrs Lyons), Michael Southern (Sammy), Louise Clayton (Linda), Owen Oldroyd (Mr Lyons)
@@ -1952,7 +1951,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Benjamin Walker (Andrew Jackson), Kristine Nielsen (The Storyteller), Maria Elena Ramirez (Rachel / Florida Woman), Darren Goldstein (Calhoun / Andrew Sr.), Jeff Hiller (John Quincy Adams / Cobbler / Messenger / Tour Guide / Florida Man), Lucas Near-Verbrugghe (Van Buren / Keokuk), Bryce Pinkham (Clay / Black Fox), Greg Hildreth (Red Eagle / University President), Ben Steinfeld (Monroe), James Barry (Male Soloist / Citizen / Man), Kate Cullen Roberts (Elizabeth / Erica), Emily Young (Female Soloist / Announcer / Naomi), Cameron Ocasio (Lyncoya), Nadia Quinn (Female Ensemble / Toula)
@@ -1966,7 +1965,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Alex Carrado (Tony), Charles Gray (Bill), Deborah Cox (Rachel), Jarid Faubel (Ray), Jasmin Richardson (Nicki), Jonathan Hadley (Sy), Jorge Paniagua (Stalker), Judson Mills (Frank Farmer), Kevelin B Jones III (Fletcher)
@@ -1980,7 +1979,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `3.11 GB`
 
 CAST
 : Stephen Rahman-Hughes (u/s Akaash), Preeya Kalidas (Priya), Ayesha Dharker (Rani), Ramon Tikaram (Vikram), Stephen Berkeley-White (u/s Sweetie), Shelly King (Kitty DaSousa), Dalip Tahil (Madan)
@@ -1994,7 +1993,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Laura Osnes (Bonnie Parker), Stark Sands (Clyde Barrow), Melissa van der Schyff (Blanche Barrow), Claybourne Elder (Buck Barrow), Wayne Duvall (Sheriff Schmid), Chris Peluso (Ted Hinton), Michael Lanning (Preacher), Mare Winningham (Emma Parker)
@@ -2009,7 +2008,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
 : Audio on left channel only, turn on mono when watching
@@ -2047,7 +2046,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Andrew Rannells (Elder Price), Josh Gad (Elder Cunningham), Nikki M James (Nabulungi), Rory O'Malley (Elder McKinley), Michael Potts (Mafala Hatimbi), Lewis Cleale (Mission President)
@@ -2062,7 +2061,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls `2 DVDs` `With English subtitles .srt`
+: VOB+smalls `2 DVDs` `English (.srt)`
 
 CAST
 : Nic Rouleau (Elder Price), Ben Platt (Elder Cunningham), Syesha Mercado (Nabulungi), Pierce Cassedy (Elder McKinley), James Vincent Meredith (Mafala Hatimbi), Christopher Shyer (Mission President), David Aron Damane (General)
@@ -2077,7 +2076,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : David Larsen (Elder Price), Cody Jamison Strand (Elder Cunningham), Tallia Brinson (u/s Nabulungi), Pierce Cassedy (Elder McKinley), James Vincent Meredith (Mafala Hatimbi), Christopher Shyer (Mission President), David Aron Damane (General), Jeff Heimbrock (u/s Cunningham's Dad)
@@ -2094,7 +2093,7 @@ Press Reel
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
@@ -2106,7 +2105,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
@@ -2115,7 +2114,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
@@ -2124,7 +2123,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
@@ -2138,7 +2137,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Elizabeth Stanley (Francesca), Andrew Samonsky (Robert), Cullen R Titmas (Bud), Tom Treadwell (u/s Charlie), Mary Callanan (Marge), Caitlin Houlahan (Carolyn), Dave Thomas Brown (Michael), Katie Klaus (Marian/Chiara), Caitlyn Caughell, Cole Burden, Jason Robert Brown
@@ -2155,7 +2154,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Patrick Wilson (Tommy Albright), Kelli O'Hara (Fiona MacLaren), Aasif Mandvi (Jeff Douglas), Robert Fairchild (Harry Beaton), Stephanie J Block (Meg Brockie), Ross Lekites (Charlie Dairymple), Dakin Matthews (Mr. Lundie), Rich Hebert (Andrew MacLaren), Sara Esty (Jean), David Scott Purdy (Angus McGuffie), Jamie Jackson (Archie Beaton), Madison Stratton (Jane Ashton), Patricia Delgado (Maggie Anderson), Nicholas Ward (Frank), Peyton Crimm (Sandy Dean)
@@ -2172,7 +2171,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Carmen Cusack (Alice Murphy), Paul Alexander Nolan (Jimmy Ray Dobbs), Michael Mulheren (Mayor Josiah Dobbs), AJ Shively (Billy Cane), Hannah Elless (Margo Crawford), Stephen Bogardus (Daddy Cane), Dee Hoty (Mama Murphy), Stephen Lee Anderson (Daddy Murphy), Emily Padgett (Lucy Grant), Maddie Shea Baldwin (Edna)
@@ -2218,7 +2217,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `2.10 GB`
 
 CAST
 : Tommy Tune (Albert Peterson), Ann Reinking (Rose Alvarez), Marc Kudisch (Conrad Birdie), Marcia Lewis (Mae Peterson), Susan Egan (Kim MacAfee)
@@ -2447,7 +2446,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+small `1 DVD`s `2.95 GB`
+: VOB+smalls `1 DVD` `2.95 GB`
 
 CAST
 : Gunther Konig (Georges), Steve Barton (Albin/Zazá)
