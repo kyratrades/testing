@@ -9340,7 +9340,7 @@ CAST
 
 NOTES
 : RARE! Nearly forty minutes of press reel footage from the US premiere of the Sondheim revue. Filmed using one camera on a tripod. Has producerís counter numbers onscreen. A good bit of generational loss, tough to watch at times. (Also included on the disc: Dance A Little Closer, 5/83) C
-: An even better version has been shared by aurora spiderwoman: https://youtu.be/DgzFncSip5I
+: An even better version has been shared by aurora spiderwoman: <https://youtu.be/DgzFncSip5I>
 
 #### Putting it Together - Broadway - February 20, 2000
 {: .no_toc .d-inline-block }
@@ -9353,3 +9353,171 @@ FORMAT
 
 CAST
 : Carol Burnett (The Wife), George Hearn (The Husband), Ruthie Henshall (The Younger Woman), John Barrowman (The Younger Man), Bronson Pinchot (The Observer)
+
+# R
+
+## Ragtime
+
+#### Ragtime - Broadway - December 29, 1997
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.76 GB`
+
+CAST
+: Brian Stokes Mitchell (Coalhouse Walker Jr.), Marin Mazzie (Mother), Mark Jacoby (Father), Peter Friedman (Tateh), Audra McDonald (Sarah), Judy Kaye (Emma Goldman)
+
+NOTES
+: VHS to DVD transfer done by Master for clearest picture and sound. Includes commercials and reviews.
+
+#### Ragtime - Paper Mill Playhouse - July 16, 2005 (Highlights)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Quentin Earl Darrington (Coalhouse Walker Jr.), Rachel York (Mother), David Hess (Father), Neal Benari (Tateh), Shonn Wiley (Mother\'s Younger Brother), Kenita R Miller (Sarah), Matthew Scott (Harry Houdini), Debra Cardona (Emma Goldman), Betsy Wolfe (Evelyn Nesbit), Justin Lee Miller (Booker T. Washington)
+
+NOTES
+: Highlights lasting 1 hr and 17 minutes.
+
+## Ratatouille
+
+#### Ratatouille: The Tiktok Musical - TodayTix Livestream - January 1, 2021
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `1.27 GB`
+
+COMMENTS
+: Includes tracked audio
+
+CAST
+: Wayne Brady (Django), Tituss Burgess (Remy), Kevin Chamberlin (Gusteau), André De Shields (Ego), Andrew Barth Feldman (Linguini), Adam Lambert (Emile), Priscilla Lopez (Mabel), Ashley Park (Colette), Owen Tabaka (Young Ego), Mary Testa (Skinner), Cori Jaskier, Talia Suskauer, Nikisha Williams, JJ Niemann, John Michael Lyles, Raymond J. Lee, Joy Woods
+
+## Red (2)
+
+#### Red - Broadway - March 11, 2010
+: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Alfred Molina (Rothko), Eddie Redmayne (Ken)
+
+#### Red - West End - May 10, 2018
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `2.01 GB`
+
+CAST
+: Alfred Enoch (Ken), Alfred Molina (Rothko)
+
+## RENT
+
+#### RENT - Broadway - April 24, 2006
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Anthony Rapp (Mark Cohen), Adam Pascal (Roger Davis), Daphne Rubin-Vega (Mimi Márquez), Wilson Jermaine Heredia (Angel Dumott Schunard), Jesse L Martin (Tom Collins), Idina Menzel (Maureen Johnson), Fredi Walker (Joanne Jefferson), Taye Diggs (Benjamin Coffin III)
+
+NOTES
+: The original Broadway cast of Rent reunites for Rent 10, a one night-only, benefit concert version of the show to mark the 10th anniversary of Jonathan Larson\'s landmark musical. Includes intro speeches by Allan Gordon, Mayor Bloomberg, Senator Schumer. Beautifully shot, amazingly clear video. An enthusiastic audience and a few flubs by the cast makes this video even more fun. A
+
+#### RENT - Broadway - February 21, 2008
+: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Harley Jay (Mark Cohen), Jay Wilkison (u/s Roger Davis), Tamyra Gray (Mimi Márquez), Justin Johnston (Angel Dumott Schunard), Michael McElroy (Tom Collins), Nicolette Hart (Maureen Johnson), Kenna J Ramsey (Joanne Jefferson), Rodney Hicks (Benjamin Coffin III), Andrea Goss (Alexi Darling and others), Caren Lyn Manuel (Mark's mom and others), Peter Matthew Smith (u/s Gordon/Mr. Grey), Marcus Paul James (Mr. Jefferson/Soloist #2 and others), Maia Nkenge Wilson (Mrs. Jefferson/Soloist #1 and others), Shaun Earl (Paul and others), Andy Señor Jr (Steve and others)
+
+#### RENT - Broadway - September 7, 2008 (Closing Night)
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `10.93 GB`
+
+CAST
+: Adam Kantor (Mark Cohen), Will Chase (Roger Davis), Renée Elise Goldsberry (Mimi Márquez), Justin Johnston (Angel Dumott Schunard), Michael McElroy (Tom Collins), Eden Espinosa (Maureen Johnson), Tracie Thoms (Joanne Jefferson), Rodney Hicks (Benjamin Coffin III), Andrea Goss (Alexi Darling and others), Tracy McDowell (Mark\'s mom and others), Jay Wilkinson (Gordon/Mr. Grey), Jay Wilkinson (Gordon/Mr. Grey), Marcus Paul James (Mr. Jefferson/Soloist \#2 and others), Gwen Stewart (Mrs. Jefferson/Soloist \#1 and others), Shaun Earl (Paul and others), Telly Leung (Steve and others), Telly Leung (Steve and others)
+
+NOTES
+: Filmed on 08/20/08 and 09/07/08. Released on DVD as \"RENT: Filmed Live On Broadway\" on 02/03/09. <https://www.imdb.com/title/tt1273675/>
+
+#### RENT - Mark Tour - March 14, 2009
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Anthony Rapp (Mark Cohen), Adam Pascal (Roger Davis), Lexi Lawson (Mimi Márquez), Justin Johnston (Angel Dumott Schunard), Michael McElroy (Tom Collins), Nicolette Hart (Maureen Johnson), Haneefah Wood (Joanne Jefferson), Jacques C Smith (Benjamin Coffin III), Yuka Takara (Alexi Darling and others), Adam Halpin (Gordon/Mr. Grey), John Watson (Mr. Jefferson/Soloist \#2 and others), Trisha Jeffrey (u/s Mrs. Jefferson/Soloist \#1 and others), Telly Leung (Steve and others)
+
+#### RENT - Hollywood Bowl - August 6, 2010 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Skylar Astin (Mark Cohen), Aaron Tveit (Roger Davis), Vanessa Hudgens (Mimi Márquez), Telly Leung (Angel Dumott Schunard), Wayne Brady (Tom Collins), Nicole Scherzinger (Maureen Johnson), Tracie Thoms (Joanne Jefferson), Collins Pennie (Benjamin Coffin III)
+
+NOTES
+: Nicely filmed with a good mix of wide shots and close ups. Wayne Brady and Telly Leung have wonderful chemistry together.
+
+#### RENT - FOX Live Special - January 27, 2019
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `720p` `4.34 GB`
+
+CAST
+: Jordan Fisher (Mark Cohen), Brennin Hunt (Roger Davis), Tinashe (Mimi Márquez), Valentina (Angel Dumott Schunard), Brandon Victor Dixon (Tom Collins), Vanessa Hudgens (Maureen Johnson), Kiersey Clemons (Joanne Jefferson), Mario (Benjamin Coffin III), J Elaine Marcos (Alexi Darling and others), Jennifer Leigh Warren (Mark\'s mom and others), Matthew Saldivar (Gordon/Mr. Grey), Alton Fitzgerald White (Mr. Jefferson/Soloist \#2 and others), Keala Settle (Paul and others), Debra Cardona (Police officer), Bryce Ryness (Steve and others), Emerson Collins (Steve and others), Benjamin Douglas Rivera, Darius Crenshaw, Fredric Odgaard, Hannahlei Cabanilla, Jessica Lee Keller, Khori Michelle Petinaud, Lenin Fernandez Jr, Mia Deweese, Morgan Marcell, Nicholas Lanzisera, Robert Roldan, Sasha Mallory, Tilly Evans-Krueger, Ty Wells
+
+NOTES
+: The show is prerecorded up until the last 10 minutes because Brennin Hunt (Roger Davis) hurt his foot. He is seen in his cast during the last 10 minutes. The original cast comes out at the end to sing Seasons of Love again! <https://www.imdb.com/title/tt6881910/?ref_=nv_sr_srsg_0>
+
+## The Rocky Horror Show
+
+#### The Rocky Horror Show - Let\'s Do The Time Warp Again! - October 20, 2016
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `3.41 GB` `WEB-DL`
+
+CAST
+: Laverne Cox (Dr. Frank-N-Furter), Reeve Carney (Riff Raff), Ryan McCartan (Brad Majors), Victoria Justice (Janet Weiss), Staz Nair (Rocky), Christina Milian (Magenta/Usherette), Annaleigh Ashford (Columbia), Adam Lambert (Eddie/Dr Scott), Tim Curry (Criminologist)
+
+NOTES
+: The Rocky Horror Picture Show: Let\'s Do The Time Warp Again (2016). FOX\'s pro-shot recording. Premiered on FOX Network on October 20, 2016.
