@@ -8159,3 +8159,145 @@ CAST
 
 NOTES
 : Excellent HD capture with no obstructions. Hilarious and fast paced ensemble piece! Terrific performaces from the whole cast! A
+
+# O
+
+## October Sky
+
+#### October Sky - San Diego - October 2, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Austyn Myers (O\'Dell), Betsy Stewart (Emily Sue), Connor Russell (Quentin), Destan Owens (Bathtub Amos), Eliza Palasz (Dorothy), James Royce Edwards (Jake), Joel Blum (Ike Bykovski), Kerry O\'Malley (Elise Hickam), Kevyn Morrow (Ken), Kyle Selig (Homer Hickam), Lance Arthur Smith (Otis), Liam Quealy (Jim), Nick Sullivan (Mr. Turner), Patrick Rooney (Roy Lee), Rebecca Bellingham (Mary Bykovski), Ron Bohmer (John Hickam), Sandra DeNise (Miss Riley), Steve Gouveia (Earl), Will Branner (Buck)
+
+NOTES
+: Good shoot. Nice A/V.
+
+## Of Mice and Men
+
+#### Of Mice and Men - Broadway Revival - June 14, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs` `3.41 GB`
+
+CAST
+: James Franco (George), Chris O\'Dowd (Lennie), Leighton Meester (Curley\'s Wife), Jim Norton (Candy), Ron Cephas Jones (Crooks), Joel Marsh Garland (Carlson), James McMenamin (Whit), Alex Morf (Curly), Jim Ortlieb (The Boss), Jim Parrack (Slim)
+
+NOTES
+: The cast was sensational and genuine performances all the way. Jim Norton, gives such a wonderful performance. A-
+
+## The Office: a Musical Parody (1)
+
+#### The Office: a Musical Parody - Off-Broadway - December 23, 2018
+
+FORMAT
+: MOV `1080p` `7.19 GB`
+
+CAST
+: Brittneyann Accetta (Kelly), Katie Johantgen (Angela Martin and Others), Megan Carver (Phyllis/Meredith), Michael Santora (Dwight Schrute), Sarah Mackenzie Baron (Michael Scott), Taylor Coriell (Pam Beesly and Erin Hannon), Tom McGovern (Jim Halpert and Andy Bernard)
+
+NOTES
+: One major head blocking view, but doesn\'t get in the way of most action.
+
+## Oklahoma! (5)
+
+#### Oklahoma! - Pre-Broadway Tour - 1979
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `4.89 GB`
+
+CAST
+: Laurence Guittard (Curly McLain), Christine Andreas (Laurey Williams), Mary Wickes (Aunt Eller), Harvey Evans (Will Parker), Judy Epstein (Cord Elam), Martin Vidnovic (Jud Fry), Christine Ebersole (Ado Annie), Bruce Adler (Ali Hakim), Martha Traverse (Gertie Cummings), Philip Rash (Andrew Carnes), Robert Ray (Ike Skidmore), Stephen Crain (Slim), David Evans (Dream Curly), Louise Hickey (Dream Laurey), Anthony Santiago (Dream Jud)
+
+NOTES
+: RARE FIND! Amazingly good quality for a video of this age, with only minimal generational loss. This video was probably made for a cast member, or maybe for media use at it was filmed from a tripod, with sound patched in directly from the sound board. (It\'s great to see Christine Ebersol as Ado Annie.) A- Sometimes listed as BROADWAY with Harry Groener (Will Parker)
+
+#### Oklahoma! - National Theatre / West End Revival - 1999
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `7.46 GB` `Blu-ray rip`
+
+CAST
+: Hugh Jackman (Curly McLain), Josefina Gabrielle (Laurey Williams), Maureen Lipman (Aunt Eller), Jimmy Johnston (Will Parker), Stuart Milligan (Cord Elam), Shuler Hensley (Jud Fry), Vicki Simon (Ado Annie), Peter Polycarpou (Ali Hakim), Rebecca Thornhill (Gertie Cummings), Sydney Livingstone (Andrew Carnes), Philip Cox (Mike), Fergus Logan
+
+NOTES
+: National theatre production starring Hugh Jackma
+
+#### Oklahoma! - Fourth Broadway Revival - February 25, 2002 (Preview)
+
+FORMAT
+: VOB+smalls `1 DVD` `3.81 GB`
+
+CAST
+: Patrick Wilson (Curly McLain), Josefina Gabrielle (Laurey Williams), Andrea Martin (Aunt Eller), Justin Bohon (Will Parker), Shuler Hensley (Jud Fry), Jessica Boevers (Ado Annie), Aasif Mandvi (Ali Hakim), Mia Price (Gertie Cummings), Michael McCarthy (Andrew Carnes)n. Mostly filmed in a studio with partial scenes filmed at the Olivier stage.
+
+#### Oklahoma! - BBC Proms - August 11, 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `720p` `2.94 GB`
+
+CAST
+: Nathaniel Hackmann (Curly McLain), Scarlett Strallen (Laurey Williams), Belinda Lang (Aunt Eller), Robbie Fairchild (Will Parker), David Seadon-Young (Jud Fry), Lizzy Connolly (Ado Annie), Marcus Brigstocke (Ali Hakim)
+
+NOTES
+: ProShot television broadcast
+
+#### Oklahoma! - Broadway Revival - October 23, 2019 (Matinee) \| Musain
+
+FORMAT
+: MP4 `1080p` `13.18 GB`
+
+CAST
+: Damon Daunno (Curly McLain), Rebecca Naomi Jones (Laurey Williams), Mary Testa (Aunt Eller), James Davis (Will Parker), Anthony Cason (Cord Elam), Patrick Vaill (Jud Fry), Sasha Hutchings (alt Ado Annie), Will Brill (Ali Hakim), Chelsea Williams (u/s Gertie Cummings), Mitch Tebo (Andrew Carnes), Will Mann (Mike), Demetia Hopkins-Greene (alt Lead Dancer)
+
+NOTES
+: Blind lapshot with no zooms, and there are frequently two heads in the way, and the angle is occasionally lopsided slightly. Other issues: Curly being out of the shot for most of The Surrey With The Fringe On Top; shakiness and my hands/playbill being visible during applause breaks because I had to clap; head obstruction during I Cain\'t Say No; some floorshots during Dream Ballet; mic feedback during louder parts; and random bits where I was focusing on the wrong thing/person due to shooting blind. There\'s also some parts where the audio cuts off for a second, doesn\'t perfectly align with the frames, or the video freezes or goes dark while the audio keeps playing. Neither of these glitches last for more than a second, but still must be noted.
+
+## Oliver!
+
+#### Oliver! - Broadway - 1984
+
+FORMAT
+: VOB+smalls `1 DVD` `1.46 GB`
+
+CAST
+: Braden Danner (Oliver Twist), David Garlick (The Artful Dodger), Ron Moody (Fagin), Patti LuPone (Nancy)
+
+## Once On This Island (1)
+
+#### Once On This Island - Broadway Revival - July, 2018
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Courtnee Carter (u/s Ti Moune), Isaac Powell (Daniel), Alex Newell (Asaka), Quentin Earl Darrington (Agwe), Darlesia Cearcy (Erzulie), Merle Dandridge (Papa Ge), Aurelia Williams (u/s Mama Euralie), David Jennings (u/s Tonton Julian), Emerson Davis (Little Girl), Anna Uzele (Andrea), Anthony Wayne (u/s Armand)
+
+NOTES
+: Excellent HD capture of 2018 Tony winner for Best Revival. Sensational show and cast, not to be missed! A-
