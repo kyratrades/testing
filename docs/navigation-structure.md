@@ -7848,3 +7848,312 @@ FORMAT
 
 CAST
 : Stephanie J Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Erin Davie (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andrew Samonsky (Neville Landless/Mr. Victor Grinstead), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Robert Creighton (Durdles/Mr. Nick Cricker), Peter Benson (Bazzard/Mr. Phillip Bax), Nicholas Barasch (Deputy/Master Nick Cricker)
+
+# N
+
+## Natasha, Pierre & The Great Comet of 1812
+
+#### Natasha, Pierre & The Great Comet of 1812 - Broadway - October 29, 2016 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Denée Benton (Natasha), Josh Groban (Pierre), Brittain Ashford (Sonya), Lucas Steele (Anatole), Amber Gray (Hélène), Manik Choksi (Dolokhov), Gelsey Bell (Mary/Opera Singer/Maidservant), Nicholas Belton (Andrey/Bolkonsky)
+
+NOTES
+: Nice HD capture of this immersive production that take place all over the theater. Everything is captured as best as can be done in this setting. A beautiful production with so many layers and phenomenal performances. A-
+
+#### Natasha, Pierre & The Great Comet of 1812 - Broadway - December 29, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+COMMENTS
+: Non-original smalls; Would trade for original files
+
+CAST
+: Denée Benton (Natasha), Josh Groban (Pierre), Brittain Ashford (Sonya), Grace McLean (Marya D.), Lucas Steele (Anatole), Amber Gray (Hélène), Manik Choksi (Dolokhov), Gelsey Bell (Mary/Opera Singer/Maidservant), Nicholas Belton (Andrey/Bolkonsky), Paul Pinto (Balaga)
+
+NOTES
+: Fantastic and powerful performances from the whole cast. This is as nicely captured as can be expected from this show. There are several set pieces that obstruct the view of the action in certain places. There are about fourteen minutes of blackouts: most of the first seven minutes of act one, one and a half minutes of The Private and Intimate Life of the House, one minute of The Ball, three minutes of Balaga, one minute of The Abduction, and a couple other quick dropouts. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+#### Natasha, Pierre & The Great Comet of 1812 - Broadway - June 27, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Shoba Narayan (u/s Natasha), Dave Malloy (t/r Pierre), Brittain Ashford (Sonya), Grace McLean (Marya D.), Lucas Steele (Anatole), Amber Gray (Hélène), Manik Choksi (Dolokhov), Courtney Bassett (u/s Mary/Opera Singer/Maidservant), Ken Wulf Clark (u/s Andrey/Bolkonsky), Paul Pinto (Balaga)
+
+NOTES
+: A Great HD capture of creator Dave Malloy stepping in for a limited run of shows. Beautiful performance from South Asian actress Shoba as Natasha. A few heads shot around in a couple of scenes downstage, but usually worked around when present. A-
+
+#### Natasha, Pierre & The Great Comet of 1812 - Broadway - August 13, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Denée Benton (Natasha), Okieriete Onaodowan (Pierre), Ingrid Michaelson (Sonya), Grace McLean (Marya D.), Lucas Steele (Anatole), Amber Gray (Hélène), Manik Choksi (Dolokhov), Courtney Bassett (Mary/Opera Singer/Maidservant), Nicholas Belton (Andrey/Bolkonsky), Paul Pinto (Balaga)
+
+NOTES
+: Beautiful HD capture from the Orchestra of Oak and Ingrid\'s Final Performances. Hands down the best capture of this show and from the perfect angle. All drama aside, Oak gave a rousing performance. A
+
+## A New Brain
+
+#### A New Brain - Encores! Off-Center - June 24, 2015 (Opening Night)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Jonathan Groff (Gordon), Aaron Lazar (Roger), Ana Gasteyer (Mimi), Dan Fogler (Mr. Bungee), Alyse Alan Louis (Rhoda), Josh Lamon (Richard), Jenni Barber (Nancy D), Bradley Dean (Dr. Jafar Berensteiner), Quentin Earl Darrington (The Minister), Rema Webb (Lisa)
+
+## The New Yorkers
+
+#### The New Yorkers - New York City Center Encores! - March 26, 2017 (Closing Night) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Tam Mutu (Al Spanish), Scarlett Strallen (Alice Wentworth), Arnie Burton, Kevin Chamberlin, Cyrille Aimée, Clyde Alves, Todd Buonopane, Mylinda Hull, Robyn Hurder, Byron Jennings, Eddie Korbich, Jeffrey Schecter, Tyler Lansing Weaks, Ruth Williamson
+
+NOTES
+: The musical features music and lyrics by Cole Porter, and a book by Herbert Fields, based on a story by E. Ray Goetz and Arno. Includes rehearsal footage and press reels. A head comes into frame on occasion but on large part a beautiful capture.
+
+## Newsies
+
+#### Newsies - Broadway - February 10, 2013
+{: .no_toc .d-inline-block }
+
+Eleka Nahmen
+{: .label .label-blue }
+
+FORMAT
+: MP4 `720p` `2.07 GB`
+
+CAST
+: Corey Cott (Jack Kelly), Ben Fankhauser (Davey Jacobs), Kara Lindsay (Katherine Plumber), Andrew Keenan-Bolger (Crutchie), John Dossett (Joseph Pulitzer), LaVon Fisher-Wilson (Medda Larkin), Nicholas Lampiasi (Les Jacobs), Ryan Breslin (Race), Andy Richardson (Romeo), Brendon Stimson (Oscar Delancey), Mike Faist (Morris Delancey), Tommy Bracco (Spot Conlon), Aaron J Albano (Finch), John Michael Fiumara (Specs), Evan Kasprzak (Elmer), Garett Hawe (Albert), Iain Young (Henry), Jess LeProtto (Buttons), Jacob Guzman (Sniper/Scab), David Guzman (Mush), Hogan Fulton (Darcy)
+
+NOTES
+: Two separate recordings that were put together by the same master. The majority of the video is a stationary low quality wide shot, while the rest is mostly just closeups and mediums. Quality is much better during the zooms. Ends after \"Once and for all\".
+
+## Next to Normal
+
+#### Next to Normal - Pre-Broadway / Arena Stage - December 21, 2008
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD` `English (.ass)`
+
+CAST
+: Alice Ripley (Diana), J Robert Spencer (Dan), Aaron Tveit (Gabe), Jennifer Damiano (Natalie), Adam Chanler-Berat (Henry), Louis Hobson (Dr. Fine/Dr. Madden)
+
+NOTES
+: Excellent rare capture of the PreBroadway DC run. This is when the show finally found focus, took shape and fell into place. Such a remarkable and raw performance from Alice here. If you thought you have seen her best performance, think again! A
+
+#### Next to Normal - Broadway - March 18, 2010
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Jessica Phillips (s/b Diana), J Robert Spencer (Dan), Kyle Dean Massey (Gabe), Jennifer Damiano (Natalie), Adam Chanler-Berat (Henry), Louis Hobson (Dr. Fine/Dr. Madden)
+
+NOTES
+: Filmed in 16:9 widescreen. Act One has a few minor obstructions from a head on the lower edge of the screen, but they are brief and was shot around as best as possible. Moved for Act Two and had zero obstructions. About 30 seconds to a minute or so of blackouts at the start of each act, otherwise complete. Mix of medium and close zooms, depending on the action in the scene. A few instances in the audio where there is cell phone interference, but it should not be terribly distracting.
+: A fantastic performance from all, but especially Jessica. She has an absolutely incredible voice, along with very heartfelt and sincere acting. She has completely made the role her own.
+: Rating: A-
+
+#### Next to Normal - First National Tour - April 29, 2011
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Pearl Sun (u/s Diana), Asa Somers (Dan), Curt Hansen (Gabe), Emma Hunton (Natalie), Preston Sadleir (Henry), Jeremy Kushnier (Dr. Fine/Dr. Madden)
+
+NOTES
+: Beautiful capture with no obstructions. Sensational performance from Pearl as Diana. She is in my tops for actresses playing the role. Great tenderness and vulnerability with a strong big voice! Don\'t miss this one! A
+
+#### Next to Normal - First National Tour - May 8, 2011
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Alice Ripley (Diana), Jason Watson (u/s Dan), Curt Hansen (Gabe), Emma Hunton (Natalie), Preston Sadleir (Henry), Jeremy Kushnier (Dr. Fine/Dr. Madden)
+
+NOTES
+: This video is filmed from the center of the theater and has many mid-stage shots (with no spotlight washout at all), so many times it feels like watching a pro-shot. Plus, there are many close-ups when necessary. Overall, a great video, especially for those who are not familiar with the show.
+
+#### Next to Normal - Pioneer Theatre Company, Salt Lake City UT - October 1, 2011 (Closing Night)
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Judy McLane (Diana), Jonathan Rayson (Dan), Matt Dengler (Gabe), Ephie Aardema (Natalie), Alex Brightman (Henry), Ben Crawford (Dr. Fine/Dr. Madden)
+
+NOTES
+: Filmed in 16:9 widescreen. No obstructions, only one blackout in Act One due to late-comers, and a very brief one in Act Two due to a glitch in the video that had to get cut out. Steady filming with a good mix of close-ups and medium zooms for ensemble action on the very large set. External audio fed in from MD source so it is clear.
+: Overall, a very solid cast and excellent performances all-around. Judy McLane especially stood out as Diana, as did Jonathan Rayson as Dan. One of my favorite Diana/Dan combinations I've seen. Absolutely genuine and powerful acting from those two, which is pretty amazing considering the show's run was only three weeks long. They made very good use of some new staging and a new set, bringing out some new nuances to the show. Some elements I thought were essential to the Broadway/tour productions were missing, but it's nothing too drastic. There were also some very minor script changes that were interesting. Everyone (perhaps because it was the closing show) was giving 110% and was on fire.
+
+#### Next to Normal - Arizona Theatre Company/San Jose Repertory Theatre - January 29, 2013
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Kendra Kassebaum (Diana), Joe Cassidy (Dan), Jonathan Shew (Gabe), Andrea Ross (Natalie), AJ Holmes (Henry), Mark Farrell (Dr. Fine/Dr. Madden)
+
+NOTES
+: Kendra Kassebaum was such a phenomenal Diana - her acting was out of this world! Shot in 16:9 widescreen, a tad dark in some low-light scenes, but no obstructions at all. One brief blackout for the first minute of \"Why Stay?\" when a battery change was necessary. But also included (at the end of the DVD) is a clip of \"Why Stay?\" shot in its entirety from 2 days prior to make up for that. Quick drop-outs for applause. Also, the angle where my seat was weird, so there\'s slight tilt in the video. Audio fed in from external source, so the audio is nice and clear.
+
+#### Next to Normal - TheaterWorks Hartford - 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `2.10 GB` `English (.srt)`
+
+CAST
+: Christiane Noll (Diana), David Harris (Dan), John Cardoza (Gabe), Maya Keleher (Natalie), Nick Sacks (Henry), JD Daw (Dr. Fine/Dr. Madden)
+
+NOTES
+: Beautiful multicam proshot archive for theatre. Rebroadcast in 2020 during quarantine, introduction and watermark at bottom of screen. Really, a very nice, beautiful video.
+
+#### Next to Normal - Syracuse, NY - February, 2018
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Judy McLane (Diana), Glenn Seven Allen (Dan), Josh Tolle (Gabe), Sara Masterson (Natalie), Tyler Fauntleroy (Henry), Matt Ban (Dr. Fine/Dr. Madden)
+
+NOTES
+: Judy McLane has one of those voices that is somehow always perfect, and she sings the hell out of this score. This was her second time playing Diana, and had a somewhat different take on the role since her first time in 2011 - more vulnerable, more intense. Filmed with a newer HD camera and compiled with different DVD software, now generating two discs instead of one - better quality! Great 16:9 capture with little obstruction or washout except in the wide shots - great picture in medium and close zooms. Brief 30-second dropout at start of Act 2 due to wrong camera settings that were quickly fixed. Audio fed in from external source, so the audio is nice and clear.
+
+## Nine
+
+#### Nine - Broadway Revival - March, 2003 (Highlights) 
+{: .no_toc .d-inline-block }
+
+Press Reel 
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.50 GB`
+
+CAST
+: Antonio Banderas (Guido Contini), Mary Stuart Masterson (Luisa), Chita Rivera (Liliane La Fleur), Laura Benanti (Claudia), Jane Krakowski (Carla), Mary Beth Peil (Guido\'s Mother), Myra Lucretia Taylor (Saraghina), Deirdre Goodwin (Our Lady of the Spa), Nell Campbell (Lina Darling), William Ulrich (Little Guido)
+
+NOTES
+: 45 minutes of beautiful pro-shot material.
+
+## Noises Off
+
+### Wants
+{: .no_toc }
+
+Any videos I don't have and any better copies than the ones I have.
+
+#### Noises Off - Broadway - 1983
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.06 GB`
+
+CAST
+: Dorothy Loudon (Dotty Otley), Brian Murray (Lloyd Dallas), Amy Wright (Poppy Norton-Taylor), Douglas Seale (Selsdon Mowbray), Victor Garber (Garry Lejeune), Linda Thorson (Belinda Blair), Deborah Rush (Brooke Ashton), Jim Piddock (Tim Allgood), Paxton Whitehead (Frederick Fellowes)
+
+#### Noises Off - First Broadway Revival - 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.06 GB`
+
+CAST
+: Patti LuPone (Dotty Otley), Peter Gallagher (Lloyd Dallas), Robin Weigert (Poppy Norton-Taylor), Richard Easton (Selsdon Mowbray), Thomas McCarthy (Garry Lejeune), Faith Prince (Belinda Blair), Katie Finneran (Brooke Ashton), T R Knight (Tim Allgood), Edward Hibbert (Frederick Fellowes)
+
+NOTES
+: Good zooms, filmed from right mezzanine and picture quality and sound excellent.
+
+#### Noises Off - First Broadway Revival - June 15, 2002
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.79 GB`
+
+CAST
+: Patti LuPone (Dotty Otley), Peter Gallagher (Lloyd Dallas), Robin Weigert (Poppy Norton-Taylor), Richard Easton (Selsdon Mowbray), Thomas McCarthy (Garry Lejeune), Faith Prince (Belinda Blair), Katie Finneran (Brooke Ashton), T R Knight (Tim Allgood), Edward Hibbert (Frederick Fellowes)
+
+NOTES
+: Another great video of this hilarious play.
+
+#### Noises Off - Second Broadway Revival - February 24, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Andrea Martin (Dotty Otley), Campbell Scott (Lloyd Dallas), Tracee Chimo (Poppy Norton-Taylor), Daniel Davis (Selsdon Mowbray), David Furr (Garry Lejeune), Kate Jennings Grant (Belinda Blair), Megan Hilty (Brooke Ashton), Rob McClure (Tim Allgood), Jeremy Shamos (Frederick Fellowes)
+
+NOTES
+: Excellent HD capture with no obstructions. Hilarious and fast paced ensemble piece! Terrific performaces from the whole cast! A
