@@ -192,9 +192,6 @@ Issues
 FORMAT
 : VOB+smalls `1 DVD`
 
-COMMENTS
-: Non-original smalls; Would trade for original files
-
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
 
