@@ -8441,6 +8441,7 @@ CAST
 : Earl Carpenter (The Phantom of the Opera), Rachel Barrell (Christine Daaé), David Shannon (Raoul), Wendy Ferguson (Carlotta Giudicelli), David Lawrence (u/s Monsieur Firmin), Sam Hiller (Monsieur André), Emily Harvey (u/s Madame Giry), Rohan Tickell (Ubaldo Piangi), Heidi Ann O\'Brien (Meg Giry)
 
 #### The Phantom of the Opera - West End - February 25, 2006
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `7.46 GB`
@@ -8452,6 +8453,7 @@ NOTES
 : Gorgeous crystal clear picture, beautifully filmed in widescreen from the front of the circle so there are no obstructions or heads in the way.
 
 #### The Phantom of the Opera - West End - September 9, 2008
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs` `6.22 GB` `No DVD menu`
