@@ -6169,6 +6169,7 @@ NOTES
 ## The Last Five Years
 
 #### The Last Five Years - Northlight Theatre, Skokie, IL (Chicago) - 2001
+{: .no_toc .d-inline-block }
 
 FORMAT
 : MKV `480p` `3.18 GB`
@@ -6326,12 +6327,10 @@ NOTES
 : Featuring the winner of MTV\'s Search for Elle Woods Series, Bailey. She did a wonderful job and very cute in the role. She also did not copy Laura\'s Elle and did it her own, which was great. Amber as Paulette did a wonderful job in the role and has such a big voice and very pretty. I never get tired of this show as it is so much fun. Beautifully captured with terrific closeups. A
 
 #### Legally Blonde - First UK Tour - October 4, 2011
-
-NFT
-: Forever. Do not request.
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `2 DVDs`
+: VOB+smalls `2 DVDs` `NFT`
 
 CAST
 : Faye Brookes (Elle Woods), Iwan Lewis (Emmett Forrest), Neil Toon (Warner Huntington III), Claire Sweeney (Paulette), Charlotte Harwood (Vivienne Kensington), Hannah Grover (Brooke Wyndham/Shandi), Dave Willetts (Professor Callahan), Sophie Isaacs (Margot), Sinead Long (Serena), Micha Richardson (Pilar), Lewis Griffiths (Kyle/Grandmaster Chad/Dewey), Gemma Baird (Veronica/Enid), Nia Jermin (Kate/Chutney)
