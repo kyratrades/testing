@@ -588,6 +588,21 @@ COMMENTS
 CAST
 : Bronson Pinchot (Gomez Addams), Rachel York (Morticia Addams), Micaela Martinez (Wednesday Addams), Anthony Grupposo (Fester Addams), Dante Marenco (Pugsley Addams), Candi Milo (Grandma Addams), Dustin Ceithamer (Lurch), Tracy Rowe Mutz (Alice Beineke), Robert Yacko (Mal Beineke), Dino Nicandros (Lucas Beineke)
 
+#### The Addams Family - Dutch Tour - February 9, 2019
+{: .no_toc .d-inline-block }
+
+Rumpel
+{: .label .label-blue }
+
+LT 2:1
+{: .label .label-purple }
+
+FORMAT
+: MP4 `1080p` `7.79 GB`
+
+CAST
+: Johnny Kraaijkamp (Gomez Addams), Pia Douwes (Morticia Addams), Julia Berendse (u/s Wednesday Addams), Tony Neef (Fester Addams), Martijn Vogel (Pugsley Addams), Irene Kuiper (Grandma Addams), Raymond Paardekooper (Lurch), Mylène d’Anjou (Alice Beineke), Dick Cohen (Mal Beineke), Terence van der Loo (Lucas Beineke) 
+
 ## Aida
 
 #### Aida - Broadway - March 29, 2000 (Matinee)
