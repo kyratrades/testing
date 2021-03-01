@@ -4997,7 +4997,7 @@ CAST
 
 # H
 
-<p align="center"><a href="https://kyratrades.github.io/testing/videos#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/testing/videos#hair">Hair</a> • <a href="https://kyratrades.github.io/testing/videos#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/testing/videos#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/testing/videos#harry-potter-and-the-cursed-child-part-one--part-two">Harry Potter and the Cursed Child (Part One &amp; Part Two)</a> • <a href="https://kyratrades.github.io/testing/videos#haven">Haven</a> • <a href="https://kyratrades.github.io/testing/videos#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/testing/videos#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#the-heiress">The Heiress</a> • <a href="https://kyratrades.github.io/testing/videos#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/testing/videos#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/testing/videos#hercules-the-muse-ical">Hercules The Muse-ical</a> • <a href="https://kyratrades.github.io/testing/videos#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/testing/videos#high-society">High Society</a> • <a href="https://kyratrades.github.io/testing/videos#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/testing/videos#hair">Hair</a> • <a href="https://kyratrades.github.io/testing/videos#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/testing/videos#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/testing/videos#harry-potter-and-the-cursed-child-part-one--part-two">Harry Potter and the Cursed Child (Part One &amp; Part Two)</a> • <a href="https://kyratrades.github.io/testing/videos#haven">Haven</a> • <a href="https://kyratrades.github.io/testing/videos#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/testing/videos#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#the-heiress">The Heiress</a> • <a href="https://kyratrades.github.io/testing/videos#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/testing/videos#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/testing/videos#hercules-the-muse-ical">Hercules: The Muse-ical</a> • <a href="https://kyratrades.github.io/testing/videos#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/testing/videos#high-society">High Society</a> • <a href="https://kyratrades.github.io/testing/videos#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
 
 ## Hadestown
 
@@ -5579,9 +5579,9 @@ CAST
 NOTES
 : Beautiful HD capture of the Touring Cast with no obstructions. Betty does a sensational job in the role of Dolly and is having a great time! Nic was such a stand out as Cornelius and was perfect for the role! A+
 
-## Hercules The Muse-ical
+## Hercules: The Muse-ical
 
-#### Hercules The Muse-ical - Disney Wonder - 2000\'S
+#### Hercules: The Muse-ical - Disney Wonder - 2000\'S
 {: .no_toc .d-inline-block }
 
 Pro-Shot
