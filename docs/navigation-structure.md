@@ -7466,8 +7466,11 @@ FORMAT
 CAST
 : Nicholas Martinelli (Jean Valjean), Ignasi Vidal (Javert), Elena Medina (Fantine), Talía del Val (Cosette), Guido Balzeratti (Marius), Lydia Fairén (Éponine), Manu Pilas (u/s Enjolras), Armando Pita (Thénardier), Eva Digo (Madame Thénardier), Samuel Gomez (Grantaire)
 
-#### Les Misérables - Pre-Broadway / Toronto Revival - January 11, 2014 (where is your red schaaaf
+#### Les Misérables - Pre-Broadway / Toronto Revival - January 11, 2014
 {: .no_toc .d-inline-block }
+
+where is your red schaaaf
+{: .label .label-blue }
 
 FORMAT
 : MOV `720p` `22 files` `16.83 GB`
