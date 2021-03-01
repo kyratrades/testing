@@ -841,9 +841,6 @@ SJ Bernly
 FORMAT
 : VOB+smalls `1 DVD`
 
-COMMENTS
-: Suspected non-original smalls; Please tell me if you can help me with it!
-
 CAST
 : Phillipa Soo (Amélie Poulain), Savvy Crawford (Young Amélie), Adam Chanler-Berat (Nino Quincampoix), Tony Sheldon (Raymond Dufayel / Collignon), Manoel Felciano (Raphaël Poulain / Bretodeau), Alison Cimmet (Amandine Poulain / Philomene), Harriett D Foy (Suzanne), Maria-Christina Oliveras (Gina), Alyse Alan Louis (Georgette / Sylvie / Collignon\'s Mother), Randy Blair (Hipolito / Suicidal Tourist / Elton John), Heath Calvert (Lucien / Mysterious Man), Heath Calvert (Adrien Wells/Wallace), Paul Whitty (Fluffy / Collignon\'s Father), Paul Whitty (Joseph), David Andino (Blind Beggar), David Andino (Garden Gnome)
 
