@@ -2227,6 +2227,8 @@ NOTES
 
 # C
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/testing/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/testing/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/testing/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/testing/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/testing/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/testing/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/testing/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/testing/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/testing/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/testing/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/testing/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/testing/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/testing/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/testing/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/testing/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/testing/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/testing/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/testing/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/testing/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/testing/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/testing/videos#company">Company</a> • <a href="https://kyratrades.github.io/testing/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/testing/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/testing/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/testing/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/testing/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
+
 ## Cabaret
 
 #### Cabaret - Second Broadway Revival - 1998 (Highlights) 
@@ -2236,7 +2238,7 @@ Press Reel
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Alan Cumming (Emcee), Mary McCormack (Sally Bowles), Natasha Richardson (Sally Bowles), Blair Brown (Fräulein Schneider), Mary Louise Wilson (Fräulein Schneider), Ron Rifkin (Herr Schultz), John Benjamin Hickey (Clifford Bradshaw), Michele Pawk (Fräulein Kost)
@@ -2251,7 +2253,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Uwe Kröger (Emcee), Vasiliki Roussi (Sally Bowles)
@@ -2260,7 +2262,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Michael C Hall (Emcee), Joely Fisher (Sally Bowles), Carole Shelley (Fräulein Schneider), Dick Latessa (Herr Schultz), Michael Hayden (Clifford Bradshaw), Victoria Clark (Fräulein Kost)
@@ -2272,7 +2274,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Raúl Esparza (Emcee), Gina Gershon (Sally Bowles), Carole Shelley (Fräulein Schneider), Larry Keith (Herr Schultz), Matthew Greer (Clifford Bradshaw), Peter Benson (Ernst Ludwig), Candy Buckley (Fräulein Kost), Michael O\'Donnell (Bobby/Two Ladies Dancer)
@@ -2284,7 +2286,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : James Dreyfus (Emcee), Anna Maxwell Martin (Sally Bowles), Sheila Hancock (Fräulein Schneider), Geoffrey Hutchings (Herr Schultz), Michael Hayden (Clifford Bradshaw), Andrew Maud (Ernst Ludwig), Harriet Thorpe (Fräulein Kost)
@@ -2398,6 +2400,20 @@ CAST
 NOTES
 : Beautiful HD capture of Sienna joining the cast as the final Sally Bowles and Hani joining as Kost. Still wonderful and solid performances as the show plays it\'s final few performances. A
 
+## La Cage aux Folles
+
+#### La Cage aux Folles - Berlin - 1987
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.95 GB`
+
+CAST
+: Gunther Konig (Georges), Steve Barton (Albin/Zazá)
+
 ## Camelot
 
 ### Wants
@@ -2412,7 +2428,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Michael York (King Arthur), Rachel York (Queen Guenevere), James Barbour (Sir Lancelot), Eric Anderson (Merlyn), Shannon Stoeke (Mordred)
@@ -2436,20 +2452,6 @@ CAST
 
 NOTES
 : Proshot for TV. Cast is great and funny, Kristin has a great Glitter and by Gay, an also Janine LaManna is here so I\'m automatically biased for this.
-
-## La Cage aux Folles
-
-#### La Cage aux Folles - Berlin - 1987
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls `1 DVD` `2.95 GB`
-
-CAST
-: Gunther Konig (Georges), Steve Barton (Albin/Zazá)
 
 ## Carousel
 
@@ -2475,7 +2477,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD``2.81 GB`
 
 CAST
 : Michael Hayden (Billy Bigelow), Sally Murphy (Julie Jordan), Shirley Verrett (Nettie Fowler), Audra McDonald (Carrie Pipperidge), Eddie Korbich (Enoch Snow)
@@ -2490,7 +2492,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Aaron Lazar (Billy Bigelow), Angela Gaylor (Julie Jordan), Janelle Anne Robinson (Nettie Fowler), Sarah Knapp (Carrie Pipperidge), Michael Halling (Enoch Snow), Kathryn Rossetter (Mrs. Mullin), Dimitry Christy (The Starkeeper), Alex Sanchez (Jigger Craigin), Kathy Meyer (Louise), Justin Bohon (Enoch Snow, Jr.), Sam Sinns (Fairground Boy), Tony Yazbeck (Jonathan Livermore), James Bodge (David Bascombe), Keith Andrews (Hudson Allen), Seth Muse (Abner Bentley), Sharon Richards (Arminy Chase), Laura Gaona (Ella Frazer), Kathryn Comperatore (Penny Peters), Julie Reiber (Hannah Sanborn), Stephanie Sheppard (Frances Sewell), Laura Wagner (Virginia May Sperry), Dana Steer (George Spears), Bobby Pestka (Ben Hamlin), Eric Murray (Heavenly Friend)
@@ -2502,7 +2504,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Hugh Jackman (Billy Bigelow), Audra McDonald (Julie Jordan), Judy Kaye (Nettie Fowler), Lauren Ward (Carrie Pipperidge), Jason Danieley (Enoch Snow), Blythe Danner (Mrs. Mullin), Philip Bosco (The Starkeeper), Norbert Leo Butz (Jigger Craigin), Eden Riegel (Louise)
@@ -2547,7 +2549,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Joshua Henry (Billy Bigelow), Jessie Mueller (Julie Jordan), Renée Fleming (Nettie Fowler), Lindsay Mendez (Carrie Pipperidge), Alexander Gemignani (Enoch Snow), Margaret Colin (Mrs. Mullin), John Douglas Thompson (The Starkeeper), Amar Ramasar (Jigger Craigin), Brittany Pollack (Louise), Garett Hawe (Enoch Snow, Jr.), Andrei Chagas (Fairground Boy)
@@ -2559,21 +2561,21 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Joshua Henry (Billy Bigelow), Jessie Mueller (Julie Jordan), Renée Fleming (Nettie Fowler), Lindsay Mendez (Carrie Pipperidge), Alexander Gemignani (Enoch Snow), John Douglas Thompson (The Starkeeper), Amar Ramasar (Jigger Craigin), Brittany Pollack (Louise), Alexander Gemignani (Enoch Snow, Jr.)
 
 ## Carrie: The Musical
 
-#### Carrie: The Musical - Stratford-Upon-Avon - February 16, 1988 (Preview)
+#### Carrie - Stratford-Upon-Avon - February 16, 1988 (Preview)
 {: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Linzi Hateley (Carrie White), Barbara Cook (Margaret White), Sally Ann Triplett (Sue Snell), Paul Gyngell (Tommy Ross), Charlotte d\'Amboise (Chris Hargensen), Gene Anthony Ray (Billy Nolan), Darlene Love (Lynn Gardner)
@@ -2602,7 +2604,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Scarlett Johansson (Maggie), Benjamin Walker (Brick), Ciarán Hinds (Big Daddy), Debra Monk (Big Mama), Brian Reddy, Cherene Snow, Emily Bergl, Jordan Dean, Lance Roberts, Michael Park, Tanya Birl, Vin Knight, Will Cobbs
@@ -2729,10 +2731,10 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB `NO SMALLS` + M4V
+: VOB `NO SMALLS` + M4V `3.10 GB`
 
 COMMENTS
-: Looking to trade for original smalls.
+: Looking to trade for original smalls/files.
 
 CAST
 : Chrissie Hammond (Grizabella), Chris Jarvis (Alonzo), Kenny Linden (Admetus/Macavity), Robert Foley (Bill Bailey/Tumblebrutus), Alexis Owen-Hobbs (Bombalurina), Gareth Snook (Bustopher Jones/Gus/Growltiger), Tiffany Graves (Cassandra), Jye Frasca (Carbucketty), Oliver Tydman (Coricopat), Barbara King (Demeter), Julie Carlton (Electra), Louisa Shaw (Jellylorum), Caroline Bagnall (Jemima), Susie Fenwick (Jennyanydots), Benjamin Tyrrell (Mr. Mistoffelees), Adrian Edmeades (Mungojerrie), Jack Rebaldi (Munkustrap), Junix Inocian (Old Deuteronomy), Lynsey Britton (Rumpleteazer), John Partridge (Rum Tum Tugger), Ross Finnie (Skimbleshanks), Helen Harper (Tantomile), Sorrell Thomas (Victoria), Sarah Jane Honeywell (Etcetera), Matthew Attwell (Victor)
