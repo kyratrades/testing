@@ -3975,6 +3975,8 @@ NOTES
 
 # D
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#damn-yankees">Damn Yankees</a> • <a href="https://kyratrades.github.io/testing/videos#dear-evan-hansen">Dear Evan Hansen</a> • <a href="https://kyratrades.github.io/testing/videos#a-delicate-balance">A Delicate Balance</a> • <a href="https://kyratrades.github.io/testing/videos#dessa-rose">Dessa Rose</a> • <a href="https://kyratrades.github.io/testing/videos#disaster">Disaster!</a> • <a href="https://kyratrades.github.io/testing/videos#disenchanted">Disenchanted!</a> • <a href="https://kyratrades.github.io/testing/videos#dogfight">Dogfight</a> • <a href="https://kyratrades.github.io/testing/videos#doubt">Doubt</a> • <a href="https://kyratrades.github.io/testing/videos#dracula-the-musical-wildhorn">Dracula, the Musical (Wildhorn)</a> • <a href="https://kyratrades.github.io/testing/videos#the-drowsy-chaperone">The Drowsy Chaperone</a> • &nbsp;</p>
+
 ## Damn Yankees
 
 #### Damn Yankees - Broadway Revival - 1994
@@ -4171,6 +4173,8 @@ NOTES
 
 # E
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#everybodys-talking-about-jamie">Everybody's Talking About Jamie</a> • <a href="https://kyratrades.github.io/testing/videos#evil-dead-the-musical">Evil Dead: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#evita">Evita</a></p>
+
 ## Everybody\'s Talking About Jamie
 
 #### Everybody\'s Talking About Jamie - West End - July 5, 2018
@@ -4362,6 +4366,8 @@ NOTES
 : A Stellar Video of this Cast, slightly washed out with zero obstructions and plenty of wides and zooms. Released in 4 MTS Files with a cast list - 13.55 GB
 
 # F
+
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#falsettos">Falsettos</a> • <a href="https://kyratrades.github.io/testing/videos#fanny">Fanny</a> • <a href="https://kyratrades.github.io/testing/videos#fiddler-on-the-roof">Fiddler on the Roof</a> • <a href="https://kyratrades.github.io/testing/videos#finding-neverland">Finding Neverland</a> • <a href="https://kyratrades.github.io/testing/videos#frankenstein-play-by-nick-dear">Frankenstein (play by Nick Dear)</a> • <a href="https://kyratrades.github.io/testing/videos#frozen">Frozen</a> • <a href="https://kyratrades.github.io/testing/videos#the-full-monty">The Full Monty</a> • <a href="https://kyratrades.github.io/testing/videos#fun-home">Fun Home</a> • <a href="https://kyratrades.github.io/testing/videos#funny-girl">Funny Girl</a></p>
 
 ## Falsettos
 
@@ -4785,6 +4791,8 @@ NOTES
 
 # G
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#a-gentlemans-guide-to-love-and-murder">A Gentleman's Guide to Love and Murder</a> • <a href="https://kyratrades.github.io/testing/videos#gentlemen-prefer-blondes">Gentlemen Prefer Blondes</a> • <a href="https://kyratrades.github.io/testing/videos#grease">Grease</a> • <a href="https://kyratrades.github.io/testing/videos#grey-gardens">Grey Gardens</a> • <a href="https://kyratrades.github.io/testing/videos#gypsy">Gypsy</a></p>
+
 ## A Gentleman\'s Guide to Love and Murder
 
 #### A Gentleman\'s Guide to Love and Murder - First National Tour - September 29, 2015 (Preview)
@@ -4988,6 +4996,8 @@ CAST
 : Imelda Staunton (Rose), Peter Davison (Herbie), Lara Pulver (Louise), Dan Burton (Tulsa)
 
 # H
+
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#hadestown">Hadestown</a> • <a href="https://kyratrades.github.io/testing/videos#hair">Hair</a> • <a href="https://kyratrades.github.io/testing/videos#hairspray">Hairspray</a> • <a href="https://kyratrades.github.io/testing/videos#hamilton">Hamilton</a> • <a href="https://kyratrades.github.io/testing/videos#harry-potter-and-the-cursed-child-part-one--part-two">Harry Potter and the Cursed Child (Part One &amp; Part Two)</a> • <a href="https://kyratrades.github.io/testing/videos#haven">Haven</a> • <a href="https://kyratrades.github.io/testing/videos#head-over-heels">Head Over Heels</a> • <a href="https://kyratrades.github.io/testing/videos#heathers-the-musical">Heathers: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#the-heiress">The Heiress</a> • <a href="https://kyratrades.github.io/testing/videos#helen-of-troy">Helen of Troy</a> • <a href="https://kyratrades.github.io/testing/videos#hello-dolly">Hello, Dolly!</a> • <a href="https://kyratrades.github.io/testing/videos#hercules-the-muse-ical">Hercules The Muse-ical</a> • <a href="https://kyratrades.github.io/testing/videos#high-fidelity">High Fidelity</a> • <a href="https://kyratrades.github.io/testing/videos#high-society">High Society</a> • <a href="https://kyratrades.github.io/testing/videos#the-hunchback-of-notre-dame-disney">The Hunchback of Notre Dame (Disney)</a></p>
 
 ## Hadestown
 
@@ -5657,6 +5667,8 @@ CAST
 
 # I
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#ifthen">If/Then</a> • <a href="https://kyratrades.github.io/testing/videos#in-the-heights">In the Heights</a> • <a href="https://kyratrades.github.io/testing/videos#into-the-woods">Into the Woods</a> • <a href="https://kyratrades.github.io/testing/videos#it-shoulda-been-you">It Shoulda Been You</a> • <a href="https://kyratrades.github.io/testing/videos#its-a-bird-its-a-plane-its-superman">It's a Bird, It's a Plane, It's Superman!</a> • <a href="https://kyratrades.github.io/testing/videos#its-only-a-play">It's Only A Play</a></p>
+
 ## If/Then
 
 #### If/Then - Broadway - March 8, 2014 (Preview)
@@ -5971,6 +5983,8 @@ NOTES
 
 # J
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#jagged-little-pill">Jagged Little Pill</a> • <a href="https://kyratrades.github.io/testing/videos#jawbreaker-the-musical">Jawbreaker The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#jerrys-girls">Jerry's Girls</a> • <a href="https://kyratrades.github.io/testing/videos#jesus-christ-superstar">Jesus Christ Superstar</a></p>
+
 ## Jagged Little Pill
 
 #### Jagged Little Pill - Broadway - November, 2019 (Preview) 
@@ -6064,6 +6078,8 @@ CAST
 : Jason Tam (Peter Patrone), John Legend (Jesus Christ), Brandon Victor Dixon (Judas Iscariot), Sara Bareilles (Mary Magdalene), Ben Daniels (Pontius Pilate), Norm Lewis (Caiaphas), Jin Ha (Annas), Alice Cooper (King Herod)
 
 # K
+
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#kiss-me-kate">Kiss Me, Kate</a> • <a href="https://kyratrades.github.io/testing/videos#kiss-of-the-spider-woman">Kiss of the Spider Woman</a></p>
 
 ## Kiss Me, Kate
 
@@ -6167,6 +6183,8 @@ NOTES
 : A little grainy, but nothing too bad. Some cover-ups in the second act. Mostly mid-stage zooms or a little closer, but no actual close-ups. Follows the action well and the sound is good. There are a couple of very brief black outs. Pretty nice for the most part. Also includes Press Reels from the show.
 
 # L
+
+<p align="center"><a id="markdown-toc-the-last-five-years" href="https://kyratrades.github.io/testing/videos#the-last-five-years">The Last Five Years</a> • <a id="markdown-toc-legally-blonde" href="https://kyratrades.github.io/testing/videos#legally-blonde">Legally Blonde</a> • <a id="markdown-toc-lennon" href="https://kyratrades.github.io/testing/videos#lennon">Lennon</a> • <a id="markdown-toc-the-lightning-thief-the-percy-jackson-musical" href="https://kyratrades.github.io/testing/videos#the-lightning-thief-the-percy-jackson-musical">The Lightning Thief: The Percy Jackson Musical</a> • <a id="markdown-toc-the-little-mermaid" href="https://kyratrades.github.io/testing/videos#the-little-mermaid">The Little Mermaid</a> • <a id="markdown-toc-little-miss-sunshine" href="https://kyratrades.github.io/testing/videos#little-miss-sunshine">Little Miss Sunshine</a> • <a id="markdown-toc-a-little-night-music" href="https://kyratrades.github.io/testing/videos#a-little-night-music">A Little Night Music</a> • <a id="markdown-toc-little-shop-of-horrors" href="https://kyratrades.github.io/testing/videos#little-shop-of-horrors">Little Shop of Horrors</a> • <a id="markdown-toc-little-women" href="https://kyratrades.github.io/testing/videos#little-women">Little Women</a> • <a id="markdown-toc-love-cycle-a-soap-operetta" href="https://kyratrades.github.io/testing/videos#love-cycle-a-soap-operetta">Love Cycle: A Soap Operetta</a> • <a id="markdown-toc-love-never-dies" href="https://kyratrades.github.io/testing/videos#love-never-dies">Love Never Dies</a></p>
 
 ## The Last Five Years
 
