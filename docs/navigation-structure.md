@@ -3971,6 +3971,21 @@ CAST
 NOTES
 : Directed by Gales Edwards. This almost looks like it was filmed for TV, but it was most probably just filmed for the cast and crew, or maybe it was filmed for press reel purposes. Full show, filmed using multiple cameras with sound patched directly in from the soundboard. Interesting production, with a different interpretation. The stage is a black-and-white checker board design with a large-framed, red ribbon-tied set, and the cast is dressed entirely in black and white with an occasional splash of red. A
 
+#### Company - Second Broadway Revival - 2007
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `9.05 GB`
+
+CAST
+: Raúl Esparza (Bobby/Bobbie), Barbara Walsh (Joanne), Kristin Huffman (Sarah), Keith Buterbaugh (Harry), Amy Justman (Susan), Matt Castle (Peter), Leenya Rideout (Jenny), Fred Rose (David), Elizabeth Stanley (April/Andy), Kelly Jeanne Grant (Kathy/Theo), Angel Desai (Marta/PJ), Heather Laws (Amy/Jamie), Robert Cunningham (Paul), Bruce Sabath (Larry) 
+
+NOTES
+: Filmed live on stage at the Ethel Barrymore Theatre (New York, NY) and distributed commercially.
+
 #### Company - New York Philharmonic Concert - April, 2011
 {: .no_toc .d-inline-block }
 
