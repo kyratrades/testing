@@ -9842,7 +9842,7 @@ CAST
 NOTES
 : Closing night. Lots of generation loss, but the audio is great. The audience was very enthusiastic and showed a lot of love for the show.
 
-## She Loves Me (5)
+## She Loves Me
 
 #### She Loves Me - First Broadway Revival - 1993
 {: .no_toc .d-inline-block }
@@ -9978,7 +9978,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: M2TS (HD)
+: BDMV `26.81 GB`
 
 CAST
 : Olivia Holt, Lucy Lawless, Garrett Clayton, Patrick Cassidy, David Engel, Ben Giroux, Tamyra Gray
@@ -9986,7 +9986,7 @@ CAST
 NOTES
 : Quality: Well shot, audio isn't perfect but is good enough. Video quality is nice, true HD.
 
-## Something Rotten! (2)
+## Something Rotten!
 
 #### Something Rotten! - Broadway - March 28, 2015 (Preview)
 {: .no_toc .d-inline-block }
@@ -9995,7 +9995,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Brian d\'Arcy James (Nick Bottom), John Cariani (Nigel Bottom), Christian Borle (Shakespeare), Heidi Blickenstaff (Bea), Kate Reinders (Portia), Brad Oscar (Nostradamus), Brooks Ashmanskas (Brother Jeremiah), Gerry Vichi (Shylock), Michael James Scott (Minstrel/Snug), Peter Bartlett (Lord Clapham/Eyepatch Man)
@@ -10010,7 +10010,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Rob McClure (Nick Bottom), Josh Grisetti (Nigel Bottom), Will Chase (Shakespeare), Jenny Hill (u/s Bea), Catherine Brunell (Portia), Brad Oscar (Nostradamus), David Beach (Brother Jeremiah), Gerry Vichi (Shylock), Andre Ward (Minstrel/Snug), Edward Hibbert (Lord Clapham/Eyepatch Man)
@@ -10018,21 +10018,7 @@ CAST
 NOTES
 : Wonderful HD capture of the new replacement cast. Great to see Will in the role since he played the character in the prior workshops, before being cast in the Nashville television series!
 
-## Song and Dance (2)
-
-#### Song and Dance - Broadway - October 2, 1985
-
-FORMAT
-: VOB+smalls
-
-COMMENTS
-: Plays fine but only has audio on the left channel
-
-CAST
-: Bernadette Peters (Emma), Charlotte d\'Amboise (The Dancing Woman), Christopher d\'Amboise (The Dancing Man)
-
-NOTES
-: Audience; surprisingly good for its age with clear sound and nice picture; video includes commercial and TV reviews.
+## Song and Dance
 
 #### Song and Dance - London - April 28, 1984
 {: .no_toc .d-inline-block }
@@ -10041,20 +10027,33 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `3.51 GB`
 
 CAST
 : Sarah Brightman (Emma), Wayne Sleep (The Dancing Man)
 
-NOTES
-: Proshot for release
-
-## The Sound of Music (2)
-
-#### The Sound of Music - Broadway (1998 Revival) - February 20, 1998
+#### Song and Dance - Broadway - October 2, 1985
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `4.06 GB`
+
+COMMENTS
+: Audio on left channel only, turn on mono
+
+CAST
+: Bernadette Peters (Emma), Charlotte d\'Amboise (The Dancing Woman), Christopher d\'Amboise (The Dancing Man)
+
+NOTES
+: Audience; surprisingly good for its age with clear sound and nice picture; video includes commercial and TV reviews.
+
+## The Sound of Music
+
+#### The Sound of Music - Broadway (1998 Revival) - February 20, 1998
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.12 GB`
 
 CAST
 : Rebecca Luker (Maria Rainer), Michael Siberry (Captain Georg Von Trapp), Patti Cohenour (The Mother Abbess), Jan Maxwell (Elsa Schraeder), Fred Applegate (Max Detweiler), Sara Zelle (Liesel Von Trapp), Gina Ferrall (Sister Berthe), Ann Brown (Sister Sophia), Andrea Bowen (Marta), Ashley Rose Orr (Gretl), Dashiell Eaves (Rolf Gruber), Patricia Conolly (Frau Schmidt)
@@ -10066,27 +10065,12 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Kerstin Anderson (Maria Rainer), Ben Davis (Captain Georg Von Trapp), Ashley Brown (The Mother Abbess), Teri Hansen (Elsa Schraeder), Merwin Foard (Max Detweiler), Paige Silvester (Liesel Von Trapp), Dan Tracy (Rolf Gruber)
 
-## South Pacific (2)
-
-#### South Pacific - First National Tour - 2009 
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Carmen Cusack (Ensign Nellie Forbush), Rod Gilfry (Emile de Becque), Anderson Davis (Lt. Joseph Cable, U.S.M.C.), Matthew Saldivar (Luther Billis), Keala Settle (Bloody Mary), Genson Blimline (Stewpot), Sumie Maeda (Liat), Gerry Becker (Captain George Brackett, U.S.N.), Rusty Ross (Professor)
-
-NOTES
-: Shot with in-house camera. Full shot w/no zooms. Audio is from the soundboard. Slight fuzziness at parts but action is still visible.
+## South Pacific
 
 #### South Pacific - Thousand Oaks, CA - 1997
 {: .no_toc .d-inline-block }
@@ -10095,13 +10079,43 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `2.45 GB`
 
 CAST
 : Stephanie J Block (Ensign Nellie Forbush), James Anest (Emile de Becque), Mark Bodnar (Lt. Joseph Cable, U.S.M.C.), Joseph Bearss (Luther Billis), Asuncion Deiparine Liebe (Bloody Mary), Cecilia Nocum (Liat), Glenn Meister (Captain George Brackett, U.S.N.)
 
 NOTES
 : Pro-shot. Performed in the Cabrillo Music Theatre (now known as the Civic Arts Plaza)
+
+#### South Pacific - First National Tour - 2009 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `4.04 GB`
+
+CAST
+: Carmen Cusack (Ensign Nellie Forbush), Rod Gilfry (Emile de Becque), Anderson Davis (Lt. Joseph Cable, U.S.M.C.), Matthew Saldivar (Luther Billis), Keala Settle (Bloody Mary), Genson Blimline (Stewpot), Sumie Maeda (Liat), Gerry Becker (Captain George Brackett, U.S.N.), Rusty Ross (Professor)
+
+NOTES
+: Shot with in-house camera. Full shot w/no zooms. Audio is from the soundboard. Slight fuzziness at parts but action is still visible.
+
+#### South Pacific - First Broadway Revival - August 18, 2010
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MPEG `480p` `3.57 GB`
+
+CAST
+: Kelli O’Hara (Ensign Nellie Forbush), Paulo Szot (Emile de Becque), Andrew Samonsky (Lt. Joseph Cable, U.S.M.C.), Danny Burstein (Luther Billis), Loretta Ables Sayre (Bloody Mary), Li Jun Li (Liat)
+
+NOTES
+: Presented as part of PBS Live From Lincoln Center series, and broadcast live from the Vivian Beaumont Theatre at Lincoln Center just 4 days before the end of the run of the show, making it the longest running revival of any Rogers and Hammerstein musical in history. Also included are interviews with the composers' daughters, Mary Rogers and Alice Hammerstein. Multi-camera pro-shot for TV
 
 ## Spider-Man: Turn Off The Dark (1)
 
