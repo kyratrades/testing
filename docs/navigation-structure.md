@@ -9849,17 +9849,19 @@ NOTES
 ## She Loves Me (5)
 
 #### She Loves Me - First Broadway Revival - 1993
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `3.58 GB`
 
 CAST
 : Diane Fratantoni (Amalia Balash), Boyd Gaines (Georg Nowack), Sally Mayes (Ilona Ritter), Howard McGillin (Steven Kodaly), Lee Wilkof (Ladislav Sipos), Jonathan Freeman (Headwaiter)
 
 #### She Loves Me - Second Broadway Revival - February 23, 2016 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Laura Benanti (Amalia Balash), Zachary Levi (Georg Nowack), Byron Jennings (Mr. Maraczek), Jane Krakowski (Ilona Ritter), Gavin Creel (Steven Kodaly), Michael McGrath (Ladislav Sipos), Nicholas Barasch (Arpad Laszlo), Peter Bartlett (Headwaiter)
@@ -9871,7 +9873,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Laura Benanti (Amalia Balash), Zachary Levi (Georg Nowack), Byron Jennings (Mr. Maraczek), Jane Krakowski (Ilona Ritter), Gavin Creel (Steven Kodaly), Michael McGrath (Ladislav Sipos), Nicholas Barasch (Arpad Laszlo), Peter Bartlett (Headwaiter)
@@ -9879,14 +9881,14 @@ CAST
 NOTES
 : Excellent HD capture of the highly reviewed revival. This is a great cast and they are giving terrific performances.
 
-#### She Loves Me - Second Broadway Revival - June 16, 2016 
+#### She Loves Me - Second Broadway Revival - June 16, 2016
 {: .no_toc .d-inline-block }
 
 SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs` `No DVD menu`
 
 CAST
 : Laura Benanti (Amalia Balash), Zachary Levi (Georg Nowack), Byron Jennings (Mr. Maraczek), Jane Krakowski (Ilona Ritter), Gavin Creel (Steven Kodaly), Tom McGowan (Ladislav Sipos), Nicholas Barasch (Arpad Laszlo)
@@ -9901,10 +9903,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MKV (HD) \| 8.92 GB
-
-COMMENTS
-: H.264 DDP 2.0 (Amazon rip)
+: MKV `1080p` `8.92 GB` `Amazon WEB-DL`
 
 CAST
 : Laura Benanti (Amalia Balash), Zachary Levi (Georg Nowack), Byron Jennings (Mr. Maraczek), Jane Krakowski (Ilona Ritter), Gavin Creel (Steven Kodaly), Tom McGowan (Ladislav Sipos), Nicholas Barasch (Arpad Laszlo), Peter Bartlett (Headwaiter)
@@ -9912,22 +9911,22 @@ CAST
 NOTES
 : Edited Version of the Broadway HD Livestream that was aired on PBS
 
-## Six (2)
+## Six
 
-#### Six - Broadway - February, 2020 (Preview) 
+#### Six - West End - April, 2019
 {: .no_toc .d-inline-block }
 
-StarCuffedJeans
+hitmewithyourbethshot
 {: .label .label-blue }
 
 FORMAT
-: MP4 (HD) \| 3.59 GB
+: MP4 `576p` `2.38 GB` + MOV `1080p` `267 MB`
 
 CAST
-: Adrianna Hicks (Catherine of Aragon), Andrea Macasaet (Anne Boleyn), Abby Mueller (Jane Seymour), Brittney Mack (Anna of Cleves), Samantha Pauly (Katherine Howard), Anna Uzele (Catherine Parr)
+: Grace Mouat (alt Catherine of Aragon), Millie O’Connell (Anne Boleyn), Courtney Stapleton (alt Jane Seymour), Alexia McIntosh (Anna of Cleves), Aimie Atkinson (Katherine Howard), Maiya Quansah-Breed (Catherine Parr)
 
 NOTES
-: First Preview! Recorded from orchestra.
+: What is captured is good quality, but it is quite obstructed. The camera aimed high, a few drop outs and there is a safety rail/lighting rail in the way. Includes finale Megasix (MOV).
 
 #### Six - Norwegian Bliss - September 4, 2019 (Preview) 
 {: .no_toc .d-inline-block }
@@ -9936,7 +9935,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: MP4 (HD) \| 7.91 GB
+: MP4 `1080p` `7.91 GB`
 
 CAST
 : Candace Furbert (Catherine of Aragon), Hazel Karooma-Brooker (Anne Boleyn), Bryony Duncan (s/w Anne Boleyn), Caitlin Tipping (Jane Seymour), Sophie Golden (Anna of Cleves), Alicia Corrales-Connor (Katherine Howard), Viquichele Cross (Catherine Parr)
@@ -9944,16 +9943,35 @@ CAST
 NOTES
 : Video ends mid-way through \"Six\". It\'s a bit grainy and there is minimal spotlight washout but definitely watchable. Audio is perfectly clear. From the first tech run through, with no audience. Hazel had lost her voice, so she did the choreography while the audio was provided by Bryony Duncan backstage. The cast is amazing and at the top of their game. In 2 MP4 files (7.91 GB/1:06:54).
 
-#### Six - Pre-Broadway Tour - December 1, 2019 (myroadofgoodintentions
+#### Six - Pre-Broadway Tour - December 1, 2019
+{: .no_toc .d-inline-block }
+
+myroadofgoodintentions
+{: .label .label-blue }
 
 FORMAT
-: MP4 (HD) \| 8.42 GB
+: MP4 `1080p` `8.42 GB`
 
 CAST
 : Adrianna Hicks (Catherine of Aragon), Andrea Macasaet (Anne Boleyn), Mallory Maedke (t/r Jane Seymour), Nicole Kyoung-Mi Lambert (s/b Anna of Cleves), Samantha Pauly (Katherine Howard), Anna Uzele (Catherine Parr)
 
 NOTES
 : Video starts in the middle of Ex-Wives (but still includes all their introductions!) due to neglect of hitting the record button. It was shot with a no-fear attitude and it shows\--they action is followed for the almost the entirety of the show and there are zooms of each queen during her song. The camera loved this show and there is very little to no washout. There is occasional obstruction from a bar across the bottom that couldn\'t be shot around, but it doesn\'t block the action. There was some obstruction from heads during the MegaSix.
+
+#### Six - Broadway - February, 2020 (Preview) 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 `1080p` `3.59 GB`
+
+CAST
+: Adrianna Hicks (Catherine of Aragon), Andrea Macasaet (Anne Boleyn), Abby Mueller (Jane Seymour), Brittney Mack (Anna of Cleves), Samantha Pauly (Katherine Howard), Anna Uzele (Catherine Parr)
+
+NOTES
+: First Preview! Recorded from orchestra.
 
 ## Sleeping Beauty And Her Winter Knight (1)
 
