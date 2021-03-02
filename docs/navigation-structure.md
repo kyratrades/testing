@@ -7886,8 +7886,6 @@ CAST
 Pro-Shot
 {: .label .label-green }
 
-<small>Royal Shakespeare Theatre</small>
-
 FORMAT
 : MKV `1080p` `6.5 GB`
 
@@ -7899,8 +7897,6 @@ DIRECTOR
 
 #### Much Ado About Nothing - Shakespeare in the Park - June 22-23, 2019 (Closing Night) 
 {: .no_toc .d-inline-block }
-
-<small>Delacorte Theater</ small>
 
 FORMAT
 : MP4 `720p` `2.9 GB`
