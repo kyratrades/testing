@@ -8511,7 +8511,6 @@ NOTES
 Pro-Shot
 {: .label .label-green }
 
-FORMAT
 : VOB+smalls `1 DVD`
 
 CAST
@@ -9227,6 +9226,10 @@ NOTES
 : FOSSE CUT. Different (and longer) than the eventual TV broadcast with different angles and takes. Bob Fosse\'s master which he edited and returned back to the producers. Ultimately his cut was not used and he was apparently unhappy with the finished version. Generation loss and counter numbers at the bottom of the screen. Staged by Fosse's associate Kathryn Doby, based on his original Broadway staging. FIlmed in Hamilton, Ontario, Canada.
 
 ## The Pirate Queen
+
+### Wants
+{: .no_toc }
+The Pirate Queen - Broadway - March 24, 2007 (Preview) `1 Disc w/ DVD Menu`
 
 #### The Pirate Queen - Pre-Broadway / Chicago - October-November, 2006
 {: .no_toc .d-inline-block }
