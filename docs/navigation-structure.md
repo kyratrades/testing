@@ -2371,7 +2371,7 @@ NOTES
 
 # C
 
-<p align="center"><a href="https://kyratrades.github.io/testing/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/testing/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/testing/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/testing/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/testing/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/testing/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/testing/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/testing/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/testing/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/testing/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/testing/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/testing/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/testing/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/testing/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/testing/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/testing/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/testing/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/testing/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/testing/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/testing/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/testing/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/testing/videos#company">Company</a> • <a href="https://kyratrades.github.io/testing/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/testing/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/testing/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/testing/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/testing/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#cabaret">Cabaret</a> • <a href="https://kyratrades.github.io/testing/videos#camelot">Camelot</a> • <a href="https://kyratrades.github.io/testing/videos#candide">Candide</a> • <a href="https://kyratrades.github.io/testing/videos#la-cage-aux-folles">La Cage aux Folles</a> • <a href="https://kyratrades.github.io/testing/videos#carousel">Carousel</a> • <a href="https://kyratrades.github.io/testing/videos#carrie-the-musical">Carrie: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#cat-on-a-hot-tin-roof">Cat on a Hot Tin Roof</a> • <a href="https://kyratrades.github.io/testing/videos#catch-me-if-you-can">Catch Me If You Can</a> • <a href="https://kyratrades.github.io/testing/videos#cats">Cats</a> • <a href="https://kyratrades.github.io/testing/videos#chaplin-the-musical">Chaplin: The Musical</a> • <a href="https://kyratrades.github.io/testing/videos#charlie-and-the-chocolate-factory">Charlie and the Chocolate Factory</a> • <a href="https://kyratrades.github.io/testing/videos#the-cher-show">The Cher Show</a> • <a href="https://kyratrades.github.io/testing/videos#chess">Chess</a> • <a href="https://kyratrades.github.io/testing/videos#chicago">Chicago</a> • <a href="https://kyratrades.github.io/testing/videos#children-of-eden">Children of Eden</a> • <a href="https://kyratrades.github.io/testing/videos#chinglish">Chinglish</a> • <a href="https://kyratrades.github.io/testing/videos#a-chorus-line">A Chorus Line</a> • <a href="https://kyratrades.github.io/testing/videos#a-christmas-carol-goes-wrong">A Christmas Carol Goes Wrong</a> • <a href="https://kyratrades.github.io/testing/videos#a-christmas-story">A Christmas Story</a> • <a href="https://kyratrades.github.io/testing/videos#cinderella-rodgers--hammerstein">Cinderella (Rodgers &amp; Hammerstein)</a> • <a href="https://kyratrades.github.io/testing/videos#city-of-angels">City of Angels</a> • <a href="https://kyratrades.github.io/testing/videos#the-color-purple">The Color Purple</a> • <a href="https://kyratrades.github.io/testing/videos#come-from-away">Come From Away</a> • <a href="https://kyratrades.github.io/testing/videos#the-comedy-about-a-bank-robbery">The Comedy About A Bank Robbery</a> • <a href="https://kyratrades.github.io/testing/videos#company">Company</a> • <a href="https://kyratrades.github.io/testing/videos#the-count-of-monte-cristo-wildhorn">The Count of Monte Cristo (Wildhorn)</a> • <a href="https://kyratrades.github.io/testing/videos#cruel-intentions">Cruel Intentions</a> • <a href="https://kyratrades.github.io/testing/videos#the-crucible">The Crucible</a> • <a href="https://kyratrades.github.io/testing/videos#cry-baby">Cry-Baby</a> • <a href="https://kyratrades.github.io/testing/videos#the-curious-incident-of-the-dog-in-the-night-time">The Curious Incident of the Dog in the Night-Time</a></p>
 
 ## Cabaret
 
@@ -3788,6 +3788,44 @@ CAST
 
 NOTES
 : Stage Shot filmed from Stalls. Awful audio.
+
+## The Color Purple
+
+#### The Color Purple - Broadway Revival - November 11, 2015 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+COMMENTS
+: Dysfunctional disc 2. Would trade for the original files.
+
+CAST
+: Cynthia Erivo (Celie), Jennifer Hudson (Shug Avery), Danielle Brooks (Sofia), Isaiah Johnson (Mister), Kyle Scatliffe (Harpo), Joaquina Kalukango (Nettie)
+
+NOTES
+: Excellent HD capture of the new revival which been stripped down and streamlined to focus on Celie's journey. Some beautiful moments in the show with the direction and simplicity spotlighting the story. A few blackouts in the first 5 minutes as clueless ushers fumbled around. A
+
+#### The Color Purple - Broadway Revival - May 11, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Cynthia Erivo (Celie), Heather Headley (Shug Avery), Danielle Brooks (Sofia), Isaiah Johnson (Mister), Kyle Scatliffe (Harpo), Joaquina Kalukango (Nettie)
+
+NOTES
+: Beautiful capture of the ever stunning Heather Headley joining the cast. There really is no need to say anymore! A
 
 ## Come From Away
 
