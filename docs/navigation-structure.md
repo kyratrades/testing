@@ -570,6 +570,52 @@ CAST
 NOTES
 : Beautiful capture of the show that is sure to change before Broadway. The talent is wonderful from every aspect and there are a lot great moments in the show. A
 
+#### The Addams Family - Broadway - March 12, 2010 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+COMMENTS
+: Fully functional copy, not the one with the faulty VTS_01_3.VOB
+
+CAST
+: Nathan Lane (Gomez Addams), Bebe Neuwirth (Morticia Addams), Krysta Rodriguez (Wednesday Addams), Kevin Chamberlin (Fester Addams), Adam Riegler (Pugsley Addams), Jackie Hoffman (Grandma Addams), Zachary James (Lurch), Carolee Carmello (Alice Beineke), Terrence Mann (Mal Beineke) 
+
+NOTES
+: Many, Many changes from the Pre-Broadway run in Chicago. The show has a very different feel and works much better. The cast is still very strong and very funny. One of the biggest transformations I can remember with a Broadway Transfer! A-
+
+#### The Addams Family - First National Tour - December 30, 2012
+
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Douglas Sills (Gomez Addams), Sara Gettelfinger (Morticia Addams), Cortney Wolfson (Wednesday Addams), Blake Hammond (Fester Addams), Patrick D Kennedy (Pugsley Addams), Pippa Pearthree (Grandma Addams), Tom Corbeil (Lurch), Gaelen Gilliland (Alice Beineke), Martin Vidnovic (Mal Beineke), Jonathan Ritter (u/s Lucas Beineke) 
+
+#### The Addams Family - Merzig, Germany - August 23, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Jana Stelley (Wednesday Addams), Enrico DePieri (Fester Addams), Justin Natale (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Dominik Hees (Lucas Beineke) 
+
+#### The Addams Family - Bremen, Germany - November 30, 2014
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Uwe Kröger (Gomez Addams), Edda Petri (Morticia Addams), Lisa Antoni (Wednesday Addams), Enrico DePieri (Fester Addams), Noah Walczuch (Pugsley Addams), Anne Welte (Grandma Addams), Gerhard Karzel (Lurch), April Hailer (Alice Beineke), Ethan Freeman (Mal Beineke), Benedikt Ivo (Lucas Beineke) 
+
 #### The Addams Family - Fullerton, CA - October 24, 2015
 {: .no_toc .d-inline-block }
 
@@ -584,6 +630,21 @@ COMMENTS
 
 CAST
 : Bronson Pinchot (Gomez Addams), Rachel York (Morticia Addams), Micaela Martinez (Wednesday Addams), Anthony Grupposo (Fester Addams), Dante Marenco (Pugsley Addams), Candi Milo (Grandma Addams), Dustin Ceithamer (Lurch), Tracy Rowe Mutz (Alice Beineke), Robert Yacko (Mal Beineke), Dino Nicandros (Lucas Beineke)
+
+#### The Addams Family - First UK Tour - 2017
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+COMMENTS
+: Came to me labeled as 2017.08.03. Complete files, not the copy missing VTS_01_2.VOB
+
+CAST
+: Cameron Blakely (Gomez Addams), Samantha Womack (Morticia Addams), Carrie Hope Fletcher (Wednesday Addams) 
+
+NOTES
+: Nice focus throughout and generally good movement. Unfortunately quite a lot of scenes are simply blackout, so this video can only be described really as a highlights reel. The audio remains good throughout and you can get a great idea of this 'updated' version of this show since its Broadway run
 
 #### The Addams Family - Dutch Tour - February 9, 2019
 {: .no_toc .d-inline-block }
