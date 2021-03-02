@@ -56,10 +56,12 @@ I do my best to check each of my items individually and will note down any issue
 Feell free to send enquiries about any items listed on my site.
 
 ### Wants
-I'm always looking for any recordings of Megan Hilty, Stephanie J. Block, and Rachel York.
+These items are an instant trade for me:
+- File upgrades (original smalls, better copies)
+- Any recordings of Megan Hilty, Stephanie J. Block, and Rachel York that I don't have
 
 ### Links
-All the file sizes listed are calculated according to 1GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to any file sharing service of your choosing.
+All the file sizes listed are calculated according to 1GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to any file sharing service of ayour choosing.
  
 ### Gifting policy
 I got my start from a fair number of generous traders, so I’m always happy to help new traders out :) I’m also willing to gift most commercially released pro-shots upon request (especially NTLive and RSC), just ask!
