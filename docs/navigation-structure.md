@@ -742,7 +742,7 @@ CAST
 NOTES
 : Beautiful HD capture with no obstructions! Disney\'s newest theatrical production with a wonderful cast and lots of big production numbers. Sure to be some changes before it hits Broadway! A+
 
-#### Aladdin - Broadway - August 22, 2014 
+#### Aladdin - Broadway - August 22, 2014
 {: .no_toc .d-inline-block }
 
 SJ Bernly
@@ -771,6 +771,19 @@ CAST
 
 NOTES
 : Beautiful HD capture of latest Disney Broadway offering. Great to see the changes from the Toronto tryout. Michael and Merwin do terrific jobs as Genie and Jafar. A
+
+#### Aladdin - First National Tour - March 7, 2019 (Matinee) 
+: .no_toc .d-inline-block }
+
+thehouseonsunset
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Clinton Greenspan (Aladdin), Lissa deGuzman (Jasmine), Jonathan Weir (Jafar), Major Attaway (Genie), Jerald Vincent (Sultan), Zach Bencal (Babkak), Jed Feder (Kassim), Jay Paranada (Iago), Michael Bullard (u/s Omar), Albert Jennings (s/w Prince Abdullah), Olivia Donalson (Fortune Teller), Erik Hernandez (Shop Owner), Albert Jennings (e/c Razoul) 
+NOTES: A kids head blocks my shot from time to time but not throughout the entire video. Video ends right before Aladdin and Jasmine get onto the magic carpet.
 
 #### Aladdin - Broadway - March, 2020 
 {: .no_toc .d-inline-block }
@@ -968,6 +981,18 @@ CAST
 
 NOTES
 : Great HD capture of the Broadway transfer. There are a few short scenes/moments far stage right blocked by a head, but nothing major. Beautiful production, performances and cast to match! A-
+
+#### Anastasia - Stuttgart - February, 2019
+{: .no_toc .d-inline-block }
+
+hitmewithyourbethshot
+{: .label .label-blue }
+
+FORMAT
+: MP4 `480p` `5.16 GB`
+
+CAST
+: Alexandra Alexandrova (u/s Anya), Milan van Waardenburg (Dmitry), Mathias Edenborn (Gleb Vaganov), Thorsten Tinney (Vlad Popov), Jacqueline Braun (Countess Lily Malevsky-Malevitch), Daniela Ziegler (Dowager Empress Maria Feodorovna)
 
 ## Annie
 
@@ -1855,6 +1880,22 @@ CAST
 NOTES
 : House Cam recording of the final West End Cast.
 
+#### Beauty and the Beast (Disney) - UK Tour - 2003
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.99 GB`
+
+COMMENTS
+: Recording of another DVD. PLEASE tell me if you have a better copy.
+
+CAST
+: Dianne Pilkington (Belle), Alex Bourne (Beast/Prince), Richard Tate (Maurice), Earl Carpenter (Gaston), Stephen Matthews (Lumière), Marilyn Cutts (Mrs. Potts), Barry James (Cogsworth), Drew Varley (Le Fou)
+NOTES: One camera housecam pro-shot, full stage, no zooms
+
 #### Beauty and the Beast (Disney) - Dutch Tour - October 4, 2005 
 {: .no_toc .d-inline-block }
 
@@ -2202,6 +2243,36 @@ CAST
 : Hugh Jackman (Peter Allen), Stephanie J Block (Liza Minnelli), Beth Fowler (Marion Woolnough), Jarrod Emick (Greg Connell), Michael Mulheren (Dick Woolnough/Dee Anthony)
 
 ## The Bridges of Madison County
+
+#### The Bridges of Madison County - Broadway - April 16, 2014
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Kelli O’Hara (Francesca), Steven Pasquale (Robert), Hunter Foster (Bud), Michael X Martin (Charlie), Cass Morgan (Marge), Caitlin Kinnunen (Carolyn), Derek Klena (Michael), Whitney Bashor (Marian/Chiara)
+
+NOTES
+: Excellent HD capture of this short lived musical, gone too soon. This is the second and even better capture of the show. Kelli and Steven still creating excellent work here. Gem of a show that should have stuck around longer! A
+
+#### The Bridges of Madison County - First National Tour - November 29, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Elizabeth Stanley (Francesca), Andrew Samonsky (Robert), Cullen R Titmas (Bud), David Hess (Charlie), Mary Callanan (Marge), Caitlin Houlahan (Carolyn), Dave Thomas Brown (Michael), Katie Klaus (Marian/Chiara)
+
+NOTES
+: Excellent HD capture of the tour launch in Iowa. This was the second performance and was conducted by Jason Robert Brown himself. Great performances and top notch tour! A
 
 #### The Bridges of Madison County - First National Tour - January 3, 2016 
 {: .no_toc .d-inline-block }
