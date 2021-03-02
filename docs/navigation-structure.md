@@ -5473,8 +5473,14 @@ NOTES
 SJ Bernly
 {: .label .label-blue }
 
+Issues
+{: .label .label-red }
+
 FORMAT
 : VOB+smalls `2 DVDs`
+
+COMMENTS
+: I'm missing specifically VTS_01_0.VOB of Disc 2
 
 CAST
 : Javier Muñoz (alt Alexander Hamilton), Phillipa Soo (Eliza Hamilton), Leslie Odom Jr (Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Nicholas Christopher (u/s George Washington), Daveed Diggs (Marquis de Lafayette/Thomas Jefferson), Okieriete Onaodowan (Hercules Mulligan/James Madison), Andrew Chappelle (u/s John Laurens/Philip Hamilton), Alysha Deslorieux (s/b Peggy Schuyler/Maria Reynolds), Rory O'Malley (King George III)
