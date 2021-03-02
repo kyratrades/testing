@@ -13,7 +13,7 @@ permalink: /videos
 
 <p align="center"><small>Shows are organised alphabetically (ignoring articles) and all videos are in chronological order under each title, unless I have split them further by tour.</small></p>
 
-<p align="center"><small>I check every single video bootleg before listing them onto my site for missing files/glitches and will list any issues. Please do note that although unlikely, I may still have missed something, in which case I will offer a replacement and update you when I find the correct copy.</small></p>
+<p align="center"><small>I check every single video bootleg for missing files and glitches before listing them onto my site, and will list any issues. Do keep in mind there's still a chance I have missed or mislabelled something, in which case I will offer a replacement and update you when I find the correct copy.</small></p>
 
 <p align="center"><small>If you have a better copy than my existing one (higher generation, larger file size, original smalls etc) please do contact me about it. I'd be willing to trade 2:1 (2 of my videos for yours) if that's the case!</small></p>
 
