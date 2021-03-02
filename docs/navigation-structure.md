@@ -6963,8 +6963,20 @@ CAST
 NOTES
 : Includes the full show and the curtain call. There is some drifting in Act One, but it isn't as prevalent in Act Two. There are a lot of obstructions, but I was (mostly) able to film around them. The only part that was really blocked was Somewhere That's Green. Somewhere That's Green (Reprise) is the only majorly whitewashed part, but other than that it's not too much of an issue. Overall, it's a pretty decent capture of the show, considering it's my first video master.
 
-#### Little Shop of Horrors - Constellation Theatre Company - November 22, 2019 \| theatrecouple14
+#### Little Shop of Horrors - Pasadena Playhouse - October 14, 2019
 {: .no_toc .d-inline-block }
+
+FORMAT
+: MP4 `1080p` `855.2 MB`
+
+CAST
+: George Salazar (Seymour), MJ Rodriguez (Audrey), Kevin Chamberlin (Mushnik), Matthew Wilkas (Orin), Amber Riley (Audrey II), Cheyenne Isabel Wells (Crystal), Brittany Campbell (Ronnette), Tickwanya Jones (Chiffon)
+
+#### Little Shop of Horrors - Constellation Theatre Company - November 22, 2019
+{: .no_toc .d-inline-block }
+
+theatrecouple14
+{: .label .label-blue }
 
 FORMAT
 : MP4 `720p` `4.23 GB`
