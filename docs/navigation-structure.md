@@ -186,11 +186,11 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
-Issues
-{: .label .label-red }
-
 FORMAT
 : VOB+smalls `1 DVD`
+
+COMMENTS
+: [This](https://imgur.com/a/uHoReop) is my DVD menu. Please let me know if you have something different!
 
 CAST
 : Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart, Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Dan Cooney (Dick), Van Hughes (Josh), Ioana Alfonso (Maria), Jeremy Davis (Bob Enright), Ann Harada (Kathy), Lisa Howard (Missy), Michael X Martin (Tinsworthy), Karen Murphy (Margaret), Tory Ross (Daphne), Maia Nkenge Wilson (Anita)
@@ -837,6 +837,9 @@ SJ Bernly
 
 FORMAT
 : VOB+smalls `1 DVD`
+
+COMMENTS
+: [This](https://imgur.com/a/WxOpOiI) is my DVD menu. Please let me know if you have something different!
 
 CAST
 : Phillipa Soo (Amélie Poulain), Savvy Crawford (Young Amélie), Adam Chanler-Berat (Nino Quincampoix), Tony Sheldon (Raymond Dufayel / Collignon), Manoel Felciano (Raphaël Poulain / Bretodeau), Alison Cimmet (Amandine Poulain / Philomene), Harriett D Foy (Suzanne), Maria-Christina Oliveras (Gina), Alyse Alan Louis (Georgette / Sylvie / Collignon\'s Mother), Randy Blair (Hipolito / Suicidal Tourist / Elton John), Heath Calvert (Lucien / Mysterious Man), Heath Calvert (Adrien Wells/Wallace), Paul Whitty (Fluffy / Collignon\'s Father), Paul Whitty (Joseph), David Andino (Blind Beggar), David Andino (Garden Gnome)
