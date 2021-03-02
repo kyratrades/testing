@@ -3707,7 +3707,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Keke Palmer (Ella), Joe Carroll (Topher), Judy Kaye (Marie), NeNe Leakes (Madame), Laura Irion (Charlotte), Todd Buonopane (Jean-Michel), Stephanie Gibson (Gabrielle), Peter Bartlett (Sebastian)
