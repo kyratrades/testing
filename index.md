@@ -51,15 +51,15 @@ You must include a link to and/or an attachment of your list. Whoever initiates 
 <center>2 audios - 1 video</center>
 
 ### Files
-I try my best to check each of my items individually (still catching up!) and will list any problems in the comments. Please don’t hesitate to tell me of any problems you've encountered with my files or links, or if I have something not in their original formats but haven’t listed so accordingly.
+I do my best to check each of my items individually and will note down any issues. Please don’t hesitate to tell me of any problems you've encountered with my files or links, or if I have mislabelled anything.
+
+Feell free to send enquiries about any items listed on my site.
 
 ### Wants
 I'm always looking for any recordings of Megan Hilty, Stephanie J. Block, and Rachel York.
 
 ### Links
-All the file sizes listed are calculated according to 1GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to the online storage provider of your choosing.
-
-If any of my links are down just send me a message about it and I will re-upload the files as soon as possible, usually within 12 hours.
+All the file sizes listed are calculated according to 1GB = 1024 MB. I mainly use Google Drive for my links, please don’t initiate a trade with me if you have problems with it. If I initiated the trade with you, I am more than happy to upload your requested files to any file sharing service of your choosing.
  
 ### Gifting policy
-I got my start from a fair number of generous traders, so I’m always happy to help new traders out :) I’m also willing to gift most commercially released pro-shots (especially National Theatre Live) upon request, just ask!
+I got my start from a fair number of generous traders, so I’m always happy to help new traders out :) I’m also willing to gift most commercially released pro-shots upon request (especially NTLive and RSC), just ask!
