@@ -9722,20 +9722,27 @@ NOTES
 
 # S
 
-## The Scarlet Pimpernel (2)
+## The Scarlet Pimpernel
+
+### Wants
+{: .no_toc }
+
+ANY copy that's better than the ones I have. Also any video of Rachel York as Marguerite I don't have yet, specifically: `February 6, 1999 (Highlights)`, `March 7, 1999`, `March 9, 1999`, `May 30, 1999 (Highlights)`. I'm willing to trade 2:1 for these.
 
 #### The Scarlet Pimpernel - Broadway - May 8, 1999
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `3.99 GB`
 
 CAST
 : Douglas Sills (Sir Percy Blakeney), Rachel York (Marguerite St. Just), Rex Smith (Chauvelin)
 
 #### The Scarlet Pimpernel - Broadway - May 29 and 30, 1999
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs` `5.43 GB`
 
 CAST
 : Douglas Sills (Sir Percy Blakeney), Rachel York (Marguerite St. Just), Rex Smith (Chauvelin)
@@ -9743,7 +9750,7 @@ CAST
 NOTES
 : Mainly the 29th, but \"The Riddle\" and the curtain call from the 30th are spliced in nicely; also has highlights footage from the 30th
 
-## School of Rock (2)
+## School of Rock
 
 #### School of Rock - Broadway - November 11, 2015 (Preview)
 {: .no_toc .d-inline-block }
@@ -9752,7 +9759,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Alex Brightman (Dewey Finn), Sierra Boggess (Rosalie Mullins), Spencer Moses (Ned Schneebly), Mamie Parris (Patty Di Marco), Isabella Russo (Summer), Dante Melucci (Freddie), Evie Dolan (Katie), Jared Parker (Lawrence), Brandon Niederauer (Zack), Bobbi MacKenzie (Tomika), Luca Padovan (Billy), Taylor Caldwell (Shonelle), Carly Gendell (Marcy), Corinne Wilson (Sophie), Ethan Khusidman (Mason), Shahadi Wright Joseph (Madison)
@@ -9767,7 +9774,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Alex Brightman (Dewey Finn), Sierra Boggess (Rosalie Mullins), Spencer Moses (Ned Schneebly), Mamie Parris (Patty Di Marco), Isabella Russo (Summer), Dante Melucci (Freddie), Evie Dolan (Katie), Jared Parker (Lawrence), Brandon Niederauer (Zack), Bobbi MacKenzie (Tomika), Luca Padovan (Billy), Taylor Caldwell (Shonelle), Carly Gendell (Marcy), Corinne Wilson (Sophie), Ethan Khusidman (Mason), Shahadi Wright Joseph (Madison)
@@ -9775,7 +9782,7 @@ CAST
 NOTES
 : Beautiful HD capture of this wonderful show. Alex is perfectly cast as Dewey and leads the show well. A very nice capture with no obstruction, no washout, and just a couple quick dropouts. It gets a little dark at times and filmed from the right side. The sound is excellent. Includes curtain call and playbill scan. Alex Brightman shows why he deserves his Tony Nomination with a kick ass performance
 
-## The Secret Garden (1)
+## The Secret Garden
 
 #### The Secret Garden - Lincoln Center - February 21, 2016
 {: .no_toc .d-inline-block }
@@ -9784,12 +9791,27 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Sydney Lucas (Mary Lennox), Ramin Karimloo (Archibald Craven), Sierra Boggess (Lily Craven), Cheyenne Jackson (Dr. Neville Craven), Ben Platt (Dickon), Oscar Williams (Colin Craven), Jere Shea (Ben Weatherstaff), Nikki Renée Daniels (Rose), Josh Young (Captain Albert Lennox), Julie Halston (Mrs. Winthrop/Alice), Jamie Jackson (Lieutenant Ian Shaw), Telly Leung (Fakir), Anisha Nagarajan (Ayah), Barbara Rosenblat (Mrs. Medlock), Quentin Earl Darrington (Major Holmes), John Riddle (Lieutenant Peter Wright)
 
-## Seussical (4)
+## Seussical
+
+#### Seussical - Pre-Broadway / Boston - August 27, 2000 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+COMMENTS
+: Audio on right channel only, turn on mono
+
+CAST
+: David Shiner (Cat in the Hat), Kevin Chamberlin (Horton the Elephant), Andrew Keenan-Bolger (Jojo), Janine LaManna (Gertrude McFuzz), Michelle Pawk (Mayzie La Bird), Sharon Wilkins (The Sour Kangaroo), Stuart Zagnit (The Mayor), Alice Playten (The Mayor\'s Wife/The Lorax)
+
+NOTES
+: First preview and world premiere of the show. Very different from the Broadway production and includes the cut Lorax sequence in the second act
 
 #### Seussical - Broadway - 2000 (Highlights) 
 {: .no_toc .d-inline-block }
@@ -9798,43 +9820,31 @@ Press Reel
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `2.69 GB`
 
 CAST
 : David Shiner (Cat in the Hat), Kevin Chamberlin (Horton the Elephant), Anthony Blair Hall (Jojo), Janine LaManna (Gertrude McFuzz), Michele Pawk (Mayzie La Bird), Sharon Wilkins (The Sour Kangaroo), Erick Devine (The Mayor)
 
-NOTES
-: Press reels
-
 #### Seussical - Broadway - November 10, 2000
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : David Shiner (Cat in the Hat), Kevin Chamberlin (Horton the Elephant), Anthony Blair Hall (Jojo), Janine LaManna (Gertrude McFuzz), Michele Pawk (Mayzie La Bird), Sharon Wilkins (The Sour Kangaroo), Erick Devine (The Mayor)
 
 #### Seussical - Broadway - May 20, 2001 (Closing Night)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Cathy Rigby (Cat in the Hat), Kevin Chamberlin (Horton the Elephant), Cameron Bowen (Jojo), Janine LaManna (Gertrude McFuzz), Michele Pawk (Mayzie La Bird), Sharon Wilkins (The Sour Kangaroo)
 
 NOTES
 : Closing night. Lots of generation loss, but the audio is great. The audience was very enthusiastic and showed a lot of love for the show.
-
-#### Seussical - Pre-Broadway/Boston - August 27, 2000 (Preview)
-
-FORMAT
-: VOB+smalls
-
-CAST
-: David Shiner (Cat in the Hat), Kevin Chamberlin (Horton the Elephant), Andrew Keenan-Bolger (Jojo), Janine LaManna (Gertrude McFuzz), Michelle Pawk (Mayzie La Bird), Sharon Wilkins (The Sour Kangaroo), Stuart Zagnit (The Mayor), Alice Playten (The Mayor\'s Wife/The Lorax)
-
-NOTES
-: First preview and world premiere of the show. Very different from the Broadway production and includes the cut Lorax sequence in the second act
 
 ## She Loves Me (5)
 
