@@ -8730,10 +8730,7 @@ hitmewithyourbethshot
 {: .label .label-blue }
 
 FORMAT
-: MP4 `720p` `1.10 GB`
-
-COMMENTS
-: **\*\*DO NOT REQUEST\*\*** NOT original which should be MTS; Looking for original files
+: MTS `14.65 GB`
 
 CAST
 : Josh Piterman (The Phantom of the Opera), Kelly Mathieson (Christine Daaé), Alistair So (u/s Raoul), Britt Lenting (Carlotta Giudicelli), Ross Dawes (Monsieur Firmin), Richard Woodford (Monsieur André), Jacinta Mulcahy (Madame Giry), Simon Whitaker (u/s Ubaldo Piangi), Georgia Ware (Meg Giry)
