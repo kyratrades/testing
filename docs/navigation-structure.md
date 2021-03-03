@@ -4481,9 +4481,6 @@ Issues
 FORMAT
 : VOB `NO SMALLS` `1 DVD`
 
-COMMENTS
-: Looking for original files (should be 2 disc?)
-
 CAST
 : Elena Roger (Eva Perón), Maya Jade Frank (Young Eva), Ricky Martin (Che), Michael Cerveris (Perón), Max von Essen (Magaldi), Rachel Potter (Perón\'s Mistress)
 
