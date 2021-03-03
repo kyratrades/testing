@@ -6041,7 +6041,8 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls `Commercial DVD` `4.20 GB`
+: `1` VOB+smalls `Commercial DVD` `4.20 GB`
+: `2` VOB+smalls `Commercial DVD (The Stephen Sondheim Collection)` `7.47 GB`
 
 CAST
 : Bernadette Peters (Witch), Chip Zien (Baker), Joanna Gleason (Baker\'s Wife), Kim Crosby (Cinderella), Danielle Ferland (Little Red Riding Hood), Ben Wright (Jack), Robert Westenberg (Wolf/Cinderella\'s Prince), Chuck Wagner (Rapunzel\'s Prince), Tom Aldredge (Narrator), Tom Aldredge (Mysterious Man), Barbara Bryne (Jack\'s Mother), Joy Franz (Cinderella\'s Stepmother), Kay McClelland (Florinda), Lauren Mitchell (Lucinda), Edmund Lyndeck (Cinderella\'s Father), Phillip Hoffman (Steward), Pamela Winslow (Rapunzel), Cindy Robinson (Snow White), Merle Louise (Giant\'s voice), Merle Louise (Granny/Cinderella's Mother)
