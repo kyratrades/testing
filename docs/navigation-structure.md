@@ -2588,6 +2588,18 @@ CAST
 
 I’m looking for the June 7, 2007 (National Tour, Chicago) video. This video does not have the ~15 minutes blackout at the start. Also, the DVD menu should have scene selections for all the songs (in thumbnail form). I will trade very unfairly for this. Please do tell me if you have it!
 
+#### Camelot - Second Broadway Revival - 1982
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `Commercial DVD`
+
+CAST
+: Richard Harris (King Arthur), Meg Bussert (Queen Guenevere), Richard Muenz (Sir Lancelot), James Valentine (Merlyn), Barrie Ingham (Pellinore), Richard Backus (Mordred), William Parry (Sir Dinadan), Thor Fields (Tom of Warwick), Jeanne Caryl (Nimue), William James (Sir Lionel), Andy McAvin (Sir Sagramore)
+
 #### Camelot - First National Tour - May 8, 2007
 {: .no_toc .d-inline-block }
 
