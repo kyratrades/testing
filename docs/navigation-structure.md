@@ -1825,6 +1825,18 @@ NOTES
 
 ## Beauty and the Beast (Disney)
 
+#### Beauty and the Beast (Disney) - Los Angeles - April 12, 1995 (Opening Night)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Susan Egan (Belle), James Barbour (Beast/Prince), Tom Bosley (Maurice), Burke Moses (Gaston), Gary Beach (Lumière), Beth Fowler (Mrs. Potts)
+
+NOTES
+: For the time period that it was filmed, It's great. Sound and picture synch up and Gary Beach kills it as Lumiere. Susan Egan is wonderful.
+
 #### Beauty and the Beast (Disney) - Toronto - August 8, 1995 (Opening Night) (Highlights) 
 {: .no_toc .d-inline-block }
 
@@ -1871,7 +1883,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `1 DVD``1.90 GB`
+: VOB+smalls `1 DVD` `1.90 GB`
 
 CAST
 : Kerry Butler (Belle), Chuck Wagner (Beast/Prince)
@@ -1880,7 +1892,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls `1 DVD``3.01 GB`
+: VOB+smalls `1 DVD` `3.01 GB`
 
 CAST
 : Andrea McArdle (Belle), William Michals (Beast/Prince), Steve Blanchard (Gaston), Beth Fowler (Mrs. Potts)
