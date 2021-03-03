@@ -588,8 +588,31 @@ CAST
 NOTES
 : Many, Many changes from the Pre-Broadway run in Chicago. The show has a very different feel and works much better. The cast is still very strong and very funny. One of the biggest transformations I can remember with a Broadway Transfer! A-
 
-#### The Addams Family - First National Tour - December 30, 2012
+#### The Addams Family - Broadway - November 30, 2011
+{: .no_toc .d-inline-block }
 
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Nathan Lane (Gomez Addams), Bebe Neuwirth (Morticia Addams), Krysta Rodriguez (Wednesday Addams), Kevin Chamberlin (Fester Addams), Adam Riegler (Pugsley Addams), Jackie Hoffman (Grandma Addams), Zachary James (Lurch), Carolee Carmello (Alice Beineke), Terrence Mann (Mal Beineke)
+
+NOTES
+: Many, Many changes from the Pre-Broadway run in Chicago. The show has a very different feel and works much better. The cast is still very strong and very funny. One of the biggest transformations I can remember with a Broadway Transfer! A-
+
+#### The Addams Family - First National Tour - July, 2012
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Douglas Sills (Gomez Addams), Christy Morton (u/s Morticia Addams), Cortney Wolfson (Wednesday Addams), Blake Hammond (Fester Addams), Patrick D Kennedy (Pugsley Addams), Pippa Pearthree (Grandma Addams), Tom Corbeil (Lurch), Gaelen Gilliland (Alice Beineke), Martin Vidnovic (Mal Beineke), Brian Justin Crum (Lucas Beineke)
+
+#### The Addams Family - First National Tour - December 30, 2012
 {: .no_toc .d-inline-block }
 
 FORMAT
@@ -3797,14 +3820,8 @@ NOTES
 SunsetBlvd79
 {: .label .label-blue }
 
-Issues
-{: .label .label-red }
-
 FORMAT
 : VOB+smalls `2 DVDs`
-
-COMMENTS
-: Dysfunctional disc 2. Would trade for the original files.
 
 CAST
 : Cynthia Erivo (Celie), Jennifer Hudson (Shug Avery), Danielle Brooks (Sofia), Isaiah Johnson (Mister), Kyle Scatliffe (Harpo), Joaquina Kalukango (Nettie)
