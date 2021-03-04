@@ -9286,7 +9286,7 @@ NOTES
 
 ### Wants
 {: .no_toc }
-The Pirate Queen - Broadway - March 24, 2007 (Preview) `1 Disc w/ DVD Menu`
+The Pirate Queen - Broadway - March 24, 2007 (Preview) `1 Disc, complete files`
 
 #### The Pirate Queen - Pre-Broadway / Chicago - October-November, 2006
 {: .no_toc .d-inline-block }
@@ -9324,8 +9324,14 @@ CAST
 #### The Pirate Queen - Broadway - March 24, 2007 (Preview)
 {: .no_toc .d-inline-block }
 
+Issues
+{: .label .label-red }
+
 FORMAT
-: VOB+smalls `2 DVDs` `No DVD menu`
+: VOB+smalls `1 DVD` `3.33 GB` `Missing files`
+
+COMMENTS
+: My copy has a DVD menu and both acts are in full (unlike some copies floating around. It has the playbill scan and opening footage as well. However, I'm missing `VTS_06_1.VOB` and `VTS_07_1.VOB` so you cannot watch the reviews. I would love to trade for a complete copy.
 
 CAST
 : Stephanie J Block (Grace (Gráinne) O\'Malley), Linda Balgord (Queen Elizabeth I), Hadley Fraser (Tiernan), Marcus Chait (Donal O\'Flaherty), Jeff McCarthy (Dubhdara), William Youmans (Sir Richard Bingham)
