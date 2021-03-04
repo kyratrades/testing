@@ -3345,7 +3345,7 @@ CAST
 
 ### The Netherlands
 
-#### Chicago - The Netherlands - 1999
+#### Chicago - Utrecht, the Netherlands - 1999
 {: .no_toc .d-inline-block }
 
 Pro-Shot
@@ -3358,9 +3358,9 @@ CAST
 : Simone Kleinsma (Roxie Hart), Pia Douwes (Velma Kelly), Stanley Burleson (Billy Flynn), Marjolijn Touw (Matron \"Mama\" Morton)
 
 NOTES
-: The 2-Disc version is commonly mislabeled as Fall, 1999, but is actually the 1999 one according to a few Dutch traders.
+: The 2-Disc version is commonly mislabeled as `Fall, 1999`, but is actually the 1999 one according to a few Dutch traders.
 
-#### Chicago - The Netherlands - Fall, 1999
+#### Chicago - Utrecht, the Netherlands - Fall, 1999
 {: .no_toc .d-inline-block }
 
 Pro-Shot
@@ -3373,7 +3373,22 @@ CAST
 : Ellen Evers (u/s Roxie Hart), Pia Douwes (Velma Kelly), Stanley Burleson (Billy Flynn), Serge Henry Valke (Amos Hart), Marjolijn Touw (Matron \"Mama\" Morton)
 
 NOTES
-: Good capture; multicam proshot. One camera is centre stage, the other is on the left balcony.
+: Good capture; Multicam proshot. One camera is centre stage, the other is on the left balcony.
+
+#### Chicago - Utrecht, the Netherlands - 1999
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Pia Douwes (Velma Kelly), Simone Kleinsma (Roxie Hart), Marjolijn Touw (Matron \"Mama\" Morton)), Tony Neef (Billy Flynn), Serge-Henri Valcke (Amos Hart), Peter Rombouts (u/s Mary Sunshine), Jacqueline Aronson, Carolien Canters, Frederique Sluyterman Van Loo, Nicole Van Gent, George Chan Wee Hong, Mischa Hendriksen, Ellis Van Laarhoven, Ernest Piet, Stephen Stephanou, Stefan Swinkels, Michele Tesoro, Sophia Wezer, Daan Wijnands
+
+NOTES
+: Singlecam proshot. Tony Neef as Billy Flynn instead of Stanley Burleson.
 
 ### MISC
 
