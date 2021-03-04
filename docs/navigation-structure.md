@@ -10792,3 +10792,180 @@ FORMAT
 
 CAST
 : David Studwell (Sweeney Todd), Tory Ross (Mrs. Lovett), Jack Mosbacher (Anthony Hope), Mindy Lym (Johanna), Lee Strawn (Judge Turpin), Spencer Kiely (Tobias Ragg), Rojas Dietrich (Beadle Bamford), Fryvecind Gimenez (Beggar Woman)
+
+# T
+
+## Tales of the City
+
+#### Tales of the City - American Conservatory Theater, San Francisco - 2011 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Judy Kaye (Anna Madrigal), Betsy Wolfe (Mary Ann Singleton), Wesley Taylor (Michael \"Mouse\" Tolliver), Patrick Lane (Brian Hawkins), Kathleen Elizabeth Monteleone (DeDe Halcyon-Day), Mary Birdsong (Mona Ramsey), Josh Breckenridge (Jon Fielding), Andrew Samonsky (Beauchamp Day), Diane J Findlay (Mother Mucca), Richard Poe (Edgar Halcyon), Manoel Felciano (Norman Neal Williams), Julie Reiber (Connie Bradshaw)
+
+NOTES
+: Stationary full-stage house cam w/ soundboard audio
+
+## Tarzan
+
+#### Tarzan - Scheveningen - June 23, 2007 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Ron Link (Tarzan), Chantal Janzen (Jane Porter), Chaira Borderslee (Kala), Jeroen Phaff (Kerchak)
+
+NOTES
+: No zoom but sound is patched from soundboard, also some footage from after the show (cleaning etc)
+
+## They\'re Playing Our Song
+
+#### They\'re Playing Our Song - Los Angeles - October 2, 2010
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Jason Alexander (Vernon Gersch), Stephanie J Block (Sonia Walsk)
+
+## Three Days of Rain
+
+#### Three Days of Rain - Broadway - May 31, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB `NO SMALLS` `1 DVD`
+
+CAST
+: Bradley Cooper (Pip / Theo), Julia Roberts (Nan / Lina), Paul Rudd (Walker / Ned)
+
+NOTES
+: Amazingly clear video with great closeups and sound; includes NY1 reviews and interviews.
+
+## Titanic
+
+#### Titanic - Broadway - November 12, 1997
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.22 GB`
+
+CAST
+: Michael Cerveris (Thomas Andrews), John Cunningham (Captain E. J. Smith), David Garrison (J. Bruce Ismay), Brian d\'Arcy James (Frederick Barrett), Judy Blazer (Caroline Neville), Bill Buell (Edgar Bean), Larry Keith (Isidor Strauss), Jody Gelb (Eleanor Widener)
+
+NOTES
+: Camcorder video, mostly wide shot with a few zooms. The only known video of this production.
+
+## \[title of show\]
+
+#### \[title of show\] - London Coliseum - November, 2020
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MKV `1080p` `1.99 GB`
+
+CAST
+: Jenna Russell (Susan), Lucie Jones (Heidi), Marc Elliott (Jeff), Tyrone Huntley (Hunter)
+
+## To Kill a Mockingbird
+
+#### To Kill a Mockingbird - Broadway - July, 2019
+{: .no_toc .d-inline-block }
+
+Hollis Mizner
+{: .label .label-blue }
+
+FORMAT
+: MP4 `720p` `3.27 GB`
+
+CAST
+: Jeff Daniels (Atticus Finch), Celia Keenan-Bolger (Scout), Will Pullen (Jem), Manoel Felciano (Horace Gilmer), LaTonya Richardson Jackson (Calpurnia), Aubie Merrylees (u/s Dill), Dakin Matthews (Judge Taylor), Gbenga Akinnagbe (Tom Robinson), Frederick Weller (Bob Ewell), Danny Wolohan (Boo Radley), Erin Wilhelmi (Mayella), Neal Huff (Link Deas), Liv Roth (Miss Stephanie), Phyllis Somerville (Ms. Dubose)
+
+NOTES
+: Very shaky video, never really settles down. Filmed nearly entirely through close-ups, which means a fair bit of the action is missed.
+
+## Tony Awards
+
+### Wants
+{: .no_toc }
+
+I'm looking for any and all recordings of Tony Awards, including fan compilations! Please do reach out if you have any videos I don't already have :)
+
+#### Tony Awards - 1966-1986 \[S1\]
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: ISO
+
+#### Tony Awards - 2004 & 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+## Twelfth Night
+
+#### Twelfth Night - Lincoln Center - 1998
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `360p` `461 MB` `VHS rip`
+
+CAST
+: Amy Hill (Maria), Brian Murray (Sir Toby Belch), David Patrick Kelly (Feste), Helen Hunt (Viola), Julio Monge (Antonio), Kyra Sedgwick (Olivia), Max Wright (Sir Andrew Aguecheek), Paul Rudd (Orsino), Philip Bosco (Malvolio), Rick Stear (Sebastian)
+
+#### Twelfth Night - Broadway - November 27, 2013
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Angus Wright (Sir Andrew Aguecheek), Colin Hurley (Sir Toby Belch), John Paul Connolly (Antonio), Joseph Timms (Sebastian), Liam Brennan (Orsino), Mark Rylance (Olivia), Paul Chahidi (Maria), Peter Hamilton Dyer (Feste), Samuel Barnett (Viola), Stephen Fry (Malvolio)
+
+NOTES
+: Amazing show by the RSC company all-male cast; faithful adaptation with wonderful comedy; some obstruction at the front of the stage, and moments of shakiness. Complete show, includes curtain call and BCEFA speech. 2 DVDs A-
+
+## Two by Two
+
+#### Two by Two - Reprise! Theatre Company - November 1, 2009
+{: .no_toc .d-inline-block }
+
+Watched
+{: .label .label-yellow }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+COMMENTS
+: Megan does a KILLER number here
+
+CAST
+: Jason Alexander (Noah), Faith Prince (Esther), Steven Weber (Shem), Justin Robertson (Ham), David Burnham (Japheth), Shannon Warne (Rachel), Vicki Lewis (Leah), Megan Hilty (Goldie)
+
+NOTES
+: Two night only concert presentation of the rarely seen 1970 Richard Rogers/Martin Charnin musical. Presented by the Reprise! Theatre Company at the Gindi Auditorium at the American Jewish University in Los Angeles. Lots of heads in the frame, and some obstruction, but filmer does their best to capture the action on stage. B
