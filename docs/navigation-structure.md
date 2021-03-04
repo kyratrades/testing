@@ -11016,6 +11016,8 @@ NOTES
 
 # V
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#victorvictoria">Victor/Victoria</a> • <a href="https://kyratrades.github.io/testing/videos#a-view-from-the-bridge">A View From the Bridge</a> • <a href="https://kyratrades.github.io/testing/videos#violet">Violet</a> • <a href="https://kyratrades.github.io/testing/videos#the-visit">The Visit</a></p>
+
 ## Victor/Victoria
 
 #### Victor/Victoria - Broadway - October 25, 1995 (Opening Night)
@@ -11037,7 +11039,7 @@ NOTES
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Liza Minnelli (t/r Victoria Grant / Victor Grazinski), Tony Roberts (Carroll Todd), Michael Nouri (King Marchand), Rachel York (Norma Cassidy), Gregory Jbara (Squash), Adam Heller (Henri Labisse)
@@ -11048,7 +11050,7 @@ CAST
 {: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Liev Schreiber (Eddie), Scarlett Johansson (Catherine), Jessica Hecht (Beatrice), Michael Cristofer (Alfieri), Santino Fontana (Rodolpho), Corey Stoll (Marco), Alex Cendese (Submarine \#2/Neighbor), Anthony DeSando (1st Immigration Officer/Guard), Antoinette LaVecchia (Mrs. Lipari), Joe Ricci (Mike), Robert Turano (Louis)
