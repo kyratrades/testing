@@ -11016,7 +11016,7 @@ NOTES
 
 # V
 
-## Victor/Victoria (2)
+## Victor/Victoria
 
 #### Victor/Victoria - Broadway - October 25, 1995 (Opening Night)
 {: .no_toc .d-inline-block }
@@ -11025,18 +11025,16 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 (HD) \| 1.98 GB \| 10.9 GB
-
-COMMENTS
-: TWO versions, both H.264 1040p. Pick the one you want.
+: MP4 `1080p` `10.9 GB` `Blu-ray rip`
 
 CAST
 : Julie Andrews (Victoria Grant / Victor Grazinski), Tony Roberts (Carroll Todd), Michael Nouri (King Marchand), Rachel York (Norma Cassidy)
 
 NOTES
-: Captured for Japanese Television in HD in 1995! Later released on BluRay dvd.
+: Captured for Japanese Television in HD in 1995! Later released on BluRay.
 
 #### Victor/Victoria - Broadway - January-February, 1997
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -11044,9 +11042,10 @@ FORMAT
 CAST
 : Liza Minnelli (t/r Victoria Grant / Victor Grazinski), Tony Roberts (Carroll Todd), Michael Nouri (King Marchand), Rachel York (Norma Cassidy), Gregory Jbara (Squash), Adam Heller (Henri Labisse)
 
-## A View From the Bridge (1)
+## A View From the Bridge
 
 #### A View From the Bridge - Third Broadway Revival - January 6, 2010
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls
@@ -11054,7 +11053,7 @@ FORMAT
 CAST
 : Liev Schreiber (Eddie), Scarlett Johansson (Catherine), Jessica Hecht (Beatrice), Michael Cristofer (Alfieri), Santino Fontana (Rodolpho), Corey Stoll (Marco), Alex Cendese (Submarine \#2/Neighbor), Anthony DeSando (1st Immigration Officer/Guard), Antoinette LaVecchia (Mrs. Lipari), Joe Ricci (Mike), Robert Turano (Louis)
 
-## Violet (2)
+## Violet
 
 #### Violet - Broadway - March 30, 2014 (Preview)
 {: .no_toc .d-inline-block }
@@ -11063,7 +11062,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Sutton Foster (Violet), Joshua Henry (Flick), Colin Donnell (Monty), Emerson Steele (Young Vi), Alexander Gemignani (Father), Annie Golden (Old Lady/Hotel Hooker), Ben Davis (Preacher/Radio Singer/Bus Driver 1/Bus Driver 4), Austin Lesch (Virgil/Billy Dean/Bus Driver 2/Radio Singer/Bus Passenger), Anastacia McCleskey (Music Hall Singer/Bus Passenger), Rema Webb (Lula Buffington/Almeta/Bus Passenger), Charlie Pollock (Leroy Evans/Radio Soloist/Bus Driver 3/Bus Passenger)
@@ -11072,9 +11071,10 @@ NOTES
 : Beautiful HD capture of this wonderful show with no obstructions. The cast was divine and did an exquisite job performing and telling the story. A+
 
 #### Violet - Broadway - May 24, 2014
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Sutton Foster (Violet), Joshua Henry (Flick), Colin Donnell (Monty), Emerson Steele (Young Vi), Alexander Gemignani (Father), Annie Golden (Old Lady/Hotel Hooker), Ben Davis (Preacher/Radio Singer/Bus Driver 1/Bus Driver 4), Austin Lesch (Virgil/Billy Dean/Bus Driver 2/Radio Singer/Bus Passenger), Anastacia McCleskey (Music Hall Singer/Bus Passenger), Rema Webb (Lula Buffington/Almeta/Bus Passenger), Charlie Pollock (Leroy Evans/Radio Soloist/Bus Driver 3/Bus Passenger)
@@ -11082,7 +11082,19 @@ CAST
 NOTES
 : Very beginning of the show is missing, but it picks up about halfway through Water in the Well and complete from there with a couple quick dropouts. Well filmed with clear picture and good sound.
 
-## The Visit (6)
+## The Visit
+
+#### The Visit - Signature Theatre, Arlington VA - June 22, 2008
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Chita Rivera (Claire Zachanassian), George Hearn (Anton Schell), Karen Murphy (Matilde Schell), Kevin Reed (Karl Schell), Matthew Deming (Louis Perch), Bethe B Austin (Annie Dummermut), James Harms (Rudi), Ryan Lowe (Jacob Chicken), D B Bonds (Young Anton), Cristen Paige (Ottilie Schell), Mary Ann Lamb (Young Claire)
+
+NOTES
+: Produced at The Signature Theatre as part of the Kander & Ebb Celebration.
 
 #### The Visit - Benefit Concert - November 30, 2011
 {: .no_toc .d-inline-block }
@@ -11091,7 +11103,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Chita Rivera (Claire Zachanassian), John Cullum (Anton Schell), Jeremy Webb (Frederich Kuhn), Mark Jacoby (Peter Dummermut), Karen Murphy (Matilde Schell), Kevin Reed (Karl Schell), Matthew Deming (Louis Perch), Linda Balgord (Annie Dummermut), Michael Hayward-Jones (Father Josef), James Harms (Rudi), Ryan Lowe (Jacob Chicken), DB Bonds (Young Anton), Dana Steingold (Ottilie Schell), Mary Ann Lamb (Young Claire)
@@ -11106,7 +11118,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Chita Rivera (Claire Zachanassian), Roger Rees (Anton Schell), Jason Danieley (Frederich Kuhn), David Garrison (Peter Dummermut), Mary Beth Peil (Matilde Schell), George Abud (Karl Schell), Matthew Deming (Louis Perch), Diana DiMarzio (Annie Dummermut), Rick Holmes (Father Josef), Tom Nelis (Rudi), Chris Newcomer (Jacob Chicken), Aaron Ramey (Otto Hahnke), John Riddle (Young Anton), Elena Shaddow (Ottilie Schell), Timothy Shew (Hans Nusselin), Michelle Veintimilla (Young Claire)
@@ -11121,7 +11133,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Chita Rivera (Claire Zachanassian), Roger Rees (Anton Schell), Jason Danieley (Frederich Kuhn), David Garrison (Peter Dummermut), Mary Beth Peil (Matilde Schell), George Abud (Karl Schell), Matthew Deming (Louis Perch)
@@ -11130,9 +11142,10 @@ NOTES
 : Great HD capture of the Kander & Ebb musical that finally made it to Broadway. At times a head can block the Actor\'s feet on the far right side, but rarely an issue. Chita still in wonderful form here and always delivers in this dark tale of a scorned woman! A-
 
 #### The Visit - Broadway - April 22, 2015 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Chita Rivera (Claire Zachanassian), Roger Rees (Anton Schell), Jason Danieley (Frederich Kuhn), David Garrison (Peter Dummermut), George Abud (Karl Schell), Matthew Deming (Louis Perch), Diana DiMarzio (Annie Dummermut), Rick Holmes (Father Josef)
@@ -11147,21 +11160,10 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Chita Rivera (Claire Zachanassian), Tom Nelis (Anton Schell), Jason Danieley (Frederich Kuhn), David Garrison (Peter Dummermut), Mary Beth Peil (Matilde Schell), George Abud (Karl Schell), Matthew Deming (Louis Perch), Diana DiMarzio (Annie Dummermut), Rick Holmes (Father Josef), Chris Newcomer (Jacob Chicken), Aaron Ramey (Otto Hahnke), John Riddle (Young Anton), Elena Shaddow (Ottilie Schell), Timothy Shew (Hans Nusselin), Michelle Veintimilla (Young Claire)
 
 NOTES
 : Tom Nelis took over the role of Anton when Roger Rees departed the production. Good HD video with clear picture and great sound.
-
-#### The Visit - Signature Theatre, Arlington VA - June 22, 2008
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Chita Rivera (Claire Zachanassian), George Hearn (Anton Schell), Karen Murphy (Matilde Schell), Kevin Reed (Karl Schell), Matthew Deming (Louis Perch), Bethe B Austin (Annie Dummermut), James Harms (Rudi), Ryan Lowe (Jacob Chicken), D B Bonds (Young Anton), Cristen Paige (Ottilie Schell), Mary Ann Lamb (Young Claire)
-
-NOTES
-: Produced at The Signature Theatre as part of the Kander & Ebb Celebration.
