@@ -2871,10 +2871,10 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB+smalls `1 DVD` `4.00GB`
+: VOB+smalls `1 DVD` `4.00 GB`
 
 COMMENTS
-: Missing VTS_01_5.VOB, but the show is in full. The DVD menu says "London 01. 23. 93" but the content of the video matches the description of April 25, 1992 on various sites... not entirely sure about this one.
+: Missing VTS_01_5.VOB, but the show is in full; DVD menu says "London 01. 23. 93" but the content of the video is actually this one according to several trading sites and an older Cats trader.
 
 CAST
 : Ria Jones (Grizabella), Guy-Paul Roult de St Germain (Mr. Mistoffelees), Vincent Leigh (Munkustrap), Geoffrey Garrat (Skimbleshanks)
@@ -2943,7 +2943,7 @@ Issues
 {: .label .label-red }
 
 FORMAT
-: VOB `1 DVD` `non-original smalls`
+: VOB `1 DVD` `No DVD Menu`
 
 CAST
 : Stephanie J Block (Grizabella), Michael Brian Dunn (Bustopher Jones/Gus/Growltiger), Christine Negherbon (Jennyanydots), Joseph Medeiros (Mr. Mistoffelees), Lara Teeter (Munkustrap), Ken Page (Old Deuteronomy), Kevin Loreque (Rum Tum Tugger), Drew Humphrey (Skimbleshanks)
