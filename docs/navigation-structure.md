@@ -10198,14 +10198,22 @@ CAST
 NOTES
 : Presented as part of PBS Live From Lincoln Center series, and broadcast live from the Vivian Beaumont Theatre at Lincoln Center just 4 days before the end of the run of the show, making it the longest running revival of any Rogers and Hammerstein musical in history. Also included are interviews with the composers' daughters, Mary Rogers and Alice Hammerstein. Multi-camera pro-shot for TV
 
-## Spider-Man: Turn Off The Dark (1)
+## Spider-Man: Turn Off The Dark
 
-#### Spider-Man: Turn Off The Dark - Broadway - October 14, 2012 \| Lanelle
+#### Spider-Man: Turn Off The Dark - Broadway - October 14, 2012
+{: .no_toc .d-inline-block }
+
+Lanelle
+{: .label .label-blue }
+
+Issues
+{: .label .label-red }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs` `No DVD menu` `6.47 GB`
 
-COMMENTS: Faulty
+COMMENTS
+: Faulty when loaded into VLC (smalls don't work?) but all VOBs play fine on their own
 
 CAST
 : Matthew James Thomas (Peter Parker/Spider-Man), Kristen Martin (u/s Mary Jane Watson), Katrina Lenk (Arachne), Robert Cuccioli (Norman Osborn/Green Goblin)
@@ -10213,22 +10221,7 @@ CAST
 NOTES
 : Good zooms and decent audio quality, best so far.
 
-## SpongeBob SquarePants: The Broadway Musical (2)
-
-#### SpongeBob SquarePants: The Broadway Musical - Broadway - September 16, 2018 (Closing Night) 
-{: .no_toc .d-inline-block }
-
-NYCG8R 
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Ethan Slater (SpongeBob SquarePants), Danny Skinner (Patrick Star), Christina Sajous (Sandy Cheeks), Gavin Lee (Squidward Q. Tentacles), Gaelen Gilliland (The Mayor), Brian Ray Norris (Eugene Krabs), Wesley Taylor (Sheldon Plankton), Catherine Ricafort (Karen the Computer), Jai\'len Christine Li Josey (Pearl Krabs), Kelvin Moon Loh (Perch Perkins), Brandon Espinoza (Patchy the Pirate), Allan K Washington (Gary/Larry the Lobster), Abby C Smith (Mrs. Puff), JC Schuster (Old Man Jenkins), Tom Kenny (French Narrator)
-
-NOTES
-: Final Broadway Performance. This was a ROWDY, LOUD crowd. People leaning forward all the way blocked the far left side of the stage, but it\'s shot around best as possible and the bottom of the stage is blocked by some heads when action is all the way at the front - again, shot around best as possible. Also includes the full 18 minute speech at the end of the show.
+## SpongeBob SquarePants: The Broadway Musical
 
 #### SpongeBob SquarePants: The Broadway Musical - Pre-Broadway / Chicago - June 7, 2016 (Preview)
 {: .no_toc .d-inline-block }
@@ -10237,15 +10230,52 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Ethan Slater (SpongeBob SquarePants), Danny Skinner (Patrick Star), Lilli Cooper (Sandy Cheeks), Gavin Lee (Squidward Q. Tentacles), Carlos Lopez (Eugene Krabs), Nick Blaemire (Sheldon Plankton), Stephanie Hsu (Karen the Computer), Emmy Raver-Lampman (Pearl Krabs), Jason Michael Snow (Patchy the Pirate), Abby C Smith (Mrs. Puff)
 
 NOTES
-: Only Known Capture of Emmy Raver - Lampman as Pearl
+: Only Known Capture of Emmy Raver-Lampman as Pearl
 
-## Spring Awakening (7)
+#### SpongeBob SquarePants: The Broadway Musical - Broadway - September 16, 2018 (Closing Night) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+Issues
+{: .label .label-red }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+COMMENTS
+: Disc 1 (Act 1) cannot be played from the DVD menu but the VOBs play fine on their own
+
+CAST
+: Ethan Slater (SpongeBob SquarePants), Danny Skinner (Patrick Star), Christina Sajous (Sandy Cheeks), Gavin Lee (Squidward Q. Tentacles), Gaelen Gilliland (The Mayor), Brian Ray Norris (Eugene Krabs), Wesley Taylor (Sheldon Plankton), Catherine Ricafort (Karen the Computer), Jai\'len Christine Li Josey (Pearl Krabs), Kelvin Moon Loh (Perch Perkins), Brandon Espinoza (Patchy the Pirate), Allan K Washington (Gary/Larry the Lobster), Abby C Smith (Mrs. Puff), JC Schuster (Old Man Jenkins), Tom Kenny (French Narrator)
+
+NOTES
+: Final Broadway Performance. This was a ROWDY, LOUD crowd. People leaning forward all the way blocked the far left side of the stage, but it\'s shot around best as possible and the bottom of the stage is blocked by some heads when action is all the way at the front - again, shot around best as possible. Also includes the full 18 minute speech at the end of the show.
+
+## Spring Awakening
+
+### Off-Broadway
+
+#### Spring Awakening - Off-Broadway - July 9, 2006
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), John Gallagher Jr (Moritz Stiefel), Lauren Pritchard (Ilse Neumann), Jonathan B Wright (Hanschen Rilow), Gideon Glick (Ernst Robel), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Phoebe Strole (Anna), Remy Zaken (Thea Rilow), Mary McCann (The Adult Women), Frank Wood (The Adult Men)
+
+NOTES
+: Done before the move to Broadway, nice picture and sound. A
+
+### Broadway
 
 #### Spring Awakening - Broadway - February 10, 2007
 {: .no_toc .d-inline-block }
@@ -10254,7 +10284,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), John Gallagher Jr (Moritz Stiefel), Phoebe Strole (u/s Ilse Neumann), Lilli Cooper (Martha Bessell), Jonathan B Wright (Hanschen Rilow), Gideon Glick (Ernst Robel), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Krysta Rodriguez (u/s Anna), Remy Zaken (Thea Rilow), Frances Mercanti-Anthony (u/s The Adult Women), Stephen Spinella (The Adult Men)
@@ -10263,17 +10293,22 @@ NOTES
 : AMAZING capture, closeups, performances. Not to be missed. A+
 
 #### Spring Awakening - Broadway - May 18, 2008
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), Blake Bashoff (Moritz Stiefel), Emma Hunton (Ilse Neumann), Matt Doyle (Hanschen Rilow), Blake Daniel (Ernst Robel), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Phoebe Strole (Anna), Remy Zaken (Thea Rilow), Christine Estabrook (The Adult Women), Glenn Fleshler (The Adult Men)
 
 NOTES
-: Jonathan Groff and Lea Michele\'s final performance
+: Jonathan Groff and Lea Michele\'s last performance
 
-#### Spring Awakening - Broadway - July 19, 2008 (broadwayspunk
+#### Spring Awakening - Broadway - July 19, 2008
+{: .no_toc .d-inline-block }
+
+broadwayspunk
+{: .label .label-blue }
 
 FORMAT
 : VOB+smalls
@@ -10285,9 +10320,10 @@ NOTES
 : Skylar Astin, Lilli Cooper, Brian Charles Johnson, Phoebe Strole, and Remy Zaken's last performance
 
 #### Spring Awakening - Broadway - January 18, 2009 (Closing Night)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Hunter Parrish (Melchior Gabor), Alexandra Socha (Wendla Bergmann), Gerard Canonico (Moritz Stiefel), Emma Hunton (Ilse Neumann), Amanda Castanos (Martha Bessell), Matt Doyle (Hanschen Rilow), Blake Daniel (Ernst Robel), Gabe Violett (Otto Lämmermeier), Andrew Durand (Georg Zirschnitz), Emily Kinney (Anna), Caitlin Kinnunen (Thea Rilow), Christine Estabrook (The Adult Women), Glenn Fleshler (The Adult Men), Alice Lee, Eryn Murman, Morgan Karr, Zach Reiner-Harris
@@ -10295,20 +10331,7 @@ CAST
 NOTES
 : Closing Performance; features the full curtain call speech and the full show; some blackouts due to ushers; great sound and nice video
 
-#### Spring Awakening - Broadway Revival - November 15, 2015
-{: .no_toc .d-inline-block }
-
-SunsetBlvd79
-{: .label .label-blue }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Austin McKenzie (Melchior Gabor), Sandra Mae Frank (Wendla Bergmann), Katie Boeck (Voice of Wendla), Daniel N Durant (Moritz Stiefel), Alex Boniello (Voice of Moritz), Krysta Rodriguez (Ilse Neumann), Treshelle Edmond (Martha Bessell), Kathryn Gallagher (Voice of Martha), Andy Mientus (Hanschen Rilow), Joshua Castille (Ernst Robel), Daniel David Stewart (Voice of Ernst), Miles Barbee (Otto Lämmermeier), Sean Grandillo (Voice of Otto), Alex Wyse (Georg Zirschnitz), Ali Stroker (Anna), Amelia Hensley (Thea Rilow), Lauren Luiz (Melitta Rilow / Voice of Thea), Alexandra Winter (Greta Brandenburg), Alexandria Wailes (u/s The Adult Women), Elizabeth Greene (u/s Voice of Adult Women), Russell Harvard (The Adult Men), Patrick Page (Voice of Adult Men)
-
-NOTES
-: Beautiful HD capture of the sign language production. This capture features the Adult Women understudies, who would go on to replace the originals. Also includes Left Behind from a Jon Groff concert. A
+### First National Tour
 
 #### Spring Awakening - First National Tour - August 15, 2008
 {: .no_toc .d-inline-block }
@@ -10317,7 +10340,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Kyle Riabko (Melchior Gabor), Christy Altomare (Wendla Bergmann), Blake Bashoff (Moritz Stiefel), Steffi DiDomenicantonio (Ilse Neumann), Sarah Hunt (Martha Bessell), Andy Mientus (Hanschen Rilow), Ben Moss (Ernst Robel), Anthony Lee Medina (Otto Lämmermeier), Matt Shingledecker (Georg Zirschnitz), Gabrielle Garza (Anna), Kimiko Glenn (Thea Rilow), Angela Reed (The Adult Women), Henry Stram (The Adult Men)
@@ -10325,44 +10348,24 @@ CAST
 NOTES
 : First Tour Performance. Stunning capture of the Tour. Absolutely no blackouts or obstructions from start to finish. Wonderful performances, beautiful capture and amazing cast. A+
 
-#### Spring Awakening - Off-Broadway - July 9, 2006
+### Broadway Revival
 
-FORMAT
-: VOB+smalls
-
-CAST
-: Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), John Gallagher Jr (Moritz Stiefel), Lauren Pritchard (Ilse Neumann), Jonathan B Wright (Hanschen Rilow), Gideon Glick (Ernst Robel), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Phoebe Strole (Anna), Remy Zaken (Thea Rilow), Mary McCann (The Adult Women), Frank Wood (The Adult Men)
-
-NOTES
-: Done before the move to Broadway, nice picture and sound. A
-
-## Starlight Express (3)
-
-#### Starlight Express - Bochum, Germany - January 28, 2015
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Kevin Köhler, Trina Hill, David Moore, Matthew Goodgame, Emma Prosser, Paul Shipp, Ben Draper, Sian Velazquez, Carla Pullen, Toby Poole, Paul Treacy, Jason Gray, Brett Shields, Brad Corben, Cary Chennell, Dean Coach, Kelly Downing, Dawn Leigh Woods, Melanie Brown, Graham Harvey, Elliot Collins, Adam Bailey, Jeffrey Socia, Craig Tyler, Manuel Reckow, Etienne Vogel
-
-NOTES
-: Excellent shoot, taper clearly knows the show. A couple particularly blocky bits couldn't be smoothed out.
-
-#### Starlight Express - Las Vegas - September 8, 1996
+#### Spring Awakening - Broadway Revival - November 15, 2015
 {: .no_toc .d-inline-block }
 
-Pro-Shot
-{: .label .label-green }
+SunsetBlvd79
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
-: Greg Ellis (Rusty), Ron DeVito (Greaseball), Dawn Marie Church (Dinah), Lothair Eaton (Papa)
+: Austin McKenzie (Melchior Gabor), Sandra Mae Frank (Wendla Bergmann), Katie Boeck (Voice of Wendla), Daniel N Durant (Moritz Stiefel), Alex Boniello (Voice of Moritz), Krysta Rodriguez (Ilse Neumann), Treshelle Edmond (Martha Bessell), Kathryn Gallagher (Voice of Martha), Andy Mientus (Hanschen Rilow), Joshua Castille (Ernst Robel), Daniel David Stewart (Voice of Ernst), Miles Barbee (Otto Lämmermeier), Sean Grandillo (Voice of Otto), Alex Wyse (Georg Zirschnitz), Ali Stroker (Anna), Amelia Hensley (Thea Rilow), Lauren Luiz (Melitta Rilow / Voice of Thea), Alexandra Winter (Greta Brandenburg), Alexandria Wailes (u/s The Adult Women), Elizabeth Greene (u/s Voice of Adult Women), Russell Harvard (The Adult Men), Patrick Page (Voice of Adult Men)
 
 NOTES
-: Last show of the 1995-1996 cast. Pro-shot, filmed with one camera for the cast and crew. Repaired audio.
+: Beautiful HD capture of the sign language production. This capture features the Adult Women understudies, who would go on to replace the originals. Also includes Left Behind from a Jon Groff concert. A
+
+## Starlight Express
 
 #### Starlight Express - London Workshop - 1983
 {: .no_toc .d-inline-block }
@@ -10371,7 +10374,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `3.54 GB`
 
 CAST
 : Ray Shell, Tracey Ullman, Frances Ruffelle, Danny John Jules, Lon Satton, Jeff Shankley, Michael Staniforth
@@ -10379,7 +10382,34 @@ CAST
 NOTES
 : Pro-shot video filmed in a studio and not on stage
 
-## Stepping Out (1)
+#### Starlight Express - Las Vegas - September 8, 1996
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `1.98 GB`
+
+CAST
+: Greg Ellis (Rusty), Ron DeVito (Greaseball), Dawn Marie Church (Dinah), Lothair Eaton (Papa)
+
+NOTES
+: Last show of the 1995-1996 cast. Pro-shot, filmed with one camera for the cast and crew. Repaired audio.
+
+#### Starlight Express - Bochum, Germany - January 28, 2015
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Kevin Köhler, Trina Hill, David Moore, Matthew Goodgame, Emma Prosser, Paul Shipp, Ben Draper, Sian Velazquez, Carla Pullen, Toby Poole, Paul Treacy, Jason Gray, Brett Shields, Brad Corben, Cary Chennell, Dean Coach, Kelly Downing, Dawn Leigh Woods, Melanie Brown, Graham Harvey, Elliot Collins, Adam Bailey, Jeffrey Socia, Craig Tyler, Manuel Reckow, Etienne Vogel
+
+NOTES
+: Excellent shoot, taper clearly knows the show. A couple particularly blocky bits couldn't be smoothed out.
+
+## Stepping Out
 
 #### Stepping Out - UK Tour - 2009
 {: .no_toc .d-inline-block }
@@ -10388,7 +10418,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 (SD) \| 2.20 GB
+: MP4 `576p` `2.20 GB`
 
 CAST
 : Brian Capron (Geoffrey), Jessie Wallace (Sylvia), Rosemary Ashe (Mrs Fraser)
@@ -10396,15 +10426,16 @@ CAST
 NOTES
 : A producer\'s copy of the 25th anniversary UK tour production. This recording (a single cam, wide stage) was filmed for the understudies to remember their staging. It was recorded by the producers early in the run at the Leatherhead Theatre
 
-## The Story of My Life (1)
+## The Story of My Life
 
 #### The Story of My Life - Broadway - February 11, 2009 (Preview)
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 COMMENTS
-: Non-original smalls; Would trade for original files
+: Recording of another DVD; Would trade for the original files
 
 CAST
 : Malcolm Gets (Alvin Kelby), Will Chase (Thomas Weaver)
@@ -10412,12 +10443,18 @@ CAST
 NOTES
 : One of the few performances of this wonderful show
 
-## Sunset Boulevard (14)
+## Sunset Boulevard
 
-#### Sunset Boulevard - Sydmonton - August 31, 1991 (Pro-Shot\'s master)
+### Sydmonton Festival
+
+#### Sunset Boulevard - Sydmonton - August 31, 1991
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `1.32 GB`
 
 CAST
 : Ria Jones (Norma Desmond), Michael Ball (Joe Gillis), Kevin Colson (Max von Mayerling), Frances Ruffelle (Betty Schaeffer)
@@ -10425,10 +10462,73 @@ CAST
 NOTES
 : 36 minutes footage. Nice to see how different this is in terms of lyrics, music arrangements, dialogue compared to the 1992 Sydmonton video. Very grainy, a lot of gen loss B-
 
-#### Sunset Boulevard - Broadway - July 14, 1995
+#### Sunset Boulevard - Sydmonton - September 5, 1992
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: `1` VOB+smalls `1 DVD` `4.20 GB`
+: `2` VOB+smalls `2 DVDs` `3.72 GB`
+
+CAST
+: Patti LuPone (Norma Desmond), Kevin Anderson (Joe Gillis), Michael Bauer (Max von Mayerling), Meredith Braun (Betty Schaeffer)
+
+NOTES
+: It's a proshot. But it's a very high generation proshot with a massive amount of generation loss and distortion in the picture. The audio's still OK but not great. Despite stabilisation and colour rebalancing, this still is painful to actually look at if you have any kind of light sensitivity. Act two is better at times, and falls into complete and total dropouts at others. Note: There seems to be two versions of this dvd being traded around. One is the wrong aspect ratio and very grainy and the second one is more clearer and has the right aspect ratio. Please check with traders.
+
+### West End
+
+#### Sunset Boulevard - West End - July, 1993 (Preview) 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2.71 GB`
+
+CAST
+: Patti LuPone (Norma Desmond), Kevin Anderson (Joe Gillis), Daniel Benzali (Max von Mayerling)
+
+NOTES
+: Black and white house-cam footage with crystal clear soundboard audio, slightly washed out at times (as it was in infrared) but a great capture of the performances and the staging. Definitely filmed in July. Theres a higher quality MP4 version with no graininess and clear footage being traded as well. Check with traders.
+
+#### Sunset Boulevard - West End - 1995
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs` `4.65 GB`
+
+CAST
+: Betty Buckley (Norma Desmond), Glyn Kerslake (u/s Joe Gillis), Michael Bauer (Max von Mayerling), Anita Louise Combe (Betty Schaeffer)
+
+NOTES
+: Suffered generation loss, Colors are weird, Soundboard audio. Joe is played by Glyn Kerslake (u/s), NOT John Barrowman
+
+#### Sunset Boulevard - West End - February 7, 1997
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.10 GB`
+
+CAST
+: Petula Clark (Norma Desmond), Bill Champion (Joe Gillis), Michael Bauer (Max von Mayerling), Fiona Sinnott (Betty Schaeffer)
+
+NOTES
+: Probably the highest quality full video of the West End production in terms of colour, sharpness. Recorded from right upper circle.
+
+### Broadway
+
+#### Sunset Boulevard - Broadway - July 14, 1995
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD` `2.72 GB`
 
 CAST
 : Betty Buckley (Norma Desmond), Alan Campbell (Joe Gillis), Steven Stein-Grainger (u/s Max von Mayerling), Alice Ripley (Betty Schaeffer)
@@ -10437,15 +10537,18 @@ NOTES
 : Good quality for it\'s age, no fuzziness or lines. Has nice angles of scenes and few spotlight washouts. Recorded from the left mezzanine from the fist few rows with full curtain call.
 
 #### Sunset Boulevard - Broadway - March 3, 1997
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `2.44 GB`
 
 CAST
 : Elaine Paige (Norma Desmond), Alan Campbell (Joe Gillis), Larry Small (u/s Max von Mayerling), Alice Ripley (Betty Schaeffer)
 
 NOTES
 : Recored from left mezzanine. Good for it\'s age, few washouts.
+
+### Broadway Revival
 
 #### Sunset Boulevard - Broadway Revival - February 3, 2017 (Preview)
 {: .no_toc .d-inline-block }
@@ -10454,7 +10557,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Glenn Close (Norma Desmond), Michael Xavier (Joe Gillis), Fred Johanson (Max von Mayerling), Siobhan Dillon (Betty Schaeffer), Preston Truman Boyd (Artie Green), Paul Schoeffler (Cecil B. DeMille), Andy Taylor (Sheldrake), Jim Walton (Manfred)
@@ -10469,7 +10572,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Glenn Close (Norma Desmond), Michael Xavier (Joe Gillis), Fred Johanson (Max von Mayerling), Siobhan Dillon (Betty Schaeffer), Preston Truman Boyd (Artie Green), Paul Schoeffler (Cecil B. DeMille)
@@ -10477,10 +10580,13 @@ CAST
 NOTES
 : A nice HD capture of the Final Broadway Performance. This contains all of Act One and only the first seven minutes of Act Two, which cuts off shortly after the title song and poolside scene. The opening number is blocked on the right side of stage, not really an issue after that. A-
 
+### MISC
+
 #### Sunset Boulevard - Los Angeles - June 17, 1994
+{: .no_toc .d-inline-block }
 
 FORMAT
-: Other video (see notes)
+: VOB `NO SMALLS` `4.32 GB`
 
 CAST
 : Glenn Close (Norma Desmond), Alan Campbell (Joe Gillis), George Hearn (Max von Mayerling), Vincent Tumeo (Artie Green), Alan Oppenheimer (Cecil B. DeMille)
@@ -10488,80 +10594,14 @@ CAST
 NOTES
 : Beautifully filmed with great close-ups. Occasional heads in the bottom of the frame. Some generational loss, and some tracking issues, VHS flicker gets worse towards end, but surprisingly good for it's age. Starts in the middle of the prologue.
 
-#### Sunset Boulevard - Sydmonton - September 5, 1992
+#### Sunset Boulevard - Netherlands - 2009
 {: .no_toc .d-inline-block }
 
 Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
-
-COMMENTS
-: I have both versions and will automatically trade out the higher quality 1-disc version unless otherwise requested
-
-CAST
-: Patti LuPone (Norma Desmond), Kevin Anderson (Joe Gillis), Michael Bauer (Max von Mayerling), Meredith Braun (Betty Schaeffer)
-
-NOTES
-: It's a proshot. But it's a very high generation proshot with a massive amount of generation loss and distortion in the picture. The audio's still OK but not great. Despite stabilisation and colour rebalancing, this still is painful to actually look at if you have any kind of light sensitivity. Act two is better at times, and falls into complete and total dropouts at others. Note: There seems to be two versions of this dvd being traded around. One is the wrong aspect ratio and very grainy and the second one is more clearer and has the right aspect ratio. Please check with traders.
-
-#### Sunset Boulevard - UK Tour - April 8, 2018 \| Rumpel
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Ria Jones (Norma Desmond), Danny Mac (Joe Gillis), Adam Pearce (Max von Mayerling), Molly Lynch (Betty Schaeffer), Dougie Carter (Artie Green), Carl Sanderson (Cecil B. DeMille), Kristoffer Hellström (Sheldrake), Simon Loughton (Manfred)
-
-NOTES
-: An awesome capture of this new tour
-
-#### Sunset Boulevard - West End - 1995
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Betty Buckley (Norma Desmond), Glyn Kerslake (u/s Joe Gillis), Michael Bauer (Max von Mayerling), Anita Louise Combe (Betty Schaeffer)
-
-NOTES
-: Suffered generation loss, Colors are weird, Soundboard audio. Joe is played by Glyn Kerslake (u/s), NOT John Barrowman
-
-#### Sunset Boulevard - West End - February 7, 1997
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Petula Clark (Norma Desmond), Bill Champion (Joe Gillis), Michael Bauer (Max von Mayerling), Fiona Sinnott (Betty Schaeffer)
-
-NOTES
-: Probably the highest quality full video of the West End production in terms of colour, sharpness. Recorded from right upper circle.
-
-#### Sunset Boulevard - West End - July, 1993 (Preview) 
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Patti LuPone (Norma Desmond), Kevin Anderson (Joe Gillis), Daniel Benzali (Max von Mayerling)
-
-NOTES
-: Black and white house-cam footage with crystal clear soundboard audio, slightly washed out at times (as it was in infrared) but a great capture of the performances and the staging. Definitely filmed in July. Theres a higher quality MP4 version with no graininess and clear footage being traded as well. Check with traders.
-
-#### Sunset Boulevard - Netherlands - 2009 (Pro-Shot\'s master)
-
-FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Pia Douwes (Norma Desmond), Antonie Kamerling (Joe Gillis), Peter de Smet (Max von Mayerling), Maike Boerdam (Betty Schaeffer), Jasper Kerkhof (Artie Green), Dick Schaar (Cecil B. DeMille), Paul Disbergen (Sheldrake), Derek Blok (Manfred), Mo Marcus (Heather)
@@ -10573,7 +10613,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Ann Morrison (Norma Desmond), Chris Peluso (Joe Gillis), Nicholas Saverine (Max von Mayerling), Kaleigh Cronin (Betty Schaeffer), Cody Davis (Artie Green), Charles Parker (Cecil B. DeMille), Timothy W Robu (Sheldrake)
@@ -10581,10 +10621,14 @@ CAST
 NOTES
 : A big, gorgeous production by the Music Theatre Of Wichita. Beautifully filmed using one camera on a tripod, with sound patched directly in from the sound board. Crystal clear. 2 DVDs.
 
-#### Sunset Boulevard - Tecklenburg - September 9, 2014 (Pro-Shot\'s master)
+#### Sunset Boulevard - Tecklenburg - September 9, 2014
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Maya Hakvoort (Norma Desmond), Julian Looman (Joe Gillis), Reinhard Brussmann (Max von Mayerling), Wietske van Tongeren (t/r Betty Schaeffer), Thomas Hohler (Artie Green), Erwin Bruhn (Cecil B. DeMille)
@@ -10592,12 +10636,73 @@ CAST
 NOTES
 : Pro-Shot video. Performed in open air theatre at night.
 
-## Sweeney Todd: The Demon Barber of Fleet Street (9)
+#### Sunset Boulevard - UK Tour - April 8, 2018
+{: .no_toc .d-inline-block }
 
-#### Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - October 18, 2005 (Preview)
+Rumpel
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
+
+CAST
+: Ria Jones (Norma Desmond), Danny Mac (Joe Gillis), Adam Pearce (Max von Mayerling), Molly Lynch (Betty Schaeffer), Dougie Carter (Artie Green), Carl Sanderson (Cecil B. DeMille), Kristoffer Hellström (Sheldrake), Simon Loughton (Manfred)
+
+NOTES
+: An awesome capture of this new tour
+
+#### Sunset Boulevard - Curve Theatre -  December, 2020
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `8.90 GB` `Screen recording`
+
+CAST
+: Ria Jones (Norma Desmond), Danny Mac (Joe Gillis), Molly Lynch (Betty Schaefer), ​ Adam Pearce (Max Von Mayerling), Dougie Carter (Artie Green), Benjamin Chambers (Sammy), Owen Chaponda (Financier), Joanna Goodwin (Lisa), Kristoffer Hellström (Sheldrake),  James Meunier (Myron), Gemma Naylor (Jean), Joanna O'hare (Mary), Jessica Paul (Joanna), Sam Peggs (Hog Eye), Carl Sanderson (Cecil B Demille), Barney Wilkinson (Adam)
+
+NOTES
+: \"Sunset Boulevard in Concert – At Home\" filmed across December 18 and 19, 2020 on stage at Curve. Streamed from December 22, 2020 to January 17, 2021.
+
+## Sweeney Todd: The Demon Barber of Fleet Street
+
+#### Sweeney Todd: The Demon Barber of Fleet Street - San Jose Civic Light Opera - January, 1988 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `3.97 GB`
+
+CAST
+: Ed Evanko (Sweeney Todd), Jean Stapleton (Mrs. Lovett), Caryn Hartglass (Johanna), Randy Brenner (Tobias Ragg), Linda Kessel-Solis (Beggar Woman), Joseph Fincher, KC Wilson, Kurt Schoenweiler, Marvin Smith, Sal Mistretta
+
+NOTES
+: This is a different interpretation of the show, set during World War I. Beautifully filmed. Occasionally dark, and some generational loss. Semi-pro shot using one camera on a tripod.
+
+#### Sweeney Todd: The Demon Barber of Fleet Street - San Francisco Symphony Concert - July, 2001
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 `1080p` `4.15 GB`
+
+CAST
+: George Hearn (Sweeney Todd), Patti LuPone (Mrs. Lovett), Davis Gaines (Anthony Hope), Lisa Vroman (Johanna), Timothy Nolen (Judge Turpin), Neil Patrick Harris (Tobias Ragg), John Aler (Beadle Bamford), Victoria Clark (Beggar Woman)
+
+NOTES
+: Aired on PBS on October 31, 2001.
+
+#### Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - October 18, 2005 (Preview)
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls `1 DVD`
 
 CAST
 : Michael Cerveris (Sweeney Todd), Patti LuPone (Mrs. Lovett), Benjamin Magnuson (Anthony Hope), Lauren Molina (Johanna), Mark Jacoby (Judge Turpin), Manoel Felciano (Tobias Ragg), Alexander Gemignani (Beadle Bamford), Donna Lynne Champlin (Adolfo Pirelli)
@@ -10606,9 +10711,10 @@ NOTES
 : Shot from the mezzanine
 
 #### Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - October 29, 2005 (Preview)
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Michael Cerveris (Sweeney Todd), Patti LuPone (Mrs. Lovett), Benjamin Magnuson (Anthony Hope), Lauren Molina (Johanna), Mark Jacoby (Judge Turpin), Manoel Felciano (Tobias Ragg), Alexander Gemignani (Beadle Bamford), Diana DiMarzio (Beggar Woman), Donna Lynne Champlin (Adolfo Pirelli), John Arbo (Jonas Fogg)
@@ -10623,7 +10729,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Michael Cerveris (Sweeney Todd), Patti LuPone (Mrs. Lovett), Benjamin Magnuson (Anthony Hope), Lauren Molina (Johanna), Mark Jacoby (Judge Turpin), Alexander Gemignani (Beadle Bamford), Diana DiMarzio (Beggar Woman), Donna Lynne Champlin (Adolfo Pirelli), John Arbo (Jonas Fogg)
@@ -10632,15 +10738,28 @@ NOTES
 : Great Revival and nicely done. Crystal clear picture and sound. Lots of closeups. A
 
 #### Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - September 3, 2006 (Closing Night)
+{: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Michael Cerveris (Sweeney Todd), Patti LuPone (Mrs. Lovett), Benjamin Magnuson (Anthony Hope), Lauren Molina (Johanna), Mark Jacoby (Judge Turpin), Manoel Felciano (Tobias Ragg), Alexander Gemignani (Beadle Bamford), Diana DiMarzio (Beggar Woman), Donna Lynne Champlin (Adolfo Pirelli), John Arbo (Jonas Fogg)
 
+#### Sweeney Todd: The Demon Barber of Fleet Street - Third West End Revival - 2011 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `1 DVD` `No DVD menu`
+
+CAST
+: Michael Ball (Sweeney Todd), Imelda Staunton (Mrs. Lovett), Luke Brady (Anthony Hope), Lucy May Barker (Johanna), John Bowe (Judge Turpin), James McConville (Tobias Ragg), Peter Polycarpou (Beadle Bamford), Gillian Kirkpatrick (Beggar Woman), Rob Burt (Adolfo Pirelli)
+
 NOTES
-: Final Performance
+: Fixed house-cam recording of the 2012 West End revival at Adelphie Theatre. There is a copy with press footage inserted for A Little Priest and Epiphany. Unsure if there is unaltered footage circulating; check with traders.
 
 #### Sweeney Todd: The Demon Barber of Fleet Street - New York Philharmonic Concert - March 5-8, 2014
 {: .no_toc .d-inline-block }
@@ -10649,7 +10768,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 (HD) \| 720p
+: MP4 `720p` `2.66 GB`
 
 COMMENTS
 : Directly downloaded from the PBS website when they streamed it
@@ -10660,36 +10779,6 @@ CAST
 NOTES
 : Filmed in March 2014 and aired on PBS on September 26, 2014.
 
-#### Sweeney Todd: The Demon Barber of Fleet Street - San Francisco Symphony Concert - July, 2001
-{: .no_toc .d-inline-block }
-
-Pro-Shot
-{: .label .label-green }
-
-FORMAT
-: MP4 (HD)
-
-CAST
-: George Hearn (Sweeney Todd), Patti LuPone (Mrs. Lovett), Davis Gaines (Anthony Hope), Lisa Vroman (Johanna), Timothy Nolen (Judge Turpin), Neil Patrick Harris (Tobias Ragg), John Aler (Beadle Bamford), Victoria Clark (Beggar Woman)
-
-NOTES
-: Aired on PBS on October 31, 2001.
-
-#### Sweeney Todd: The Demon Barber of Fleet Street - San Jose Civic Light Opera - January, 1988 
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Ed Evanko (Sweeney Todd), Jean Stapleton (Mrs. Lovett), Caryn Hartglass (Johanna), Randy Brenner (Tobias Ragg), Linda Kessel-Solis (Beggar Woman), Joseph Fincher, KC Wilson, Kurt Schoenweiler, Marvin Smith, Sal Mistretta
-
-NOTES
-: This is a different interpretation of the show, set during World War I. Beautifully filmed. Occasionally dark, and some generational loss. Semi-pro shot using one camera on a tripod.
-
 #### Sweeney Todd: The Demon Barber of Fleet Street - TheatreWorks Silicon Valley - October 12, 2014 
 {: .no_toc .d-inline-block }
 
@@ -10697,22 +10786,7 @@ SJ Bernly
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : David Studwell (Sweeney Todd), Tory Ross (Mrs. Lovett), Jack Mosbacher (Anthony Hope), Mindy Lym (Johanna), Lee Strawn (Judge Turpin), Spencer Kiely (Tobias Ragg), Rojas Dietrich (Beadle Bamford), Fryvecind Gimenez (Beggar Woman)
-
-#### Sweeney Todd: The Demon Barber of Fleet Street - Third West End Revival - 2011 
-{: .no_toc .d-inline-block }
-
-House-Cam
-{: .label .label-green }
-
-FORMAT
-: VOB+smalls
-
-CAST
-: Michael Ball (Sweeney Todd), Imelda Staunton (Mrs. Lovett), Luke Brady (Anthony Hope), Lucy May Barker (Johanna), John Bowe (Judge Turpin), James McConville (Tobias Ragg), Peter Polycarpou (Beadle Bamford), Gillian Kirkpatrick (Beggar Woman), Rob Burt (Adolfo Pirelli)
-
-NOTES
-: Fixed house-cam recording of the 2012 West End revival at Adelphie Theatre. There is a copy with press footage inserted for A Little Priest and Epiphany. Unsure if there is unaltered footage circulating; check with traders.
