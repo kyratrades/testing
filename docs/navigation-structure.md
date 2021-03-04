@@ -6637,7 +6637,7 @@ FORMAT
 : VOB+smalls `1 DVD` `3.69 GB`
 
 COMMENTS
-: This is meely the recording of another DVD, please tell me if you have the original!
+: This is merely the recording of another DVD, please tell me if you have the original!
 
 CAST
 : Will Chase (John), Chad Kimball, Chuck Cooper, Julia Murney, Julie Danao, Mandy Gonzalez, Marcy Harriell, Michael Potts, Terrence Mann
