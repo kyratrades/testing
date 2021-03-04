@@ -11169,3 +11169,600 @@ CAST
 
 NOTES
 : Tom Nelis took over the role of Anton when Roger Rees departed the production. Good HD video with clear picture and great sound.
+
+# W
+
+## Waiting for Godot (1)
+
+#### Waiting for Godot - Broadway - November 24, 2013 (Opening Night) \| Lanelle
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Aidan Gemme (The Boy), Billy Crudup (Lucky), Ian McKellen (Estragon), Patrick Stewart (Vladimir), Shuler Hensley (Pozzo)
+
+## Waitress (20)
+
+#### Waitress - Broadway - March 30, 2016 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jessie Mueller (Jenna), Keala Settle (Becky), Kimiko Glenn (Dawn), Drew Gehling (Dr. Pomatter), Christopher Fitzgerald (Ogie), Eric Anderson (Cal), Dakin Matthews (Joe), Nick Cordero (Earl)
+
+NOTES
+: Beautiful capture of this stunning Broadway transfer. This is the performance where the set broke and Sara Bareilles came out while it was being fixed. She sang (a cut song from the show and Part of Your World) and talked with the audience, which is included. A+
+
+#### Waitress - Broadway - June 14, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jessie Mueller (Jenna), Keala Settle (Becky), Kimiko Glenn (Dawn), Drew Gehling (Dr. Pomatter), Christopher Fitzgerald (Ogie), Eric Anderson (Cal), Dakin Matthews (Joe), Nick Cordero (Earl)
+
+NOTES
+: Fantastic performances from the entire original cast. Jessie's voice fits beautifully with the score, and she gives a gut-wrenching performance of She Used to Be Mine. Drew, Kimiko, Keala, and Christopher are each hilarious and endearing. Nicely captured with just a few quick dropouts and no major blackouts. There is one head on the left that can occasionally be seen, but it never blocks the action. There is some slight washout in some of the wider shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+#### Waitress - Broadway - July 20, 2016
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jessie Mueller (Jenna), Keala Settle (Becky), Stephanie Torns (u/s Dawn), Drew Gehling (Dr. Pomatter), Jeremy Morse (u/s Ogie), Eric Anderson (Cal), Dakin Matthews (Joe), Nick Cordero (Earl), Charity Angél Dawson (Nurse Norma), McKenna Keane (Lulu), Ragan Pharris (s/w Francine Pomatter), Molly Hager (Mother), Ryan Vasquez (Father)
+
+NOTES
+: Beautiful HD capture with no obstructions of this charming show. Kimiko was on leave and Stephanie steps into the role, doing a wonderful job as Dawn. Terrific cast and performances! A+
+
+#### Waitress - Broadway - April 19, 2017
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sara Bareilles (Jenna), Charity Angél Dawson (Becky), Molly Jobe (u/s Dawn), Chris Diamantopoulos (Dr. Pomatter), Christopher Fitzgerald (Ogie), Eric Anderson (Cal), Dakin Matthews (Joe), Will Swenson (Earl), Anastacia McCleskey (Nurse Norma), Stephanie Torns (Francine Pomatter), Molly Hager (Mother), Matt DeAngelis (Father)
+
+NOTES
+: Beautiful HD capture of the new cast change as the composer, Sara Bareilles takes over Jenna. Her performance of \"What Baking Can Do\" will knock you onto the floor! Terrific and fresh cast with a ton of exciting energy! A
+
+#### Waitress - Broadway - August 10, 2018 (Highlights) (sorrynotsorry
+
+FORMAT
+: MOV (HD)
+
+CAST
+: Katharine McPhee (Jenna), NaTasha Yvette Williams (Becky), Katie Lowes (Dawn), Erich Bergen (Dr. Pomatter), Adam Shapiro (Ogie), Benny Elledge (Cal), Bill Nolte (Joe), Ben Thompson (Earl), Anastacia McCleskey (Nurse Norma), Stephanie Torns (Francine Pomatter), Molly Hager (Mother), Matt DeAngelis (Father)
+
+NOTES
+: Act two only, recorded vertically from a box with obstructed view of the stage. Very steady camera, excellent audio quality, and pretty good video!
+
+#### Waitress - Broadway - January 12, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 12.43 GB
+
+COMMENTS
+: Original files
+
+CAST
+: Sara Bareilles (Jenna), Anastacia McCleskey (u/s Becky), Lenne Klingaman (Dawn), Gavin Creel (Dr. Pomatter), Christopher Fitzgerald (Ogie), Benny Elledge (Cal), Larry Marshall (Joe), Ben Thompson (Earl), Tiffany Denise Hobbs (s/w Nurse Norma), Riley Summer Perler (Lulu), Stephanie Torns (Francine Pomatter), Molly Hager (Mother)
+
+NOTES
+: There\'s a good amount of obstruction, and I took the opportunity to rest my hand whenever Joe was onstage\...but pretty much everything that matters (or at least everything that the master cares about) is captured well. Sometimes we\'re on a slant and sometimes things aren\'t centered. Deal with it. I did the best I could while feeling comfortable and it\'s HD.
+
+#### Waitress - Broadway - January 12, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 4.59 GB
+
+CAST
+: Sara Bareilles (Jenna), Anastacia McCleskey (u/s Becky), Lenne Klingaman (Dawn), Gavin Creel (Dr. Pomatter), Christopher Fitzgerald (Ogie), Benny Elledge (Cal), Larry Marshall (Joe), Ben Thompson (Earl), Tiffany Denise Hobbs (s/w Nurse Norma), Riley Summer Perler (Lulu), Stephanie Torns (Francine Pomatter), Molly Hager (Mother)
+
+NOTES
+: There\'s a good amount of obstruction, and I took the opportunity to rest my hand whenever Joe was onstage\...but pretty much everything that matters (or at least everything that the master cares about) is captured well. Sometimes we\'re on a slant and sometimes things aren\'t centered. Deal with it. I did the best I could while feeling comfortable and it\'s HD.
+
+#### Waitress - Broadway - January 5, 2020 (Closing Night) 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 6.34 GB
+
+CAST
+: Katharine McPhee (Jenna), NaTasha Yvette Williams (Becky), Caitlin Houlahan (Dawn), Drew Gehling (Dr. Pomatter), Christopher Fitzgerald (Ogie), Benny Elledge (Cal), Larry Marshall (Joe), Ben Thompson (Earl), Dayna Jarae Dantzler (Nurse Norma), Delaney Quinn (Lulu), Stephanie Torns (Francine Pomatter), Molly Hager (Mother), Henry Gottfried (Father)
+
+NOTES
+: This recording is the result of two separate releases merged into one---please note that not all traders have both acts so check with traders. The following notes are for the Act One release---screencaps below include the separate Act Two. Blurry HD capture of the final Broadway performance. Act One only, it's a perfectly aimed video with no obstructions but unfortunately all of the Act is blurry and very little details can be made out.
+
+#### Waitress - Broadway - April, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 18.72 GB
+
+CAST
+: Shoshana Bean (Jenna), Charity Angél Dawson (Becky), Molly Jobe (u/s Dawn), Jeremy Jordan (Dr. Pomatter), Eddie Jemison (Ogie), Benny Elledge (Cal), Larry Marshall (Joe), Ben Thompson (Earl), Melody A Betts (Nurse Norma), Tess Murphy (Lulu), Stephanie Torns (Francine Pomatter), Molly Hager (Mother), Dan Tracy (Father)
+
+NOTES
+: A nearly perfect video and ABSOLUTELY PERFECT performance. Small obstructions occur at Joe\'s table (but who cares) and during Negative. The rest of show, however, is captured gorgeously (and this time not diagonally). The video is very Shoshana focused, but I try to give everyone (yes, Jeremy too) their moments. The colors are absolutely vivid and I was trying new stabilization settings on my camera and god I\'m gonna keep it this way. Do not list this video with an exact date.
+
+#### Waitress - Broadway - January, 2019 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sara Bareilles (Jenna), Charity Angél Dawson (Becky), Lenne Klingaman (Dawn), Gavin Creel (Dr. Pomatter), Tyrone Davis Jr (u/s Ogie), Andrew Fitch (u/s Cal), Larry Marshall (Joe), Ben Thompson (Earl), Anastacia McCleskey (Nurse Norma), Molly Jobe (s/w Francine Pomatter), Molly Hager (Mother), Dan Tracy (Father)
+
+NOTES
+: Filmed early in Sara\'s third run, before she added new riffs, but she still gives off a wonderful performance to a very reactive audience.
+
+#### Waitress - Broadway - July, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 5.62 GB
+
+CAST
+: Alison Luff (Jenna), Dayna Jarae Dantzler (u/s Becky), Caitlin Houlahan (Dawn), Mark Evans (Dr. Pomatter), Noah Galvin (Ogie), Benny Elledge (Cal), Richard Kline (Joe), Ben Thompson (Earl), Arica Jackson (u/s Nurse Norma), Everleigh Rottuno (Lulu), Stephanie Torns (Francine Pomatter), Molly Hager (Mother), Dan Tracy (Father)
+
+NOTES
+: Beautiful HD capture of a lot of new and old cast members, including newcomers Alison, Mark, and Noah, along with Caitlin's return to the role and Richard's short temporary residence in the Broadway company. Dayna is absolutely hilarious as Becky. Act One starts shortly after Earl\'s entrance. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.
+
+#### Waitress - Broadway - May, 2018 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Katharine McPhee (Jenna), NaTasha Yvette Williams (Becky), Caitlin Houlahan (Dawn), Drew Gehling (Dr. Pomatter), Christopher Fitzgerald (Ogie), Benny Elledge (Cal), Ben Thompson (Earl), Tiffany Mann (t/r Nurse Norma), Stephanie Torns (Francine Pomatter), Keri René Fuller (t/r Mother), Matt DeAngelis (Father)
+
+#### Waitress - Broadway - November, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 5.83 GB
+
+CAST
+: Jordin Sparks (Jenna), NaTasha Yvette Williams (Becky), Caitlin Houlahan (Dawn), Drew Gehling (Dr. Pomatter), Christopher Fitzgerald (Ogie), Benny Elledge (Cal), Al Roker (Joe), Ben Thompson (Earl), Dayna Jarae Dantzler (Nurse Norma), Sophia Rodriguez (Lulu), Stephanie Torns (Francine Pomatter), Molly Hager (Mother), Dan Tracy (Father)
+
+NOTES
+: Good HD capture of Jordin's brilliant take on the main role. Act One starts right when "The Negative" begins. Act Two begins just a few lines into the Act. There are a couple of dropouts throughout the show but none lasting more than 10 seconds, with most being significantly shorter than that. Some very slight wandering as the master changed camera angles or focused on someone taking photos of the show with an iPhone. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don\'t go linking things to actors and shows.
+
+#### Waitress - First National Tour - July 29, 2018
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Desi Oakley (Jenna), Charity Angél Dawson (Becky), Lenne Klingaman (Dawn), Bryan Fenkart (Dr. Pomatter), Jeremy Morse (Ogie), Ryan G Dunkin (Cal), Larry Marshall (Joe), Jim Hogan (u/s Earl), Maiesha McQueen (Nurse Norma), Kyra Kennedy (Francine Pomatter), Grace Stockdale (Mother), Brad Standley (s/w Father)
+
+NOTES
+: Great HD capture of the Original Tour Cast. Desi does a wonderful job as Jenna, who has since left the Tour. Great performances! A
+
+#### Waitress - First National Tour - December 13, 2018 (Highlights) 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: MP4 (HD) \| 1.29 GB
+
+\*\*NOT FOR SALE
+
+CAST
+: Christine Dwyer (Jenna), Maiesha McQueen (Becky), Jessie Shelton (Dawn), Steven Good (Dr. Pomatter), Jeremy Morse (Ogie), Ryan G Dunkin (Cal), Larry Marshall (Joe), Matt DeAngelis (Earl), Rheaume Crenshaw (Nurse Norma), Alex Tripp (Francine Pomatter), Grace Stockdale (Mother), Gerianne Perez
+
+NOTES
+: Filmed with one stationary camera that zooms in and out on the actors. Sound patched in from soundboard. Act 1 only. 720p.
+
+#### Waitress - Second National Tour - November, 2019 (Preview) 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: MP4 (HD) \| 2.89 GB
+
+\*\*NOT FOR SALE
+
+CAST
+: Bailey McCall (Jenna), Kennedy Salters (Becky), Gabriella Marzetta (Dawn), David Socolar (Dr. Pomatter), Brian Lundy (Ogie), Jake Mills (Cal), Michael R Douglass (Joe), Clayton Howe (Earl), Jerica Exum (Nurse Norma)
+
+NOTES
+: Housecam footage of a dress rehearsal, filmed with one stationary camera that zooms in and out on the actors. Sound patched in from soundboard (dialogue is taken from the housecam and sometimes the soundboard and songs are almost always soundboarded).
+
+#### Waitress - West End - March 7, 2020 (Matinee) (bwaybohemian
+
+FORMAT
+: MP4 (HD) \| 3.14 GB
+
+CAST
+: Sara Bareilles (Jenna), Marisha Wallace (Becky), Evelyn Hoskins (Dawn), Gavin Creel (Dr. Pomatter), Joel Montague (Ogie), Richard Taylor Woods (Cal), Andrew Boyer (Joe), Tamlyn Henderson (Earl), Rosemary Nkrumah (Nurse Norma), Lucia De Wan (Lulu), Laura Selwood (Mother)
+
+NOTES
+: Marisha Wallace\'s last matinee and the day of the 1 year anniversary of the show being on the West End. This was very last minute and filmed on an iPhone 8. Act 1: slightly obstructed by one head but worked around the best I could. Act 2: no obstructions, a blackout during SUTBM.
+
+#### Waitress - West End - April, 2019 (Highlights) \| hitmewithyourbethshot
+
+FORMAT
+: MP4 (HD)
+
+CAST
+: Katharine McPhee (Jenna), Marisha Wallace (Becky), Laura Baldwin (Dawn), David Hunter (Dr. Pomatter), Jack McBrayer (Ogie), Stephen Leask (Cal), Shaun Prendergast (Joe), Peter Hannah (Earl)
+
+NOTES
+: Act One Only! Includes Act Two audio.
+
+#### Waitress - West End - March, 2020 
+{: .no_toc .d-inline-block }
+
+queenofthedead
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 6.33 GB
+
+CAST
+: Sara Bareilles (Jenna), Rosemary Nkrumah (u/s Becky), Evelyn Hoskins (Dawn), Gavin Creel (Dr. Pomatter), Joel Montague (Ogie), Richard Taylor Woods (Cal), Andrew Boyer (Joe), Tamlyn Henderson (Earl), Laura Selwood (u/s Nurse Norma), Madison Worley (Lulu), Olivia Moore (Francine Pomatter), Leanne Pinder (s/w Mother)
+
+NOTES
+: Missing about 2 mins throughout Opening Up. Bar obstructs at the bottom of the shot for action close to the front of the stage but for Waitress this isn\'t much. Sara and Gavin break in their first scene.
+
+#### Waitress - West End - March, 2020 (2) \| hitmewithyourbethshot
+
+FORMAT
+: MTS \| 15.40 GB
+
+COMMENTS
+: Divided into 5 parts
+
+CAST
+: Sara Bareilles (Jenna), NaTasha Yvette Williams (Becky), Evelyn Hoskins (Dawn), Gavin Creel (Dr. Pomatter), Joel Montague (Ogie), Richard Taylor Woods (Cal), Andrew Boyer (Joe), Tamlyn Henderson (Earl), Rosemary Nkrumah (Nurse Norma), Lucia De Wan (Lulu), Olivia Moore (Francine Pomatter), Leanne Pinder (s/w Mother), Matthew Rowland (s/w Father)
+
+## War Paint (2)
+
+#### War Paint - Broadway - March 11, 2017 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patti LuPone (Helena Rubinstein), Christine Ebersole (Elizabeth Arden), John Dossett (Tommy Lewis), Douglas Sills (Harry Fleming)
+
+NOTES
+: Beautiful HD capture of the Broadway transfer. Some changes for Broadway from the previous Goodman Theater production. Excellent performances from the entire cast with clear picture and great sound throughout; very good video. 2 DVDs. A
+
+#### War Paint - Pre-Broadway / Chicago - June 29, 2016 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Patti LuPone (Helena Rubinstein), Christine Ebersole (Elizabeth Arden), John Dossett (Tommy Lewis), Douglas Sills (Harry Fleming)
+
+NOTES
+: Beautiful HD capture of the PreBroadway tryout at the Goodman Theater. Stunning performances from both ladies. Glorious moment when Patti\'s bracelet and ring fall off mid song! A
+
+## We Are The Tigers (1)
+
+#### We Are The Tigers - Off-Broadway - March, 2019 
+{: .no_toc .d-inline-block }
+
+StarCuffedJeans
+{: .label .label-blue }
+
+FORMAT
+: MP4 (HD) \| 6.60 GB
+
+CAST
+: Lauren Zakrin (Riley Williams), Wonu Ogunfowora (Cairo), Jenny Rose Baker (Kate Dalton), MiMi Scardulla (Reese), Kaitlyn Frank (Annleigh), Cathy Ang (Mattie Wheeler), Celeste Rose (Chess), Zoe Jensen (Farrah), Sydney Parra (Eva Sanchez), Louis Griffin (Clark)
+
+NOTES
+: Starts at the beginning of \"I Just Wanna\" and missing part of \"Mattie\'s Lament.\" The theater was really full tonight so there are a good number of heads in this video, but they are worked around to the best of my ability. This is a super small theater (less than 160 seats) and at times the cast members were definitely singing to the camera and honestly giving their best performances because of it. All of the things on the upper level (the bathroom, the pathway, and the kitchen) are captured perfectly, and the zooms on the lower level (the living room and bench) look good as well. Obviously because this is a murder mystery kind of show the lighting can get a little bit dark, but my camera handles low lighting incredibly well. This is honestly the best video you could expect from this venue
+
+## When You Wish: The Story of Walt Disney (1)
+
+#### When You Wish: The Story of Walt Disney - Los Angeles - October 16, 2013
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Tim Martin Gleason (Walt Disney), Andy Umberger (Roy Disney), Melissa Fahn (Young Walt), Jake Davidson (Young Roy)
+
+NOTES
+: Excellent capture of this fantastic new musical; a few very quick dropouts in the beginning of act one, but no major blackouts; no obstruction and no washout; filmed in 16:9 with a mix of wides, mediums, and close-ups; great clear sound; includes curtain call.
+
+## West Side Story (3)
+
+#### West Side Story - Hollywood Bowl - July 19, 2016 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Jeremy Jordan (Tony), Solea Pfeiffer (Maria), Karen Olivo (Anita), Matthew James Thomas (Riff), George Akram (Bernardo), Drew Foster (Action), Jose Moreno Brooks (Chino), Anthony C Chatmon II (A-Rab), Kyle Selig (Baby John), Mike Schwitter (Big Deal), Jeff Smith (Diesel), Kevin Chamberlin (Krupke), Jennifer Sanchez (Rosalia), Erica Dorfler (Consuela)
+
+NOTES
+: This concert version of the show is abridged with shortened scenes, simple costumes, and no sets or choreography, but Jeremy, Solea, and Karen are absolutely phenomenal with soaring vocals and emotional performances. Very well captured with no dropouts, no obstruction, and no washout. The stage is filmed directly most of the time; the screens are occasionally filmed, usually when the actors are not onstage. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.
+
+#### West Side Story - Second Broadway Revival - February 23, 2009 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Matt Cavenaugh (Tony), Josefina Scaglione (Maria), Karen Olivo (Anita), Cody Green (Riff), George Akram (Bernardo), Curtis Holbrook (Action), Joey Haro (Chino), Kyle Coffman (A-Rab), Ryan Steele (Baby John), Tro Shaw (Anybodys), Steve Bassett (Lt. Schrank), Lee Sellars (Krupke), Greg Vinkler (Doc)
+
+NOTES
+: Stunning production of this revival. Josefina and Karen still steal the show. The cast was on fire and there was a lot of energy in the audience as it was the first performance on Broadway. There are some changes from the DC run, which work better. Beautiful production and capture with no obstructions.
+
+#### West Side Story - Sixth US National Tour - September 7, 2011 
+{: .no_toc .d-inline-block }
+
+SJ Bernly
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Kyle Harris (Tony), Ali Ewoldt (Maria), Michelle Aravena (Anita), Joseph J Simeone (Riff), German Santiago (Bernardo), Drew Foster (Action), Jay Garcia (Chino), Ryan Christopher Chotto (A-Rab), Grant Gustin (Baby John), Nathan Keen (Big Deal), Kyle Robinson (Diesel), Cary Tedder (Snowboy), Alexandra Frolhinger (Anybodys), Christopher Patrick Mullen (Lt. Schrank), Mike Boland (Krupke), John O\'Creagh (Doc), Stephen DeRosa (Glad Hand), Dea Julien (Rosalia), Lori Ann Ferreri (Consuela), Kristen Paulicelli (Graziella), Karolina Blonski (Velma), Michael Scirrotto (Pepe), Waldemar Quinones-Villanueva (Tio), Dean Andre de Luna (Inca), Jeffrey C Sousa (Bolo), Kirstin Tucker (Hotsie), Alicia Charles (Alicia), Dani Spieler (Bebecita), Beth Crandall (Zaza), Tim Hausmann (Federico), Jessica Swesey (Mugsy)
+
+## Where\'s Charley? (1)
+
+#### Where\'s Charley? - NYCC Encores! - March 18, 2011
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Rob McClure (Charley Wykeham), Sebastian Arcelus (Jack Chesney), Lauren Worsham (Amy Spettigue), Jill Paice (Kitty Verdun), Dakin Matthews (Mr. Spettigue), Rebecca Luker (Donna Lucia D\'Alvadorez), Howard McGillin (Sir Francis Chesney), Jeff Brooks (Brasset)
+
+NOTES
+: Filmed in 16x9 Widescreen; well filmed video from the left mezzanine with clear picture and sound.
+
+## Wicked
+
+To be added
+
+
+## The Wild Party (Lippa) (2)
+
+#### The Wild Party (Lippa) - Encores! Off-Center - July 17, 2015
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sutton Foster (Queenie), Steven Pasquale (Burrs), Brandon Victor Dixon (Black), Joaquina Kalukango (Kate), Miriam Shor (Madeline True), Talene Monahon (Mae), Ryan Andes (Eddie)
+
+NOTES
+: Excellent HD capture from the Encores Summer Series! The cast was terrific and full of energy giving everything they had. Great to see these songs performed again by this caliber of talent! A
+
+#### The Wild Party (Lippa) - Encores! Off-Center - July 18, 2015 (Closing Night) 
+{: .no_toc .d-inline-block }
+
+NYCG8R 
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sutton Foster (Queenie), Steven Pasquale (Burrs), Brandon Victor Dixon (Black), Joaquina Kalukango (Kate), Miriam Shor (Madeline True), Talene Monahon (Mae), Ryan Andes (Eddie)
+
+NOTES
+: Fantastic video but since this is City Center, there are a couple heads at the bottom of the screen that are shot excellently around. Another very nice capture of the 2nd night of the show.
+
+## The Witches of Eastwick (2)
+
+#### The Witches of Eastwick - UK Tour - April 4, 2009
+
+FORMAT
+: VOB+smalls
+
+CAST
+: James Graeme (Clyde), Marti Pellow (Darryl), Poppy Tierney (Jane), Rachel Izen (Felicia), Rebecca Thornhill (Sukie), Ria Jones (Alex)
+
+NOTES
+: Beautifully filmed from the balcony, with a great mix of close-ups and full stage shots. Crystal clear. Widescreen.
+
+#### The Witches of Eastwick - West End - September 12, 2001 
+{: .no_toc .d-inline-block }
+
+House-Cam
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Clarke Peters (Darryl), Joanna Riding (Jane), Josefina Gabrielle (Alex), Rebecca Thornhill (Sukie)
+
+NOTES
+: Full stage capture shot through the house camera. Good sound quality. Sometimes incorrectly listed as December 9 due to North American dating (the show closed in October)
+
+## The Wiz (1)
+
+#### The Wiz - NBC Live! - December 3, 2015
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 \| 1080p \| 2.25GB
+
+CAST
+: Shanice Williams (Dorothy), David Alan Grier (Lion), Ne-Yo (Tinman), Elijah Kelley (Scarecrow), Uzo Aduba (Glinda), Queen Latifah (The Wiz), Mary J Blige (Evillene), Stephanie Mills (Aunt Em), Amber Riley (Addaperle)
+
+NOTES
+: A live production of the 1975 musical The Wiz produced for television; excellent video. A+
+
+## The Wizard of Oz (Webber) (1)
+
+#### The Wizard of Oz (Webber) - First National Tour - October 10, 2013
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Danielle Wade (Dorothy Gale), Jamie McKnight (Scarecrow/Hunk), Mike Jackson (Tin Man/Hickory), Lee MacDougall (Cowardly Lion/Zeke), Jacquelyn Piro Donovan (The Wicked Witch of the West/Miss Gulch), Cedric Smith (The Wizard of Oz/Professor Marvel), Robin Evan Willis (Glinda the Good Witch)
+
+NOTES
+: Beautiful HD capture of this lavish tour with no obstructions. Danielle gives a wonderful performance as Dorothy.
+
+## Women on the Verge of a Nervous Breakdown (1)
+
+#### Women on the Verge of a Nervous Breakdown - Broadway - December 29, 2010
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Sherie Rene Scott (Pepa), Laura Benanti (Candela), Patti LuPone (Lucia), Brian Stokes Mitchell (Ivan), Justin Guarini (Carlos), de'Adre Aziza (Paulina), Danny Burstein (Taxi Driver), Nikka Graff Lanzarone (Marisa), Mary Beth Peil (Pepa\'s Concierge/TV and Radio Announcer), Samantha Shafer (u/s Woman at Train/Ana)
+
+NOTES
+: Also includes press reels, cast/creative interviews and video of David Yazbek singing songs from the show.
+
+## Wonderland (2)
+
+#### Wonderland - Broadway - April 2, 2011 (Preview)
+{: .no_toc .d-inline-block }
+
+SunsetBlvd79
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Janet Dacal (Alice), Kate Shindle (Mad Hatter), Carly Rose Sonenclar (Chloe/Ellie), Edward Staudenmayer (The White Rabbit), Karen Mason (Queen of Hearts), Darren Ritchie (Jack the White Knight), E Clayton Cornelious (Caterpillar), Jose Llana (El Gato/Chesire Cat), Danny Stiles (Morris the March Hare), Darren Ritchie (The Victorian Gentleman), Karen Mason (Edwina)
+
+NOTES
+: Beautiful bright capture of this short lived show that only played 31 previews and 33 performances. I thought this show was very enjoyable and fun with great music. Great performances and voices from the cast! A+
+
+#### Wonderland - Broadway - May 12, 2011
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Janet Dacal (Alice), Kate Shindle (Mad Hatter), Carly Rose Sonenclar (Chloe/Ellie), Edward Staudenmayer (The White Rabbit), Karen Mason (Queen of Hearts), Darren Ritchie (Jack the White Knight), E Clayton Cornelious (Caterpillar), Jose Llana (El Gato/Chesire Cat), Danny Stiles (Morris the March Hare)
+
+NOTES
+: Filmed in 16:9 widescreen. Very few obstructions except for a head blocking the farthest corners of downstage stage left and right, but very little is missed there. Only a few brief blackouts in Act One due to late-comers. Steady filming with a good mix of close-ups and medium zooms for ensemble action. External audio fed in from MD source so it is very clear. A LOT of the show has changed over the course of the previews period, mostly for the better, although a few issues remain in Act Two. Nonetheless, it is a gorgeous show with great costumes, lighting and set design, not to mention some PHENOMENAL performances from Kate Shindle, Janet Dacal and Karen Mason. This performance, being just a few days before it closed, had a very enthusiastic and supportive audience with lots of entrance applause and cheering (but nothing obnoxious).
+
+# X
+
+## Xanadu (1)
+
+#### Xanadu - National Tour - December 20, 2009 (Matinee)
+{: .no_toc .d-inline-block }
+
+juniper47
+{: .label .label-blue }
+
+FORMAT
+: VOB+smalls
+
+CAST
+: Elizabeth Stanley (u/s Clio/Kira), Max von Essen (Sonny), Larry Marshall (Danny Maguire/Zeus), Annie Golden (Calliope/Aphrodite), NaTasha Yvette Williams (Melpomene/Medusa), Kevin Duda (Thalia/Siren/Young Danny/\'80s Singer/Cyclops), Veronica J Kuehn (Euterpe/Siren/\'40s Singer/Thetis), Chauntee Schuler (Erato/Siren/\'40s Singer/Eros/Hera), Jesse Warren Nager (Terpsicore/Siren/\'80s Singer/Hermes/Centaur)
+
+# Y
+
+## Young Marx (1)
+
+#### Young Marx - Bridge Theatre - December 7, 2017
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: MP4 (HD) \| 2.80 GB
+
+CAST
+: Rory Kinnear (Karl Marx), Nicholas Burns (Willich), Nancy Carroll (Jenny von Westphalen), Oliver Chris (Friedrich Engels), Laura Elphinstone (Nym), Eben Figueiredo (Schramm), Tony Jayawardena (Gert "Doc" Schmidt), Scott Karim (Grabiner/Singer), Alana Ramsey (Mrs. Mullet), Sophie Russell (Librarian), Fode Simbo (Peter), William Troughton (Constable Crimp), Joseph Wilkins (Sergeant Savage), Duncan Wisbey (Mr. Feece/Bearded Man), Miltos Yerolemou (Emmanuel Barthélemy)
