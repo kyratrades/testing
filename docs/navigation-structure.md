@@ -10795,7 +10795,7 @@ CAST
 
 # T
 
-<p align="center"><a href="https://kyratrades.github.io/testing/videos#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/testing/videos#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/testing/videos#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/testing/videos#three-days-of-rain">Three Days of Rain</a> • <a href="https://kyratrades.github.io/testing/videos#titanic">Titanic</a> • <a href="https://kyratrades.github.io/testing/videos#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/testing/videos#to-kill-a-mockingbird">To Kill a Mockingbird</a> • <a href="https://kyratrades.github.io/testing/videos#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/testing/videos#twelfth-night">Twelfth Night</a> • <a href="https://kyratrades.github.io/testing/videos#two-by-two">Two by Two</a></p>
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#tales-of-the-city">Tales of the City</a> • <a href="https://kyratrades.github.io/testing/videos#tanz-der-vampire">Tanz der Vampire</a> • <a href="https://kyratrades.github.io/testing/videos#tarzan">Tarzan</a> • <a href="https://kyratrades.github.io/testing/videos#theyre-playing-our-song">They're Playing Our Song</a> • <a href="https://kyratrades.github.io/testing/videos#three-days-of-rain">Three Days of Rain</a> • <a href="https://kyratrades.github.io/testing/videos#titanic">Titanic</a> • <a href="https://kyratrades.github.io/testing/videos#title-of-show">[title of show]</a> • <a href="https://kyratrades.github.io/testing/videos#to-kill-a-mockingbird">To Kill a Mockingbird</a> • <a href="https://kyratrades.github.io/testing/videos#tony-awards">Tony Awards</a> • <a href="https://kyratrades.github.io/testing/videos#twelfth-night">Twelfth Night</a> • <a href="https://kyratrades.github.io/testing/videos#two-by-two">Two by Two</a></p>
 
 ## Tales of the City
 
@@ -10813,6 +10813,33 @@ CAST
 
 NOTES
 : Stationary full-stage house cam w/ soundboard audio
+
+## Tanz der Vampire
+
+<p align="center"><small>AKA Dance of the Vampires</small></p>
+
+#### Dance of the Vampires - Broadway - January 25, 2003 (Closing Night)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB `NO SMALLS` `1 DVD`
+
+CAST: Michael Crawford (Count Krolock), Mandy Gonzalez (Sarah), Max von Essen (Alfred), René Auberjonois (Abronsius), Ron Orbach (Chagal), Liz McCartney (Rebecca), Leah Hocking (Magda), Mark Price (Boris), Asa Somers (Herbert)
+
+#### Tanz der Vampire - Hamburg, Germany - November 10, 2005
+{: .no_toc .d-inline-block }
+
+Pro-Shot
+{: .label .label-green }
+
+FORMAT
+: VOB+smalls `2 DVDs`
+
+CAST
+: Kevin Tarte (Graf von Krolock), Jessica Kessler (Sarah Chagal), Max Niemeyer (Alfred), Stefan Poslovski (Professor Abronsius), Franziska Forster (Magda), Jerzy Jeszke (Yone Chagal), Simone Pohl (Rebecca Chagal), Tim Reichwein (Herbert von Krolock), Stefan Büdenbender (Koukol)
+
+NOTES
+: Originally intended for commercial release.
 
 ## Tarzan
 
