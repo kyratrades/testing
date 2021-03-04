@@ -10050,7 +10050,7 @@ CAST
 NOTES
 : First Preview! Recorded from orchestra.
 
-## Sleeping Beauty And Her Winter Knight (1)
+## Sleeping Beauty And Her Winter Knight
 
 #### Sleeping Beauty And Her Winter Knight - California - December 13, 2014 
 {: .no_toc .d-inline-block }
@@ -10699,7 +10699,7 @@ NOTES
 : Aired on PBS on October 31, 2001.
 
 #### Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - October 18, 2005 (Preview)
-{: .label .label-blue }
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -10711,7 +10711,7 @@ NOTES
 : Shot from the mezzanine
 
 #### Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - October 29, 2005 (Preview)
-{: .label .label-blue }
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `1 DVD`
@@ -10738,7 +10738,7 @@ NOTES
 : Great Revival and nicely done. Crystal clear picture and sound. Lots of closeups. A
 
 #### Sweeney Todd: The Demon Barber of Fleet Street - Broadway Revival - September 3, 2006 (Closing Night)
-{: .label .label-blue }
+{: .no_toc .d-inline-block }
 
 FORMAT
 : VOB+smalls `2 DVDs`
