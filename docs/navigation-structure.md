@@ -11199,6 +11199,8 @@ NOTES
 
 # W
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#waiting-for-godot">Waiting for Godot</a> • <a href="https://kyratrades.github.io/testing/videos#waitress">Waitress</a> • <a href="https://kyratrades.github.io/testing/videos#war-paint">War Paint</a> • <a href="https://kyratrades.github.io/testing/videos#we-are-the-tigers">We Are The Tigers</a> • <a href="https://kyratrades.github.io/testing/videos#west-side-story">West Side Story</a> • <a href="https://kyratrades.github.io/testing/videos#when-you-wish-the-story-of-walt-disney">When You Wish: The Story of Walt Disney</a> • <a href="https://kyratrades.github.io/testing/videos#wheres-charley">Where's Charley?</a> • <a href="https://kyratrades.github.io/testing/videos#wicked">Wicked</a> • <a href="https://kyratrades.github.io/testing/videos#the-wild-party-lippa">The Wild Party (Lippa)</a> • <a href="https://kyratrades.github.io/testing/videos#the-witches-of-eastwick">The Witches of Eastwick</a> • <a href="https://kyratrades.github.io/testing/videos#the-wiz">The Wiz</a> • <a href="https://kyratrades.github.io/testing/videos#the-wizard-of-oz-webber">The Wizard of Oz (Webber)</a> • <a href="https://kyratrades.github.io/testing/videos#women-on-the-verge-of-a-nervous-breakdown">Women on the Verge of a Nervous Breakdown</a> • <a href="https://kyratrades.github.io/testing/videos#wonderland">Wonderland</a></p>
+
 ## Waiting for Godot
 
 #### Waiting for Godot - Broadway - November 24, 2013 (Opening Night)
@@ -11214,6 +11216,8 @@ CAST
 : Aidan Gemme (The Boy), Billy Crudup (Lucky), Ian McKellen (Estragon), Patrick Stewart (Vladimir), Shuler Hensley (Pozzo)
 
 ## Waitress
+
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#broadway-5">Broadway</a> • <a href="https://kyratrades.github.io/testing/videos#first-national-tour-1">First National Tour</a> • <a href="https://kyratrades.github.io/testing/videos#west-end-3">West End</a> • <a href="https://kyratrades.github.io/testing/videos#second-non-equity-national-tour">Second Non-Equity National Tour</a></p>
 
 ### Broadway
 
@@ -11771,6 +11775,8 @@ NOTES
 
 # X
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#xanadu">Xanadu</a></p>
+
 ## Xanadu
 
 #### Xanadu - National Tour - December 20, 2009 (Matinee)
@@ -11788,6 +11794,8 @@ CAST
 # Y
 
 ## Young Marx
+
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#young-marx">Young Marx</a></p>
 
 #### Young Marx - Bridge Theatre - December 7, 2017
 {: .no_toc .d-inline-block }
