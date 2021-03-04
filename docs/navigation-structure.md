@@ -796,7 +796,7 @@ NOTES
 : Beautiful HD capture of latest Disney Broadway offering. Great to see the changes from the Toronto tryout. Michael and Merwin do terrific jobs as Genie and Jafar. A
 
 #### Aladdin - First National Tour - March 7, 2019 (Matinee) 
-: .no_toc .d-inline-block }
+{: .no_toc .d-inline-block }
 
 thehouseonsunset
 {: .label .label-blue }
