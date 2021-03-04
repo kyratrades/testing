@@ -104,6 +104,8 @@ NOTES
 
 ## 9 to 5: The Musical
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#pre-broadway--los-angeles">Pre-Broadway / Los Angeles</a> • <a href="https://kyratrades.github.io/testing/videos#broadway">Broadway</a> • <a href="https://kyratrades.github.io/testing/videos#misc">MISC</a></p>
+
 ### Pre-Broadway / Los Angeles
 
 #### 9 to 5 - Pre-Broadway / Los Angeles - September 13, 2008 (Preview)
@@ -1248,6 +1250,8 @@ NOTES
 : Includes the talkback with Stephen Sondheim, Casey Nicholaw and others.
 
 ## Anything Goes
+
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#first-broadway-revival">First Broadway Revival</a> • <a href="https://kyratrades.github.io/testing/videos#second-broadway-revival">Second Broadway Revival</a> • <a href="https://kyratrades.github.io/testing/videos#third-national-tour">Third National Tour</a> • <a href="https://kyratrades.github.io/testing/videos#misc-1">MISC</a></p>
 
 ### First Broadway Revival
 
@@ -3143,6 +3147,8 @@ NOTES
 : Raúl-centered highlights recorded from two nights. A lot of obstruction, not much washout. Some clips are vertical, most are horizontal. All quite watchable. Unfortunately the only known video of these performances.
 
 ## Chicago
+
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#national-tours">National Tour(s)</a> • <a href="https://kyratrades.github.io/testing/videos#broadway-revival">Broadway Revival</a> • <a href="https://kyratrades.github.io/testing/videos#west-end-revival">West End Revival</a> • <a href="https://kyratrades.github.io/testing/videos#the-netherlands">The Netherlands</a> • <a href="https://kyratrades.github.io/testing/videos#misc-2">MISC</a></p>
 
 ### National Tour(s)
 
@@ -7503,6 +7509,8 @@ NOTES
 
 ## Les Misérables
 
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#west-end">West End</a> • <a href="https://kyratrades.github.io/testing/videos#broadway-1">Broadway</a> • <a href="https://kyratrades.github.io/testing/videos#10th-anniversary-concert">10th Anniversary Concert</a> • <a href="https://kyratrades.github.io/testing/videos#first-broadway-revival-1">First Broadway Revival</a> • <a href="https://kyratrades.github.io/testing/videos#third-uk-tour--25th-anniversary-tour">Third UK Tour / 25th Anniversary Tour</a> • <a href="https://kyratrades.github.io/testing/videos#second-broadway-revival-1">Second Broadway Revival</a> • <a href="https://kyratrades.github.io/testing/videos#the-all-star-staged-concert">The All-Star Staged Concert</a> • <a href="https://kyratrades.github.io/testing/videos#misc-3">MISC</a></p>
+
 ### West End
 
 #### Les Misérables - West End - May 9, 1987 
@@ -8641,6 +8649,8 @@ NOTES
 : Mischief Theatre 2016 BBC Special proshot.
 
 ## The Phantom of the Opera
+
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#sydmonton-festival">Sydmonton Festival</a> • <a href="https://kyratrades.github.io/testing/videos#west-end-1">West End</a> • <a href="https://kyratrades.github.io/testing/videos#broadway-2">Broadway</a> • <a href="https://kyratrades.github.io/testing/videos#first-national-tour-christine">First National Tour (Christine)</a> • <a href="https://kyratrades.github.io/testing/videos#stuttgart">Stuttgart</a> • <a href="https://kyratrades.github.io/testing/videos#brazil">Brazil</a> • <a href="https://kyratrades.github.io/testing/videos#las-vegas">Las Vegas</a> • <a href="https://kyratrades.github.io/testing/videos#third-national-tour-music-box">Third National Tour (Music Box)</a> • <a href="https://kyratrades.github.io/testing/videos#25th-anniversary---live-at-the-royal-albert-hall">25th Anniversary - Live At The Royal Albert Hall</a> • <a href="https://kyratrades.github.io/testing/videos#fourth-national-tour">Fourth National Tour</a></p>
 
 ### Sydmonton Festival
 
@@ -10446,6 +10456,8 @@ NOTES
 : One of the few performances of this wonderful show
 
 ## Sunset Boulevard
+
+<p align="center"><a href="https://kyratrades.github.io/testing/videos#sydmonton-festival-1">Sydmonton Festival</a> • <a href="https://kyratrades.github.io/testing/videos#west-end-2">West End</a> • <a href="https://kyratrades.github.io/testing/videos#broadway-4">Broadway</a> • <a href="https://kyratrades.github.io/testing/videos#broadway-revival-2">Broadway Revival</a> • <a href="https://kyratrades.github.io/testing/videos#misc-4">MISC</a></p>
 
 ### Sydmonton Festival
 
