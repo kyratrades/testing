@@ -11627,7 +11627,7 @@ NOTES
 
 <p align="center"><small>To be added</small></p>
 
-## The Wild Party (Lippa) (2)
+## The Wild Party (Lippa)
 
 #### The Wild Party (Lippa) - Encores! Off-Center - July 17, 2015
 {: .no_toc .d-inline-block }
@@ -11636,7 +11636,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Sutton Foster (Queenie), Steven Pasquale (Burrs), Brandon Victor Dixon (Black), Joaquina Kalukango (Kate), Miriam Shor (Madeline True), Talene Monahon (Mae), Ryan Andes (Eddie)
@@ -11651,7 +11651,7 @@ NYCG8R
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Sutton Foster (Queenie), Steven Pasquale (Burrs), Brandon Victor Dixon (Black), Joaquina Kalukango (Kate), Miriam Shor (Madeline True), Talene Monahon (Mae), Ryan Andes (Eddie)
@@ -11659,18 +11659,7 @@ CAST
 NOTES
 : Fantastic video but since this is City Center, there are a couple heads at the bottom of the screen that are shot excellently around. Another very nice capture of the 2nd night of the show.
 
-## The Witches of Eastwick (2)
-
-#### The Witches of Eastwick - UK Tour - April 4, 2009
-
-FORMAT
-: VOB+smalls
-
-CAST
-: James Graeme (Clyde), Marti Pellow (Darryl), Poppy Tierney (Jane), Rachel Izen (Felicia), Rebecca Thornhill (Sukie), Ria Jones (Alex)
-
-NOTES
-: Beautifully filmed from the balcony, with a great mix of close-ups and full stage shots. Crystal clear. Widescreen.
+## The Witches of Eastwick
 
 #### The Witches of Eastwick - West End - September 12, 2001 
 {: .no_toc .d-inline-block }
@@ -11679,7 +11668,7 @@ House-Cam
 {: .label .label-green }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Clarke Peters (Darryl), Joanna Riding (Jane), Josefina Gabrielle (Alex), Rebecca Thornhill (Sukie)
@@ -11687,7 +11676,19 @@ CAST
 NOTES
 : Full stage capture shot through the house camera. Good sound quality. Sometimes incorrectly listed as December 9 due to North American dating (the show closed in October)
 
-## The Wiz (1)
+#### The Witches of Eastwick - UK Tour - April 4, 2009
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: James Graeme (Clyde), Marti Pellow (Darryl), Poppy Tierney (Jane), Rachel Izen (Felicia), Rebecca Thornhill (Sukie), Ria Jones (Alex)
+
+NOTES
+: Beautifully filmed from the balcony, with a great mix of close-ups and full stage shots. Crystal clear. Widescreen.
+
+## The Wiz
 
 #### The Wiz - NBC Live! - December 3, 2015
 {: .no_toc .d-inline-block }
@@ -11696,7 +11697,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 \| 1080p \| 2.25GB
+: MP4 `1080p` `2.25GB`
 
 CAST
 : Shanice Williams (Dorothy), David Alan Grier (Lion), Ne-Yo (Tinman), Elijah Kelley (Scarecrow), Uzo Aduba (Glinda), Queen Latifah (The Wiz), Mary J Blige (Evillene), Stephanie Mills (Aunt Em), Amber Riley (Addaperle)
@@ -11704,7 +11705,7 @@ CAST
 NOTES
 : A live production of the 1975 musical The Wiz produced for television; excellent video. A+
 
-## The Wizard of Oz (Webber) (1)
+## The Wizard of Oz (Webber)
 
 #### The Wizard of Oz (Webber) - First National Tour - October 10, 2013
 {: .no_toc .d-inline-block }
@@ -11713,7 +11714,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `2 DVDs`
 
 CAST
 : Danielle Wade (Dorothy Gale), Jamie McKnight (Scarecrow/Hunk), Mike Jackson (Tin Man/Hickory), Lee MacDougall (Cowardly Lion/Zeke), Jacquelyn Piro Donovan (The Wicked Witch of the West/Miss Gulch), Cedric Smith (The Wizard of Oz/Professor Marvel), Robin Evan Willis (Glinda the Good Witch)
@@ -11721,20 +11722,22 @@ CAST
 NOTES
 : Beautiful HD capture of this lavish tour with no obstructions. Danielle gives a wonderful performance as Dorothy.
 
-## Women on the Verge of a Nervous Breakdown (1)
+## Women on the Verge of a Nervous Breakdown
 
 #### Women on the Verge of a Nervous Breakdown - Broadway - December 29, 2010
+{: .no_toc .d-inline-block }
 
 FORMAT
-: VOB+smalls
+: `1` VOB+smalls `1 DVD` `3.49 GB`
+: `2` VOB+smalls `1 DVD` `2.76 GB` `SEE NOTES`
 
 CAST
 : Sherie Rene Scott (Pepa), Laura Benanti (Candela), Patti LuPone (Lucia), Brian Stokes Mitchell (Ivan), Justin Guarini (Carlos), de'Adre Aziza (Paulina), Danny Burstein (Taxi Driver), Nikka Graff Lanzarone (Marisa), Mary Beth Peil (Pepa\'s Concierge/TV and Radio Announcer), Samantha Shafer (u/s Woman at Train/Ana)
 
 NOTES
-: Also includes press reels, cast/creative interviews and video of David Yazbek singing songs from the show.
+: `1` is a first generation DVD. `2` is a recording of the origial DVD and the picture of the actual show is inferior in quality. However, it includes the following bonuses: press reels, cast/creative interviews and video of David Yazbek singing songs from the show. I will trade out `1` unless you explcitly tell me you want `2`.
 
-## Wonderland (2)
+## Wonderland
 
 #### Wonderland - Broadway - April 2, 2011 (Preview)
 {: .no_toc .d-inline-block }
@@ -11743,7 +11746,7 @@ SunsetBlvd79
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD` `No DVD menu`
 
 CAST
 : Janet Dacal (Alice), Kate Shindle (Mad Hatter), Carly Rose Sonenclar (Chloe/Ellie), Edward Staudenmayer (The White Rabbit), Karen Mason (Queen of Hearts), Darren Ritchie (Jack the White Knight), E Clayton Cornelious (Caterpillar), Jose Llana (El Gato/Chesire Cat), Danny Stiles (Morris the March Hare), Darren Ritchie (The Victorian Gentleman), Karen Mason (Edwina)
@@ -11758,7 +11761,7 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Janet Dacal (Alice), Kate Shindle (Mad Hatter), Carly Rose Sonenclar (Chloe/Ellie), Edward Staudenmayer (The White Rabbit), Karen Mason (Queen of Hearts), Darren Ritchie (Jack the White Knight), E Clayton Cornelious (Caterpillar), Jose Llana (El Gato/Chesire Cat), Danny Stiles (Morris the March Hare)
@@ -11768,7 +11771,7 @@ NOTES
 
 # X
 
-## Xanadu (1)
+## Xanadu
 
 #### Xanadu - National Tour - December 20, 2009 (Matinee)
 {: .no_toc .d-inline-block }
@@ -11777,14 +11780,14 @@ juniper47
 {: .label .label-blue }
 
 FORMAT
-: VOB+smalls
+: VOB+smalls `1 DVD`
 
 CAST
 : Elizabeth Stanley (u/s Clio/Kira), Max von Essen (Sonny), Larry Marshall (Danny Maguire/Zeus), Annie Golden (Calliope/Aphrodite), NaTasha Yvette Williams (Melpomene/Medusa), Kevin Duda (Thalia/Siren/Young Danny/\'80s Singer/Cyclops), Veronica J Kuehn (Euterpe/Siren/\'40s Singer/Thetis), Chauntee Schuler (Erato/Siren/\'40s Singer/Eros/Hera), Jesse Warren Nager (Terpsicore/Siren/\'80s Singer/Hermes/Centaur)
 
 # Y
 
-## Young Marx (1)
+## Young Marx
 
 #### Young Marx - Bridge Theatre - December 7, 2017
 {: .no_toc .d-inline-block }
@@ -11793,7 +11796,7 @@ Pro-Shot
 {: .label .label-green }
 
 FORMAT
-: MP4 (HD) \| 2.80 GB
+: MP4 `1080p` `2.80 GB`
 
 CAST
 : Rory Kinnear (Karl Marx), Nicholas Burns (Willich), Nancy Carroll (Jenny von Westphalen), Oliver Chris (Friedrich Engels), Laura Elphinstone (Nym), Eben Figueiredo (Schramm), Tony Jayawardena (Gert "Doc" Schmidt), Scott Karim (Grabiner/Singer), Alana Ramsey (Mrs. Mullet), Sophie Russell (Librarian), Fode Simbo (Peter), William Troughton (Constable Crimp), Joseph Wilkins (Sergeant Savage), Duncan Wisbey (Mr. Feece/Bearded Man), Miltos Yerolemou (Emmanuel Barthélemy)
