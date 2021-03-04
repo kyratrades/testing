@@ -10969,3 +10969,43 @@ CAST
 
 NOTES
 : Two night only concert presentation of the rarely seen 1970 Richard Rogers/Martin Charnin musical. Presented by the Reprise! Theatre Company at the Gindi Auditorium at the American Jewish University in Los Angeles. Lots of heads in the frame, and some obstruction, but filmer does their best to capture the action on stage. B
+
+# U
+
+## Urinetown
+
+#### Urinetown - Broadway - August 29, 2001 (Preview)
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Hunter Foster (Bobby Strong), Jennifer Laura Thompson (Hope Cladwell), Jeff McCarthy (Officer Lockstock), Spencer Kayden (Little Sally), Nancy Opel (Penelope Pennywise), John Cullum (Caldwell B. Cladwell), Jennifer Cody (Little Becky Two Shoes / Mrs. Millennium)
+
+NOTES
+: Fourth preview.
+
+#### Urinetown - Broadway - October 20, 2001
+{: .no_toc .d-inline-block }
+
+FORMAT
+: VOB+smalls `1 DVD`
+
+CAST
+: Jennifer Laura Thompson (Hope Cladwell), Jeff McCarthy (Officer Lockstock), Spencer Kayden (Little Sally), John Cullum (Caldwell B. Cladwell)
+
+NOTES
+: Shot from second row center mezzanine. Lots of close-ups, as good as the other video. Includes changed dialogue lines at the end of act two, and the curtain call and \'dance\' at the end. Some copies include 5 BCEFA skits from Gypsys and Easter Bonnets.
+
+#### Urinetown - Singapore - October 3, 2019 \| Apr1na14
+{: .no_toc .d-inline-block }
+
+FORMAT
+: MTS `18.79 GB`
+
+CAST
+: Benjamin Chow (Bobby Strong), Mina Ellen Kaye (Hope Cladwell), Adrian Pang (Officer Lockstock), Mae Elliessa (Little Sally), Jo Tan (Penelope Pennywise), Sean Ghazi (Caldwell B. Cladwell), Andrew Marko (Officer Barrel), Erwin Shah Ismail (Mr. McQueen), Edward Choy (Senator Fipp), Bright Ong (Tiny Tom / Dr. Billeaux), Joash Tang (Old Man Strong / Hot Blades Harry), Kimberly Chan (Old Woman / Josephine Strong), Seong Hui Xuan (Soupy Sue), Muhammad Shafiq Haziz (Billy Boy Bill / UGC Executive), Farhan Hassan (Robbie the Stockfish / UGC Executive)
+
+NOTES
+: FULL EAST ASIAN CAST. A brilliant staging by professional theatre company Pangdemonium, took a very local spin on a Broadway classic. The set and costume design were breathtaking and the acting was very strong. The subtle subversive humour that reflected the Singaporean political sentiments resonated very well with the audience, hence the bursts of laughter throughout the musical. The standout performances were definitely by Mina Ellen Kaye (Hope Cladwell), Benjamin Chow (Bobby Strong), Mae Elliessa (Little Sally) and Adrian Pang (Officer Lockstock), and the latter two often broke the fourth wall. This capture in some scenes are midly obstructed by two heads, though for most scenes the view is mostly unobstructed. Minimal wandering, and with a variety of wide, mediums and stage shots. HD 1980x1080p capture in MTS format. Thoroughly enjoyable production.
